@@ -1,13 +1,3 @@
-http://stackoverflow.com/questions/39666578/is-there-any-reason-to-throw-an-exception-and-catch-it-immediately
-
-http://stackoverflow.com/questions/40025257/using-string-equals-instead-of-equality-operator
-
-http://stackoverflow.com/questions/40031051/arrays-deephashcode-implementation
-
-http://stackoverflow.com/questions/40045345/unusual-behavior-mixing-double-and-integer-values-in-arithmetic-calculations
-
-http://stackoverflow.com/questions/40047561/how-do-i-assign-random-numbers-to-an-alphabetical-character
-
 http://stackoverflow.com/questions/39773695/correct-way-of-converting-string-to-long-in-java
 
 http://stackoverflow.com/questions/39802161/how-to-generate-a-arraylist-the-java-8-way
