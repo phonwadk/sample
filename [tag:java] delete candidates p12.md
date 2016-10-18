@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/37024793/weird-error-when-calling-static-function
+
 http://stackoverflow.com/questions/39773695/correct-way-of-converting-string-to-long-in-java
 
 http://stackoverflow.com/questions/39802161/how-to-generate-a-arraylist-the-java-8-way
