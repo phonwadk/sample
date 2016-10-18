@@ -4,13 +4,7 @@ http://stackoverflow.com/questions/39802161/how-to-generate-a-arraylist-the-java
 
 http://stackoverflow.com/questions/39960602/javas-long-specification-why-to-prefer-l-over-l-when-declaring-literals
 
-http://stackoverflow.com/questions/40060563/issue-while-reading-properties-with-spring-in-java
-
 http://stackoverflow.com/questions/39961420/tolowercase-not-finding-uppercase-character-using-scanner
-
-http://stackoverflow.com/questions/39981318/unparseable-date-31-02-2016-exception-handling
-
-http://stackoverflow.com/questions/39981318/unparseable-date-31-02-2016-exception-handling
 
 http://stackoverflow.com/questions/39825987/java-compile-error-incompatible-types-void-cannot-be-converted-to-xxx
 
