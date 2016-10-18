@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/39613954/how-to-get-remaining-time-in-hourminsseconds
+
 http://stackoverflow.com/questions/37024793/weird-error-when-calling-static-function
 
 http://stackoverflow.com/questions/39773695/correct-way-of-converting-string-to-long-in-java
