@@ -1,13 +1,3 @@
-http://stackoverflow.com/questions/39866957/what-does-ceil-function-in-java-return
-
-http://stackoverflow.com/questions/39988942/why-does-this-tostring-cause-a-nullpointerexception-and-how-do-i-fix-it-java
-
-http://stackoverflow.com/questions/40001086/java-lang-arrayindexoutofboundsexception-error-is-occurring-in-this-program-c
-
-http://stackoverflow.com/questions/40001147/static-array-before-the-main-method
-
-http://stackoverflow.com/questions/40006559/boolean-if-else-always-returns-true-no-matter-what-value-the-method-returns
-
 http://stackoverflow.com/questions/39666578/is-there-any-reason-to-throw-an-exception-and-catch-it-immediately
 
 http://stackoverflow.com/questions/40025257/using-string-equals-instead-of-equality-operator
