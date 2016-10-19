@@ -8,10 +8,4 @@ http://stackoverflow.com/questions/39666578/is-there-any-reason-to-throw-an-exce
 
 http://stackoverflow.com/questions/39548967/timer-execute-on-main-or-worker-thread
 
-http://stackoverflow.com/questions/39549870/what-is-the-difference-between-foo-and-this-foo-in-an-object-without-ambiguosit
-
 http://stackoverflow.com/questions/39549126/xlint-warnings-in-javac-unchecked-call-to-a-function-with-generic-types
-
-http://stackoverflow.com/questions/39541838/why-does-an-objects-value-go-back-after-a-method
-
-http://stackoverflow.com/questions/39537534/creating-random-integer-numbers-with-no-duplicates
