@@ -2,14 +2,6 @@ http://stackoverflow.com/questions/40131917/adding-to-arraylist-compilation-erro
 
 http://stackoverflow.com/questions/40134843/i-cant-fint-the-error-in-my-method
 
-http://stackoverflow.com/questions/40121538/how-to-mock-and-whennew-thenreturn
-
-http://stackoverflow.com/questions/40135216/checking-if-user-input-a-certain-string-java
-
-http://stackoverflow.com/questions/40132683/when-comparing-doubles-ie-a1a2-sometimes-returns-true-when-a2-is-bigger-then-a
-
-http://stackoverflow.com/questions/39613954/how-to-get-remaining-time-in-hourminsseconds
-
 http://stackoverflow.com/questions/37024793/weird-error-when-calling-static-function
 
 http://stackoverflow.com/questions/39773695/correct-way-of-converting-string-to-long-in-java
