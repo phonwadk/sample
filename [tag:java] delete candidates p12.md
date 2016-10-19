@@ -1,4 +1,6 @@
-http://stackoverflow.com/questions/40134843/i-cant-fint-the-error-in-my-method#
+http://stackoverflow.com/questions/40131917/adding-to-arraylist-compilation-error-cannot-find-method-addint-java-lang-str?noredirect=1
+
+http://stackoverflow.com/questions/40134843/i-cant-fint-the-error-in-my-method
 
 http://stackoverflow.com/questions/40121538/how-to-mock-and-whennew-thenreturn
 
