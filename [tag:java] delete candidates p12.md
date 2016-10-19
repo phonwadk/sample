@@ -19,16 +19,3 @@ http://stackoverflow.com/questions/39549126/xlint-warnings-in-javac-unchecked-ca
 http://stackoverflow.com/questions/39541838/why-does-an-objects-value-go-back-after-a-method
 
 http://stackoverflow.com/questions/39537534/creating-random-integer-numbers-with-no-duplicates
-
-http://stackoverflow.com/questions/39522824/integer-divisions-are-not-outputting-correct-answers-java
-
-http://stackoverflow.com/questions/39518699/main-thread-not-wating-on-calling-wait
-
-http://stackoverflow.com/questions/39514708/constructor-softdrink-in-class-softdrink-cannot-be-applied-to-given-types-i-don
-
-http://stackoverflow.com/questions/39497533/find-length-of-all-values-in-an-array-not-how-many-there-are-java
-
-http://stackoverflow.com/questions/39496680/how-to-loop-a-println-statement
-
-http://stackoverflow.com/questions/39481893/array-and-output-does-not-list-current-employees
-
