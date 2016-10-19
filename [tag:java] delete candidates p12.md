@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/40132683/when-comparing-doubles-ie-a1a2-sometimes-returns-true-when-a2-is-bigger-then-a
+
 http://stackoverflow.com/questions/39613954/how-to-get-remaining-time-in-hourminsseconds
 
 http://stackoverflow.com/questions/37024793/weird-error-when-calling-static-function
