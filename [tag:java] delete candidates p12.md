@@ -18,8 +18,6 @@ http://stackoverflow.com/questions/39549126/xlint-warnings-in-javac-unchecked-ca
 
 http://stackoverflow.com/questions/39541838/why-does-an-objects-value-go-back-after-a-method
 
-http://stackoverflow.com/questions/39538067/initializing-a-subclass-object
-
 http://stackoverflow.com/questions/39537534/creating-random-integer-numbers-with-no-duplicates
 
 http://stackoverflow.com/questions/39522824/integer-divisions-are-not-outputting-correct-answers-java
