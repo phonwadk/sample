@@ -1,14 +1,6 @@
 http://stackoverflow.com/questions/40078790/how-many-objects-will-be-created-for-string-for-below-code
 
-http://stackoverflow.com/questions/40131917/adding-to-arraylist-compilation-error-cannot-find-method-addint-java-lang-str?noredirect=1
-
-http://stackoverflow.com/questions/40134843/i-cant-fint-the-error-in-my-method
-
-http://stackoverflow.com/questions/37024793/weird-error-when-calling-static-function
-
 http://stackoverflow.com/questions/40016106/set-value-as-dictionary-with-list-python
-
-http://stackoverflow.com/questions/39773695/correct-way-of-converting-string-to-long-in-java
 
 http://stackoverflow.com/questions/39802161/how-to-generate-a-arraylist-the-java-8-way
 
