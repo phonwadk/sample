@@ -6,13 +6,9 @@ http://stackoverflow.com/questions/40089553/how-to-use-a-lambda-expression-in-an
 
 http://stackoverflow.com/questions/40076839/java-lang-numberformatexception-for-input-string-end
 
-http://stackoverflow.com/questions/40073339/enum-without-variable-but-with-method
-
 http://stackoverflow.com/questions/40063373/how-to-rewrite-java-7-code-to-java8-using-lambda
 
 http://stackoverflow.com/questions/40072608/java-do-while-loop-not-working-as-intended
-
-http://stackoverflow.com/questions/40072597/java-how-to-store-preceding-zeros-of-the-string-into-integer
 
 http://stackoverflow.com/questions/40072553/java-method-returning-reference-to-current-object
 
