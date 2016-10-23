@@ -14,15 +14,11 @@ http://stackoverflow.com/questions/40072553/java-method-returning-reference-to-c
 
 http://stackoverflow.com/questions/40071557/accessing-the-arraylist-items
 
-http://stackoverflow.com/questions/40070469/syntax-error-on-token-variable-delete-this-token
-
 http://stackoverflow.com/questions/40071036/java-method-not-working-properly
 
 http://stackoverflow.com/questions/40070141/java-expression-evaluation-order
 
 http://stackoverflow.com/questions/40070059/java-reference-or-value-when-returning-objects
-
-http://stackoverflow.com/questions/40060597/java-8-string-results-in-%c3%82
 
 http://stackoverflow.com/questions/40013894/post-method-redirecting-to-its-own-page-while-submmiting-data-from-input-fields
 
