@@ -1,12 +1,6 @@
-http://stackoverflow.com/questions/40092672/how-to-use-as-a-char-in-java
-
-http://stackoverflow.com/questions/40093439/will-objects-in-map-change-automatically-while-updated-from-outside
-
 http://stackoverflow.com/questions/40092876/why-am-i-getting-bad-operand-types-for-binary-operand
 
 http://stackoverflow.com/questions/40092284/how-can-i-find-the-number-of-lines-in-an-input-file-using-a-java-program
-
-http://stackoverflow.com/questions/40090119/byte-to-int-confusion
 
 http://stackoverflow.com/questions/40089553/how-to-use-a-lambda-expression-in-an-annotation-in-java
 
