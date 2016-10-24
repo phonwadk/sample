@@ -1,15 +1,5 @@
 http://stackoverflow.com/questions/40089553/how-to-use-a-lambda-expression-in-an-annotation-in-java
 
-http://stackoverflow.com/questions/40063373/how-to-rewrite-java-7-code-to-java8-using-lambda
-
-http://stackoverflow.com/questions/40072608/java-do-while-loop-not-working-as-intended
-
-http://stackoverflow.com/questions/40072553/java-method-returning-reference-to-current-object
-
-http://stackoverflow.com/questions/40071557/accessing-the-arraylist-items
-
-http://stackoverflow.com/questions/40071036/java-method-not-working-properly
-
 http://stackoverflow.com/questions/40070141/java-expression-evaluation-order
 
 http://stackoverflow.com/questions/40070059/java-reference-or-value-when-returning-objects
