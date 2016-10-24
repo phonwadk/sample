@@ -16,7 +16,7 @@ http://stackoverflow.com/questions/40187655/in-java-how-does-one-develop-a-loop-
 
 http://stackoverflow.com/questions/40193673/check-class-of-an-instance
 
-stackoverflow.com/questions/40178430/using-generics-to-throw-checked-exception-as-unchecked
+http://stackoverflow.com/questions/40178430/using-generics-to-throw-checked-exception-as-unchecked
 
 http://stackoverflow.com/questions/40167452/why-when-i-print-an-array-of-bytes-i-would-get-string-but-not-some-numbers-after
 
