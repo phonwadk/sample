@@ -1,15 +1,3 @@
-http://stackoverflow.com/questions/40179362/how-to-store-requests-from-instance-variable-for-only-few-intervals-of-time-fr
-
-http://stackoverflow.com/questions/40177978/java-singleton-lazy-initialization-using-volatile
-
-http://stackoverflow.com/questions/40178456/how-to-set-enum-on-the-basis-of-integer-value-in-java
-
-http://stackoverflow.com/questions/40166698/how-to-output-list-of-files-names-of-given-folder-path-in-java-including-txt-fi
-
-http://stackoverflow.com/questions/40157320/generic-extends-understanding-confusion
-
-http://stackoverflow.com/questions/40130908/whats-causing-all-these-finalizers-seemingly-endless-finalizer-next-references
-
 http://stackoverflow.com/questions/40135854/convert-instant-to-localdate-in-java-8
 
 http://stackoverflow.com/questions/40133577/what-are-the-implication-for-a-file-upload-max-size-limit
