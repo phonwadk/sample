@@ -1,15 +1,3 @@
-http://stackoverflow.com/questions/40139083/variable-declaration-not-allowed-in-the-nested-if-statement
-
-http://stackoverflow.com/questions/40131675/type-mismatch-in-java-for-each-statement
-
-http://stackoverflow.com/questions/40120459/why-wont-stringname-charat-work-here-or-is-there-something-else-wrong
-
-http://stackoverflow.com/questions/40118523/why-child-class-in-java-always-tries-to-make-parent-constructor-call
-
-http://stackoverflow.com/questions/40116470/i-am-getting-the-error-this-method-must-return-a-result-of-type-java-lang-strin
-
-http://stackoverflow.com/questions/40116493/when-does-following-static-variable-get-initialized-in-java
-
 http://stackoverflow.com/questions/40113056/how-to-initialize-values-from-main-going-to-another-class
 
 http://stackoverflow.com/questions/40016106/set-value-as-dictionary-with-list-python
