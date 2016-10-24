@@ -1,15 +1,3 @@
-http://stackoverflow.com/questions/40135854/convert-instant-to-localdate-in-java-8
-
-http://stackoverflow.com/questions/40133577/what-are-the-implication-for-a-file-upload-max-size-limit
-
-http://stackoverflow.com/questions/40156191/why-use-init-param-over-context-param
-
-http://stackoverflow.com/questions/40134740/java-copy-items-from-one-list-to-another-using-generics
-
-http://stackoverflow.com/questions/40145738/unable-to-run-spring-boot-application
-
-http://stackoverflow.com/questions/40143634/unit-test-any-unchecked-assignment-from-java-util-list-to-java-util-listjav
-
 http://stackoverflow.com/questions/40139083/variable-declaration-not-allowed-in-the-nested-if-statement
 
 http://stackoverflow.com/questions/40131675/type-mismatch-in-java-for-each-statement
