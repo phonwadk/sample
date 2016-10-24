@@ -1,14 +1,4 @@
-http://stackoverflow.com/questions/40113056/how-to-initialize-values-from-main-going-to-another-class
-
-http://stackoverflow.com/questions/40016106/set-value-as-dictionary-with-list-python
-
-http://stackoverflow.com/questions/40092876/why-am-i-getting-bad-operand-types-for-binary-operand
-
-http://stackoverflow.com/questions/40092284/how-can-i-find-the-number-of-lines-in-an-input-file-using-a-java-program
-
 http://stackoverflow.com/questions/40089553/how-to-use-a-lambda-expression-in-an-annotation-in-java
-
-http://stackoverflow.com/questions/40076839/java-lang-numberformatexception-for-input-string-end
 
 http://stackoverflow.com/questions/40063373/how-to-rewrite-java-7-code-to-java8-using-lambda
 
