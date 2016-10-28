@@ -8,7 +8,5 @@ http://stackoverflow.com/questions/40178430/using-generics-to-throw-checked-exce
 
 http://stackoverflow.com/questions/40166418/why-call-super-from-object-subclass
 
-http://stackoverflow.com/questions/32657787/why-we-cant-write-system-out-println-inside-inner-class
-
 http://stackoverflow.com/questions/16061970/why-this-method-does-not-change-integer-value
 
