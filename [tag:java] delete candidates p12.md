@@ -1,19 +1,9 @@
 
 http://stackoverflow.com/questions/40264723/where-is-system-in-initialized
 
-http://stackoverflow.com/questions/40252701/assigning-array-from-arraylist-to-an-int-array-with-arraylist-get-java
-
-http://stackoverflow.com/questions/40252401/i-keep-getting-the-error-bad-operand-types-for-binary-operators
-
-http://stackoverflow.com/questions/40252036/error-variable-not-initialized-why
-
-http://stackoverflow.com/questions/40242967/string-equal-to-any-value-in-array-java
-
-http://stackoverflow.com/questions/40244279/java-generic-unbounded-wildcard
-
 http://stackoverflow.com/questions/40219854/how-to-avoid-long-chain-of-if-else
 
-http://stackoverflow.com/questions/40266449/my-character-is-not-jumping
+(roomba) http://stackoverflow.com/questions/40266449/my-character-is-not-jumping
 
 http://stackoverflow.com/questions/40265609/non-generics-method-fails-in-generic-class-unless-generics-type-is-specified
 
