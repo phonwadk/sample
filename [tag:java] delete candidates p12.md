@@ -1,3 +1,12 @@
+http://stackoverflow.com/questions/40403489/different-types-but-same-reference
+
+http://stackoverflow.com/questions/40384996/is-it-the-same-to-use-static-initialization-blocks-in-a-class-not-method-in-co?noredirect=1
+
+http://stackoverflow.com/questions/40392435/random-generator-always-returns-the-same-integer
+
+(needs a vote) http://stackoverflow.com/questions/40393334/how-to-have-a-set-in-java-where-the-only-value-is-zero
+
+http://stackoverflow.com/questions/40389072/not-a-statement-error
 
 http://stackoverflow.com/questions/40264723/where-is-system-in-initialized
 
