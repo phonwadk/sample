@@ -1,14 +1,6 @@
 
 http://stackoverflow.com/questions/40264723/where-is-system-in-initialized
 
-http://stackoverflow.com/questions/40264345/how-do-i-add-multiple-inequality-signs-into-an-equation
-
-http://stackoverflow.com/questions/40262100/why-never-catch-exception-in-java
-
-http://stackoverflow.com/questions/40262146/how-to-properly-autowire-property-and-use-it-in-other-bean
-
-http://stackoverflow.com/questions/40253599/handle-classcastexception-in-priorityqueue
-
 http://stackoverflow.com/questions/40252701/assigning-array-from-arraylist-to-an-int-array-with-arraylist-get-java
 
 http://stackoverflow.com/questions/40252401/i-keep-getting-the-error-bad-operand-types-for-binary-operators
