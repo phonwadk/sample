@@ -19,16 +19,38 @@ http://stackoverflow.com/questions/40221916/java-catch-exception-perform-finally
 
 http://stackoverflow.com/questions/40218432/is-base-class-constructor-always-executes-before-the-sub-class-constructor
 
-http://stackoverflow.com/questions/40210922/how-to-change-a-string-variable-without-using-any-string-methods
+http://stackoverflow.com/questions/40360866/overriding-abstract-method-with-an-extended-interface-as-parameter
 
-http://stackoverflow.com/questions/40210734/how-to-get-a-key-from-a-hashmap-map-in-java
+http://stackoverflow.com/questions/40350816/unreachable-statement-when-assigning-properties-in-arraylists
 
-http://stackoverflow.com/questions/40208217/how-does-gethostaddress-block-other-threads
+http://stackoverflow.com/questions/40351877/i-cannot-reach-statements-after-a-java-try-with-resources-clause-why
 
-http://stackoverflow.com/questions/40208032/java-cannot-find-symbol-of-my-method
+http://stackoverflow.com/questions/1716453/good-software-for-drawing-packet-protocol-diagrams
 
-http://stackoverflow.com/questions/40205525/error-variable-i-might-not-have-been-initialized-in-java
+http://stackoverflow.com/questions/40348448/how-do-i-get-out-of-an-infinite-loop-that-throws-exceptions
 
-http://stackoverflow.com/questions/40205326/does-the-net-predicate-exists-in-java
+http://stackoverflow.com/questions/40341730/how-to-build-a-simple-ivr-system
 
-http://stackoverflow.com/questions/40253239/how-to-print-char-array-that-is-being-read-from-a-file
+http://stackoverflow.com/questions/40343517/can-a-hashmap-in-java-take-a-int-array-as-its-key
+
+http://stackoverflow.com/questions/40343453/how-to-calculate-four-operations-using-only-string-and-char-in-java
+
+http://stackoverflow.com/questions/40336726/java-static-variables-set-by-array
+
+http://stackoverflow.com/questions/40336517/what-are-the-differences-between-javac-and-java
+
+http://stackoverflow.com/questions/40336495/how-to-read-arraylist-in-invoice
+
+http://stackoverflow.com/questions/40334194/java-polymorphism-dilemma
+
+http://stackoverflow.com/questions/40334279/how-to-read-the-jsonarray-from-json-file-and-append-new-json-array-elements-and
+
+http://stackoverflow.com/questions/40334229/integer-promotions-in-java
+
+http://stackoverflow.com/questions/40326203/what-does-the-jls-mean-by-statements-do-not-have-values
+
+http://stackoverflow.com/questions/40319551/java-collection-of-characters-to-char-array
+
+http://stackoverflow.com/questions/40312974/assertequals-testng-doesnt-work
+
+
