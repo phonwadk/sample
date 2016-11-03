@@ -5,13 +5,9 @@ http://stackoverflow.com/questions/40219854/how-to-avoid-long-chain-of-if-else
 
 (roomba) http://stackoverflow.com/questions/40266449/my-character-is-not-jumping
 
-http://stackoverflow.com/questions/40265609/non-generics-method-fails-in-generic-class-unless-generics-type-is-specified
-
 http://stackoverflow.com/questions/40226481/how-to-map-json-to-object-using-spring-boot
 
 http://stackoverflow.com/questions/40225296/can-you-use-a-switch-statement-on-class-values
-
-http://stackoverflow.com/questions/40225182/why-does-java-eclipse-keep-telling-me-this-for-my-code-resource-leak-scanner
 
 http://stackoverflow.com/questions/40222271/spring-boot-and-maven
 
