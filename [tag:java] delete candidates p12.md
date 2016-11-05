@@ -12,11 +12,7 @@ http://stackoverflow.com/questions/40264723/where-is-system-in-initialized
 
 http://stackoverflow.com/questions/40219854/how-to-avoid-long-chain-of-if-else
 
-(roomba) http://stackoverflow.com/questions/40266449/my-character-is-not-jumping
-
 http://stackoverflow.com/questions/40226481/how-to-map-json-to-object-using-spring-boot
-
-http://stackoverflow.com/questions/40225296/can-you-use-a-switch-statement-on-class-values
 
 http://stackoverflow.com/questions/40222271/spring-boot-and-maven
 
