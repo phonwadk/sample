@@ -14,20 +14,6 @@ http://stackoverflow.com/questions/40219854/how-to-avoid-long-chain-of-if-else
 
 http://stackoverflow.com/questions/40226481/how-to-map-json-to-object-using-spring-boot
 
-http://stackoverflow.com/questions/40222271/spring-boot-and-maven
-
-http://stackoverflow.com/questions/40222976/cant-get-hashmap-to-work
-
-http://stackoverflow.com/questions/40219109/is-it-possible-to-make-an-int-array-from-string-of-digits-in-one-line
-
-http://stackoverflow.com/questions/40221916/java-catch-exception-perform-finally-then-rethrow-exception
-
-http://stackoverflow.com/questions/40218432/is-base-class-constructor-always-executes-before-the-sub-class-constructor
-
-http://stackoverflow.com/questions/40360866/overriding-abstract-method-with-an-extended-interface-as-parameter
-
-http://stackoverflow.com/questions/40350816/unreachable-statement-when-assigning-properties-in-arraylists
-
 http://stackoverflow.com/questions/40351877/i-cannot-reach-statements-after-a-java-try-with-resources-clause-why
 
 http://stackoverflow.com/questions/1716453/good-software-for-drawing-packet-protocol-diagrams
