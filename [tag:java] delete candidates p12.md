@@ -14,19 +14,9 @@ http://stackoverflow.com/questions/40219854/how-to-avoid-long-chain-of-if-else
 
 http://stackoverflow.com/questions/40226481/how-to-map-json-to-object-using-spring-boot
 
-http://stackoverflow.com/questions/40351877/i-cannot-reach-statements-after-a-java-try-with-resources-clause-why
-
 http://stackoverflow.com/questions/1716453/good-software-for-drawing-packet-protocol-diagrams
 
-http://stackoverflow.com/questions/40348448/how-do-i-get-out-of-an-infinite-loop-that-throws-exceptions
-
-http://stackoverflow.com/questions/40341730/how-to-build-a-simple-ivr-system
-
 http://stackoverflow.com/questions/40343517/can-a-hashmap-in-java-take-a-int-array-as-its-key
-
-http://stackoverflow.com/questions/40343453/how-to-calculate-four-operations-using-only-string-and-char-in-java
-
-http://stackoverflow.com/questions/40336726/java-static-variables-set-by-array
 
 http://stackoverflow.com/questions/40336517/what-are-the-differences-between-javac-and-java
 
