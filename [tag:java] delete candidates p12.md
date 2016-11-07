@@ -1,26 +1,9 @@
-http://stackoverflow.com/questions/40403489/different-types-but-same-reference
-
-http://stackoverflow.com/questions/40384996/is-it-the-same-to-use-static-initialization-blocks-in-a-class-not-method-in-co?noredirect=1
 
 http://stackoverflow.com/questions/40392435/random-generator-always-returns-the-same-integer
 
 (needs a vote) http://stackoverflow.com/questions/40393334/how-to-have-a-set-in-java-where-the-only-value-is-zero
 
 http://stackoverflow.com/questions/40389072/not-a-statement-error
-
-http://stackoverflow.com/questions/40264723/where-is-system-in-initialized
-
-http://stackoverflow.com/questions/40219854/how-to-avoid-long-chain-of-if-else
-
-http://stackoverflow.com/questions/40226481/how-to-map-json-to-object-using-spring-boot
-
-http://stackoverflow.com/questions/1716453/good-software-for-drawing-packet-protocol-diagrams
-
-http://stackoverflow.com/questions/40343517/can-a-hashmap-in-java-take-a-int-array-as-its-key
-
-http://stackoverflow.com/questions/40334194/java-polymorphism-dilemma
-
-http://stackoverflow.com/questions/40326203/what-does-the-jls-mean-by-statements-do-not-have-values
 
 **New Batch**
 
