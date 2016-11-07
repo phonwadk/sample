@@ -7,23 +7,11 @@ http://stackoverflow.com/questions/40389072/not-a-statement-error
 
 **New Batch**
 
-http://stackoverflow.com/questions/40370996/how-come-the-numbers-are-not-correctly-displaying-in-the-data-txt-file
-
 http://stackoverflow.com/questions/40409750/jackson-servlet-isnt-deserializing-json-when-one-of-its-fields-is-a-list
-
-http://stackoverflow.com/questions/40409012/how-can-i-understand-that-it-is-instance-of-this-build-in-class
-
-http://stackoverflow.com/questions/40409040/java-variable-assignment-not-working-within-an-if-statement-easy-stuff
-
-http://stackoverflow.com/questions/40402786/why-isnt-this-ambiguous
 
 http://stackoverflow.com/questions/40404677/is-there-a-good-reason-for-being-considered-alphanumeric-by-apache-stringu
 
-http://stackoverflow.com/questions/40403489/different-types-but-same-reference
-
 http://stackoverflow.com/questions/40404449/java-hashcode-method-cloning-fields-to-variables
-
-http://stackoverflow.com/questions/40402892/java-result-num1-2-0-odd-even
 
 http://stackoverflow.com/questions/40403042/java-static-field-initialization-code
 
