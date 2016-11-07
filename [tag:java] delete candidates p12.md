@@ -13,19 +13,7 @@ http://stackoverflow.com/questions/40404677/is-there-a-good-reason-for-being-con
 
 http://stackoverflow.com/questions/40404449/java-hashcode-method-cloning-fields-to-variables
 
-http://stackoverflow.com/questions/40403042/java-static-field-initialization-code
-
 http://stackoverflow.com/questions/40402636/trying-to-use-files-walk-but-i-get-some-compilation-errors
-
-http://stackoverflow.com/questions/40402587/very-simple-java-program-keep-receiving-errors
-
-http://stackoverflow.com/questions/40399760/java-is-there-any-configurable-file-parsing-framework
-
-http://stackoverflow.com/questions/40360550/compiling-pattern-as-public-static-final-in-multi-threaded-environment
-
-http://stackoverflow.com/questions/40388180/bigdecimal-and-spaces-java
-
-http://stackoverflow.com/questions/40394546/java-how-to-tell-a-threadpool-to-shutdown-but-only-after-all-the-submitted-tas
 
 http://stackoverflow.com/questions/40393485/bad-operator-type-for-binary-opeator
 
