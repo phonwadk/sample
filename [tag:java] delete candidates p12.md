@@ -19,8 +19,6 @@ http://stackoverflow.com/questions/40393485/bad-operator-type-for-binary-opeator
 
 http://stackoverflow.com/questions/40393334/how-to-have-a-set-in-java-where-the-only-value-is-zero
 
-http://stackoverflow.com/questions/40390438/java-trying-to-use-try-catch-block-for-input
-
 http://stackoverflow.com/questions/40390574/map-list-of-strings-to-list-of-predicates
 
 http://stackoverflow.com/questions/40390335/java-basic-json-reader-writer-cannot-find-symbol
