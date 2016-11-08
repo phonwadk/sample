@@ -3,10 +3,6 @@ http://stackoverflow.com/questions/40392435/random-generator-always-returns-the-
 
 (needs a vote) http://stackoverflow.com/questions/40393334/how-to-have-a-set-in-java-where-the-only-value-is-zero
 
-http://stackoverflow.com/questions/40389072/not-a-statement-error
-
-**New Batch**
-
 http://stackoverflow.com/questions/40409750/jackson-servlet-isnt-deserializing-json-when-one-of-its-fields-is-a-list
 
 http://stackoverflow.com/questions/40404677/is-there-a-good-reason-for-being-considered-alphanumeric-by-apache-stringu
