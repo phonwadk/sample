@@ -32,17 +32,9 @@ http://stackoverflow.com/questions/40511808/boolean-method-always-returning-true
 
 http://stackoverflow.com/questions/40511019/stack-pop-method-confusion
 
-http://stackoverflow.com/questions/40511570/java-best-practices-for-working-with-multiple-packages
-
 http://stackoverflow.com/questions/40509204/java-equal-behaves-inconsistently-with-byte
 
-http://stackoverflow.com/questions/40510995/java-looping-through-object-list-and-attributes
-
-http://stackoverflow.com/questions/40510946/add-the-character-in-a-string-java
-
 http://stackoverflow.com/questions/40510030/java-shorthand-for-function-call-on-object-initialization-line
-
-http://stackoverflow.com/questions/40510363/how-can-i-create-a-carriage-return-that-every-os-will-understand
 
 http://stackoverflow.com/questions/40509774/objects-equals-vs-param-equals
 
