@@ -71,7 +71,7 @@ http://stackoverflow.com/questions/40624699/final-java-class-new-object-referenc
 http://stackoverflow.com/questions/40623671/how-do-you-extract-numbers-from-a-string-in-java-without-regular-expressions
 
 http://stackoverflow.com/questions/40618861/private-and-final
--
+.
 http://stackoverflow.com/questions/40617955/java-array-cannot-find-symbol-error-bluej
 
 http://stackoverflow.com/questions/40623596/shortcut-in-using-or-operator-multiple-times-to-compare-values-in-a-state
