@@ -8,31 +8,11 @@ http://stackoverflow.com/questions/40387982/java-generic-types-and-listenum
 
 http://stackoverflow.com/questions/40446926/error-in-using-for-each-style-loop
 
-http://stackoverflow.com/questions/40441891/print-comma-delimited-items-from-a-list
-
-http://stackoverflow.com/questions/40445315/in-java-will-passing-a-huge-array-as-an-argument-reallocate-memory-or-allow-me
-
-http://stackoverflow.com/questions/40440491/uses-unchecked-or-unsafe-operations-compiler-error
-
-http://stackoverflow.com/questions/40435752/json-parse-in-java-without-title
-
-http://stackoverflow.com/questions/40432344/why-does-junit4-not-have-assert-assertarrayequals-for-string-array
-
 http://stackoverflow.com/questions/40433557/java-lambda-supplier-supplying-an-array
-
-http://stackoverflow.com/questions/40433121/java-lang-arrayindexoutofboundsexception-12
-
-http://stackoverflow.com/questions/40425874/handling-exception-with-functional-interfaces-in-java-8
-
-http://stackoverflow.com/questions/40426826/comparing-primitive-types-and-their-values
 
 http://stackoverflow.com/questions/40426485/json-parsing-problems-in-android
 
-http://stackoverflow.com/questions/40425370/injecting-prototype-bean-into-another-prototype-bean-spring
-
 http://stackoverflow.com/questions/40415229/insert-statement-exception
-
-http://stackoverflow.com/questions/40404677/is-there-a-good-reason-for-being-considered-alphanumeric-by-apache-stringu
 
 http://stackoverflow.com/questions/40404449/java-hashcode-method-cloning-fields-to-variables
 
