@@ -1,7 +1,5 @@
 http://stackoverflow.com/questions/40409750/jackson-servlet-isnt-deserializing-json-when-one-of-its-fields-is-a-list
 
-http://stackoverflow.com/questions/40404449/java-hashcode-method-cloning-fields-to-variables
-
 http://stackoverflow.com/questions/40387982/java-generic-types-and-listenum
 
 **new batch**
@@ -18,25 +16,7 @@ http://stackoverflow.com/questions/40404449/java-hashcode-method-cloning-fields-
 
 http://stackoverflow.com/questions/40409750/jackson-servlet-isnt-deserializing-json-when-one-of-its-fields-is-a-list
 
-http://stackoverflow.com/questions/40472677/why-am-i-getting-cannot-find-symbol-everywhere-java-constructor-issues
-
-http://stackoverflow.com/questions/40456199/assignment-operation-in-java-classes
-
-http://stackoverflow.com/questions/40470448/making-this-hashmap-null-shorter
-
-http://stackoverflow.com/questions/40470681/checking-if-statements-using-string-arrays
-
 http://stackoverflow.com/questions/40470334/spring-boot-value-annotation-not-working
-
-http://stackoverflow.com/questions/40469268/no-qualifying-bean-found-for-dependency-when-create-a-new-package-for-my-class
-
-http://stackoverflow.com/questions/40467687/what-is-the-purpose-of-using-serializedname-annotation-in-a-class-that-extends
-
-http://stackoverflow.com/questions/40466781/what-would-this-json-string-map-to
-
-http://stackoverflow.com/questions/40451162/error-cannot-find-symbol-variable-answer
-
-http://stackoverflow.com/questions/40452502/how-a-interrupted-thread-is-starting-again
 
 **newer batch**
 
