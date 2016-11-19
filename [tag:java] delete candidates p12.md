@@ -1,19 +1,6 @@
-
-http://stackoverflow.com/questions/40392435/random-generator-always-returns-the-same-integer
-
-(needs a vote) http://stackoverflow.com/questions/40393334/how-to-have-a-set-in-java-where-the-only-value-is-zero
-
 http://stackoverflow.com/questions/40409750/jackson-servlet-isnt-deserializing-json-when-one-of-its-fields-is-a-list
 
-http://stackoverflow.com/questions/40404677/is-there-a-good-reason-for-being-considered-alphanumeric-by-apache-stringu
-
 http://stackoverflow.com/questions/40404449/java-hashcode-method-cloning-fields-to-variables
-
-http://stackoverflow.com/questions/40402636/trying-to-use-files-walk-but-i-get-some-compilation-errors
-
-http://stackoverflow.com/questions/40393485/bad-operator-type-for-binary-opeator
-
-http://stackoverflow.com/questions/40393334/how-to-have-a-set-in-java-where-the-only-value-is-zero
 
 http://stackoverflow.com/questions/40390574/map-list-of-strings-to-list-of-predicates
 
