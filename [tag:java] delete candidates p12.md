@@ -20,25 +20,13 @@ http://stackoverflow.com/questions/40470334/spring-boot-value-annotation-not-wor
 
 **newer batch**
 
-http://stackoverflow.com/questions/40517162/two-same-numbers-in-a-random-in-java
-
-http://stackoverflow.com/questions/40516521/print-reversed-array-java
-
-(roomba) http://stackoverflow.com/questions/40515082/java-identifier-expected-error
-
-http://stackoverflow.com/questions/40514950/validity-of-unbounded-wildcard-statement-in-java
-
 http://stackoverflow.com/questions/40513437/int-cannot-be-dereferenced-java
 
 http://stackoverflow.com/questions/40513572/java-error-the-method-primecheckint-is-undefined-for-type-primefailure
 
-http://stackoverflow.com/questions/40489729/is-there-a-framework-or-something-for-using-ats-to-build-web-services
-
 http://stackoverflow.com/questions/40509891/replace-all-occurrences-of-in-a-string-in-java
 
 http://stackoverflow.com/questions/40509183/sorting-of-array-without-duplicate-in-java
-
-http://stackoverflow.com/questions/40511821/getting-a-java-compiler-error-unexpected-type-when-trying-to-subtract-variables
 
 http://stackoverflow.com/questions/40511808/boolean-method-always-returning-true
 
