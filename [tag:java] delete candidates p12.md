@@ -1,28 +1,5 @@
-http://stackoverflow.com/questions/40513437/int-cannot-be-dereferenced-java
-
-http://stackoverflow.com/questions/40513572/java-error-the-method-primecheckint-is-undefined-for-type-primefailure
-
-http://stackoverflow.com/questions/40509891/replace-all-occurrences-of-in-a-string-in-java
-
-http://stackoverflow.com/questions/40509183/sorting-of-array-without-duplicate-in-java
-
-http://stackoverflow.com/questions/40511808/boolean-method-always-returning-true
-
-http://stackoverflow.com/questions/40511019/stack-pop-method-confusion
-
-http://stackoverflow.com/questions/40509204/java-equal-behaves-inconsistently-with-byte
-
-http://stackoverflow.com/questions/40510030/java-shorthand-for-function-call-on-object-initialization-line
-
-http://stackoverflow.com/questions/40509774/objects-equals-vs-param-equals
 
 http://stackoverflow.com/questions/40501642/what-rule-prohibits-this-nested-class-reference
-
-http://stackoverflow.com/questions/40501390/how-to-determine-point-of-returning-control-with-completablefuture-supplyasync
-
-http://stackoverflow.com/questions/40498468/spring-boot-autowired-is-null-for-a-bean-in-selective-cases
-
-**Added Nov 19th**
 
 http://stackoverflow.com/questions/40660170/substring-multiple-times-in-a-string-in-java
 
