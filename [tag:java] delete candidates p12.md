@@ -1,25 +1,3 @@
-http://stackoverflow.com/questions/40409750/jackson-servlet-isnt-deserializing-json-when-one-of-its-fields-is-a-list
-
-http://stackoverflow.com/questions/40387982/java-generic-types-and-listenum
-
-**new batch**
-
-http://stackoverflow.com/questions/40446926/error-in-using-for-each-style-loop
-
-http://stackoverflow.com/questions/40433557/java-lambda-supplier-supplying-an-array
-
-http://stackoverflow.com/questions/40426485/json-parsing-problems-in-android
-
-http://stackoverflow.com/questions/40415229/insert-statement-exception
-
-http://stackoverflow.com/questions/40404449/java-hashcode-method-cloning-fields-to-variables
-
-http://stackoverflow.com/questions/40409750/jackson-servlet-isnt-deserializing-json-when-one-of-its-fields-is-a-list
-
-http://stackoverflow.com/questions/40470334/spring-boot-value-annotation-not-working
-
-**newer batch**
-
 http://stackoverflow.com/questions/40513437/int-cannot-be-dereferenced-java
 
 http://stackoverflow.com/questions/40513572/java-error-the-method-primecheckint-is-undefined-for-type-primefailure
