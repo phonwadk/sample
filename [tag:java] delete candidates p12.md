@@ -1,25 +1,5 @@
 
-http://stackoverflow.com/questions/40501642/what-rule-prohibits-this-nested-class-reference
-
-http://stackoverflow.com/questions/40660170/substring-multiple-times-in-a-string-in-java
-
-http://stackoverflow.com/questions/40658866/which-class-implements-servletcontext-interface
-
-http://stackoverflow.com/questions/40657776/an-java-error-at-avg1-mainavg1-java48
-
-http://stackoverflow.com/questions/40617898/difference-between-linkedlist
-
-http://stackoverflow.com/questions/40645463/multiple-choice-code-java
-
 http://stackoverflow.com/questions/40643820/printing-string-output-in-java
-
-http://stackoverflow.com/questions/40643630/output-of-boolean-statement-confusion
-
-http://stackoverflow.com/questions/40640268/unable-to-access-private-field-even-though-my-code-is-in-the-same-class
-
-http://stackoverflow.com/questions/40636079/calling-a-method-an-argument-if-it-is-instance-of-subclass
-
-http://stackoverflow.com/questions/40637812/what-is-8s-in-string-format-in-java
 
 http://stackoverflow.com/questions/40624699/final-java-class-new-object-reference
 
