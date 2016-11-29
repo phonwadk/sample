@@ -20,10 +20,3 @@ http://stackoverflow.com/questions/40601849/what-is-object
 http://stackoverflow.com/questions/40600963/what-is-the-value-of-a-variable-after-the-code-sequence-is-executed
 
 http://stackoverflow.com/questions/40599821/spring-aspect-not-working
-
-http://stackoverflow.com/questions/40596889/java-loop-wont-end-with-boolean
-
-http://stackoverflow.com/questions/40594723/java-finding-the-time-of-a-linear-search
-
-
-
