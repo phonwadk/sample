@@ -1,20 +1,12 @@
-http://stackoverflow.com/questions/30940/how-to-handle-error-logging
-
 http://stackoverflow.com/questions/18451227/sqlite-setobject-returning-arrayindexoutofboundsexception
 
 http://stackoverflow.com/questions/38259806/how-integer-parameter-is-calling-long-parameter-method-in-java
 
-http://stackoverflow.com/questions/33855021/void-cannot-be-converted-to-boolean
-
 http://stackoverflow.com/questions/39774813/compare-integers-unexpected-results-in-java
-
-http://stackoverflow.com/questions/39956182/how-do-i-create-a-for-loop-to-generate-the-following-number-sequence
 
 http://stackoverflow.com/questions/28586430/java-lang-numberformatexception-for-input-string-23
 
 http://stackoverflow.com/questions/40080938/java-long-calculation-return-wrong-value
-
-http://stackoverflow.com/questions/40193983/showing-error-in-my-java-code
 
 http://stackoverflow.com/questions/40185793/catching-checked-exception-which-is-not-thrown-in-try-clause
 
