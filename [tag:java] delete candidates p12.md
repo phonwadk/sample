@@ -6,8 +6,6 @@ http://stackoverflow.com/questions/40364413/does-fileoutputstream-fsync-on-write
 
 http://stackoverflow.com/questions/40519837/im-new-to-programming-and-not-able-to-get-this-code
 
-http://stackoverflow.com/questions/40519661/number-character-calculation-a-b-c-in-java
-
 http://stackoverflow.com/questions/40490248/java-get-compact-description-of-a-character
 
 http://stackoverflow.com/questions/40490017/adding-generic-numbers-in-java
@@ -53,8 +51,6 @@ http://stackoverflow.com/questions/40565169/how-do-i-set-library-path-as-command
 http://stackoverflow.com/questions/40565020/java-scanner-issue
 
 http://stackoverflow.com/questions/40560444/i-cant-understand-what-is-wrong-with-my-code
-
-http://stackoverflow.com/questions/40560327/its-a-code-for-hashmap-showing-error-at-the-for-condition-line-and-i-dont-know-w
 
 http://stackoverflow.com/questions/40556962/circular-dependency-after-using-setter-injection
 
