@@ -171,6 +171,59 @@ http://stackoverflow.com/questions/40530095/java-methods-with-multiple-return-ty
 
 http://stackoverflow.com/questions/40529630/how-to-use-spring-mvc-in-existing-dynamic-web-project
 
+http://stackoverflow.com/questions/40682368/mockito-doreturn-evaluates-the-call-after-when
+
+http://stackoverflow.com/questions/40682293/inheritance-function-override-and-constructor-behavior-in-java
+
+http://stackoverflow.com/questions/40681964/different-javax-inject-qualifier-and-org-springframework-beans-factory-annotatio
+
+http://stackoverflow.com/questions/40670739/java-how-to-make-an-upside-down-pyramid-with-numbers
+
+http://stackoverflow.com/questions/40669723/spring-dependency-injection-injection-of-all-beans-of-type-x-as-a-collection
+
+http://stackoverflow.com/questions/40666094/how-does-treesete-keep-the-elements-sorted-and-avoid-inserting-duplicates-if-n
+
+http://stackoverflow.com/questions/40661833/why-do-classes-need-to-be-instantiated-using-their-constructor-but-strings-whic
+
+http://stackoverflow.com/questions/40658466/try-catch-inside-of-a-while-loop-throw-an-exception
+
+http://stackoverflow.com/questions/40643820/printing-string-output-in-java
+
+http://stackoverflow.com/questions/40617955/java-array-cannot-find-symbol-error-bluej
+
+http://stackoverflow.com/questions/40623596/shortcut-in-using-or-operator-multiple-times-to-compare-values-in-a-state
+
+http://stackoverflow.com/questions/40618861/private-and-final
+
+http://stackoverflow.com/questions/40615673/basic-test-for-getter-setter
+
+http://stackoverflow.com/questions/40613788/simpledateformat-java-text-parseexception-gtm
+
+http://stackoverflow.com/questions/40599159/missing-return-statement-with-java
+
+http://stackoverflow.com/questions/40603723/java-array-object-returns-proxy-name
+
+http://stackoverflow.com/questions/40601849/what-is-object
+
+http://stackoverflow.com/questions/40600963/what-is-the-value-of-a-variable-after-the-code-sequence-is-executed
+
+http://stackoverflow.com/questions/40599821/spring-aspect-not-working
+
+http://stackoverflow.com/questions/40593763/java-error-in-finding-the-average-of-an-array
+
+http://stackoverflow.com/questions/40592225/why-is-my-array-not-reversing
+
+http://stackoverflow.com/questions/40592627/java-measuring-time-with-system-nanotime-returns-strange-values
+
+http://stackoverflow.com/questions/40588853/identify-the-class-variable-and-reference-of-this-code-in-java
+
+http://stackoverflow.com/questions/40586318/how-exactly-works-the-assert-method-in-junit
+
+http://stackoverflow.com/questions/40567876/can-you-have-different-return-types-of-abstract-methods
+
+http://stackoverflow.com/questions/40579001/java-why-is-this-not-allowed
+
+
 
 
 
