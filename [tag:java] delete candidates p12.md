@@ -4,15 +4,11 @@ http://stackoverflow.com/questions/38259806/how-integer-parameter-is-calling-lon
 
 http://stackoverflow.com/questions/39774813/compare-integers-unexpected-results-in-java
 
-http://stackoverflow.com/questions/28586430/java-lang-numberformatexception-for-input-string-23
-
 http://stackoverflow.com/questions/40080938/java-long-calculation-return-wrong-value
 
 http://stackoverflow.com/questions/40185793/catching-checked-exception-which-is-not-thrown-in-try-clause
 
 http://stackoverflow.com/questions/40239731/why-compiler-doesnt-look-into-method-body-for-checked-exception-when-it-is-de
-
-http://stackoverflow.com/questions/40243244/conver-for-to-while-loop-java
 
 http://stackoverflow.com/questions/1795742/any-real-world-cmake-project-example
 
