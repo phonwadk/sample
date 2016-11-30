@@ -345,6 +345,54 @@ http://stackoverflow.com/questions/40727859/listmods-returning-unrecognized-opti
 
 http://stackoverflow.com/questions/40725217/why-isnt-foreach-call-accepted
 
+http://stackoverflow.com/questions/40878403/java-wont-find-my-file
+
+http://stackoverflow.com/questions/40867973/date-format-in-java-when-9999-12-31-23-59-59-999999
+
+http://stackoverflow.com/questions/40868471/subclass-superclass-constructor
+
+http://stackoverflow.com/questions/40867472/store-100k-words-in-memory-hash-or-trie
+
+http://stackoverflow.com/questions/40861218/my-simpledateformat-is-always-giving-me-a-wrong-result
+
+http://stackoverflow.com/questions/40860740/java-exceptions
+
+http://stackoverflow.com/questions/40860231/constructor-in-abstract-class-cannot-be-applied-to-given-types-argument-length
+
+http://stackoverflow.com/questions/40856378/i-cannot-figure-out-why-my-java-code-concatenates-instead-of-adding-the-values
+
+http://stackoverflow.com/questions/40848078/why-do-i-get-a-null-pointer-exception-in-java
+
+http://stackoverflow.com/questions/40849178/what-would-be-the-output-of-the-below-code-snippet
+
+http://stackoverflow.com/questions/40846298/passing-the-created-object-as-argument-to-another-class-constructor-or-its-meth
+
+http://stackoverflow.com/questions/40838976/can-we-write-if-condition-inside-return
+
+http://stackoverflow.com/questions/40839615/can-we-convert-string-date-dd-mm-yyyy-format-to-yyyy-mm-dd-in-java
+
+http://stackoverflow.com/questions/40839168/why-the-polymorphism-dont-play-a-role
+
+http://stackoverflow.com/questions/40829237/is-java-define-polymorphic-methods-by-default-in-opposite-of-what-c-sharp-does
+
+http://stackoverflow.com/questions/40829102/what-is-firebase-for-unit-testing
+
+http://stackoverflow.com/questions/40833698/how-to-differentiate-between-arraylist-removeposition-and-arraylist-removeval
+
+http://stackoverflow.com/questions/40826573/scanner-strings-equality
+
+http://stackoverflow.com/questions/40826998/is-there-anything-called-temporary-instance-of-a-class-in-java
+
+http://stackoverflow.com/questions/40824042/why-accessing-a-method-specific-to-an-object-from-a-super-reference-fails
+
+http://stackoverflow.com/questions/40790398/what-takes-more-time-between-java-parsing-or-creating-writing-and-flushing-a-fi
+
+http://stackoverflow.com/questions/40794670/is-it-possible-to-convert-float-to-float-in-method-parameter
+
+http://stackoverflow.com/questions/40791443/void-is-an-invalid-type-for-the-variable-java
+
+http://stackoverflow.com/questions/40790483/how-do-you-assign-true-or-false-to-a-boolean-value-at-random
+
 
 
 
