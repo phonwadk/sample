@@ -1,12 +1,6 @@
 http://stackoverflow.com/questions/40893538/how-to-create-a-lambda-expression-in-java8
 
-http://stackoverflow.com/questions/18451227/sqlite-setobject-returning-arrayindexoutofboundsexception
-
 http://stackoverflow.com/questions/40148683/why-is-%e0%a5%a7%e0%a5%a8%e0%a5%a9-numeric
-
-http://stackoverflow.com/questions/40305939/ternary-oporator-within-stringbuilder-odd-resutls
-
-http://stackoverflow.com/questions/40306810/java-object-class-creation
 
 http://stackoverflow.com/questions/40364413/does-fileoutputstream-fsync-on-write-or-why-would-you-wrap-fileoutputstream-in
 
