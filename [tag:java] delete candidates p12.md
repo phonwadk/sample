@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/40893538/how-to-create-a-lambda-expression-in-java8
+
 http://stackoverflow.com/questions/18451227/sqlite-setobject-returning-arrayindexoutofboundsexception
 
 http://stackoverflow.com/questions/40148683/why-is-%e0%a5%a7%e0%a5%a8%e0%a5%a9-numeric
@@ -318,7 +320,9 @@ http://stackoverflow.com/questions/40791443/void-is-an-invalid-type-for-the-vari
 
 http://stackoverflow.com/questions/40790483/how-do-you-assign-true-or-false-to-a-boolean-value-at-random
 
+http://stackoverflow.com/questions/40893872/hashmap-put-syntax-error
 
+http://stackoverflow.com/questions/40893928/static-synchronized-and-non-static-synchronized-locks
 
 
 
