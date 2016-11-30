@@ -22,8 +22,6 @@ http://stackoverflow.com/questions/40488726/error-interface-abstract-method-cann
 
 http://stackoverflow.com/questions/40457525/are-java-semaphores-strong-semaphores-by-default
 
-http://stackoverflow.com/questions/40458441/arrayindexoutofbound-exception-in-arraylist-android-listview
-
 http://stackoverflow.com/questions/40456862/pass-an-array-of-strings-into-a-method-that-takes-in-strings-as-parameters
 
 .
