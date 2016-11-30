@@ -1,36 +1,10 @@
 http://stackoverflow.com/questions/18451227/sqlite-setobject-returning-arrayindexoutofboundsexception
 
-http://stackoverflow.com/questions/38259806/how-integer-parameter-is-calling-long-parameter-method-in-java
-
-http://stackoverflow.com/questions/39774813/compare-integers-unexpected-results-in-java
-
-http://stackoverflow.com/questions/40080938/java-long-calculation-return-wrong-value
-
-http://stackoverflow.com/questions/40185793/catching-checked-exception-which-is-not-thrown-in-try-clause
-
-http://stackoverflow.com/questions/40239731/why-compiler-doesnt-look-into-method-body-for-checked-exception-when-it-is-de
-
-http://stackoverflow.com/questions/1795742/any-real-world-cmake-project-example
-
 http://stackoverflow.com/questions/40148683/why-is-%e0%a5%a7%e0%a5%a8%e0%a5%a9-numeric
-
-http://stackoverflow.com/questions/40298933/how-does-this-overloading-work
-
-http://stackoverflow.com/questions/40305354/java-inheritance-not-acting-as-expected
 
 http://stackoverflow.com/questions/40305939/ternary-oporator-within-stringbuilder-odd-resutls
 
 http://stackoverflow.com/questions/40306810/java-object-class-creation
-
-http://stackoverflow.com/questions/40307070/i-cant-get-thread-sleep-to-work
-
-http://stackoverflow.com/questions/40307004/why-cant-i-call-fu-from-main-method
-
-http://stackoverflow.com/questions/40314584/java-for-loop-to-do-while-loop
-
-http://stackoverflow.com/questions/40364051/spring-boot-autowiring-using-generics
-
-http://stackoverflow.com/questions/40364991/how-does-the-getstacktrace-method-work-in-java
 
 http://stackoverflow.com/questions/40364413/does-fileoutputstream-fsync-on-write-or-why-would-you-wrap-fileoutputstream-in
 
@@ -38,17 +12,7 @@ http://stackoverflow.com/questions/40519837/im-new-to-programming-and-not-able-t
 
 http://stackoverflow.com/questions/40519661/number-character-calculation-a-b-c-in-java
 
-http://stackoverflow.com/questions/40517360/how-do-i-an-arraylist-constructor-for-an-objectjava
-
-http://stackoverflow.com/questions/40291901/hfc-sdk-for-node-js-not-available
-
-http://stackoverflow.com/questions/40482935/how-come-my-methods-are-not-passing-the-driver-tests-java
-
 http://stackoverflow.com/questions/40490248/java-get-compact-description-of-a-character
-
-http://stackoverflow.com/questions/40492635/unreachable-statement-with-java
-
-http://stackoverflow.com/questions/40492556/why-cant-open-a-file-by-bufferedreader-and-bufferedwriter-on-the-same-time
 
 http://stackoverflow.com/questions/40490017/adding-generic-numbers-in-java
 
@@ -58,13 +22,8 @@ http://stackoverflow.com/questions/40457525/are-java-semaphores-strong-semaphore
 
 http://stackoverflow.com/questions/40458441/arrayindexoutofbound-exception-in-arraylist-android-listview
 
-http://stackoverflow.com/questions/40456648/array-append-method
-
-http://stackoverflow.com/questions/40457051/change-html-file-based-off-of-screen-width
-
 http://stackoverflow.com/questions/40456862/pass-an-array-of-strings-into-a-method-that-takes-in-strings-as-parameters
 
-http://stackoverflow.com/questions/40566924/how-to-know-in-java-which-class-declared-an-object
 .
 
 http://stackoverflow.com/questions/40455467/in-java-why-do-we-need-to-initialize-or-declare-variables-without-giving-them-v
@@ -158,8 +117,6 @@ http://stackoverflow.com/questions/40666094/how-does-treesete-keep-the-elements-
 http://stackoverflow.com/questions/40661833/why-do-classes-need-to-be-instantiated-using-their-constructor-but-strings-whic
 
 http://stackoverflow.com/questions/40658466/try-catch-inside-of-a-while-loop-throw-an-exception
-
-http://stackoverflow.com/questions/40643820/printing-string-output-in-java
 
 http://stackoverflow.com/questions/40617955/java-array-cannot-find-symbol-error-bluej
 
@@ -271,8 +228,6 @@ http://stackoverflow.com/questions/40743085/arrayindexoutofbounds-doesnt-fire-ge
 
 http://stackoverflow.com/questions/40757399/in-string-what-happens-to-the-string-when-we-concat-other-string-to-it-where-is
 
-http://stackoverflow.com/questions/40757226/how-to-use-java-reflection
-
 http://stackoverflow.com/questions/40755651/create-an-instance-of-java-subclass
 
 http://stackoverflow.com/questions/40754776/checking-for-a-non-zero-non-null-integer
@@ -352,8 +307,6 @@ http://stackoverflow.com/questions/40829102/what-is-firebase-for-unit-testing
 http://stackoverflow.com/questions/40833698/how-to-differentiate-between-arraylist-removeposition-and-arraylist-removeval
 
 http://stackoverflow.com/questions/40826573/scanner-strings-equality
-
-http://stackoverflow.com/questions/40826998/is-there-anything-called-temporary-instance-of-a-class-in-java
 
 http://stackoverflow.com/questions/40824042/why-accessing-a-method-specific-to-an-object-from-a-super-reference-fails
 
