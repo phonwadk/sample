@@ -324,6 +324,8 @@ http://stackoverflow.com/questions/40893872/hashmap-put-syntax-error
 
 http://stackoverflow.com/questions/40893928/static-synchronized-and-non-static-synchronized-locks
 
+http://stackoverflow.com/questions/40894253/how-do-i-retrieve-the-objects-of-my-string-array?noredirect=1
+
 
 
 
