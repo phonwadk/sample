@@ -287,6 +287,64 @@ http://stackoverflow.com/questions/40725002/remove-section-of-array-of-ints-and-
 
 http://stackoverflow.com/questions/40722710/no-bean-named-testname-is-defined
 
+http://stackoverflow.com/questions/40790178/java-json-object-error
+
+http://stackoverflow.com/questions/40773517/how-to-randomize-between-given-number-in-java
+
+http://stackoverflow.com/questions/40774672/why-is-this-causing-a-nullpointerexception
+
+http://stackoverflow.com/questions/40772543/fastest-way-to-search-for-a-string-in-a-list-of-strings-better-than-on
+
+http://stackoverflow.com/questions/40743085/arrayindexoutofbounds-doesnt-fire-getting-nullpointerexception-in-finally-bloc
+
+http://stackoverflow.com/questions/40757399/in-string-what-happens-to-the-string-when-we-concat-other-string-to-it-where-is
+
+http://stackoverflow.com/questions/40757226/how-to-use-java-reflection
+
+http://stackoverflow.com/questions/40755651/create-an-instance-of-java-subclass
+
+http://stackoverflow.com/questions/40754776/checking-for-a-non-zero-non-null-integer
+
+http://stackoverflow.com/questions/40751924/php-to-java-date-mismatch
+
+http://stackoverflow.com/questions/40751501/can-a-case-in-a-java-switch-statement-be-called-more-than-once
+
+http://stackoverflow.com/questions/40748820/change-place-of-instance-initializer-block-give-me-different-output
+
+http://stackoverflow.com/questions/40748640/is-it-possible-to-method-reference-into-own-class-without-duplicating-the-name-w
+
+http://stackoverflow.com/questions/40748276/how-to-pass-values-to-a-function-with-linkedliststring-inline
+
+http://stackoverflow.com/questions/40699362/spring-resttemplate-authorization-header-issues
+
+http://stackoverflow.com/questions/40747250/how-to-print-counting-with-constructor-in-following-code
+
+http://stackoverflow.com/questions/40745790/code-compiles-even-if-generic-type-is-wrong
+
+http://stackoverflow.com/questions/40744106/what-should-i-do-correct-error-in-else-statement-i-need-to-set-the-background-t
+
+http://stackoverflow.com/questions/40743351/iterator-with-resources-in-java
+
+http://stackoverflow.com/questions/40743579/java-arraylist-wrapper
+
+http://stackoverflow.com/questions/40722890/new-bufferedreaderfilereader-buffersize-vs-files-newbufferedreader
+
+http://stackoverflow.com/questions/40733415/string-replaceall-is-returning-memory-address-instead-of-string
+
+http://stackoverflow.com/questions/40733377/system-out-printlnchar-returns-the-actual-array-contents-rather-than-chexn
+
+http://stackoverflow.com/questions/40733046/why-use-a-null-value-for-a-string
+
+http://stackoverflow.com/questions/40732919/why-does-the-java-print-statement-ignore-the-array-method-change-and-what-needs
+
+http://stackoverflow.com/questions/40730446/java-how-to-get-thread-id-at-creation-time-in-a-thread-pool
+
+http://stackoverflow.com/questions/40560390/pretty-print-json-created-using-jsr-353-object-model-api
+
+http://stackoverflow.com/questions/40727859/listmods-returning-unrecognized-option-with-java9
+
+http://stackoverflow.com/questions/40725217/why-isnt-foreach-call-accepted
+
 
 
 
