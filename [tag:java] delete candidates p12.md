@@ -48,8 +48,6 @@ http://stackoverflow.com/questions/40566214/java-lambda-expression-with-two-opea
 
 http://stackoverflow.com/questions/40565169/how-do-i-set-library-path-as-command-line-arguments-in-java
 
-http://stackoverflow.com/questions/40565020/java-scanner-issue
-
 http://stackoverflow.com/questions/40560444/i-cant-understand-what-is-wrong-with-my-code
 
 http://stackoverflow.com/questions/40556962/circular-dependency-after-using-setter-injection
@@ -91,8 +89,6 @@ http://stackoverflow.com/questions/40530095/java-methods-with-multiple-return-ty
 http://stackoverflow.com/questions/40529630/how-to-use-spring-mvc-in-existing-dynamic-web-project
 
 http://stackoverflow.com/questions/40682368/mockito-doreturn-evaluates-the-call-after-when
-
-http://stackoverflow.com/questions/40682293/inheritance-function-override-and-constructor-behavior-in-java
 
 http://stackoverflow.com/questions/40681964/different-javax-inject-qualifier-and-org-springframework-beans-factory-annotatio
 
@@ -146,8 +142,6 @@ http://stackoverflow.com/questions/40713164/exception-in-thread-main-java-lang-n
 
 http://stackoverflow.com/questions/40711878/java-sql-sqlsyntaxerrorexception-syntax-error
 
-http://stackoverflow.com/questions/40711877/inner-class-instance-calling-outer-class-functions
-
 http://stackoverflow.com/questions/40711475/escaping-in-java-sql-query
 
 http://stackoverflow.com/questions/40711724/does-int-x-this-foo-5-re-read-the-value-of-this-foo
@@ -165,8 +159,6 @@ http://stackoverflow.com/questions/40706268/why-is-underscore-after-octal-radix-
 http://stackoverflow.com/questions/40705468/java-workaround-for-nextline-after-nextint-doesnt-work
 
 http://stackoverflow.com/questions/40705681/string-array-gets-overwrritten
-
-http://stackoverflow.com/questions/40704291/overriding-concept-in-java
 
 http://stackoverflow.com/questions/40696514/why-are-we-no-allowed-to-call-an-interfaces-default-method-from-a-class-which
 
@@ -244,8 +236,6 @@ http://stackoverflow.com/questions/40733377/system-out-printlnchar-returns-the-a
 
 http://stackoverflow.com/questions/40733046/why-use-a-null-value-for-a-string
 
-http://stackoverflow.com/questions/40732919/why-does-the-java-print-statement-ignore-the-array-method-change-and-what-needs
-
 http://stackoverflow.com/questions/40730446/java-how-to-get-thread-id-at-creation-time-in-a-thread-pool
 
 http://stackoverflow.com/questions/40560390/pretty-print-json-created-using-jsr-353-object-model-api
@@ -273,8 +263,6 @@ http://stackoverflow.com/questions/40856378/i-cannot-figure-out-why-my-java-code
 http://stackoverflow.com/questions/40848078/why-do-i-get-a-null-pointer-exception-in-java
 
 http://stackoverflow.com/questions/40849178/what-would-be-the-output-of-the-below-code-snippet
-
-http://stackoverflow.com/questions/40846298/passing-the-created-object-as-argument-to-another-class-constructor-or-its-meth
 
 http://stackoverflow.com/questions/40838976/can-we-write-if-condition-inside-return
 
