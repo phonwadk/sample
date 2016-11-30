@@ -50,8 +50,6 @@ http://stackoverflow.com/questions/40565169/how-do-i-set-library-path-as-command
 
 http://stackoverflow.com/questions/40560444/i-cant-understand-what-is-wrong-with-my-code
 
-http://stackoverflow.com/questions/40556962/circular-dependency-after-using-setter-injection
-
 http://stackoverflow.com/questions/40552260/java-collections-sort-not-sorting-arraylist
 
 http://stackoverflow.com/questions/40550124/comparing-two-strings-java
@@ -63,8 +61,6 @@ http://stackoverflow.com/questions/40532446/how-can-i-check-if-an-array-of-unkno
 http://stackoverflow.com/questions/40541052/error-exception-in-thread-awt-eventqueue-0-java-lang-numberformatexception-n
 
 http://stackoverflow.com/questions/16328541/simple-paypal-integration-with-wordpress
-
-http://stackoverflow.com/questions/40540778/exclamation-point-before-calling-a-recursive-function
 
 http://stackoverflow.com/questions/40524629/using-collections-sort-in-java-to-sort-an-array-list
 
@@ -234,8 +230,6 @@ http://stackoverflow.com/questions/40733415/string-replaceall-is-returning-memor
 
 http://stackoverflow.com/questions/40733377/system-out-printlnchar-returns-the-actual-array-contents-rather-than-chexn
 
-http://stackoverflow.com/questions/40733046/why-use-a-null-value-for-a-string
-
 http://stackoverflow.com/questions/40730446/java-how-to-get-thread-id-at-creation-time-in-a-thread-pool
 
 http://stackoverflow.com/questions/40560390/pretty-print-json-created-using-jsr-353-object-model-api
@@ -297,12 +291,5 @@ http://stackoverflow.com/questions/40894253/how-do-i-retrieve-the-objects-of-my-
 http://stackoverflow.com/questions/40895331/bufferedreader-error?noredirect=1
 
 http://stackoverflow.com/questions/40898815/why-should-i-use-the-abstract-keyword
-
-
-
-
-
-
-
 
 http://stackoverflow.com/questions/39653224/whats-wrong-if-anything-with-the-following-jscript-code
