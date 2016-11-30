@@ -4,8 +4,6 @@ http://stackoverflow.com/questions/40148683/why-is-%e0%a5%a7%e0%a5%a8%e0%a5%a9-n
 
 http://stackoverflow.com/questions/40364413/does-fileoutputstream-fsync-on-write-or-why-would-you-wrap-fileoutputstream-in
 
-http://stackoverflow.com/questions/40519837/im-new-to-programming-and-not-able-to-get-this-code
-
 http://stackoverflow.com/questions/40490248/java-get-compact-description-of-a-character
 
 http://stackoverflow.com/questions/40490017/adding-generic-numbers-in-java
@@ -13,8 +11,6 @@ http://stackoverflow.com/questions/40490017/adding-generic-numbers-in-java
 http://stackoverflow.com/questions/40488726/error-interface-abstract-method-cannot-have-body-in-java-8
 
 http://stackoverflow.com/questions/40457525/are-java-semaphores-strong-semaphores-by-default
-
-http://stackoverflow.com/questions/40456862/pass-an-array-of-strings-into-a-method-that-takes-in-strings-as-parameters
 
 .
 
@@ -106,17 +102,11 @@ http://stackoverflow.com/questions/40615673/basic-test-for-getter-setter
 
 http://stackoverflow.com/questions/40613788/simpledateformat-java-text-parseexception-gtm
 
-http://stackoverflow.com/questions/40599159/missing-return-statement-with-java
-
 http://stackoverflow.com/questions/40603723/java-array-object-returns-proxy-name
-
-http://stackoverflow.com/questions/40601849/what-is-object
 
 http://stackoverflow.com/questions/40600963/what-is-the-value-of-a-variable-after-the-code-sequence-is-executed
 
 http://stackoverflow.com/questions/40599821/spring-aspect-not-working
-
-http://stackoverflow.com/questions/40593763/java-error-in-finding-the-average-of-an-array
 
 http://stackoverflow.com/questions/40592225/why-is-my-array-not-reversing
 
@@ -159,8 +149,6 @@ http://stackoverflow.com/questions/40705681/string-array-gets-overwrritten
 http://stackoverflow.com/questions/40696514/why-are-we-no-allowed-to-call-an-interfaces-default-method-from-a-class-which
 
 http://stackoverflow.com/questions/40701415/do-while-loop-is-not-working-for-one-block
-
-http://stackoverflow.com/questions/40698200/block-of-code-getting-ignored-in-do-statement
 
 http://stackoverflow.com/questions/40698834/array-as-paramiter-without-storing-it
 
@@ -205,8 +193,6 @@ http://stackoverflow.com/questions/40755651/create-an-instance-of-java-subclass
 http://stackoverflow.com/questions/40754776/checking-for-a-non-zero-non-null-integer
 
 http://stackoverflow.com/questions/40751924/php-to-java-date-mismatch
-
-http://stackoverflow.com/questions/40751501/can-a-case-in-a-java-switch-statement-be-called-more-than-once
 
 http://stackoverflow.com/questions/40748820/change-place-of-instance-initializer-block-give-me-different-output
 
