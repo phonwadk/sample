@@ -14,20 +14,6 @@ http://stackoverflow.com/questions/1795742/any-real-world-cmake-project-example
 
 http://stackoverflow.com/questions/40148683/why-is-%e0%a5%a7%e0%a5%a8%e0%a5%a9-numeric
 
-http://stackoverflow.com/questions/40267253/what-is-the-point-of-overriding-methods-of-object-class-in-an-interface
-
-http://stackoverflow.com/questions/40267676/why-double-lock-is-required-for-true-singleton
-
-http://stackoverflow.com/questions/40267687/why-is-the-variable-not-initialized-inside-of-my-method
-
-http://stackoverflow.com/questions/40267824/how-do-i-keep-my-scanner-from-scanning-multiple-questions-at-once
-
-http://stackoverflow.com/questions/40268231/incompatible-parameter-types-with-my-own-functional-interface
-
-http://stackoverflow.com/questions/40292176/reffer-to-object-from-constructor-java
-
-http://stackoverflow.com/questions/40298065/simple-method-is-not-working-properly
-
 http://stackoverflow.com/questions/40298933/how-does-this-overloading-work
 
 http://stackoverflow.com/questions/40305354/java-inheritance-not-acting-as-expected
