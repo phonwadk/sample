@@ -242,8 +242,6 @@ http://stackoverflow.com/questions/40748640/is-it-possible-to-method-reference-i
 
 http://stackoverflow.com/questions/40748276/how-to-pass-values-to-a-function-with-linkedliststring-inline
 
-http://stackoverflow.com/questions/40699362/spring-resttemplate-authorization-header-issues
-
 http://stackoverflow.com/questions/40747250/how-to-print-counting-with-constructor-in-following-code
 
 http://stackoverflow.com/questions/40745790/code-compiles-even-if-generic-type-is-wrong
