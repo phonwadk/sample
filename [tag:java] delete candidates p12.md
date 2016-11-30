@@ -92,6 +92,7 @@ http://stackoverflow.com/questions/40457051/change-html-file-based-off-of-screen
 
 http://stackoverflow.com/questions/40456862/pass-an-array-of-strings-into-a-method-that-takes-in-strings-as-parameters
 
+http://stackoverflow.com/questions/40566924/how-to-know-in-java-which-class-declared-an-object
 .
 
 http://stackoverflow.com/questions/40455467/in-java-why-do-we-need-to-initialize-or-declare-variables-without-giving-them-v
@@ -113,6 +114,63 @@ http://stackoverflow.com/questions/40371992/json-parsing-error-for-date-with-jac
 http://stackoverflow.com/questions/40372066/confusing-array-index-out-of-bounds-exception
 
 http://stackoverflow.com/questions/40364976/error-404-on-spring-servlet
+
+http://stackoverflow.com/questions/40567086/why-is-my-random-number-staying-the-same-in-java
+
+http://stackoverflow.com/questions/40566673/post-method-with-resttemplate
+
+http://stackoverflow.com/questions/40566257/using-localdatetime-for-a-spring-bean
+
+http://stackoverflow.com/questions/40566214/java-lambda-expression-with-two-opeartions
+
+http://stackoverflow.com/questions/40565169/how-do-i-set-library-path-as-command-line-arguments-in-java
+
+http://stackoverflow.com/questions/40565020/java-scanner-issue
+
+http://stackoverflow.com/questions/40560444/i-cant-understand-what-is-wrong-with-my-code
+
+http://stackoverflow.com/questions/40560327/its-a-code-for-hashmap-showing-error-at-the-for-condition-line-and-i-dont-know-w
+
+http://stackoverflow.com/questions/40556962/circular-dependency-after-using-setter-injection
+
+http://stackoverflow.com/questions/40552260/java-collections-sort-not-sorting-arraylist
+
+http://stackoverflow.com/questions/40550124/comparing-two-strings-java
+
+http://stackoverflow.com/questions/40540992/what-does-this-java-variable-declaration-mean
+
+http://stackoverflow.com/questions/40541604/how-extends-t-and-super-t-in-function-arguments-work-in-java
+
+http://stackoverflow.com/questions/40532446/how-can-i-check-if-an-array-of-unknown-type-is-empty
+
+http://stackoverflow.com/questions/40541052/error-exception-in-thread-awt-eventqueue-0-java-lang-numberformatexception-n
+
+http://stackoverflow.com/questions/16328541/simple-paypal-integration-with-wordpress
+
+http://stackoverflow.com/questions/40540778/exclamation-point-before-calling-a-recursive-function
+
+http://stackoverflow.com/questions/40524629/using-collections-sort-in-java-to-sort-an-array-list
+
+http://stackoverflow.com/questions/40538805/java-lang-illegalargumentexception-wrong-number-of-arguments-while-using-java-r
+
+http://stackoverflow.com/questions/40538572/why-is-java-8-optional-not-an-algebraic-data-type
+
+http://stackoverflow.com/questions/40518974/spring-application-does-not-exit-when-close-is-called-on-configurableapplication
+
+http://stackoverflow.com/questions/40535711/class-constructor-variable-error-message-cannot-resolve-symbol-why
+
+http://stackoverflow.com/questions/40533766/beginning-java-input-validation-for-a-multiple-choice-quiz
+
+http://stackoverflow.com/questions/40534531/generic-type-for-a-inner-interface
+
+http://stackoverflow.com/questions/40534185/date-validation-user-input
+
+http://stackoverflow.com/questions/39237632/is-there-any-documentation-for-chisel3
+
+http://stackoverflow.com/questions/40530095/java-methods-with-multiple-return-types
+
+http://stackoverflow.com/questions/40529630/how-to-use-spring-mvc-in-existing-dynamic-web-project
+
 
 
 
