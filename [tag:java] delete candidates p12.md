@@ -58,8 +58,6 @@ http://stackoverflow.com/questions/40552260/java-collections-sort-not-sorting-ar
 
 http://stackoverflow.com/questions/40550124/comparing-two-strings-java
 
-http://stackoverflow.com/questions/40540992/what-does-this-java-variable-declaration-mean
-
 http://stackoverflow.com/questions/40541604/how-extends-t-and-super-t-in-function-arguments-work-in-java
 
 http://stackoverflow.com/questions/40532446/how-can-i-check-if-an-array-of-unknown-type-is-empty
@@ -111,8 +109,6 @@ http://stackoverflow.com/questions/40658466/try-catch-inside-of-a-while-loop-thr
 http://stackoverflow.com/questions/40617955/java-array-cannot-find-symbol-error-bluej
 
 http://stackoverflow.com/questions/40623596/shortcut-in-using-or-operator-multiple-times-to-compare-values-in-a-state
-
-http://stackoverflow.com/questions/40618861/private-and-final
 
 http://stackoverflow.com/questions/40615673/basic-test-for-getter-setter
 
@@ -197,8 +193,6 @@ http://stackoverflow.com/questions/40726219/read-cassandra-sstables-offline
 http://stackoverflow.com/questions/40726330/cannot-assign-random-values-to-array
 
 http://stackoverflow.com/questions/40726415/spurious-method-frame-on-java-call-stack-when-using-generics
-
-http://stackoverflow.com/questions/40726020/why-is-charset-used-in-java
 
 http://stackoverflow.com/questions/40686969/spring-rest-post-not-supported
 
