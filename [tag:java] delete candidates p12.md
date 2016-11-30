@@ -26,8 +26,6 @@ http://stackoverflow.com/questions/40307070/i-cant-get-thread-sleep-to-work
 
 http://stackoverflow.com/questions/40307004/why-cant-i-call-fu-from-main-method
 
-http://stackoverflow.com/questions/40313836/how-to-know-if-an-object-of-type-lets-say-classa-exists-at-a-specific-location
-
 http://stackoverflow.com/questions/40314584/java-for-loop-to-do-while-loop
 
 http://stackoverflow.com/questions/40364051/spring-boot-autowiring-using-generics
