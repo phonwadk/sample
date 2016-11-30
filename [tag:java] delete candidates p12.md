@@ -324,7 +324,7 @@ http://stackoverflow.com/questions/40893928/static-synchronized-and-non-static-s
 
 http://stackoverflow.com/questions/40894253/how-do-i-retrieve-the-objects-of-my-string-array?noredirect=1
 
-
+http://stackoverflow.com/questions/40895331/bufferedreader-error?noredirect=1
 
 
 
