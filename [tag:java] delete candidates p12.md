@@ -192,3 +192,5 @@ http://stackoverflow.com/questions/39653224/whats-wrong-if-anything-with-the-fol
 http://stackoverflow.com/questions/40914134/java-random-numbers-to-show-in-my-text-file
 
 http://stackoverflow.com/questions/40916342/what-a-simple-search-method-should-return-any-value-is-correct
+
+http://stackoverflow.com/questions/40916041/create-instance-from-interface
