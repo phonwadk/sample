@@ -4,8 +4,6 @@ http://stackoverflow.com/questions/40364413/does-fileoutputstream-fsync-on-write
 
 http://stackoverflow.com/questions/40490248/java-get-compact-description-of-a-character
 
-http://stackoverflow.com/questions/40490017/adding-generic-numbers-in-java
-
 http://stackoverflow.com/questions/40455467/in-java-why-do-we-need-to-initialize-or-declare-variables-without-giving-them-v
 
 http://stackoverflow.com/questions/40454207/how-to-define-a-constructor-that-takes-zero-arguments-and-initializes-its-field
@@ -21,8 +19,6 @@ http://stackoverflow.com/questions/40566257/using-localdatetime-for-a-spring-bea
 http://stackoverflow.com/questions/40560444/i-cant-understand-what-is-wrong-with-my-code
 
 http://stackoverflow.com/questions/40552260/java-collections-sort-not-sorting-arraylist
-
-http://stackoverflow.com/questions/40532446/how-can-i-check-if-an-array-of-unknown-type-is-empty
 
 http://stackoverflow.com/questions/40541052/error-exception-in-thread-awt-eventqueue-0-java-lang-numberformatexception-n
 
