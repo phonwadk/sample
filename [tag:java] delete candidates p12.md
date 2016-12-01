@@ -108,8 +108,6 @@ http://stackoverflow.com/questions/40472311/syntax-error-with-sql-prepared-state
 
 http://stackoverflow.com/questions/40713164/exception-in-thread-main-java-lang-nullpointerexception-with-all-variables-dec
 
-http://stackoverflow.com/questions/40711878/java-sql-sqlsyntaxerrorexception-syntax-error
-
 http://stackoverflow.com/questions/40711475/escaping-in-java-sql-query
 
 http://stackoverflow.com/questions/40711724/does-int-x-this-foo-5-re-read-the-value-of-this-foo
@@ -146,8 +144,6 @@ http://stackoverflow.com/questions/40726219/read-cassandra-sstables-offline
 
 http://stackoverflow.com/questions/40726330/cannot-assign-random-values-to-array
 
-http://stackoverflow.com/questions/40726415/spurious-method-frame-on-java-call-stack-when-using-generics
-
 http://stackoverflow.com/questions/40725002/remove-section-of-array-of-ints-and-return-as-a-new-array
 
 http://stackoverflow.com/questions/40722710/no-bean-named-testname-is-defined
@@ -174,11 +170,7 @@ http://stackoverflow.com/questions/40748820/change-place-of-instance-initializer
 
 http://stackoverflow.com/questions/40748640/is-it-possible-to-method-reference-into-own-class-without-duplicating-the-name-w
 
-http://stackoverflow.com/questions/40748276/how-to-pass-values-to-a-function-with-linkedliststring-inline
-
 http://stackoverflow.com/questions/40747250/how-to-print-counting-with-constructor-in-following-code
-
-http://stackoverflow.com/questions/40745790/code-compiles-even-if-generic-type-is-wrong
 
 http://stackoverflow.com/questions/40744106/what-should-i-do-correct-error-in-else-statement-i-need-to-set-the-background-t
 
@@ -188,15 +180,11 @@ http://stackoverflow.com/questions/40743579/java-arraylist-wrapper
 
 http://stackoverflow.com/questions/40722890/new-bufferedreaderfilereader-buffersize-vs-files-newbufferedreader
 
-http://stackoverflow.com/questions/40733415/string-replaceall-is-returning-memory-address-instead-of-string
-
 http://stackoverflow.com/questions/40730446/java-how-to-get-thread-id-at-creation-time-in-a-thread-pool
 
 http://stackoverflow.com/questions/40560390/pretty-print-json-created-using-jsr-353-object-model-api
 
 http://stackoverflow.com/questions/40727859/listmods-returning-unrecognized-option-with-java9
-
-http://stackoverflow.com/questions/40725217/why-isnt-foreach-call-accepted
 
 http://stackoverflow.com/questions/40878403/java-wont-find-my-file
 
@@ -220,15 +208,12 @@ http://stackoverflow.com/questions/40849178/what-would-be-the-output-of-the-belo
 
 http://stackoverflow.com/questions/40838976/can-we-write-if-condition-inside-return
 
-http://stackoverflow.com/questions/40839615/can-we-convert-string-date-dd-mm-yyyy-format-to-yyyy-mm-dd-in-java
-
 http://stackoverflow.com/questions/40839168/why-the-polymorphism-dont-play-a-role
 
 http://stackoverflow.com/questions/40829237/is-java-define-polymorphic-methods-by-default-in-opposite-of-what-c-sharp-does
 
 http://stackoverflow.com/questions/40829102/what-is-firebase-for-unit-testing
 
-http://stackoverflow.com/questions/40833698/how-to-differentiate-between-arraylist-removeposition-and-arraylist-removeval
 
 http://stackoverflow.com/questions/40826573/scanner-strings-equality
 
