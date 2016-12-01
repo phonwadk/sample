@@ -1,7 +1,3 @@
-http://stackoverflow.com/questions/40901385/java-extracting-digits-from-integer
-
-http://stackoverflow.com/questions/40893538/how-to-create-a-lambda-expression-in-java8
-
 http://stackoverflow.com/questions/40148683/why-is-%e0%a5%a7%e0%a5%a8%e0%a5%a9-numeric
 
 http://stackoverflow.com/questions/40364413/does-fileoutputstream-fsync-on-write-or-why-would-you-wrap-fileoutputstream-in
@@ -10,33 +6,19 @@ http://stackoverflow.com/questions/40490248/java-get-compact-description-of-a-ch
 
 http://stackoverflow.com/questions/40490017/adding-generic-numbers-in-java
 
-http://stackoverflow.com/questions/40457525/are-java-semaphores-strong-semaphores-by-default
-
 .
 
 http://stackoverflow.com/questions/40455467/in-java-why-do-we-need-to-initialize-or-declare-variables-without-giving-them-v
-
-http://stackoverflow.com/questions/40455258/error-in-java-using-eclipse
 
 http://stackoverflow.com/questions/40454207/how-to-define-a-constructor-that-takes-zero-arguments-and-initializes-its-field
 
 http://stackoverflow.com/questions/40392247/spring-inject-value-to-constructor
 
-http://stackoverflow.com/questions/40372306/performance-of-arraylist-iteration-in-java
-
 http://stackoverflow.com/questions/40371992/json-parsing-error-for-date-with-jackson
 
 http://stackoverflow.com/questions/40372066/confusing-array-index-out-of-bounds-exception
 
-http://stackoverflow.com/questions/40567086/why-is-my-random-number-staying-the-same-in-java
-
-http://stackoverflow.com/questions/40566673/post-method-with-resttemplate
-
 http://stackoverflow.com/questions/40566257/using-localdatetime-for-a-spring-bean
-
-http://stackoverflow.com/questions/40566214/java-lambda-expression-with-two-opeartions
-
-http://stackoverflow.com/questions/40565169/how-do-i-set-library-path-as-command-line-arguments-in-java
 
 http://stackoverflow.com/questions/40560444/i-cant-understand-what-is-wrong-with-my-code
 
@@ -45,8 +27,6 @@ http://stackoverflow.com/questions/40552260/java-collections-sort-not-sorting-ar
 http://stackoverflow.com/questions/40532446/how-can-i-check-if-an-array-of-unknown-type-is-empty
 
 http://stackoverflow.com/questions/40541052/error-exception-in-thread-awt-eventqueue-0-java-lang-numberformatexception-n
-
-http://stackoverflow.com/questions/40524629/using-collections-sort-in-java-to-sort-an-array-list
 
 http://stackoverflow.com/questions/40538572/why-is-java-8-optional-not-an-algebraic-data-type
 
@@ -58,17 +38,11 @@ http://stackoverflow.com/questions/40533766/beginning-java-input-validation-for-
 
 http://stackoverflow.com/questions/40534531/generic-type-for-a-inner-interface
 
-http://stackoverflow.com/questions/40534185/date-validation-user-input
-
-http://stackoverflow.com/questions/39237632/is-there-any-documentation-for-chisel3
-
 http://stackoverflow.com/questions/40530095/java-methods-with-multiple-return-types
 
 http://stackoverflow.com/questions/40682368/mockito-doreturn-evaluates-the-call-after-when
 
 http://stackoverflow.com/questions/40681964/different-javax-inject-qualifier-and-org-springframework-beans-factory-annotatio
-
-http://stackoverflow.com/questions/40670739/java-how-to-make-an-upside-down-pyramid-with-numbers
 
 http://stackoverflow.com/questions/40669723/spring-dependency-injection-injection-of-all-beans-of-type-x-as-a-collection
 
@@ -78,25 +52,13 @@ http://stackoverflow.com/questions/40661833/why-do-classes-need-to-be-instantiat
 
 http://stackoverflow.com/questions/40658466/try-catch-inside-of-a-while-loop-throw-an-exception
 
-http://stackoverflow.com/questions/40617955/java-array-cannot-find-symbol-error-bluej
-
 http://stackoverflow.com/questions/40623596/shortcut-in-using-or-operator-multiple-times-to-compare-values-in-a-state
 
-http://stackoverflow.com/questions/40613788/simpledateformat-java-text-parseexception-gtm
-
 http://stackoverflow.com/questions/40603723/java-array-object-returns-proxy-name
-
-http://stackoverflow.com/questions/40600963/what-is-the-value-of-a-variable-after-the-code-sequence-is-executed
-
-http://stackoverflow.com/questions/40599821/spring-aspect-not-working
-
-http://stackoverflow.com/questions/40592225/why-is-my-array-not-reversing
 
 http://stackoverflow.com/questions/40592627/java-measuring-time-with-system-nanotime-returns-strange-values
 
 http://stackoverflow.com/questions/40588853/identify-the-class-variable-and-reference-of-this-code-in-java
-
-http://stackoverflow.com/questions/40586318/how-exactly-works-the-assert-method-in-junit
 
 http://stackoverflow.com/questions/40567876/can-you-have-different-return-types-of-abstract-methods
 
@@ -116,23 +78,13 @@ http://stackoverflow.com/questions/40705921/java-is-assignment-of-weakreference-
 
 http://stackoverflow.com/questions/40708281/reference-to-class-inside-static-func
 
-http://stackoverflow.com/questions/40708876/how-jvm-handles-exceptions-internally
-
-http://stackoverflow.com/questions/40707968/something-wrong-when-declaring-a-new-url
-
-http://stackoverflow.com/questions/40706268/why-is-underscore-after-octal-radix-allowed-in-java
-
 http://stackoverflow.com/questions/40705468/java-workaround-for-nextline-after-nextint-doesnt-work
 
 http://stackoverflow.com/questions/40705681/string-array-gets-overwrritten
 
-http://stackoverflow.com/questions/40696514/why-are-we-no-allowed-to-call-an-interfaces-default-method-from-a-class-which
-
 http://stackoverflow.com/questions/40701415/do-while-loop-is-not-working-for-one-block
 
 http://stackoverflow.com/questions/40698834/array-as-paramiter-without-storing-it
-
-http://stackoverflow.com/questions/40697956/arraylist-capacity-when-creating-a-new-arraylist
 
 http://stackoverflow.com/questions/40688402/deck-shuffle-cannot-make-static-reference
 
