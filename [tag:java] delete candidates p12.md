@@ -20,10 +20,6 @@ http://stackoverflow.com/questions/40455258/error-in-java-using-eclipse
 
 http://stackoverflow.com/questions/40454207/how-to-define-a-constructor-that-takes-zero-arguments-and-initializes-its-field
 
-http://stackoverflow.com/questions/40453381/c-sharp-for-a-java-developer-what-are-square-brackets-after-an-instance-object
-
-http://stackoverflow.com/questions/40414839/issue-on-equal-operator-inside-if-condition-java
-
 http://stackoverflow.com/questions/40392247/spring-inject-value-to-constructor
 
 http://stackoverflow.com/questions/40372306/performance-of-arraylist-iteration-in-java
@@ -31,8 +27,6 @@ http://stackoverflow.com/questions/40372306/performance-of-arraylist-iteration-i
 http://stackoverflow.com/questions/40371992/json-parsing-error-for-date-with-jackson
 
 http://stackoverflow.com/questions/40372066/confusing-array-index-out-of-bounds-exception
-
-http://stackoverflow.com/questions/40364976/error-404-on-spring-servlet
 
 http://stackoverflow.com/questions/40567086/why-is-my-random-number-staying-the-same-in-java
 
@@ -48,19 +42,11 @@ http://stackoverflow.com/questions/40560444/i-cant-understand-what-is-wrong-with
 
 http://stackoverflow.com/questions/40552260/java-collections-sort-not-sorting-arraylist
 
-http://stackoverflow.com/questions/40550124/comparing-two-strings-java
-
-http://stackoverflow.com/questions/40541604/how-extends-t-and-super-t-in-function-arguments-work-in-java
-
 http://stackoverflow.com/questions/40532446/how-can-i-check-if-an-array-of-unknown-type-is-empty
 
 http://stackoverflow.com/questions/40541052/error-exception-in-thread-awt-eventqueue-0-java-lang-numberformatexception-n
 
-http://stackoverflow.com/questions/16328541/simple-paypal-integration-with-wordpress
-
 http://stackoverflow.com/questions/40524629/using-collections-sort-in-java-to-sort-an-array-list
-
-http://stackoverflow.com/questions/40538805/java-lang-illegalargumentexception-wrong-number-of-arguments-while-using-java-r
 
 http://stackoverflow.com/questions/40538572/why-is-java-8-optional-not-an-algebraic-data-type
 
@@ -77,8 +63,6 @@ http://stackoverflow.com/questions/40534185/date-validation-user-input
 http://stackoverflow.com/questions/39237632/is-there-any-documentation-for-chisel3
 
 http://stackoverflow.com/questions/40530095/java-methods-with-multiple-return-types
-
-http://stackoverflow.com/questions/40529630/how-to-use-spring-mvc-in-existing-dynamic-web-project
 
 http://stackoverflow.com/questions/40682368/mockito-doreturn-evaluates-the-call-after-when
 
@@ -152,13 +136,9 @@ http://stackoverflow.com/questions/40698834/array-as-paramiter-without-storing-i
 
 http://stackoverflow.com/questions/40697956/arraylist-capacity-when-creating-a-new-arraylist
 
-http://stackoverflow.com/questions/40696915/java-localtime-lose-1-minute-when-sorting-arraylist-of-objects-by-localtime-fi
-
 http://stackoverflow.com/questions/40688402/deck-shuffle-cannot-make-static-reference
 
 http://stackoverflow.com/questions/40686081/arrays-and-null-pointer-exception
-
-http://stackoverflow.com/questions/40686489/is-the-a-programming-language-in-which-i-can-write-a-library-that-would-work-on
 
 http://stackoverflow.com/questions/40682753/java-lang-arrayindexoutofboundsexception-7
 
@@ -167,8 +147,6 @@ http://stackoverflow.com/questions/40726219/read-cassandra-sstables-offline
 http://stackoverflow.com/questions/40726330/cannot-assign-random-values-to-array
 
 http://stackoverflow.com/questions/40726415/spurious-method-frame-on-java-call-stack-when-using-generics
-
-http://stackoverflow.com/questions/40686969/spring-rest-post-not-supported
 
 http://stackoverflow.com/questions/40725002/remove-section-of-array-of-ints-and-return-as-a-new-array
 
@@ -211,8 +189,6 @@ http://stackoverflow.com/questions/40743579/java-arraylist-wrapper
 http://stackoverflow.com/questions/40722890/new-bufferedreaderfilereader-buffersize-vs-files-newbufferedreader
 
 http://stackoverflow.com/questions/40733415/string-replaceall-is-returning-memory-address-instead-of-string
-
-http://stackoverflow.com/questions/40733377/system-out-printlnchar-returns-the-actual-array-contents-rather-than-chexn
 
 http://stackoverflow.com/questions/40730446/java-how-to-get-thread-id-at-creation-time-in-a-thread-pool
 
