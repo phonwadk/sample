@@ -195,4 +195,6 @@ http://stackoverflow.com/questions/40917821/how-to-use-table-of-setters-in-java-
 
 http://stackoverflow.com/questions/40917197/optimized-way-of-concatenating-string
 
-http://stackoverflow.com/questions/40918485/how-to-reference-a-variable-that-is-within-a-method-of-another-class?noredirect=1
+http://stackoverflow.com/questions/40918485/how-to-reference-a-variable-that-is-within-a-method-of-another-class
+
+http://stackoverflow.com/questions/33460422/should-i-override-equals-with-calls-to-hashcode
