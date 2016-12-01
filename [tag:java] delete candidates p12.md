@@ -194,3 +194,5 @@ http://stackoverflow.com/questions/40916041/create-instance-from-interface
 http://stackoverflow.com/questions/40917821/how-to-use-table-of-setters-in-java-constructor
 
 http://stackoverflow.com/questions/40917197/optimized-way-of-concatenating-string
+
+http://stackoverflow.com/questions/40918485/how-to-reference-a-variable-that-is-within-a-method-of-another-class?noredirect=1
