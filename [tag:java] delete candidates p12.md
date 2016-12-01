@@ -190,3 +190,5 @@ http://stackoverflow.com/questions/40898815/why-should-i-use-the-abstract-keywor
 http://stackoverflow.com/questions/39653224/whats-wrong-if-anything-with-the-following-jscript-code
 
 http://stackoverflow.com/questions/40914134/java-random-numbers-to-show-in-my-text-file
+
+http://stackoverflow.com/questions/40916342/what-a-simple-search-method-should-return-any-value-is-correct?noredirect=1
