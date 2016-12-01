@@ -194,3 +194,5 @@ http://stackoverflow.com/questions/40914134/java-random-numbers-to-show-in-my-te
 http://stackoverflow.com/questions/40916342/what-a-simple-search-method-should-return-any-value-is-correct
 
 http://stackoverflow.com/questions/40916041/create-instance-from-interface
+
+http://stackoverflow.com/questions/40917821/how-to-use-table-of-setters-in-java-constructor
