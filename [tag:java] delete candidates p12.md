@@ -98,8 +98,6 @@ http://stackoverflow.com/questions/40617955/java-array-cannot-find-symbol-error-
 
 http://stackoverflow.com/questions/40623596/shortcut-in-using-or-operator-multiple-times-to-compare-values-in-a-state
 
-http://stackoverflow.com/questions/40615673/basic-test-for-getter-setter
-
 http://stackoverflow.com/questions/40613788/simpledateformat-java-text-parseexception-gtm
 
 http://stackoverflow.com/questions/40603723/java-array-object-returns-proxy-name
