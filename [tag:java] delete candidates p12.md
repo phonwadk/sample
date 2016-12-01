@@ -8,8 +8,6 @@ http://stackoverflow.com/questions/40490248/java-get-compact-description-of-a-ch
 
 http://stackoverflow.com/questions/40490017/adding-generic-numbers-in-java
 
-http://stackoverflow.com/questions/40488726/error-interface-abstract-method-cannot-have-body-in-java-8
-
 http://stackoverflow.com/questions/40457525/are-java-semaphores-strong-semaphores-by-default
 
 .
