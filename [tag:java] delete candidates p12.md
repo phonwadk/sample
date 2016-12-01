@@ -6,8 +6,6 @@ http://stackoverflow.com/questions/40490248/java-get-compact-description-of-a-ch
 
 http://stackoverflow.com/questions/40490017/adding-generic-numbers-in-java
 
-.
-
 http://stackoverflow.com/questions/40455467/in-java-why-do-we-need-to-initialize-or-declare-variables-without-giving-them-v
 
 http://stackoverflow.com/questions/40454207/how-to-define-a-constructor-that-takes-zero-arguments-and-initializes-its-field
@@ -190,3 +188,5 @@ http://stackoverflow.com/questions/40895331/bufferedreader-error?noredirect=1
 http://stackoverflow.com/questions/40898815/why-should-i-use-the-abstract-keyword
 
 http://stackoverflow.com/questions/39653224/whats-wrong-if-anything-with-the-following-jscript-code
+
+http://stackoverflow.com/questions/40914134/java-random-numbers-to-show-in-my-text-file
