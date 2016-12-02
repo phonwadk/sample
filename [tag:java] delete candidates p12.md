@@ -180,3 +180,5 @@ http://stackoverflow.com/questions/40934963/why-am-i-getting-a-null-pointer-exce
 http://stackoverflow.com/questions/40935871/why-there-is-no-resource-leak-warning
 
 http://stackoverflow.com/questions/40925890/java-type-of-expression-must-be-an-array-but-it-resolved-to-a-char-error-in-f
+
+http://stackoverflow.com/questions/40923904/printwriter-not-writing-to-text-file-something-wrong-in-the-try-and-catch-block
