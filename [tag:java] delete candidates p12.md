@@ -40,8 +40,6 @@ http://stackoverflow.com/questions/40661833/why-do-classes-need-to-be-instantiat
 
 http://stackoverflow.com/questions/40658466/try-catch-inside-of-a-while-loop-throw-an-exception
 
-http://stackoverflow.com/questions/40603723/java-array-object-returns-proxy-name
-
 http://stackoverflow.com/questions/40588853/identify-the-class-variable-and-reference-of-this-code-in-java
 
 http://stackoverflow.com/questions/40567876/can-you-have-different-return-types-of-abstract-methods
