@@ -174,3 +174,5 @@ http://stackoverflow.com/questions/40925890/java-type-of-expression-must-be-an-a
 http://stackoverflow.com/questions/40923904/printwriter-not-writing-to-text-file-something-wrong-in-the-try-and-catch-block
 
 http://stackoverflow.com/questions/40939301/counting-same-strings-from-array-in-java
+
+http://stackoverflow.com/questions/40941670/how-to-call-a-array-list-in-the-no-arg-constructor
