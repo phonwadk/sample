@@ -200,3 +200,6 @@ http://stackoverflow.com/questions/40918485/how-to-reference-a-variable-that-is-
 http://stackoverflow.com/questions/33460422/should-i-override-equals-with-calls-to-hashcode
 
 http://stackoverflow.com/questions/40923028/how-can-i-get-the-length-of-each-element-in-an-arraylist-made-up-of-strings-in-j
+
+http://stackoverflow.com/questions/40919931/replacement-string-with-enum
+
