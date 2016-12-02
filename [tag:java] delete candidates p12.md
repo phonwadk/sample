@@ -178,3 +178,5 @@ http://stackoverflow.com/questions/40924495/trying-to-read-a-text-file-but-it-wo
 http://stackoverflow.com/questions/40926324/missing-return-statement-variable-might-not-have-been-initialize
 
 http://stackoverflow.com/questions/40934963/why-am-i-getting-a-null-pointer-exception-at-setonclicklistener
+
+http://stackoverflow.com/questions/40935871/why-there-is-no-resource-leak-warning#
