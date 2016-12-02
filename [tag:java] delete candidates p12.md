@@ -116,8 +116,6 @@ http://stackoverflow.com/questions/40751924/php-to-java-date-mismatch
 
 http://stackoverflow.com/questions/40748820/change-place-of-instance-initializer-block-give-me-different-output
 
-http://stackoverflow.com/questions/40748640/is-it-possible-to-method-reference-into-own-class-without-duplicating-the-name-w
-
 http://stackoverflow.com/questions/40747250/how-to-print-counting-with-constructor-in-following-code
 
 http://stackoverflow.com/questions/40744106/what-should-i-do-correct-error-in-else-statement-i-need-to-set-the-background-t
