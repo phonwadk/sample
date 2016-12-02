@@ -201,3 +201,4 @@ http://stackoverflow.com/questions/40923028/how-can-i-get-the-length-of-each-ele
 
 http://stackoverflow.com/questions/40919931/replacement-string-with-enum
 
+http://stackoverflow.com/questions/40924495/trying-to-read-a-text-file-but-it-wont-read-it-unless-i-delete-a-line
