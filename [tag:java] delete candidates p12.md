@@ -198,3 +198,5 @@ http://stackoverflow.com/questions/40917197/optimized-way-of-concatenating-strin
 http://stackoverflow.com/questions/40918485/how-to-reference-a-variable-that-is-within-a-method-of-another-class
 
 http://stackoverflow.com/questions/33460422/should-i-override-equals-with-calls-to-hashcode
+
+http://stackoverflow.com/questions/40923028/how-can-i-get-the-length-of-each-element-in-an-arraylist-made-up-of-strings-in-j
