@@ -1,7 +1,5 @@
 Please VTC this garbage: http://stackoverflow.com/questions/40936030/can-someone-explain-to-me-how-to-work-with-boolean-methods-in-java
 
-http://stackoverflow.com/questions/40148683/why-is-%e0%a5%a7%e0%a5%a8%e0%a5%a9-numeric
-
 http://stackoverflow.com/questions/40364413/does-fileoutputstream-fsync-on-write-or-why-would-you-wrap-fileoutputstream-in
 
 http://stackoverflow.com/questions/40490248/java-get-compact-description-of-a-character
@@ -179,4 +177,6 @@ http://stackoverflow.com/questions/40926324/missing-return-statement-variable-mi
 
 http://stackoverflow.com/questions/40934963/why-am-i-getting-a-null-pointer-exception-at-setonclicklistener
 
-http://stackoverflow.com/questions/40935871/why-there-is-no-resource-leak-warning#
+http://stackoverflow.com/questions/40935871/why-there-is-no-resource-leak-warning
+
+http://stackoverflow.com/questions/40925890/java-type-of-expression-must-be-an-array-but-it-resolved-to-a-char-error-in-f
