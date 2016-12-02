@@ -1,5 +1,3 @@
-http://stackoverflow.com/questions/40920052/java-code-not-working
-
 http://stackoverflow.com/questions/40148683/why-is-%e0%a5%a7%e0%a5%a8%e0%a5%a9-numeric
 
 http://stackoverflow.com/questions/40364413/does-fileoutputstream-fsync-on-write-or-why-would-you-wrap-fileoutputstream-in
@@ -7,8 +5,6 @@ http://stackoverflow.com/questions/40364413/does-fileoutputstream-fsync-on-write
 http://stackoverflow.com/questions/40490248/java-get-compact-description-of-a-character
 
 http://stackoverflow.com/questions/40455467/in-java-why-do-we-need-to-initialize-or-declare-variables-without-giving-them-v
-
-http://stackoverflow.com/questions/40454207/how-to-define-a-constructor-that-takes-zero-arguments-and-initializes-its-field
 
 http://stackoverflow.com/questions/40392247/spring-inject-value-to-constructor
 
@@ -32,13 +28,9 @@ http://stackoverflow.com/questions/40535711/class-constructor-variable-error-mes
 
 http://stackoverflow.com/questions/40533766/beginning-java-input-validation-for-a-multiple-choice-quiz
 
-http://stackoverflow.com/questions/40534531/generic-type-for-a-inner-interface
-
 http://stackoverflow.com/questions/40530095/java-methods-with-multiple-return-types
 
 http://stackoverflow.com/questions/40682368/mockito-doreturn-evaluates-the-call-after-when
-
-http://stackoverflow.com/questions/40681964/different-javax-inject-qualifier-and-org-springframework-beans-factory-annotatio
 
 http://stackoverflow.com/questions/40669723/spring-dependency-injection-injection-of-all-beans-of-type-x-as-a-collection
 
@@ -48,17 +40,11 @@ http://stackoverflow.com/questions/40661833/why-do-classes-need-to-be-instantiat
 
 http://stackoverflow.com/questions/40658466/try-catch-inside-of-a-while-loop-throw-an-exception
 
-http://stackoverflow.com/questions/40623596/shortcut-in-using-or-operator-multiple-times-to-compare-values-in-a-state
-
 http://stackoverflow.com/questions/40603723/java-array-object-returns-proxy-name
-
-http://stackoverflow.com/questions/40592627/java-measuring-time-with-system-nanotime-returns-strange-values
 
 http://stackoverflow.com/questions/40588853/identify-the-class-variable-and-reference-of-this-code-in-java
 
 http://stackoverflow.com/questions/40567876/can-you-have-different-return-types-of-abstract-methods
-
-http://stackoverflow.com/questions/40579001/java-why-is-this-not-allowed
 
 http://stackoverflow.com/questions/40608290/java-calendar-code-is-dead-code?noredirect=1
 
@@ -74,8 +60,6 @@ http://stackoverflow.com/questions/40705921/java-is-assignment-of-weakreference-
 
 http://stackoverflow.com/questions/40708281/reference-to-class-inside-static-func
 
-http://stackoverflow.com/questions/40705468/java-workaround-for-nextline-after-nextint-doesnt-work
-
 http://stackoverflow.com/questions/40705681/string-array-gets-overwrritten
 
 http://stackoverflow.com/questions/40701415/do-while-loop-is-not-working-for-one-block
@@ -83,10 +67,6 @@ http://stackoverflow.com/questions/40701415/do-while-loop-is-not-working-for-one
 http://stackoverflow.com/questions/40698834/array-as-paramiter-without-storing-it
 
 http://stackoverflow.com/questions/40688402/deck-shuffle-cannot-make-static-reference
-
-http://stackoverflow.com/questions/40686081/arrays-and-null-pointer-exception
-
-http://stackoverflow.com/questions/40682753/java-lang-arrayindexoutofboundsexception-7
 
 http://stackoverflow.com/questions/40726219/read-cassandra-sstables-offline
 
@@ -108,8 +88,6 @@ http://stackoverflow.com/questions/40743085/arrayindexoutofbounds-doesnt-fire-ge
 
 http://stackoverflow.com/questions/40757399/in-string-what-happens-to-the-string-when-we-concat-other-string-to-it-where-is
 
-http://stackoverflow.com/questions/40755651/create-an-instance-of-java-subclass
-
 http://stackoverflow.com/questions/40754776/checking-for-a-non-zero-non-null-integer
 
 http://stackoverflow.com/questions/40751924/php-to-java-date-mismatch
@@ -121,8 +99,6 @@ http://stackoverflow.com/questions/40747250/how-to-print-counting-with-construct
 http://stackoverflow.com/questions/40744106/what-should-i-do-correct-error-in-else-statement-i-need-to-set-the-background-t
 
 http://stackoverflow.com/questions/40743351/iterator-with-resources-in-java
-
-http://stackoverflow.com/questions/40743579/java-arraylist-wrapper
 
 http://stackoverflow.com/questions/40722890/new-bufferedreaderfilereader-buffersize-vs-files-newbufferedreader
 
@@ -143,10 +119,6 @@ http://stackoverflow.com/questions/40867472/store-100k-words-in-memory-hash-or-t
 http://stackoverflow.com/questions/40861218/my-simpledateformat-is-always-giving-me-a-wrong-result
 
 http://stackoverflow.com/questions/40860740/java-exceptions
-
-http://stackoverflow.com/questions/40860231/constructor-in-abstract-class-cannot-be-applied-to-given-types-argument-length
-
-http://stackoverflow.com/questions/40856378/i-cannot-figure-out-why-my-java-code-concatenates-instead-of-adding-the-values
 
 http://stackoverflow.com/questions/40848078/why-do-i-get-a-null-pointer-exception-in-java
 
