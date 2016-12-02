@@ -84,8 +84,6 @@ http://stackoverflow.com/questions/40772543/fastest-way-to-search-for-a-string-i
 
 http://stackoverflow.com/questions/40743085/arrayindexoutofbounds-doesnt-fire-getting-nullpointerexception-in-finally-bloc
 
-http://stackoverflow.com/questions/40757399/in-string-what-happens-to-the-string-when-we-concat-other-string-to-it-where-is
-
 http://stackoverflow.com/questions/40754776/checking-for-a-non-zero-non-null-integer
 
 http://stackoverflow.com/questions/40751924/php-to-java-date-mismatch
@@ -108,10 +106,6 @@ http://stackoverflow.com/questions/40727859/listmods-returning-unrecognized-opti
 
 http://stackoverflow.com/questions/40878403/java-wont-find-my-file
 
-http://stackoverflow.com/questions/40867973/date-format-in-java-when-9999-12-31-23-59-59-999999
-
-http://stackoverflow.com/questions/40868471/subclass-superclass-constructor
-
 http://stackoverflow.com/questions/40867472/store-100k-words-in-memory-hash-or-trie
 
 http://stackoverflow.com/questions/40861218/my-simpledateformat-is-always-giving-me-a-wrong-result
@@ -121,10 +115,6 @@ http://stackoverflow.com/questions/40860740/java-exceptions
 http://stackoverflow.com/questions/40848078/why-do-i-get-a-null-pointer-exception-in-java
 
 http://stackoverflow.com/questions/40849178/what-would-be-the-output-of-the-below-code-snippet
-
-http://stackoverflow.com/questions/40838976/can-we-write-if-condition-inside-return
-
-http://stackoverflow.com/questions/40839168/why-the-polymorphism-dont-play-a-role
 
 http://stackoverflow.com/questions/40829237/is-java-define-polymorphic-methods-by-default-in-opposite-of-what-c-sharp-does
 
