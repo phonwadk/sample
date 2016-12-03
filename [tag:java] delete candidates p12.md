@@ -1,5 +1,7 @@
 Please VTC this garbage: http://stackoverflow.com/questions/40936030/can-someone-explain-to-me-how-to-work-with-boolean-methods-in-java
 
+http://stackoverflow.com/questions/40926324/missing-return-statement-variable-might-not-have-been-initialize
+
 http://stackoverflow.com/questions/40364413/does-fileoutputstream-fsync-on-write-or-why-would-you-wrap-fileoutputstream-in
 
 http://stackoverflow.com/questions/40490248/java-get-compact-description-of-a-character
@@ -163,8 +165,6 @@ http://stackoverflow.com/questions/40919931/replacement-string-with-enum
 
 http://stackoverflow.com/questions/40924495/trying-to-read-a-text-file-but-it-wont-read-it-unless-i-delete-a-line
 
-http://stackoverflow.com/questions/40926324/missing-return-statement-variable-might-not-have-been-initialize
-
 http://stackoverflow.com/questions/40934963/why-am-i-getting-a-null-pointer-exception-at-setonclicklistener
 
 http://stackoverflow.com/questions/40935871/why-there-is-no-resource-leak-warning
@@ -175,4 +175,8 @@ http://stackoverflow.com/questions/40923904/printwriter-not-writing-to-text-file
 
 http://stackoverflow.com/questions/40939301/counting-same-strings-from-array-in-java
 
+http://stackoverflow.com/questions/40938994/this-keyword-in-android-when-creating-new-object
+
 http://stackoverflow.com/questions/40941670/how-to-call-a-array-list-in-the-no-arg-constructor
+
+http://stackoverflow.com/questions/40943513/synchronization-on-object-and-inner-method
