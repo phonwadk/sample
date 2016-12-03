@@ -52,8 +52,6 @@ http://stackoverflow.com/questions/40705921/java-is-assignment-of-weakreference-
 
 http://stackoverflow.com/questions/40708281/reference-to-class-inside-static-func
 
-http://stackoverflow.com/questions/40705681/string-array-gets-overwrritten
-
 http://stackoverflow.com/questions/40701415/do-while-loop-is-not-working-for-one-block
 
 http://stackoverflow.com/questions/40688402/deck-shuffle-cannot-make-static-reference
