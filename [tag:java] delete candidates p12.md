@@ -170,3 +170,5 @@ http://stackoverflow.com/questions/40938994/this-keyword-in-android-when-creatin
 http://stackoverflow.com/questions/40941670/how-to-call-a-array-list-in-the-no-arg-constructor
 
 http://stackoverflow.com/questions/40943513/synchronization-on-object-and-inner-method
+
+http://stackoverflow.com/questions/40943778/good-practice-to-check-user-input-date-against-todays-current-date
