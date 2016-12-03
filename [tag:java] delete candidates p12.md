@@ -174,3 +174,5 @@ http://stackoverflow.com/questions/40943513/synchronization-on-object-and-inner-
 http://stackoverflow.com/questions/40943778/good-practice-to-check-user-input-date-against-todays-current-date
 
 http://stackoverflow.com/questions/40906631/java-boolean-check
+
+http://stackoverflow.com/questions/40886853/how-to-collect-to-queue-in-java-8
