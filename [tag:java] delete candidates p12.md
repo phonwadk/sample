@@ -24,13 +24,7 @@ http://stackoverflow.com/questions/40541052/error-exception-in-thread-awt-eventq
 
 http://stackoverflow.com/questions/40538572/why-is-java-8-optional-not-an-algebraic-data-type
 
-http://stackoverflow.com/questions/40518974/spring-application-does-not-exit-when-close-is-called-on-configurableapplication
-
-http://stackoverflow.com/questions/40535711/class-constructor-variable-error-message-cannot-resolve-symbol-why
-
 http://stackoverflow.com/questions/40533766/beginning-java-input-validation-for-a-multiple-choice-quiz
-
-http://stackoverflow.com/questions/40530095/java-methods-with-multiple-return-types
 
 http://stackoverflow.com/questions/40682368/mockito-doreturn-evaluates-the-call-after-when
 
@@ -43,8 +37,6 @@ http://stackoverflow.com/questions/40661833/why-do-classes-need-to-be-instantiat
 http://stackoverflow.com/questions/40658466/try-catch-inside-of-a-while-loop-throw-an-exception
 
 http://stackoverflow.com/questions/40588853/identify-the-class-variable-and-reference-of-this-code-in-java
-
-http://stackoverflow.com/questions/40567876/can-you-have-different-return-types-of-abstract-methods
 
 http://stackoverflow.com/questions/40608290/java-calendar-code-is-dead-code?noredirect=1
 
@@ -63,8 +55,6 @@ http://stackoverflow.com/questions/40708281/reference-to-class-inside-static-fun
 http://stackoverflow.com/questions/40705681/string-array-gets-overwrritten
 
 http://stackoverflow.com/questions/40701415/do-while-loop-is-not-working-for-one-block
-
-http://stackoverflow.com/questions/40698834/array-as-paramiter-without-storing-it
 
 http://stackoverflow.com/questions/40688402/deck-shuffle-cannot-make-static-reference
 
