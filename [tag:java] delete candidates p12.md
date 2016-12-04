@@ -4,8 +4,6 @@ http://stackoverflow.com/questions/40926324/missing-return-statement-variable-mi
 
 http://stackoverflow.com/questions/40364413/does-fileoutputstream-fsync-on-write-or-why-would-you-wrap-fileoutputstream-in
 
-http://stackoverflow.com/questions/40490248/java-get-compact-description-of-a-character
-
 http://stackoverflow.com/questions/40455467/in-java-why-do-we-need-to-initialize-or-declare-variables-without-giving-them-v
 
 http://stackoverflow.com/questions/40392247/spring-inject-value-to-constructor
@@ -45,8 +43,6 @@ http://stackoverflow.com/questions/40472311/syntax-error-with-sql-prepared-state
 http://stackoverflow.com/questions/40713164/exception-in-thread-main-java-lang-nullpointerexception-with-all-variables-dec
 
 http://stackoverflow.com/questions/40711475/escaping-in-java-sql-query
-
-http://stackoverflow.com/questions/40711724/does-int-x-this-foo-5-re-read-the-value-of-this-foo
 
 http://stackoverflow.com/questions/40705921/java-is-assignment-of-weakreference-get-atomic
 
