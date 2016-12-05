@@ -118,3 +118,9 @@ http://stackoverflow.com/questions/40906631/java-boolean-check
 http://stackoverflow.com/questions/40886853/how-to-collect-to-queue-in-java-8
 
 http://stackoverflow.com/questions/40918350/scanner-is-skipping-declaration-after-the-first-use
+
+http://stackoverflow.com/questions/40913336/can-one-bucket-in-a-hashmap-have-different-hashcodes-mapped-to-it-or-does-a-uniq
+
+http://stackoverflow.com/questions/40918834/why-dont-equals-methods-compare-hash-codes
+
+http://stackoverflow.com/questions/40921486/does-the-semaphore-acquire-method-release-a-threads-intrinsic-lock-on-the-sem
