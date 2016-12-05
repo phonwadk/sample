@@ -44,49 +44,17 @@ http://stackoverflow.com/questions/40713164/exception-in-thread-main-java-lang-n
 
 http://stackoverflow.com/questions/40711475/escaping-in-java-sql-query
 
-http://stackoverflow.com/questions/40705921/java-is-assignment-of-weakreference-get-atomic
-
 http://stackoverflow.com/questions/40708281/reference-to-class-inside-static-func
 
 http://stackoverflow.com/questions/40701415/do-while-loop-is-not-working-for-one-block
 
 http://stackoverflow.com/questions/40688402/deck-shuffle-cannot-make-static-reference
 
-http://stackoverflow.com/questions/40726219/read-cassandra-sstables-offline
-
-http://stackoverflow.com/questions/40726330/cannot-assign-random-values-to-array
-
-http://stackoverflow.com/questions/40725002/remove-section-of-array-of-ints-and-return-as-a-new-array
-
-http://stackoverflow.com/questions/40722710/no-bean-named-testname-is-defined
-
-http://stackoverflow.com/questions/40790178/java-json-object-error
-
-http://stackoverflow.com/questions/40773517/how-to-randomize-between-given-number-in-java
-
-http://stackoverflow.com/questions/40774672/why-is-this-causing-a-nullpointerexception
-
-http://stackoverflow.com/questions/40772543/fastest-way-to-search-for-a-string-in-a-list-of-strings-better-than-on
-
 http://stackoverflow.com/questions/40743085/arrayindexoutofbounds-doesnt-fire-getting-nullpointerexception-in-finally-bloc
-
-http://stackoverflow.com/questions/40754776/checking-for-a-non-zero-non-null-integer
-
-http://stackoverflow.com/questions/40751924/php-to-java-date-mismatch
-
-http://stackoverflow.com/questions/40748820/change-place-of-instance-initializer-block-give-me-different-output
 
 http://stackoverflow.com/questions/40747250/how-to-print-counting-with-constructor-in-following-code
 
 http://stackoverflow.com/questions/40744106/what-should-i-do-correct-error-in-else-statement-i-need-to-set-the-background-t
-
-http://stackoverflow.com/questions/40743351/iterator-with-resources-in-java
-
-http://stackoverflow.com/questions/40722890/new-bufferedreaderfilereader-buffersize-vs-files-newbufferedreader
-
-http://stackoverflow.com/questions/40730446/java-how-to-get-thread-id-at-creation-time-in-a-thread-pool
-
-http://stackoverflow.com/questions/40560390/pretty-print-json-created-using-jsr-353-object-model-api
 
 http://stackoverflow.com/questions/40727859/listmods-returning-unrecognized-option-with-java9
 
@@ -95,8 +63,6 @@ http://stackoverflow.com/questions/40867472/store-100k-words-in-memory-hash-or-t
 http://stackoverflow.com/questions/40860740/java-exceptions
 
 http://stackoverflow.com/questions/40849178/what-would-be-the-output-of-the-below-code-snippet
-
-http://stackoverflow.com/questions/40829237/is-java-define-polymorphic-methods-by-default-in-opposite-of-what-c-sharp-does
 
 http://stackoverflow.com/questions/40829102/what-is-firebase-for-unit-testing
 
