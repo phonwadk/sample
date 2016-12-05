@@ -93,3 +93,5 @@ http://stackoverflow.com/questions/40978469/do-not-understand-why-this-the-eleme
 http://stackoverflow.com/questions/40979410/need-help-solving-java-lang-nullpointerexception-error
 
 http://stackoverflow.com/questions/40980504/java-method-to-reverse-an-array
+
+http://stackoverflow.com/questions/40980621/repeat-block-of-code-if-exception-is-thrown
