@@ -6,8 +6,6 @@ http://stackoverflow.com/questions/40392247/spring-inject-value-to-constructor
 
 http://stackoverflow.com/questions/40371992/json-parsing-error-for-date-with-jackson
 
-http://stackoverflow.com/questions/40372066/confusing-array-index-out-of-bounds-exception
-
 http://stackoverflow.com/questions/40560444/i-cant-understand-what-is-wrong-with-my-code
 
 http://stackoverflow.com/questions/40541052/error-exception-in-thread-awt-eventqueue-0-java-lang-numberformatexception-n
@@ -16,11 +14,7 @@ http://stackoverflow.com/questions/40533766/beginning-java-input-validation-for-
 
 http://stackoverflow.com/questions/40682368/mockito-doreturn-evaluates-the-call-after-when
 
-http://stackoverflow.com/questions/40661833/why-do-classes-need-to-be-instantiated-using-their-constructor-but-strings-whic
-
-http://stackoverflow.com/questions/40608290/java-calendar-code-is-dead-code?noredirect=1
-
-http://stackoverflow.com/questions/40472311/syntax-error-with-sql-prepared-statement?noredirect=1
+http://stackoverflow.com/questions/40608290/java-calendar-code-is-dead-code
 
 http://stackoverflow.com/questions/40713164/exception-in-thread-main-java-lang-nullpointerexception-with-all-variables-dec
 
@@ -33,8 +27,6 @@ http://stackoverflow.com/questions/40688402/deck-shuffle-cannot-make-static-refe
 http://stackoverflow.com/questions/40743085/arrayindexoutofbounds-doesnt-fire-getting-nullpointerexception-in-finally-bloc
 
 http://stackoverflow.com/questions/40747250/how-to-print-counting-with-constructor-in-following-code
-
-http://stackoverflow.com/questions/40744106/what-should-i-do-correct-error-in-else-statement-i-need-to-set-the-background-t
 
 http://stackoverflow.com/questions/40727859/listmods-returning-unrecognized-option-with-java9
 
@@ -59,9 +51,9 @@ http://stackoverflow.com/questions/40893872/hashmap-put-syntax-error
 
 http://stackoverflow.com/questions/40893928/static-synchronized-and-non-static-synchronized-locks
 
-http://stackoverflow.com/questions/40894253/how-do-i-retrieve-the-objects-of-my-string-array?noredirect=1
+http://stackoverflow.com/questions/40894253/how-do-i-retrieve-the-objects-of-my-string-array
 
-http://stackoverflow.com/questions/40895331/bufferedreader-error?noredirect=1
+http://stackoverflow.com/questions/40895331/bufferedreader-error
 
 http://stackoverflow.com/questions/40898815/why-should-i-use-the-abstract-keyword
 
