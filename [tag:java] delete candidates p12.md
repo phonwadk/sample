@@ -12,11 +12,7 @@ http://stackoverflow.com/questions/40371992/json-parsing-error-for-date-with-jac
 
 http://stackoverflow.com/questions/40372066/confusing-array-index-out-of-bounds-exception
 
-http://stackoverflow.com/questions/40566257/using-localdatetime-for-a-spring-bean
-
 http://stackoverflow.com/questions/40560444/i-cant-understand-what-is-wrong-with-my-code
-
-http://stackoverflow.com/questions/40552260/java-collections-sort-not-sorting-arraylist
 
 http://stackoverflow.com/questions/40541052/error-exception-in-thread-awt-eventqueue-0-java-lang-numberformatexception-n
 
@@ -26,13 +22,7 @@ http://stackoverflow.com/questions/40533766/beginning-java-input-validation-for-
 
 http://stackoverflow.com/questions/40682368/mockito-doreturn-evaluates-the-call-after-when
 
-http://stackoverflow.com/questions/40669723/spring-dependency-injection-injection-of-all-beans-of-type-x-as-a-collection
-
-http://stackoverflow.com/questions/40666094/how-does-treesete-keep-the-elements-sorted-and-avoid-inserting-duplicates-if-n
-
 http://stackoverflow.com/questions/40661833/why-do-classes-need-to-be-instantiated-using-their-constructor-but-strings-whic
-
-http://stackoverflow.com/questions/40658466/try-catch-inside-of-a-while-loop-throw-an-exception
 
 http://stackoverflow.com/questions/40588853/identify-the-class-variable-and-reference-of-this-code-in-java
 
@@ -45,8 +35,6 @@ http://stackoverflow.com/questions/40713164/exception-in-thread-main-java-lang-n
 http://stackoverflow.com/questions/40711475/escaping-in-java-sql-query
 
 http://stackoverflow.com/questions/40708281/reference-to-class-inside-static-func
-
-http://stackoverflow.com/questions/40701415/do-while-loop-is-not-working-for-one-block
 
 http://stackoverflow.com/questions/40688402/deck-shuffle-cannot-make-static-reference
 
