@@ -1,20 +1,8 @@
 Please VTC this garbage: http://stackoverflow.com/questions/40936030/can-someone-explain-to-me-how-to-work-with-boolean-methods-in-java
 
-http://stackoverflow.com/questions/40455467/in-java-why-do-we-need-to-initialize-or-declare-variables-without-giving-them-v
-
 http://stackoverflow.com/questions/40392247/spring-inject-value-to-constructor
 
 http://stackoverflow.com/questions/40371992/json-parsing-error-for-date-with-jackson
-
-http://stackoverflow.com/questions/40560444/i-cant-understand-what-is-wrong-with-my-code
-
-http://stackoverflow.com/questions/40541052/error-exception-in-thread-awt-eventqueue-0-java-lang-numberformatexception-n
-
-http://stackoverflow.com/questions/40533766/beginning-java-input-validation-for-a-multiple-choice-quiz
-
-http://stackoverflow.com/questions/40682368/mockito-doreturn-evaluates-the-call-after-when
-
-http://stackoverflow.com/questions/40608290/java-calendar-code-is-dead-code
 
 http://stackoverflow.com/questions/40713164/exception-in-thread-main-java-lang-nullpointerexception-with-all-variables-dec
 
@@ -24,16 +12,9 @@ http://stackoverflow.com/questions/40708281/reference-to-class-inside-static-fun
 
 http://stackoverflow.com/questions/40688402/deck-shuffle-cannot-make-static-reference
 
-http://stackoverflow.com/questions/40743085/arrayindexoutofbounds-doesnt-fire-getting-nullpointerexception-in-finally-bloc
-
-http://stackoverflow.com/questions/40747250/how-to-print-counting-with-constructor-in-following-code
-
-http://stackoverflow.com/questions/40727859/listmods-returning-unrecognized-option-with-java9
-
 http://stackoverflow.com/questions/40860740/java-exceptions
 
 http://stackoverflow.com/questions/40829102/what-is-firebase-for-unit-testing
-
 
 http://stackoverflow.com/questions/40826573/scanner-strings-equality
 
