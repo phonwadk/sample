@@ -38,8 +38,6 @@ http://stackoverflow.com/questions/40744106/what-should-i-do-correct-error-in-el
 
 http://stackoverflow.com/questions/40727859/listmods-returning-unrecognized-option-with-java9
 
-http://stackoverflow.com/questions/40867472/store-100k-words-in-memory-hash-or-trie
-
 http://stackoverflow.com/questions/40860740/java-exceptions
 
 http://stackoverflow.com/questions/40829102/what-is-firebase-for-unit-testing
