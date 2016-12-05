@@ -12,8 +12,6 @@ http://stackoverflow.com/questions/40560444/i-cant-understand-what-is-wrong-with
 
 http://stackoverflow.com/questions/40541052/error-exception-in-thread-awt-eventqueue-0-java-lang-numberformatexception-n
 
-http://stackoverflow.com/questions/40538572/why-is-java-8-optional-not-an-algebraic-data-type
-
 http://stackoverflow.com/questions/40533766/beginning-java-input-validation-for-a-multiple-choice-quiz
 
 http://stackoverflow.com/questions/40682368/mockito-doreturn-evaluates-the-call-after-when
