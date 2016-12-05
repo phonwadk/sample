@@ -1,9 +1,5 @@
 Please VTC this garbage: http://stackoverflow.com/questions/40936030/can-someone-explain-to-me-how-to-work-with-boolean-methods-in-java
 
-http://stackoverflow.com/questions/40926324/missing-return-statement-variable-might-not-have-been-initialize
-
-http://stackoverflow.com/questions/40364413/does-fileoutputstream-fsync-on-write-or-why-would-you-wrap-fileoutputstream-in
-
 http://stackoverflow.com/questions/40455467/in-java-why-do-we-need-to-initialize-or-declare-variables-without-giving-them-v
 
 http://stackoverflow.com/questions/40392247/spring-inject-value-to-constructor
