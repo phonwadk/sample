@@ -90,15 +90,9 @@ http://stackoverflow.com/questions/40560390/pretty-print-json-created-using-jsr-
 
 http://stackoverflow.com/questions/40727859/listmods-returning-unrecognized-option-with-java9
 
-http://stackoverflow.com/questions/40878403/java-wont-find-my-file
-
 http://stackoverflow.com/questions/40867472/store-100k-words-in-memory-hash-or-trie
 
-http://stackoverflow.com/questions/40861218/my-simpledateformat-is-always-giving-me-a-wrong-result
-
 http://stackoverflow.com/questions/40860740/java-exceptions
-
-http://stackoverflow.com/questions/40848078/why-do-i-get-a-null-pointer-exception-in-java
 
 http://stackoverflow.com/questions/40849178/what-would-be-the-output-of-the-below-code-snippet
 
