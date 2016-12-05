@@ -18,8 +18,6 @@ http://stackoverflow.com/questions/40682368/mockito-doreturn-evaluates-the-call-
 
 http://stackoverflow.com/questions/40661833/why-do-classes-need-to-be-instantiated-using-their-constructor-but-strings-whic
 
-http://stackoverflow.com/questions/40588853/identify-the-class-variable-and-reference-of-this-code-in-java
-
 http://stackoverflow.com/questions/40608290/java-calendar-code-is-dead-code?noredirect=1
 
 http://stackoverflow.com/questions/40472311/syntax-error-with-sql-prepared-statement?noredirect=1
