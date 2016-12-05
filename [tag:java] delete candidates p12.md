@@ -124,3 +124,7 @@ http://stackoverflow.com/questions/40913336/can-one-bucket-in-a-hashmap-have-dif
 http://stackoverflow.com/questions/40918834/why-dont-equals-methods-compare-hash-codes
 
 http://stackoverflow.com/questions/40921486/does-the-semaphore-acquire-method-release-a-threads-intrinsic-lock-on-the-sem
+
+http://stackoverflow.com/questions/40922897/how-do-i-use-a-random-number-as-an-index-to-an-array-in-java
+
+http://stackoverflow.com/questions/40924085/order-of-system-out-print
