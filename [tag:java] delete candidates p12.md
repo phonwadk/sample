@@ -116,3 +116,5 @@ http://stackoverflow.com/questions/40943778/good-practice-to-check-user-input-da
 http://stackoverflow.com/questions/40906631/java-boolean-check
 
 http://stackoverflow.com/questions/40886853/how-to-collect-to-queue-in-java-8
+
+http://stackoverflow.com/questions/40918350/scanner-is-skipping-declaration-after-the-first-use
