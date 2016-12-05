@@ -50,8 +50,6 @@ http://stackoverflow.com/questions/40867472/store-100k-words-in-memory-hash-or-t
 
 http://stackoverflow.com/questions/40860740/java-exceptions
 
-http://stackoverflow.com/questions/40849178/what-would-be-the-output-of-the-below-code-snippet
-
 http://stackoverflow.com/questions/40829102/what-is-firebase-for-unit-testing
 
 
