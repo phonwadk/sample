@@ -12,8 +12,6 @@ http://stackoverflow.com/questions/40708281/reference-to-class-inside-static-fun
 
 http://stackoverflow.com/questions/40688402/deck-shuffle-cannot-make-static-reference
 
-http://stackoverflow.com/questions/40860740/java-exceptions
-
 http://stackoverflow.com/questions/40829102/what-is-firebase-for-unit-testing
 
 http://stackoverflow.com/questions/40826573/scanner-strings-equality
