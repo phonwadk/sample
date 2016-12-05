@@ -120,3 +120,5 @@ http://stackoverflow.com/questions/40921486/does-the-semaphore-acquire-method-re
 http://stackoverflow.com/questions/40922897/how-do-i-use-a-random-number-as-an-index-to-an-array-in-java
 
 http://stackoverflow.com/questions/40924085/order-of-system-out-print
+
+http://stackoverflow.com/questions/40978469/do-not-understand-why-this-the-element-in-list-is-object-in-java
