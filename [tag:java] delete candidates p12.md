@@ -68,3 +68,4 @@ http://stackoverflow.com/questions/14732452/sumo-logic-vs-splunk
 
 http://stackoverflow.com/questions/40988642/using-array-to-keep-inserting-number-to-the-slots
 
+http://stackoverflow.com/questions/40998356/when-does-static-invocation-of-method-makes-sense-and-why-should-i-prefer-it-ove
