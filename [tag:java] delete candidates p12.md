@@ -14,8 +14,6 @@ http://stackoverflow.com/questions/40268927/why-does-accessing-final-static-vari
 
 http://stackoverflow.com/questions/40824042/why-accessing-a-method-specific-to-an-object-from-a-super-reference-fails
 
-http://stackoverflow.com/questions/40791443/void-is-an-invalid-type-for-the-variable-java
-
 http://stackoverflow.com/questions/40790483/how-do-you-assign-true-or-false-to-a-boolean-value-at-random
 
 http://stackoverflow.com/questions/33460422/should-i-override-equals-with-calls-to-hashcode
