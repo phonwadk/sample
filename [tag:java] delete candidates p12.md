@@ -30,8 +30,6 @@ http://stackoverflow.com/questions/40980621/repeat-block-of-code-if-exception-is
 
 http://stackoverflow.com/questions/40984975/what-is-this-single-line-java-class-methods-declaration
 
-http://stackoverflow.com/questions/40787211/what-does-mean-in-object-creation-of-java
-
 http://stackoverflow.com/questions/38980892/what-is-meant-by-putting-curly-braces-after-a-call-to-constructor-in-java
 
 http://stackoverflow.com/questions/40988408/synchronized-keyword-clarification
