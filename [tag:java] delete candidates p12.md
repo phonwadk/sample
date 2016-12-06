@@ -18,13 +18,7 @@ http://stackoverflow.com/questions/33460422/should-i-override-equals-with-calls-
 
 http://stackoverflow.com/questions/40924495/trying-to-read-a-text-file-but-it-wont-read-it-unless-i-delete-a-line
 
-http://stackoverflow.com/questions/40934963/why-am-i-getting-a-null-pointer-exception-at-setonclicklistener
-
-http://stackoverflow.com/questions/40939301/counting-same-strings-from-array-in-java
-
 http://stackoverflow.com/questions/40938994/this-keyword-in-android-when-creating-new-object
-
-http://stackoverflow.com/questions/40886853/how-to-collect-to-queue-in-java-8
 
 http://stackoverflow.com/questions/40921486/does-the-semaphore-acquire-method-release-a-threads-intrinsic-lock-on-the-sem
 
