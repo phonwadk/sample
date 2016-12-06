@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/40699362/spring-resttemplate-authorization-header-issues
+
 http://stackoverflow.com/questions/40936030/can-someone-explain-to-me-how-to-work-with-boolean-methods-in-java
 
 http://stackoverflow.com/questions/40392247/spring-inject-value-to-constructor
