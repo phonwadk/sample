@@ -16,13 +16,9 @@ http://stackoverflow.com/questions/40826573/scanner-strings-equality
 
 http://stackoverflow.com/questions/40824042/why-accessing-a-method-specific-to-an-object-from-a-super-reference-fails
 
-http://stackoverflow.com/questions/40790398/what-takes-more-time-between-java-parsing-or-creating-writing-and-flushing-a-fi
-
 http://stackoverflow.com/questions/40791443/void-is-an-invalid-type-for-the-variable-java
 
 http://stackoverflow.com/questions/40790483/how-do-you-assign-true-or-false-to-a-boolean-value-at-random
-
-http://stackoverflow.com/questions/39653224/whats-wrong-if-anything-with-the-following-jscript-code
 
 http://stackoverflow.com/questions/33460422/should-i-override-equals-with-calls-to-hashcode
 
