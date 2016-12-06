@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/40978107/parse-a-json-response-in-android
+
 http://stackoverflow.com/questions/40981778/exit-method-doesnt-end-my-java-programm
 
 http://stackoverflow.com/questions/40699362/spring-resttemplate-authorization-header-issues
