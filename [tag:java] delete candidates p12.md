@@ -12,8 +12,6 @@ http://stackoverflow.com/questions/40936030/can-someone-explain-to-me-how-to-wor
 
 http://stackoverflow.com/questions/40268927/why-does-accessing-final-static-variables-in-class-does-not-loads-the-class
 
-http://stackoverflow.com/questions/40826573/scanner-strings-equality
-
 http://stackoverflow.com/questions/40824042/why-accessing-a-method-specific-to-an-object-from-a-super-reference-fails
 
 http://stackoverflow.com/questions/40791443/void-is-an-invalid-type-for-the-variable-java
