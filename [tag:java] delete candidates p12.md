@@ -14,11 +14,7 @@ http://stackoverflow.com/questions/40268927/why-does-accessing-final-static-vari
 
 http://stackoverflow.com/questions/40824042/why-accessing-a-method-specific-to-an-object-from-a-super-reference-fails
 
-http://stackoverflow.com/questions/40790483/how-do-you-assign-true-or-false-to-a-boolean-value-at-random
-
 http://stackoverflow.com/questions/33460422/should-i-override-equals-with-calls-to-hashcode
-
-http://stackoverflow.com/questions/40919931/replacement-string-with-enum
 
 http://stackoverflow.com/questions/40924495/trying-to-read-a-text-file-but-it-wont-read-it-unless-i-delete-a-line
 
