@@ -32,8 +32,6 @@ http://stackoverflow.com/questions/40939301/counting-same-strings-from-array-in-
 
 http://stackoverflow.com/questions/40938994/this-keyword-in-android-when-creating-new-object
 
-http://stackoverflow.com/questions/40941670/how-to-call-a-array-list-in-the-no-arg-constructor
-
 http://stackoverflow.com/questions/40886853/how-to-collect-to-queue-in-java-8
 
 http://stackoverflow.com/questions/40921486/does-the-semaphore-acquire-method-release-a-threads-intrinsic-lock-on-the-sem
