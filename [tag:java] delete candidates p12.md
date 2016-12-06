@@ -1,5 +1,3 @@
-http://stackoverflow.com/questions/40565360/java-boolean-statement-with-or-operator-trouble
-
 http://stackoverflow.com/questions/40699362/spring-resttemplate-authorization-header-issues
 
 http://stackoverflow.com/questions/40474252/class-does-not-print-as-expected
@@ -16,19 +14,9 @@ http://stackoverflow.com/questions/40824042/why-accessing-a-method-specific-to-a
 
 http://stackoverflow.com/questions/40790398/what-takes-more-time-between-java-parsing-or-creating-writing-and-flushing-a-fi
 
-http://stackoverflow.com/questions/40794670/is-it-possible-to-convert-float-to-float-in-method-parameter
-
 http://stackoverflow.com/questions/40791443/void-is-an-invalid-type-for-the-variable-java
 
 http://stackoverflow.com/questions/40790483/how-do-you-assign-true-or-false-to-a-boolean-value-at-random
-
-http://stackoverflow.com/questions/40893872/hashmap-put-syntax-error
-
-http://stackoverflow.com/questions/40893928/static-synchronized-and-non-static-synchronized-locks
-
-http://stackoverflow.com/questions/40894253/how-do-i-retrieve-the-objects-of-my-string-array
-
-http://stackoverflow.com/questions/40895331/bufferedreader-error
 
 http://stackoverflow.com/questions/40898815/why-should-i-use-the-abstract-keyword
 
