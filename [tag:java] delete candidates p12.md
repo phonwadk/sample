@@ -1,18 +1,14 @@
+http://stackoverflow.com/questions/40565360/java-boolean-statement-with-or-operator-trouble
+
 http://stackoverflow.com/questions/40699362/spring-resttemplate-authorization-header-issues
+
+http://stackoverflow.com/questions/40474252/class-does-not-print-as-expected
+
+http://stackoverflow.com/questions/40457021/create-single-integer-constant-java
 
 http://stackoverflow.com/questions/40936030/can-someone-explain-to-me-how-to-work-with-boolean-methods-in-java
 
-http://stackoverflow.com/questions/40392247/spring-inject-value-to-constructor
-
-http://stackoverflow.com/questions/40371992/json-parsing-error-for-date-with-jackson
-
-http://stackoverflow.com/questions/40713164/exception-in-thread-main-java-lang-nullpointerexception-with-all-variables-dec
-
-http://stackoverflow.com/questions/40711475/escaping-in-java-sql-query
-
-http://stackoverflow.com/questions/40708281/reference-to-class-inside-static-func
-
-http://stackoverflow.com/questions/40688402/deck-shuffle-cannot-make-static-reference
+http://stackoverflow.com/questions/40268927/why-does-accessing-final-static-variables-in-class-does-not-loads-the-class
 
 http://stackoverflow.com/questions/40826573/scanner-strings-equality
 
