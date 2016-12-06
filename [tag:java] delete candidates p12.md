@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/40981778/exit-method-doesnt-end-my-java-programm
+
 http://stackoverflow.com/questions/40699362/spring-resttemplate-authorization-header-issues
 
 http://stackoverflow.com/questions/40474252/class-does-not-print-as-expected
@@ -42,8 +44,6 @@ http://stackoverflow.com/questions/40978469/do-not-understand-why-this-the-eleme
 
 http://stackoverflow.com/questions/40979410/need-help-solving-java-lang-nullpointerexception-error
 
-http://stackoverflow.com/questions/40980504/java-method-to-reverse-an-array
-
 http://stackoverflow.com/questions/40980621/repeat-block-of-code-if-exception-is-thrown
 
 http://stackoverflow.com/questions/40984975/what-is-this-single-line-java-class-methods-declaration
@@ -53,3 +53,18 @@ http://stackoverflow.com/questions/40787211/what-does-mean-in-object-creation-of
 http://stackoverflow.com/questions/38980892/what-is-meant-by-putting-curly-braces-after-a-call-to-constructor-in-java
 
 http://stackoverflow.com/questions/40988408/synchronized-keyword-clarification
+
+http://stackoverflow.com/questions/40978539/how-can-i-write-similar-if-requests-in-a-shorter-form
+
+http://stackoverflow.com/questions/40978783/get-methods-returning-no-values
+
+http://stackoverflow.com/questions/40983062/spaces-with-string-format-in-java
+
+http://stackoverflow.com/questions/40982951/java-when-is-static-initializer-called-with-private-constructor
+
+http://stackoverflow.com/questions/40985104/i-keep-getting-an-array-index-out-of-bounds-error-in-my-code
+
+http://stackoverflow.com/questions/14732452/sumo-logic-vs-splunk
+
+http://stackoverflow.com/questions/40988642/using-array-to-keep-inserting-number-to-the-slots
+
