@@ -2,13 +2,7 @@ http://stackoverflow.com/questions/41006239/what-does-the-means-in-the-formal-pa
 
 http://stackoverflow.com/questions/40988642/using-array-to-keep-inserting-number-to-the-slots
 
-http://stackoverflow.com/questions/40980066/load-the-ranges-in-to-an-string-array-core-java
-
 http://stackoverflow.com/questions/41001465/illegal-start-of-expression-identifier-expected-error
-
-http://stackoverflow.com/questions/40978107/parse-a-json-response-in-android
-
-http://stackoverflow.com/questions/40981778/exit-method-doesnt-end-my-java-programm
 
 http://stackoverflow.com/questions/40699362/spring-resttemplate-authorization-header-issues
 
@@ -21,10 +15,6 @@ http://stackoverflow.com/questions/40936030/can-someone-explain-to-me-how-to-wor
 http://stackoverflow.com/questions/40268927/why-does-accessing-final-static-variables-in-class-does-not-loads-the-class
 
 http://stackoverflow.com/questions/40824042/why-accessing-a-method-specific-to-an-object-from-a-super-reference-fails
-
-http://stackoverflow.com/questions/33460422/should-i-override-equals-with-calls-to-hashcode
-
-http://stackoverflow.com/questions/40924495/trying-to-read-a-text-file-but-it-wont-read-it-unless-i-delete-a-line
 
 http://stackoverflow.com/questions/40938994/this-keyword-in-android-when-creating-new-object
 
@@ -51,9 +41,5 @@ http://stackoverflow.com/questions/40982951/java-when-is-static-initializer-call
 http://stackoverflow.com/questions/40985104/i-keep-getting-an-array-index-out-of-bounds-error-in-my-code
 
 http://stackoverflow.com/questions/14732452/sumo-logic-vs-splunk
-
-http://stackoverflow.com/questions/40988642/using-array-to-keep-inserting-number-to-the-slots
-
-http://stackoverflow.com/questions/40998356/when-does-static-invocation-of-method-makes-sense-and-why-should-i-prefer-it-ove
 
 http://stackoverflow.com/questions/41007552/how-do-i-add-my-own-value
