@@ -1,20 +1,12 @@
-`cv-pls` then delete http://stackoverflow.com/questions/41023355/call-functions-separately-in-a-for-loop
-
 http://stackoverflow.com/questions/41021396/am-i-writing-the-method-correctly
 
 http://stackoverflow.com/questions/41001465/illegal-start-of-expression-identifier-expected-error
-
-http://stackoverflow.com/questions/40699362/spring-resttemplate-authorization-header-issues
 
 http://stackoverflow.com/questions/40474252/class-does-not-print-as-expected
 
 http://stackoverflow.com/questions/40457021/create-single-integer-constant-java
 
-http://stackoverflow.com/questions/40936030/can-someone-explain-to-me-how-to-work-with-boolean-methods-in-java
-
 http://stackoverflow.com/questions/40268927/why-does-accessing-final-static-variables-in-class-does-not-loads-the-class
-
-http://stackoverflow.com/questions/40938994/this-keyword-in-android-when-creating-new-object
 
 http://stackoverflow.com/questions/40921486/does-the-semaphore-acquire-method-release-a-threads-intrinsic-lock-on-the-sem
 
@@ -58,3 +50,5 @@ http://stackoverflow.com/questions/41007936/determine-the-number-of-letters-and-
 http://stackoverflow.com/questions/41007552/how-do-i-add-my-own-value
 
 http://stackoverflow.com/questions/41022379/simplify-java-nested-jsonobject-itteration
+
+http://stackoverflow.com/questions/41023355/call-functions-separately-in-a-for-loop
