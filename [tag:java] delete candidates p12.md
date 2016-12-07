@@ -43,3 +43,8 @@ http://stackoverflow.com/questions/40985104/i-keep-getting-an-array-index-out-of
 http://stackoverflow.com/questions/14732452/sumo-logic-vs-splunk
 
 http://stackoverflow.com/questions/41007552/how-do-i-add-my-own-value
+
+not yet
+====
+
+http://stackoverflow.com/questions/41021901/java-what-is-the-most-efficient-way-to-verify-if-a-stack-is-made-of-the-same-e
