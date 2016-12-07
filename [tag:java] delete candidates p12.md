@@ -1,3 +1,23 @@
+http://stackoverflow.com/questions/40913571/how-can-i-sort-an-array-of-strings-not-like-1-10-19-2-20
+
+http://stackoverflow.com/questions/40887737/simple-java-do-while-loop
+
+http://stackoverflow.com/questions/40894383/why-is-my-if-block-not-working
+
+http://stackoverflow.com/questions/40901565/arrayindexoutofboundsexception-when-setting-values-in-the-same-array
+
+http://stackoverflow.com/questions/40903157/if-block-returning-the-same-value-no-matter-what
+
+http://stackoverflow.com/questions/40895072/request-method-post-not-supported-in-spring-4
+
+http://stackoverflow.com/questions/40964179/when-does-string-intern-is-actually-called-by-compiler
+
+http://stackoverflow.com/questions/40976257/nullpointer-exception-error-on-file-object-that-points-to-directory
+
+http://stackoverflow.com/questions/40979546/picking-random-variable-in-java-through-array
+
+http://stackoverflow.com/questions/40979064/when-do-you-use-return-in-es6
+
 http://stackoverflow.com/questions/41001465/illegal-start-of-expression-identifier-expected-error
 
 http://stackoverflow.com/questions/40474252/class-does-not-print-as-expected
