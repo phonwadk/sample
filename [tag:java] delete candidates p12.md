@@ -12,15 +12,9 @@ http://stackoverflow.com/questions/40936030/can-someone-explain-to-me-how-to-wor
 
 http://stackoverflow.com/questions/40268927/why-does-accessing-final-static-variables-in-class-does-not-loads-the-class
 
-http://stackoverflow.com/questions/40824042/why-accessing-a-method-specific-to-an-object-from-a-super-reference-fails
-
 http://stackoverflow.com/questions/40938994/this-keyword-in-android-when-creating-new-object
 
 http://stackoverflow.com/questions/40921486/does-the-semaphore-acquire-method-release-a-threads-intrinsic-lock-on-the-sem
-
-http://stackoverflow.com/questions/40978469/do-not-understand-why-this-the-element-in-list-is-object-in-java
-
-http://stackoverflow.com/questions/40980621/repeat-block-of-code-if-exception-is-thrown
 
 http://stackoverflow.com/questions/40984975/what-is-this-single-line-java-class-methods-declaration
 
@@ -41,6 +35,10 @@ http://stackoverflow.com/questions/40985104/i-keep-getting-an-array-index-out-of
 http://stackoverflow.com/questions/14732452/sumo-logic-vs-splunk
 
 http://stackoverflow.com/questions/31512949/how-to-loop-the-complex-nested-json-in-java
+
+http://stackoverflow.com/questions/40978469/do-not-understand-why-this-the-element-in-list-is-object-in-java
+
+http://stackoverflow.com/questions/40980621/repeat-block-of-code-if-exception-is-thrown
 
 not yet
 ====
