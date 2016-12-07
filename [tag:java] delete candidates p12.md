@@ -1,5 +1,11 @@
 http://stackoverflow.com/questions/41006239/what-does-the-means-in-the-formal-parameters-list-of-this-method
 
+http://stackoverflow.com/questions/40988642/using-array-to-keep-inserting-number-to-the-slots
+
+http://stackoverflow.com/questions/40980066/load-the-ranges-in-to-an-string-array-core-java
+
+http://stackoverflow.com/questions/41001465/illegal-start-of-expression-identifier-expected-error
+
 http://stackoverflow.com/questions/40978107/parse-a-json-response-in-android
 
 http://stackoverflow.com/questions/40981778/exit-method-doesnt-end-my-java-programm
