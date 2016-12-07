@@ -52,3 +52,5 @@ http://stackoverflow.com/questions/41007823/how-do-you-return-a-string-represent
 http://stackoverflow.com/questions/41007936/determine-the-number-of-letters-and-numbers
 
 http://stackoverflow.com/questions/41007552/how-do-i-add-my-own-value
+
+http://stackoverflow.com/questions/41022379/simplify-java-nested-jsonobject-itteration
