@@ -1,9 +1,5 @@
 http://stackoverflow.com/questions/41021396/am-i-writing-the-method-correctly
 
-http://stackoverflow.com/questions/41006239/what-does-the-means-in-the-formal-parameters-list-of-this-method
-
-http://stackoverflow.com/questions/40988642/using-array-to-keep-inserting-number-to-the-slots
-
 http://stackoverflow.com/questions/41001465/illegal-start-of-expression-identifier-expected-error
 
 http://stackoverflow.com/questions/40699362/spring-resttemplate-authorization-header-issues
