@@ -24,8 +24,6 @@ http://stackoverflow.com/questions/40921486/does-the-semaphore-acquire-method-re
 
 http://stackoverflow.com/questions/40978469/do-not-understand-why-this-the-element-in-list-is-object-in-java
 
-http://stackoverflow.com/questions/40979410/need-help-solving-java-lang-nullpointerexception-error
-
 http://stackoverflow.com/questions/40980621/repeat-block-of-code-if-exception-is-thrown
 
 http://stackoverflow.com/questions/40984975/what-is-this-single-line-java-class-methods-declaration
