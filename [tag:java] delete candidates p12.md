@@ -1,5 +1,3 @@
-http://stackoverflow.com/questions/41021396/am-i-writing-the-method-correctly
-
 http://stackoverflow.com/questions/41001465/illegal-start-of-expression-identifier-expected-error
 
 http://stackoverflow.com/questions/40474252/class-does-not-print-as-expected
@@ -7,8 +5,6 @@ http://stackoverflow.com/questions/40474252/class-does-not-print-as-expected
 http://stackoverflow.com/questions/40457021/create-single-integer-constant-java
 
 http://stackoverflow.com/questions/40268927/why-does-accessing-final-static-variables-in-class-does-not-loads-the-class
-
-http://stackoverflow.com/questions/40921486/does-the-semaphore-acquire-method-release-a-threads-intrinsic-lock-on-the-sem
 
 http://stackoverflow.com/questions/40984975/what-is-this-single-line-java-class-methods-declaration
 
