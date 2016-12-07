@@ -44,6 +44,8 @@ http://stackoverflow.com/questions/40985104/i-keep-getting-an-array-index-out-of
 
 http://stackoverflow.com/questions/14732452/sumo-logic-vs-splunk
 
+http://stackoverflow.com/questions/31512949/how-to-loop-the-complex-nested-json-in-java
+
 not yet
 ====
 
