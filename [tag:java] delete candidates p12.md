@@ -47,6 +47,8 @@ http://stackoverflow.com/questions/14732452/sumo-logic-vs-splunk
 not yet
 ====
 
+http://stackoverflow.com/questions/41020485/does-the-parent-thread-count-while-counting-the-number-of-threads-created
+
 http://stackoverflow.com/questions/41021901/java-what-is-the-most-efficient-way-to-verify-if-a-stack-is-made-of-the-same-e
 
 http://stackoverflow.com/questions/41007823/how-do-you-return-a-string-representation-of-an-objects-data
