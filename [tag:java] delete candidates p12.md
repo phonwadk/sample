@@ -50,3 +50,5 @@ http://stackoverflow.com/questions/41040721/how-does-one-figure-out-upcasting-an
 http://stackoverflow.com/questions/41041536/universal-exceptionhandler-for-scheduled-tasks-in-spring-boot
 
 http://stackoverflow.com/questions/41024962/error-identifier-expected-push-and-pop-exercise
+
+http://stackoverflow.com/questions/41045259/is-there-any-alternative-of-c-getchar-function-in-java
