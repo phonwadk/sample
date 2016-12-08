@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/41031374/how-to-return-multiple-values-from-methods
+
 http://stackoverflow.com/questions/41025468/i-cannot-for-the-life-of-me-understand-why-i-am-getting-the-i-cannot-be-resolve
 
 http://stackoverflow.com/questions/41029244/what-is-the-core-difference-between-these-2-methods-signatures
