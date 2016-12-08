@@ -1,9 +1,3 @@
-http://stackoverflow.com/questions/41031374/how-to-return-multiple-values-from-methods
-
-http://stackoverflow.com/questions/41025468/i-cannot-for-the-life-of-me-understand-why-i-am-getting-the-i-cannot-be-resolve
-
-http://stackoverflow.com/questions/41029244/what-is-the-core-difference-between-these-2-methods-signatures
-
 http://stackoverflow.com/questions/40895072/request-method-post-not-supported-in-spring-4
 
 http://stackoverflow.com/questions/40964179/when-does-string-intern-is-actually-called-by-compiler
@@ -13,10 +7,6 @@ http://stackoverflow.com/questions/40979064/when-do-you-use-return-in-es6
 http://stackoverflow.com/questions/38980892/what-is-meant-by-putting-curly-braces-after-a-call-to-constructor-in-java
 
 http://stackoverflow.com/questions/14732452/sumo-logic-vs-splunk
-
-http://stackoverflow.com/questions/41007936/determine-the-number-of-letters-and-numbers
-
-http://stackoverflow.com/questions/41020485/does-the-parent-thread-count-while-counting-the-number-of-threads-created
 
 not yet
 ====
