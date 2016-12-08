@@ -44,6 +44,6 @@ http://stackoverflow.com/questions/41032684/why-negating-an-integer
 
 http://stackoverflow.com/questions/41042321/concept-of-overloading-in-java
 
-stackoverflow.com/questions/41041888/implementing-a-queue-by-using-a-single-linked-list
+http://stackoverflow.com/questions/41041888/implementing-a-queue-by-using-a-single-linked-list
 
 http://stackoverflow.com/questions/41040721/how-does-one-figure-out-upcasting-and-downcasting-in-java
