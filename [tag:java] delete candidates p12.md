@@ -1,8 +1,3 @@
-http://stackoverflow.com/questions/40895072/request-method-post-not-supported-in-spring-4
-
-http://stackoverflow.com/questions/40964179/when-does-string-intern-is-actually-called-by-compiler
-
-http://stackoverflow.com/questions/40979064/when-do-you-use-return-in-es6
 
 http://stackoverflow.com/questions/38980892/what-is-meant-by-putting-curly-braces-after-a-call-to-constructor-in-java
 
