@@ -1,4 +1,4 @@
-on cv typo then delete http://stackoverflow.com/questions/41040823/missing-comma-ora-00917
+one cv typo then delete http://stackoverflow.com/questions/41040823/missing-comma-ora-00917
 
 http://stackoverflow.com/questions/38980892/what-is-meant-by-putting-curly-braces-after-a-call-to-constructor-in-java
 
@@ -35,3 +35,5 @@ http://stackoverflow.com/questions/41030362/two-instances-of-the-same-class-with
 http://stackoverflow.com/questions/41030948/i-dont-know-why-i-got-this-error
 
 http://stackoverflow.com/questions/41044240/why-can-str-not-be-resolved-trying-to-parse-the-html-data-from-a-url
+
+http://stackoverflow.com/questions/41032658/do-an-instanceof-check-or-rely-on-classcast-exception
