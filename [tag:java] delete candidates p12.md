@@ -38,12 +38,16 @@ http://stackoverflow.com/questions/41044240/why-can-str-not-be-resolved-trying-t
 
 http://stackoverflow.com/questions/41032658/do-an-instanceof-check-or-rely-on-classcast-exception
 
-http://stackoverflow.com/questions/41032796/in-java-why-does-tostringint-i-int-radix-method-in-the-integer-class-always
-
 http://stackoverflow.com/questions/41032684/why-negating-an-integer
+
+depends on above ^^ http://stackoverflow.com/questions/41032796/in-java-why-does-tostringint-i-int-radix-method-in-the-integer-class-always
 
 http://stackoverflow.com/questions/41042321/concept-of-overloading-in-java
 
 http://stackoverflow.com/questions/41041888/implementing-a-queue-by-using-a-single-linked-list
 
 http://stackoverflow.com/questions/41040721/how-does-one-figure-out-upcasting-and-downcasting-in-java
+
+http://stackoverflow.com/questions/41041536/universal-exceptionhandler-for-scheduled-tasks-in-spring-boot
+
+http://stackoverflow.com/questions/41024962/error-identifier-expected-push-and-pop-exercise
