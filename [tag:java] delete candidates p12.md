@@ -26,19 +26,7 @@ http://stackoverflow.com/questions/40457021/create-single-integer-constant-java
 
 http://stackoverflow.com/questions/40268927/why-does-accessing-final-static-variables-in-class-does-not-loads-the-class
 
-http://stackoverflow.com/questions/40984975/what-is-this-single-line-java-class-methods-declaration
-
 http://stackoverflow.com/questions/38980892/what-is-meant-by-putting-curly-braces-after-a-call-to-constructor-in-java
-
-http://stackoverflow.com/questions/40988408/synchronized-keyword-clarification
-
-http://stackoverflow.com/questions/40978539/how-can-i-write-similar-if-requests-in-a-shorter-form
-
-http://stackoverflow.com/questions/40978783/get-methods-returning-no-values
-
-http://stackoverflow.com/questions/40983062/spaces-with-string-format-in-java
-
-http://stackoverflow.com/questions/40982951/java-when-is-static-initializer-called-with-private-constructor
 
 http://stackoverflow.com/questions/14732452/sumo-logic-vs-splunk
 
@@ -48,6 +36,7 @@ http://stackoverflow.com/questions/41020485/does-the-parent-thread-count-while-c
 
 not yet
 ====
+http://stackoverflow.com/questions/40978783/get-methods-returning-no-values
 
 http://stackoverflow.com/questions/41019651/why-the-split-function-is-producing-the-diff-results-in-case-of-and
 
