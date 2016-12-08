@@ -1,3 +1,4 @@
+on cv typo then delete http://stackoverflow.com/questions/41040823/missing-comma-ora-00917
 
 http://stackoverflow.com/questions/38980892/what-is-meant-by-putting-curly-braces-after-a-call-to-constructor-in-java
 
