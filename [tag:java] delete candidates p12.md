@@ -32,3 +32,5 @@ http://stackoverflow.com/questions/41021901/java-what-is-the-most-efficient-way-
 http://stackoverflow.com/questions/41030362/two-instances-of-the-same-class-with-different-structures
 
 http://stackoverflow.com/questions/41030948/i-dont-know-why-i-got-this-error
+
+http://stackoverflow.com/questions/41044240/why-can-str-not-be-resolved-trying-to-parse-the-html-data-from-a-url
