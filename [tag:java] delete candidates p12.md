@@ -4,8 +4,6 @@ http://stackoverflow.com/questions/41025468/i-cannot-for-the-life-of-me-understa
 
 http://stackoverflow.com/questions/41029244/what-is-the-core-difference-between-these-2-methods-signatures
 
-http://stackoverflow.com/questions/41029783/how-to-call-non-static-methods
-
 http://stackoverflow.com/questions/40895072/request-method-post-not-supported-in-spring-4
 
 http://stackoverflow.com/questions/40964179/when-does-string-intern-is-actually-called-by-compiler
