@@ -12,19 +12,7 @@ http://stackoverflow.com/questions/40895072/request-method-post-not-supported-in
 
 http://stackoverflow.com/questions/40964179/when-does-string-intern-is-actually-called-by-compiler
 
-http://stackoverflow.com/questions/40976257/nullpointer-exception-error-on-file-object-that-points-to-directory
-
-http://stackoverflow.com/questions/40979546/picking-random-variable-in-java-through-array
-
 http://stackoverflow.com/questions/40979064/when-do-you-use-return-in-es6
-
-http://stackoverflow.com/questions/41001465/illegal-start-of-expression-identifier-expected-error
-
-http://stackoverflow.com/questions/40474252/class-does-not-print-as-expected
-
-http://stackoverflow.com/questions/40457021/create-single-integer-constant-java
-
-http://stackoverflow.com/questions/40268927/why-does-accessing-final-static-variables-in-class-does-not-loads-the-class
 
 http://stackoverflow.com/questions/38980892/what-is-meant-by-putting-curly-braces-after-a-call-to-constructor-in-java
 
