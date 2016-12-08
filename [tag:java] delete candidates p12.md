@@ -40,15 +40,7 @@ http://stackoverflow.com/questions/40983062/spaces-with-string-format-in-java
 
 http://stackoverflow.com/questions/40982951/java-when-is-static-initializer-called-with-private-constructor
 
-http://stackoverflow.com/questions/40985104/i-keep-getting-an-array-index-out-of-bounds-error-in-my-code
-
 http://stackoverflow.com/questions/14732452/sumo-logic-vs-splunk
-
-http://stackoverflow.com/questions/31512949/how-to-loop-the-complex-nested-json-in-java
-
-http://stackoverflow.com/questions/40978469/do-not-understand-why-this-the-element-in-list-is-object-in-java
-
-http://stackoverflow.com/questions/40980621/repeat-block-of-code-if-exception-is-thrown
 
 not yet
 ====
