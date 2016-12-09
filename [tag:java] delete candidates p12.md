@@ -52,3 +52,5 @@ http://stackoverflow.com/questions/41041536/universal-exceptionhandler-for-sched
 http://stackoverflow.com/questions/41024962/error-identifier-expected-push-and-pop-exercise
 
 http://stackoverflow.com/questions/41045259/is-there-any-alternative-of-c-getchar-function-in-java
+
+http://stackoverflow.com/questions/41050456/variables-not-passing-through-as-members-of-a-class
