@@ -57,3 +57,5 @@ http://stackoverflow.com/questions/41064386/implementing-join-method
 http://stackoverflow.com/questions/41064648/array-list-trouble-output
 
 http://stackoverflow.com/questions/41064775/how-to-create-an-instance-of-a-class-that-has-an-inner-class-and-how-to-access-a
+
+http://stackoverflow.com/questions/41062378/simpledateformat-parseexception-unparseable-date
