@@ -16,6 +16,8 @@ http://stackoverflow.com/questions/41019651/why-the-split-function-is-producing-
 
 http://stackoverflow.com/questions/41022379/simplify-java-nested-jsonobject-itteration
 
+http://stackoverflow.com/questions/41052874/list-of-sets-in-java
+
 not yet
 ====
 
