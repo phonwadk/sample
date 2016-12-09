@@ -6,8 +6,6 @@ http://stackoverflow.com/questions/41019651/why-the-split-function-is-producing-
 
 http://stackoverflow.com/questions/41022379/simplify-java-nested-jsonobject-itteration
 
-http://stackoverflow.com/questions/41052874/list-of-sets-in-java
-
 http://stackoverflow.com/questions/41007823/how-do-you-return-a-string-representation-of-an-objects-data
 
 http://stackoverflow.com/questions/41008563/explicitly-and-implicitly-throwing-exceptions
