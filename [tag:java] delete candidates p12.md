@@ -1,5 +1,3 @@
-http://stackoverflow.com/questions/38980892/what-is-meant-by-putting-curly-braces-after-a-call-to-constructor-in-java
-
 http://stackoverflow.com/questions/41030362/two-instances-of-the-same-class-with-different-structures
 
 http://stackoverflow.com/questions/41023355/call-functions-separately-in-a-for-loop
