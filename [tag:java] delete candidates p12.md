@@ -1,3 +1,5 @@
+needs two downvotes, worht it for this garbage http://stackoverflow.com/questions/41065632/comparing-the-length-of-arrays-which-are-delivered-by-another-method
+
 http://stackoverflow.com/questions/41030362/two-instances-of-the-same-class-with-different-structures
 
 http://stackoverflow.com/questions/41023355/call-functions-separately-in-a-for-loop
