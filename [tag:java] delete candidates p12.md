@@ -62,3 +62,5 @@ http://stackoverflow.com/questions/41045259/is-there-any-alternative-of-c-getcha
 http://stackoverflow.com/questions/41050456/variables-not-passing-through-as-members-of-a-class
 
 http://stackoverflow.com/questions/41048993/replace-all-keys-with-a-dot-in-a-deep-json-object
+
+http://stackoverflow.com/questions/41062980/input-string-in-java-with-scanner
