@@ -1,12 +1,4 @@
-http://stackoverflow.com/questions/41050663/java-library-for-conversion-between-multiple-numerical-systems
-
-http://stackoverflow.com/questions/41040823/missing-comma-ora-00917
-
 http://stackoverflow.com/questions/38980892/what-is-meant-by-putting-curly-braces-after-a-call-to-constructor-in-java
-
-http://stackoverflow.com/questions/14732452/sumo-logic-vs-splunk
-
-http://stackoverflow.com/questions/40978783/get-methods-returning-no-values
 
 http://stackoverflow.com/questions/41030362/two-instances-of-the-same-class-with-different-structures
 
@@ -25,11 +17,7 @@ http://stackoverflow.com/questions/41021901/java-what-is-the-most-efficient-way-
 
 http://stackoverflow.com/questions/41007823/how-do-you-return-a-string-representation-of-an-objects-data
 
-http://stackoverflow.com/questions/41007552/how-do-i-add-my-own-value
-
 http://stackoverflow.com/questions/41008563/explicitly-and-implicitly-throwing-exceptions
-
-http://stackoverflow.com/questions/41000840/lambda-highest-value
 
 http://stackoverflow.com/questions/41019651/why-the-split-function-is-producing-the-diff-results-in-case-of-and
 
