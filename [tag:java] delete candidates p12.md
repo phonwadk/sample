@@ -12,14 +12,6 @@ http://stackoverflow.com/questions/41023355/call-functions-separately-in-a-for-l
 
 http://stackoverflow.com/questions/41019651/why-the-split-function-is-producing-the-diff-results-in-case-of-and
 
-http://stackoverflow.com/questions/41022379/simplify-java-nested-jsonobject-itteration
-
-http://stackoverflow.com/questions/41007823/how-do-you-return-a-string-representation-of-an-objects-data
-
-http://stackoverflow.com/questions/41008563/explicitly-and-implicitly-throwing-exceptions
-
-http://stackoverflow.com/questions/41032796/in-java-why-does-tostringint-i-int-radix-method-in-the-integer-class-always
-
 http://stackoverflow.com/questions/41041888/implementing-a-queue-by-using-a-single-linked-list
 
 not yet
