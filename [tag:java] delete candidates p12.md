@@ -61,3 +61,5 @@ http://stackoverflow.com/questions/41064648/array-list-trouble-output
 http://stackoverflow.com/questions/41064775/how-to-create-an-instance-of-a-class-that-has-an-inner-class-and-how-to-access-a
 
 http://stackoverflow.com/questions/41062378/simpledateformat-parseexception-unparseable-date
+
+http://stackoverflow.com/questions/41076445/methods-in-java-to-add-2-numbers
