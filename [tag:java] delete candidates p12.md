@@ -1,5 +1,7 @@
 http://stackoverflow.com/questions/41076129/java-never-finds-main-class
 
+http://stackoverflow.com/questions/41078147/adding-values-to-an-empty-array-in-java
+
 http://stackoverflow.com/questions/41067694/illegalmonitorstateexception-in-producerconsumer-implementataion
 
 http://stackoverflow.com/questions/41071737/filereader-isnt-working-in-a-method-but-it-will-in-the-constructor
