@@ -54,3 +54,7 @@ http://stackoverflow.com/questions/41076445/methods-in-java-to-add-2-numbers
 http://stackoverflow.com/questions/41076604/in-java-programming-language-will-the-condition-nan-nan-return-true-or-fal
 
 http://stackoverflow.com/questions/41080519/java-stack-behaves-mysteriously-in-a-loop
+
+http://stackoverflow.com/questions/41081298/write-a-program-that-prints-all-the-ways-to-make-1-from-a-penny-nickel-dime
+
+http://stackoverflow.com/questions/41081040/c-sharp-why-does-not-print-out-its-address
