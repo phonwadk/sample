@@ -63,3 +63,5 @@ http://stackoverflow.com/questions/41064775/how-to-create-an-instance-of-a-class
 http://stackoverflow.com/questions/41062378/simpledateformat-parseexception-unparseable-date
 
 http://stackoverflow.com/questions/41076445/methods-in-java-to-add-2-numbers
+
+http://stackoverflow.com/questions/41076604/in-java-programming-language-will-the-condition-nan-nan-return-true-or-fal
