@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/41071737/filereader-isnt-working-in-a-method-but-it-will-in-the-constructor
+
 http://stackoverflow.com/questions/41030362/two-instances-of-the-same-class-with-different-structures
 
 http://stackoverflow.com/questions/41023355/call-functions-separately-in-a-for-loop
