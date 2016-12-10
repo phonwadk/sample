@@ -18,12 +18,6 @@ http://stackoverflow.com/questions/41007823/how-do-you-return-a-string-represent
 
 http://stackoverflow.com/questions/41008563/explicitly-and-implicitly-throwing-exceptions
 
-http://stackoverflow.com/questions/41021901/java-what-is-the-most-efficient-way-to-verify-if-a-stack-is-made-of-the-same-e
-
-http://stackoverflow.com/questions/41030948/i-dont-know-why-i-got-this-error
-
-http://stackoverflow.com/questions/41021901/java-what-is-the-most-efficient-way-to-verify-if-a-stack-is-made-of-the-same-e
-
 http://stackoverflow.com/questions/41032796/in-java-why-does-tostringint-i-int-radix-method-in-the-integer-class-always
 
 http://stackoverflow.com/questions/41041888/implementing-a-queue-by-using-a-single-linked-list
