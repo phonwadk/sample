@@ -32,14 +32,12 @@ http://stackoverflow.com/questions/41019651/why-the-split-function-is-producing-
 
 http://stackoverflow.com/questions/41041888/implementing-a-queue-by-using-a-single-linked-list
 
-
-
-not yet
-====
-
 http://stackoverflow.com/questions/41050456/variables-not-passing-through-as-members-of-a-class
 
 http://stackoverflow.com/questions/41048993/replace-all-keys-with-a-dot-in-a-deep-json-object
+
+not yet
+====
 
 http://stackoverflow.com/questions/41062980/input-string-in-java-with-scanner
 
