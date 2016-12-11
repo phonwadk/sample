@@ -10,8 +10,6 @@ http://stackoverflow.com/questions/41071737/filereader-isnt-working-in-a-method-
 
 http://stackoverflow.com/questions/41030362/two-instances-of-the-same-class-with-different-structures
 
-http://stackoverflow.com/questions/41023355/call-functions-separately-in-a-for-loop
-
 http://stackoverflow.com/questions/41019651/why-the-split-function-is-producing-the-diff-results-in-case-of-and
 
 http://stackoverflow.com/questions/41041888/implementing-a-queue-by-using-a-single-linked-list
