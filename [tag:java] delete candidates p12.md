@@ -8,14 +8,7 @@ http://stackoverflow.com/questions/41067694/illegalmonitorstateexception-in-prod
 
 http://stackoverflow.com/questions/41071737/filereader-isnt-working-in-a-method-but-it-will-in-the-constructor
 
-http://stackoverflow.com/questions/41030362/two-instances-of-the-same-class-with-different-structures
-
-http://stackoverflow.com/questions/41019651/why-the-split-function-is-producing-the-diff-results-in-case-of-and
-
-http://stackoverflow.com/questions/41041888/implementing-a-queue-by-using-a-single-linked-list
-
-not yet
-====
+http://stackoverflow.com/questions/41030362/two-instances-of
 
 http://stackoverflow.com/questions/41044240/why-can-str-not-be-resolved-trying-to-parse-the-html-data-from-a-url
 
@@ -33,7 +26,16 @@ http://stackoverflow.com/questions/41041536/universal-exceptionhandler-for-sched
 
 http://stackoverflow.com/questions/41024962/error-identifier-expected-push-and-pop-exercise
 
-http://stackoverflow.com/questions/41045259/is-there-any-alternative-of-c-getchar-function-in-java
+http://stackoverflow.com/questions/41045259/is-there-any-alternative-of-c-getchar-function-in-java-the-same-class-with-different-structures
+
+http://stackoverflow.com/questions/41019651/why-the-split-function-is-producing-the-diff-results-in-case-of-and
+
+http://stackoverflow.com/questions/41041888/implementing-a-queue-by-using-a-single-linked-list
+
+
+
+not yet
+====
 
 http://stackoverflow.com/questions/41050456/variables-not-passing-through-as-members-of-a-class
 
