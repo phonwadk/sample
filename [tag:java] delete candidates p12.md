@@ -60,3 +60,5 @@ http://stackoverflow.com/questions/41081298/write-a-program-that-prints-all-the-
 http://stackoverflow.com/questions/41081040/c-sharp-why-does-not-print-out-its-address
 
 http://stackoverflow.com/questions/41088911/new-object-inside-a-constructor-remains-null
+
+http://stackoverflow.com/questions/41089220/number-of-constructors
