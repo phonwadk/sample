@@ -58,3 +58,5 @@ http://stackoverflow.com/questions/41080519/java-stack-behaves-mysteriously-in-a
 http://stackoverflow.com/questions/41081298/write-a-program-that-prints-all-the-ways-to-make-1-from-a-penny-nickel-dime
 
 http://stackoverflow.com/questions/41081040/c-sharp-why-does-not-print-out-its-address
+
+http://stackoverflow.com/questions/41088911/new-object-inside-a-constructor-remains-null
