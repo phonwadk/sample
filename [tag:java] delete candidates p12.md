@@ -2,19 +2,9 @@ http://stackoverflow.com/questions/41078147/adding-values-to-an-empty-array-in-j
 
 http://stackoverflow.com/questions/41030362/two-instances-of
 
-http://stackoverflow.com/questions/41032658/do-an-instanceof-check-or-rely-on-classcast-exception
-
-http://stackoverflow.com/questions/41032684/why-negating-an-integer
-
-http://stackoverflow.com/questions/41042321/concept-of-overloading-in-java
-
 http://stackoverflow.com/questions/41041536/universal-exceptionhandler-for-scheduled-tasks-in-spring-boot
 
-http://stackoverflow.com/questions/41024962/error-identifier-expected-push-and-pop-exercise
-
 http://stackoverflow.com/questions/41019651/why-the-split-function-is-producing-the-diff-results-in-case-of-and
-
-http://stackoverflow.com/questions/41041888/implementing-a-queue-by-using-a-single-linked-list
 
 not yet
 ====
