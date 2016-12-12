@@ -60,3 +60,5 @@ http://stackoverflow.com/questions/41088911/new-object-inside-a-constructor-rema
 http://stackoverflow.com/questions/41089220/number-of-constructors
 
 http://stackoverflow.com/questions/41089343/java-what-are-the-rules-to-include-classes-in-different-files
+
+http://stackoverflow.com/questions/41093801/how-to-call-enum-method-which-has-dot-in-its-name
