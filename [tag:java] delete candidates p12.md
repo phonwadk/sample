@@ -8,8 +8,6 @@ http://stackoverflow.com/questions/41019651/why-the-split-function-is-producing-
 
 http://stackoverflow.com/questions/41076445/methods-in-java-to-add-2-numbers
 
-http://stackoverflow.com/questions/41041536/universal-exception-handler-for-scheduled-tasks-in-spring-boot-with-java-conf
-
 not yet
 ====
 
