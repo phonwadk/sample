@@ -36,9 +36,6 @@ http://stackoverflow.com/questions/41050456/variables-not-passing-through-as-mem
 
 http://stackoverflow.com/questions/41048993/replace-all-keys-with-a-dot-in-a-deep-json-object
 
-not yet
-====
-
 http://stackoverflow.com/questions/41062980/input-string-in-java-with-scanner
 
 http://stackoverflow.com/questions/41064386/implementing-join-method
@@ -49,9 +46,12 @@ http://stackoverflow.com/questions/41064775/how-to-create-an-instance-of-a-class
 
 http://stackoverflow.com/questions/41062378/simpledateformat-parseexception-unparseable-date
 
-http://stackoverflow.com/questions/41076445/methods-in-java-to-add-2-numbers
-
 http://stackoverflow.com/questions/41076604/in-java-programming-language-will-the-condition-nan-nan-return-true-or-fal
+
+not yet
+====
+
+http://stackoverflow.com/questions/41076445/methods-in-java-to-add-2-numbers
 
 http://stackoverflow.com/questions/41080519/java-stack-behaves-mysteriously-in-a-loop
 
