@@ -1,5 +1,3 @@
-http://stackoverflow.com/questions/41078147/adding-values-to-an-empty-array-in-java
-
 http://stackoverflow.com/questions/41030362/two-instances-of
 
 http://stackoverflow.com/questions/41041536/universal-exceptionhandler-for-scheduled-tasks-in-spring-boot
