@@ -26,7 +26,19 @@ http://stackoverflow.com/questions/41080582/what-is-this-loop-for-looping-though
 
 http://stackoverflow.com/questions/41084817/java-float-precision
 
+http://stackoverflow.com/questions/41045945/finding-vowels-and-upper-casing-them
 
+http://stackoverflow.com/questions/41046063/how-do-i-iterate-over-a-stream-in-java-using-for-2
+
+http://stackoverflow.com/questions/41045698/does-a-final-method-improve-efficiency-in-java
+
+http://stackoverflow.com/questions/41045454/why-cant-i-add-an-object-of-type-t-extends-base-to-a-list-extends-base
+
+http://stackoverflow.com/questions/41030362/two-instances-of-the-same-class-with-different-structures
+
+http://stackoverflow.com/questions/40879179/confusion-regarding-javas-implicit-calls-to-super-from-a-subclass-constructor
+
+http://stackoverflow.com/questions/40867887/linkedlist-public-void-addint-index-e-element-method
 
 not yet
 ====
