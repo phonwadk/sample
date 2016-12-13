@@ -63,3 +63,4 @@ http://stackoverflow.com/questions/41094699/why-doesnt-this-polymorphic-object-i
 
 http://stackoverflow.com/questions/41123935/if-an-object-in-java-has-a-reference-to-itself-which-is-the-only-reference-to-it
 
+http://stackoverflow.com/questions/41127682/how-do-i-access-triple-nested-hashmaps-in-java
