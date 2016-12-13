@@ -4,16 +4,8 @@ http://stackoverflow.com/questions/41041536/universal-exceptionhandler-for-sched
 
 http://stackoverflow.com/questions/41019651/why-the-split-function-is-producing-the-diff-results-in-case-of-and
 
-http://stackoverflow.com/questions/41076445/methods-in-java-to-add-2-numbers
-
 not yet
 ====
-
-http://stackoverflow.com/questions/41080519/java-stack-behaves-mysteriously-in-a-loop
-
-http://stackoverflow.com/questions/41081298/write-a-program-that-prints-all-the-ways-to-make-1-from-a-penny-nickel-dime
-
-http://stackoverflow.com/questions/41081040/c-sharp-why-does-not-print-out-its-address
 
 http://stackoverflow.com/questions/41088911/new-object-inside-a-constructor-remains-null
 
