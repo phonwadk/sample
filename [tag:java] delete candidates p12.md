@@ -16,5 +16,3 @@ http://stackoverflow.com/questions/41103596/why-doesnt-the-card-print
 http://stackoverflow.com/questions/41076574/trying-to-match-the-regex-but-it-us-failing
 
 http://stackoverflow.com/questions/41106720/java-incrementation-and-variable
-
-http://stackoverflow.com/questions/41106967/converting-characterarray-to-arraylist
