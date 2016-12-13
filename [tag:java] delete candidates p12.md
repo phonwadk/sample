@@ -1,7 +1,5 @@
 http://stackoverflow.com/questions/41030362/two-instances-of
 
-http://stackoverflow.com/questions/41041536/universal-exceptionhandler-for-scheduled-tasks-in-spring-boot
-
 http://stackoverflow.com/questions/41019651/why-the-split-function-is-producing-the-diff-results-in-case-of-and
 
 not yet
