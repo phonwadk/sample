@@ -36,14 +36,14 @@ http://stackoverflow.com/questions/40879179/confusion-regarding-javas-implicit-c
 
 http://stackoverflow.com/questions/40867887/linkedlist-public-void-addint-index-e-element-method
 
-not yet
-====
-
 http://stackoverflow.com/questions/41088911/new-object-inside-a-constructor-remains-null
 
 http://stackoverflow.com/questions/41089220/number-of-constructors
 
 http://stackoverflow.com/questions/41089343/java-what-are-the-rules-to-include-classes-in-different-files
+
+not yet
+====
 
 http://stackoverflow.com/questions/41093801/how-to-call-enum-method-which-has-dot-in-its-name
 
