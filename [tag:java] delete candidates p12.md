@@ -6,8 +6,6 @@ http://stackoverflow.com/questions/41084428/calling-arrays-sort-making-all-value
 
 depends on ^^^ http://stackoverflow.com/questions/41054069/arrays-sort-not-working-for-long-array
 
-http://stackoverflow.com/questions/41062398/what-fundamental-parts-in-android-is-this-listview-built-with
-
 http://stackoverflow.com/questions/41065275/java-end-loop-when-a-and-b-are-entered
 
 http://stackoverflow.com/questions/41068472/can-i-force-type-to-be-declared
