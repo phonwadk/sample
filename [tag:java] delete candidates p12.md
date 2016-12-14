@@ -48,18 +48,17 @@ http://stackoverflow.com/questions/41088911/new-object-inside-a-constructor-rema
 
 http://stackoverflow.com/questions/41149027/doubloon-array-returns-true
 
-not yet
-====
-
 http://stackoverflow.com/questions/41093801/how-to-call-enum-method-which-has-dot-in-its-name
 
 http://stackoverflow.com/questions/41106720/java-incrementation-and-variable
 
 http://stackoverflow.com/questions/41093520/java-array-to-string-with-comma-between-elements
 
-http://stackoverflow.com/questions/41108308/removing-elements-from-a-list-with-remove
-
 http://stackoverflow.com/questions/41094699/why-doesnt-this-polymorphic-object-inherit-this-overloaded-method
+
+
+not yet
+====
 
 http://stackoverflow.com/questions/41123935/if-an-object-in-java-has-a-reference-to-itself-which-is-the-only-reference-to-it
 
