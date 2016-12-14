@@ -12,10 +12,6 @@ http://stackoverflow.com/questions/41078591/static-variables-in-java-behaving-we
 
 http://stackoverflow.com/questions/41030362/two-instances-of
 
-http://stackoverflow.com/questions/41076574/trying-to-match-the-regex-but-it-us-failing
-
-http://stackoverflow.com/questions/41103596/why-doesnt-the-card-print
-
 http://stackoverflow.com/questions/41051928/linkedlist-implementation-working-differently-when-we-change-reference
 
 http://stackoverflow.com/questions/41051184/unexpected-value-from-flags-enum
