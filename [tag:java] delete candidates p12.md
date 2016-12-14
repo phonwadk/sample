@@ -66,3 +66,5 @@ http://stackoverflow.com/questions/41130325/i-want-to-act-an-object-to-not-act-a
 http://stackoverflow.com/questions/41133675/for-each-incompatible-types
 
 http://stackoverflow.com/questions/41144670/why-does-my-type-get-erased
+
+http://stackoverflow.com/questions/41146478/im-trying-to-store-all-the-file-in-the-arraylist
