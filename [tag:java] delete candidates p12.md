@@ -62,3 +62,5 @@ http://stackoverflow.com/questions/41123935/if-an-object-in-java-has-a-reference
 http://stackoverflow.com/questions/41127682/how-do-i-access-triple-nested-hashmaps-in-java
 
 http://stackoverflow.com/questions/41130325/i-want-to-act-an-object-to-not-act-as-a-reference-like-structs-in-c-sharp
+
+http://stackoverflow.com/questions/41133675/for-each-incompatible-types
