@@ -42,14 +42,14 @@ http://stackoverflow.com/questions/41089220/number-of-constructors
 
 http://stackoverflow.com/questions/41089343/java-what-are-the-rules-to-include-classes-in-different-files
 
+http://stackoverflow.com/questions/41088911/new-object-inside-a-constructor-remains-null
+
 not yet
 ====
 
 http://stackoverflow.com/questions/41093801/how-to-call-enum-method-which-has-dot-in-its-name
 
 http://stackoverflow.com/questions/41106720/java-incrementation-and-variable
-
-http://stackoverflow.com/questions/41088911/new-object-inside-a-constructor-remains-null
 
 http://stackoverflow.com/questions/41093520/java-array-to-string-with-comma-between-elements
 
