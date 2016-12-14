@@ -44,6 +44,8 @@ http://stackoverflow.com/questions/41089220/number-of-constructors
 
 http://stackoverflow.com/questions/41088911/new-object-inside-a-constructor-remains-null
 
+http://stackoverflow.com/questions/41149027/doubloon-array-returns-true
+
 not yet
 ====
 
