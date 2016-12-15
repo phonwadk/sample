@@ -12,27 +12,15 @@ depends on ^^^ http://stackoverflow.com/questions/41054069/arrays-sort-not-worki
 
 http://stackoverflow.com/questions/41065275/java-end-loop-when-a-and-b-are-entered
 
-http://stackoverflow.com/questions/41068472/can-i-force-type-to-be-declared
-
 http://stackoverflow.com/questions/41078591/static-variables-in-java-behaving-weirdly
 
 http://stackoverflow.com/questions/41030362/two-instances-of
-
-http://stackoverflow.com/questions/41051928/linkedlist-implementation-working-differently-when-we-change-reference
 
 http://stackoverflow.com/questions/41079600/java-super-call-in-subclass-constructor
 
 http://stackoverflow.com/questions/41084817/java-float-precision
 
-http://stackoverflow.com/questions/41045945/finding-vowels-and-upper-casing-them
-
-http://stackoverflow.com/questions/41045698/does-a-final-method-improve-efficiency-in-java
-
-http://stackoverflow.com/questions/41045454/why-cant-i-add-an-object-of-type-t-extends-base-to-a-list-extends-base
-
 http://stackoverflow.com/questions/41030362/two-instances-of-the-same-class-with-different-structures
-
-http://stackoverflow.com/questions/40879179/confusion-regarding-javas-implicit-calls-to-super-from-a-subclass-constructor
 
 http://stackoverflow.com/questions/41089220/number-of-constructors
 
