@@ -16,15 +16,11 @@ http://stackoverflow.com/questions/41030362/two-instances-of
 
 http://stackoverflow.com/questions/41051928/linkedlist-implementation-working-differently-when-we-change-reference
 
-http://stackoverflow.com/questions/41051184/unexpected-value-from-flags-enum
-
 http://stackoverflow.com/questions/41079600/java-super-call-in-subclass-constructor
 
 http://stackoverflow.com/questions/41084817/java-float-precision
 
 http://stackoverflow.com/questions/41045945/finding-vowels-and-upper-casing-them
-
-http://stackoverflow.com/questions/41046063/how-do-i-iterate-over-a-stream-in-java-using-for-2
 
 http://stackoverflow.com/questions/41045698/does-a-final-method-improve-efficiency-in-java
 
@@ -33,8 +29,6 @@ http://stackoverflow.com/questions/41045454/why-cant-i-add-an-object-of-type-t-e
 http://stackoverflow.com/questions/41030362/two-instances-of-the-same-class-with-different-structures
 
 http://stackoverflow.com/questions/40879179/confusion-regarding-javas-implicit-calls-to-super-from-a-subclass-constructor
-
-http://stackoverflow.com/questions/40867887/linkedlist-public-void-addint-index-e-element-method
 
 http://stackoverflow.com/questions/41089220/number-of-constructors
 
