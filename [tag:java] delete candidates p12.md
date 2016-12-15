@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/41149411/getting-type-missmatch-for-iterator
+
 http://stackoverflow.com/questions/41149893/removing-double-quotes-along-with-curly-braces-in-java
 
 http://stackoverflow.com/questions/41135014/convert-string-to-json-object-in-android-ver-4-2-2-and-android-ver-6-0
