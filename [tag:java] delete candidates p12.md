@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/41171777/switch-case-not-working-right
+
 http://stackoverflow.com/questions/41149411/getting-type-missmatch-for-iterator
 
 http://stackoverflow.com/questions/41149893/removing-double-quotes-along-with-curly-braces-in-java
