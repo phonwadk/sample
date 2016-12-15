@@ -30,12 +30,12 @@ http://stackoverflow.com/questions/41093801/how-to-call-enum-method-which-has-do
 
 http://stackoverflow.com/questions/41106720/java-incrementation-and-variable
 
-not yet
-====
-
 http://stackoverflow.com/questions/41123935/if-an-object-in-java-has-a-reference-to-itself-which-is-the-only-reference-to-it
 
 http://stackoverflow.com/questions/41130325/i-want-to-act-an-object-to-not-act-as-a-reference-like-structs-in-c-sharp
+
+not yet
+====
 
 http://stackoverflow.com/questions/41133675/for-each-incompatible-types
 
