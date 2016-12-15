@@ -54,8 +54,6 @@ http://stackoverflow.com/questions/41093520/java-array-to-string-with-comma-betw
 
 http://stackoverflow.com/questions/41094699/why-doesnt-this-polymorphic-object-inherit-this-overloaded-method
 
-http://stackoverflow.com/questions/41127682/how-do-i-access-triple-nested-hashmaps-in-java
-
 not yet
 ====
 
