@@ -20,8 +20,6 @@ http://stackoverflow.com/questions/41051184/unexpected-value-from-flags-enum
 
 http://stackoverflow.com/questions/41079600/java-super-call-in-subclass-constructor
 
-http://stackoverflow.com/questions/41080582/what-is-this-loop-for-looping-though-array-of-objects
-
 http://stackoverflow.com/questions/41084817/java-float-precision
 
 http://stackoverflow.com/questions/41045945/finding-vowels-and-upper-casing-them
@@ -38,21 +36,13 @@ http://stackoverflow.com/questions/40879179/confusion-regarding-javas-implicit-c
 
 http://stackoverflow.com/questions/40867887/linkedlist-public-void-addint-index-e-element-method
 
-http://stackoverflow.com/questions/41088911/new-object-inside-a-constructor-remains-null
-
 http://stackoverflow.com/questions/41089220/number-of-constructors
-
-http://stackoverflow.com/questions/41088911/new-object-inside-a-constructor-remains-null
 
 http://stackoverflow.com/questions/41149027/doubloon-array-returns-true
 
 http://stackoverflow.com/questions/41093801/how-to-call-enum-method-which-has-dot-in-its-name
 
 http://stackoverflow.com/questions/41106720/java-incrementation-and-variable
-
-http://stackoverflow.com/questions/41093520/java-array-to-string-with-comma-between-elements
-
-http://stackoverflow.com/questions/41094699/why-doesnt-this-polymorphic-object-inherit-this-overloaded-method
 
 not yet
 ====
