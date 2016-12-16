@@ -26,16 +26,16 @@ http://stackoverflow.com/questions/41089220/number-of-constructors
 
 http://stackoverflow.com/questions/41149027/doubloon-array-returns-true
 
+http://stackoverflow.com/questions/41133675/for-each-incompatible-types
+
+http://stackoverflow.com/questions/41149618/get-max-index-not-null-in-a-hashmap-java
+
 not yet
 ====
-
-http://stackoverflow.com/questions/41133675/for-each-incompatible-types
 
 http://stackoverflow.com/questions/41144670/why-does-my-type-get-erased
 
 http://stackoverflow.com/questions/41146478/im-trying-to-store-all-the-file-in-the-arraylist
-
-http://stackoverflow.com/questions/41149618/get-max-index-not-null-in-a-hashmap-java
 
 http://stackoverflow.com/questions/41167580/is-there-a-way-to-designate-a-default-constructor-in-a-superclass
 
