@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/41171139/printing-reverse-array-from-user-input-failing-java
+
 http://stackoverflow.com/questions/41157878/java-expression-class-instance-variable-what-is-this
 
 http://stackoverflow.com/questions/41171777/switch-case-not-working-right
@@ -34,3 +36,14 @@ http://stackoverflow.com/questions/41146478/im-trying-to-store-all-the-file-in-t
 http://stackoverflow.com/questions/41167580/is-there-a-way-to-designate-a-default-constructor-in-a-superclass
 
 http://stackoverflow.com/questions/41186509/printwriter-not-writing-to-file
+
+http://stackoverflow.com/questions/41194343/scanner-object-in-loop-skips-first-input
+
+http://stackoverflow.com/questions/41191250/extract-time-and-date-from-date-object
+
+http://stackoverflow.com/questions/41190219/assign-a-listinteger-to-a-list-and-add-a-string
+
+http://stackoverflow.com/questions/41187434/how-to-find-following-string
+
+http://stackoverflow.com/questions/41172282/how-to-refactor-simple-for-loop-with-if-checks-to-java-8
+
