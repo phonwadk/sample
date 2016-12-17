@@ -2,8 +2,6 @@ http://stackoverflow.com/questions/41157878/java-expression-class-instance-varia
 
 http://stackoverflow.com/questions/41171777/switch-case-not-working-right
 
-http://stackoverflow.com/questions/41149411/getting-type-missmatch-for-iterator
-
 http://stackoverflow.com/questions/41149893/removing-double-quotes-along-with-curly-braces-in-java
 
 http://stackoverflow.com/questions/41084428/calling-arrays-sort-making-all-values-zero-in-the-array
@@ -23,8 +21,6 @@ http://stackoverflow.com/questions/41030362/two-instances-of-the-same-class-with
 http://stackoverflow.com/questions/41089220/number-of-constructors
 
 http://stackoverflow.com/questions/41149027/doubloon-array-returns-true
-
-http://stackoverflow.com/questions/41133675/for-each-incompatible-types
 
 http://stackoverflow.com/questions/41149618/get-max-index-not-null-in-a-hashmap-java
 
