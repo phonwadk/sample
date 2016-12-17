@@ -16,15 +16,9 @@ http://stackoverflow.com/questions/41078591/static-variables-in-java-behaving-we
 
 http://stackoverflow.com/questions/41030362/two-instances-of
 
-http://stackoverflow.com/questions/41084817/java-float-precision
-
-http://stackoverflow.com/questions/41030362/two-instances-of-the-same-class-with-different-structures
-
 http://stackoverflow.com/questions/41089220/number-of-constructors
 
 http://stackoverflow.com/questions/41149027/doubloon-array-returns-true
-
-http://stackoverflow.com/questions/41149618/get-max-index-not-null-in-a-hashmap-java
 
 not yet
 ====
