@@ -20,14 +20,14 @@ http://stackoverflow.com/questions/41089220/number-of-constructors
 
 http://stackoverflow.com/questions/41149027/doubloon-array-returns-true
 
-not yet
-====
-
 http://stackoverflow.com/questions/41144670/why-does-my-type-get-erased
 
 http://stackoverflow.com/questions/41146478/im-trying-to-store-all-the-file-in-the-arraylist
 
 http://stackoverflow.com/questions/41167580/is-there-a-way-to-designate-a-default-constructor-in-a-superclass
+
+not yet
+====
 
 http://stackoverflow.com/questions/41186509/printwriter-not-writing-to-file
 
