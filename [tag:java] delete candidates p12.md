@@ -54,3 +54,5 @@ http://stackoverflow.com/questions/41187434/how-to-find-following-string
 http://stackoverflow.com/questions/41172282/how-to-refactor-simple-for-loop-with-if-checks-to-java-8
 
 http://stackoverflow.com/questions/41202800/does-the-jvm-close-its-open-files-by-itself-when-the-runtime-ends
+
+http://stackoverflow.com/questions/41203025/how-do-i-print-the-key-in-mapinteger-string
