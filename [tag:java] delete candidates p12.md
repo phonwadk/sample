@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/41201604/it-wont-recognize-a-variable-i-created-but-why
+
 http://stackoverflow.com/questions/41170104/does-java-have-any-implicit-type-conversions
 
 http://stackoverflow.com/questions/41171139/printing-reverse-array-from-user-input-failing-java
