@@ -30,6 +30,8 @@ http://stackoverflow.com/questions/41186509/printwriter-not-writing-to-file
 
 http://stackoverflow.com/questions/41172282/how-to-refactor-simple-for-loop-with-if-checks-to-java-8
 
+http://stackoverflow.com/questions/41187434/how-to-find-following-string
+
 not yet
 ====
 
@@ -39,8 +41,6 @@ http://stackoverflow.com/questions/41194343/scanner-object-in-loop-skips-first-i
 http://stackoverflow.com/questions/41191250/extract-time-and-date-from-date-object
 
 http://stackoverflow.com/questions/41190219/assign-a-listinteger-to-a-list-and-add-a-string
-
-http://stackoverflow.com/questions/41187434/how-to-find-following-string
 
 http://stackoverflow.com/questions/41202800/does-the-jvm-close-its-open-files-by-itself-when-the-runtime-ends
 
