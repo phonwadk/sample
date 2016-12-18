@@ -1,8 +1,16 @@
+http://stackoverflow.com/questions/41170104/does-java-have-any-implicit-type-conversions
+
 http://stackoverflow.com/questions/41171139/printing-reverse-array-from-user-input-failing-java
 
 http://stackoverflow.com/questions/41157878/java-expression-class-instance-variable-what-is-this
 
+http://stackoverflow.com/questions/41151707/condition-in-do-while-loop-doesnt-work-as-it-supposed
+
+http://stackoverflow.com/questions/41151533/simpledateformat-not-working-as-expected
+
 http://stackoverflow.com/questions/41171777/switch-case-not-working-right
+
+http://stackoverflow.com/questions/41168916/spring-autowired-return-null
 
 http://stackoverflow.com/questions/41149893/removing-double-quotes-along-with-curly-braces-in-java
 
@@ -13,6 +21,8 @@ depends on ^^^ http://stackoverflow.com/questions/41054069/arrays-sort-not-worki
 http://stackoverflow.com/questions/41065275/java-end-loop-when-a-and-b-are-entered
 
 http://stackoverflow.com/questions/41078591/static-variables-in-java-behaving-weirdly
+
+http://stackoverflow.com/questions/41146847/spring-mvc-404-error-on-index-page
 
 http://stackoverflow.com/questions/41030362/two-instances-of
 
@@ -25,6 +35,8 @@ http://stackoverflow.com/questions/41144670/why-does-my-type-get-erased
 http://stackoverflow.com/questions/41146478/im-trying-to-store-all-the-file-in-the-arraylist
 
 http://stackoverflow.com/questions/41167580/is-there-a-way-to-designate-a-default-constructor-in-a-superclass
+
+http://stackoverflow.com/questions/41135834/why-is-hasnext-not-returning-false-after-reading-all-tokens
 
 not yet
 ====
@@ -41,3 +53,4 @@ http://stackoverflow.com/questions/41187434/how-to-find-following-string
 
 http://stackoverflow.com/questions/41172282/how-to-refactor-simple-for-loop-with-if-checks-to-java-8
 
+http://stackoverflow.com/questions/41202800/does-the-jvm-close-its-open-files-by-itself-when-the-runtime-ends
