@@ -46,3 +46,5 @@ http://stackoverflow.com/questions/41223546/polymorphism-and-equals-in-java
 http://stackoverflow.com/questions/41210181/adding-elements-to-arraylist-in-a-for-loop
 
 http://stackoverflow.com/questions/41215768/beginner-java-why-am-i-getting-a-null-return-here
+
+http://stackoverflow.com/questions/41227062/illegalstateexception-with-scanner
