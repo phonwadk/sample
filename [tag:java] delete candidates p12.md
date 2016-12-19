@@ -40,3 +40,5 @@ http://stackoverflow.com/questions/41206419/java-creating-object-for-child-class
 http://stackoverflow.com/questions/41203560/search-for-user-input-in-arraylist
 
 http://stackoverflow.com/questions/41225848/if-two-objects-have-the-same-hashcode-they-should-be-equal
+
+http://stackoverflow.com/questions/41225737/extract-generic-type-t-from-hashmap
