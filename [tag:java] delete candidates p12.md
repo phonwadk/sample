@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/41224531/checking-if-string-matches-specific-format-java
+
 highly upvoted, up to you http://stackoverflow.com/questions/38948090/why-do-some-java-library-methods-delegate-to-a-native-method-with-a-similar-sign
 
 http://stackoverflow.com/questions/41050940/hasnext-hangs-on-false-value-when-used-with-system-in
@@ -38,3 +40,9 @@ http://stackoverflow.com/questions/41225848/if-two-objects-have-the-same-hashcod
 http://stackoverflow.com/questions/41225737/extract-generic-type-t-from-hashmap
 
 http://stackoverflow.com/questions/41225082/explaining-pass-by-value-with-a-string-vs-a-list-of-strings
+
+http://stackoverflow.com/questions/41223546/polymorphism-and-equals-in-java
+
+http://stackoverflow.com/questions/41210181/adding-elements-to-arraylist-in-a-for-loop
+
+http://stackoverflow.com/questions/41215768/beginner-java-why-am-i-getting-a-null-return-here
