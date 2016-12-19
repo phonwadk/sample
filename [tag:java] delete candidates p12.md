@@ -1,3 +1,5 @@
+please vote to close this crap: http://stackoverflow.com/questions/41229317/what-does-the-symbol-mean-in-java
+
 http://stackoverflow.com/questions/41046386/java-complains-about-a-simple-affectation-of-a-int-double-sum-to-int-but-says
 
 http://stackoverflow.com/questions/41206059/what-exactly-does-synchronizedmap-do
