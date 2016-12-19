@@ -4,8 +4,6 @@ http://stackoverflow.com/questions/41050940/hasnext-hangs-on-false-value-when-us
 
 http://stackoverflow.com/questions/41201604/it-wont-recognize-a-variable-i-created-but-why
 
-http://stackoverflow.com/questions/41170104/does-java-have-any-implicit-type-conversions
-
 http://stackoverflow.com/questions/41054069/arrays-sort-not-working-for-long-array
 
 http://stackoverflow.com/questions/1357465/online-restful-web-service-demo
