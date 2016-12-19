@@ -35,8 +35,6 @@ http://stackoverflow.com/questions/41210085/work-out-age-and-below
 
 http://stackoverflow.com/questions/41206419/java-creating-object-for-child-class-w-r-t-parent-class-reference
 
-http://stackoverflow.com/questions/41203560/search-for-user-input-in-arraylist
-
 http://stackoverflow.com/questions/41225848/if-two-objects-have-the-same-hashcode-they-should-be-equal
 
 http://stackoverflow.com/questions/41225737/extract-generic-type-t-from-hashmap
