@@ -1,5 +1,7 @@
 highly upvoted, up to you http://stackoverflow.com/questions/38948090/why-do-some-java-library-methods-delegate-to-a-native-method-with-a-similar-sign
 
+http://stackoverflow.com/questions/41050940/hasnext-hangs-on-false-value-when-used-with-system-in
+
 http://stackoverflow.com/questions/41201604/it-wont-recognize-a-variable-i-created-but-why
 
 http://stackoverflow.com/questions/41170104/does-java-have-any-implicit-type-conversions
