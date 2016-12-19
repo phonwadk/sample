@@ -46,3 +46,5 @@ http://stackoverflow.com/questions/41215768/beginner-java-why-am-i-getting-a-nul
 http://stackoverflow.com/questions/41227062/illegalstateexception-with-scanner
 
 http://stackoverflow.com/questions/41228822/how-to-get-all-static-variables-in-class-in-java
+
+http://stackoverflow.com/questions/41229790/my-program-is-not-displaying-the-correct-output
