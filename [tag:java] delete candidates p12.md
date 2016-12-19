@@ -4,21 +4,11 @@ http://stackoverflow.com/questions/41046386/java-complains-about-a-simple-affect
 
 http://stackoverflow.com/questions/41206059/what-exactly-does-synchronizedmap-do
 
-http://stackoverflow.com/questions/41210170/best-approach-to-software-versioning-in-a-team
-
 http://stackoverflow.com/questions/41224531/checking-if-string-matches-specific-format-java
 
 highly upvoted, up to you http://stackoverflow.com/questions/38948090/why-do-some-java-library-methods-delegate-to-a-native-method-with-a-similar-sign
 
 http://stackoverflow.com/questions/41050940/hasnext-hangs-on-false-value-when-used-with-system-in
-
-http://stackoverflow.com/questions/41201604/it-wont-recognize-a-variable-i-created-but-why
-
-http://stackoverflow.com/questions/41054069/arrays-sort-not-working-for-long-array
-
-http://stackoverflow.com/questions/1357465/online-restful-web-service-demo
-
-http://stackoverflow.com/questions/41194343/scanner-object-in-loop-skips-first-input
 
 http://stackoverflow.com/questions/41050778/why-cant-we-use-default-access-modifier-for-abstract-methods
 
