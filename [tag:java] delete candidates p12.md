@@ -52,3 +52,5 @@ http://stackoverflow.com/questions/41210181/adding-elements-to-arraylist-in-a-fo
 http://stackoverflow.com/questions/41215768/beginner-java-why-am-i-getting-a-null-return-here
 
 http://stackoverflow.com/questions/41227062/illegalstateexception-with-scanner
+
+http://stackoverflow.com/questions/41228822/how-to-get-all-static-variables-in-class-in-java
