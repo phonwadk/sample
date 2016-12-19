@@ -52,3 +52,17 @@ http://stackoverflow.com/questions/41202800/does-the-jvm-close-its-open-files-by
 http://stackoverflow.com/questions/41203025/how-do-i-print-the-key-in-mapinteger-string
 
 http://stackoverflow.com/questions/41213235/why-do-we-use-comparator-like-this
+
+http://stackoverflow.com/questions/41210181/adding-arraylist-in-for-loop
+
+http://stackoverflow.com/questions/41210258/why-we-use-upcasting-downcasting-in-this-way
+
+http://stackoverflow.com/questions/41212896/why-comparison-using-get-method-yields-false
+
+http://stackoverflow.com/questions/41210170/best-approach-to-software-versioning-in-a-team
+
+http://stackoverflow.com/questions/41210085/work-out-age-and-below
+
+http://stackoverflow.com/questions/41206419/java-creating-object-for-child-class-w-r-t-parent-class-reference
+
+http://stackoverflow.com/questions/41203560/search-for-user-input-in-arraylist
