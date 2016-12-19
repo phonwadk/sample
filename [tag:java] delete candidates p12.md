@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/41214414/stringbuffer-unexpected-output
+
 highly upvoted, up to you http://stackoverflow.com/questions/38948090/why-do-some-java-library-methods-delegate-to-a-native-method-with-a-similar-sign
 
 http://stackoverflow.com/questions/41201604/it-wont-recognize-a-variable-i-created-but-why
@@ -48,3 +50,5 @@ http://stackoverflow.com/questions/41190219/assign-a-listinteger-to-a-list-and-a
 http://stackoverflow.com/questions/41202800/does-the-jvm-close-its-open-files-by-itself-when-the-runtime-ends
 
 http://stackoverflow.com/questions/41203025/how-do-i-print-the-key-in-mapinteger-string
+
+http://stackoverflow.com/questions/41213235/why-do-we-use-comparator-like-this
