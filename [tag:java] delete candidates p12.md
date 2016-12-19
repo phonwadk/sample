@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/41046386/java-complains-about-a-simple-affectation-of-a-int-double-sum-to-int-but-says
+
 http://stackoverflow.com/questions/41206059/what-exactly-does-synchronizedmap-do
 
 http://stackoverflow.com/questions/41210170/best-approach-to-software-versioning-in-a-team
