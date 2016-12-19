@@ -8,9 +8,7 @@ http://stackoverflow.com/questions/41170104/does-java-have-any-implicit-type-con
 
 http://stackoverflow.com/questions/41149893/removing-double-quotes-along-with-curly-braces-in-java
 
-http://stackoverflow.com/questions/41084428/calling-arrays-sort-making-all-values-zero-in-the-array
-
-depends on ^^^ http://stackoverflow.com/questions/41054069/arrays-sort-not-working-for-long-array
+http://stackoverflow.com/questions/41054069/arrays-sort-not-working-for-long-array
 
 http://stackoverflow.com/questions/41030362/two-instances-of
 
