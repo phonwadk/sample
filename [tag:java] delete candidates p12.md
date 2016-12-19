@@ -6,11 +6,7 @@ http://stackoverflow.com/questions/41201604/it-wont-recognize-a-variable-i-creat
 
 http://stackoverflow.com/questions/41170104/does-java-have-any-implicit-type-conversions
 
-http://stackoverflow.com/questions/41149893/removing-double-quotes-along-with-curly-braces-in-java
-
 http://stackoverflow.com/questions/41054069/arrays-sort-not-working-for-long-array
-
-http://stackoverflow.com/questions/41030362/two-instances-of
 
 http://stackoverflow.com/questions/1357465/online-restful-web-service-demo
 
