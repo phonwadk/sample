@@ -16,6 +16,8 @@ http://stackoverflow.com/questions/1357465/online-restful-web-service-demo
 
 http://stackoverflow.com/questions/41194343/scanner-object-in-loop-skips-first-input
 
+http://stackoverflow.com/questions/41050778/why-cant-we-use-default-access-modifier-for-abstract-methods
+
 not yet
 ====
 
