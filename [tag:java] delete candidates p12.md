@@ -44,3 +44,5 @@ http://stackoverflow.com/questions/41228822/how-to-get-all-static-variables-in-c
 http://stackoverflow.com/questions/41229790/my-program-is-not-displaying-the-correct-output
 
 http://stackoverflow.com/questions/41244707/throw-exception-from-uncaughtexceptionhandler
+
+http://stackoverflow.com/questions/41246399/subclass-constructor-using-superclass
