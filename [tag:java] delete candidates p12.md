@@ -6,8 +6,6 @@ http://stackoverflow.com/questions/41224531/checking-if-string-matches-specific-
 
 highly upvoted, up to you http://stackoverflow.com/questions/38948090/why-do-some-java-library-methods-delegate-to-a-native-method-with-a-similar-sign
 
-http://stackoverflow.com/questions/41202800/does-the-jvm-close-its-open-files-by-itself-when-the-runtime-ends
-
 http://stackoverflow.com/questions/41246734/why-i-am-obtaining-this-wrong-value-when-i-am-trying-to-retrieve-the-year-value
 
 not yet
