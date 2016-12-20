@@ -6,10 +6,10 @@ http://stackoverflow.com/questions/41224531/checking-if-string-matches-specific-
 
 highly upvoted, up to you http://stackoverflow.com/questions/38948090/why-do-some-java-library-methods-delegate-to-a-native-method-with-a-similar-sign
 
+http://stackoverflow.com/questions/41202800/does-the-jvm-close-its-open-files-by-itself-when-the-runtime-ends
+
 not yet
 ====
-
-http://stackoverflow.com/questions/41202800/does-the-jvm-close-its-open-files-by-itself-when-the-runtime-ends
 
 http://stackoverflow.com/questions/41213235/why-do-we-use-comparator-like-this
 
