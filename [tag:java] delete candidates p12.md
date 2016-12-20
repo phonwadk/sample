@@ -42,5 +42,3 @@ http://stackoverflow.com/questions/41227062/illegalstateexception-with-scanner
 http://stackoverflow.com/questions/41228822/how-to-get-all-static-variables-in-class-in-java
 
 http://stackoverflow.com/questions/41229790/my-program-is-not-displaying-the-correct-output
-
-http://stackoverflow.com/questions/41244504/no-argument-constructor-setting-up-attributes-indirectly-via-a-call-to-a-second
