@@ -2,8 +2,6 @@ http://stackoverflow.com/questions/41244156/why-are-some-of-the-variables-declar
 
 please vote to close this crap: http://stackoverflow.com/questions/41229317/what-does-the-symbol-mean-in-java
 
-http://stackoverflow.com/questions/41206059/what-exactly-does-synchronizedmap-do
-
 http://stackoverflow.com/questions/41224531/checking-if-string-matches-specific-format-java
 
 highly upvoted, up to you http://stackoverflow.com/questions/38948090/why-do-some-java-library-methods-delegate-to-a-native-method-with-a-similar-sign
