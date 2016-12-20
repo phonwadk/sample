@@ -17,8 +17,6 @@ not yet
 
 http://stackoverflow.com/questions/41202800/does-the-jvm-close-its-open-files-by-itself-when-the-runtime-ends
 
-http://stackoverflow.com/questions/41203025/how-do-i-print-the-key-in-mapinteger-string
-
 http://stackoverflow.com/questions/41213235/why-do-we-use-comparator-like-this
 
 http://stackoverflow.com/questions/41210181/adding-arraylist-in-for-loop
