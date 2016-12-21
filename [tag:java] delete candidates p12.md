@@ -1,5 +1,3 @@
-please vote to close this crap: http://stackoverflow.com/questions/41229317/what-does-the-symbol-mean-in-java
-
 highly upvoted, up to you http://stackoverflow.com/questions/38948090/why-do-some-java-library-methods-delegate-to-a-native-method-with-a-similar-sign
 
 http://stackoverflow.com/questions/41246734/why-i-am-obtaining-this-wrong-value-when-i-am-trying-to-retrieve-the-year-value
