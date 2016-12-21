@@ -46,3 +46,5 @@ http://stackoverflow.com/questions/41229790/my-program-is-not-displaying-the-cor
 http://stackoverflow.com/questions/41244707/throw-exception-from-uncaughtexceptionhandler
 
 http://stackoverflow.com/questions/41246399/subclass-constructor-using-superclass
+
+http://stackoverflow.com/questions/41248448/non-static-variable-z-cannot-be-referenced-from-a-static-context
