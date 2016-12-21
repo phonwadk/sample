@@ -10,6 +10,12 @@ http://stackoverflow.com/questions/41223546/polymorphism-and-equals-in-java
 
 http://stackoverflow.com/questions/41215768/beginner-java-why-am-i-getting-a-null-return-here
 
+http://stackoverflow.com/questions/41133740/why-is-it-sometimes-possible-to-implement-consumer-xxxconsumer-with-an-increme
+
+http://stackoverflow.com/questions/41200398/refactor-for-loops-with-java-streams-lambda
+
+http://stackoverflow.com/questions/41186867/spring-boot-repository-is-always-null
+
 not yet
 ====
 
