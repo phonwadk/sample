@@ -1,5 +1,3 @@
-http://stackoverflow.com/questions/41244156/why-are-some-of-the-variables-declared-outside-of-public-phonebook-and-then-in
-
 please vote to close this crap: http://stackoverflow.com/questions/41229317/what-does-the-symbol-mean-in-java
 
 http://stackoverflow.com/questions/41224531/checking-if-string-matches-specific-format-java
