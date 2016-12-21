@@ -16,6 +16,12 @@ http://stackoverflow.com/questions/41200398/refactor-for-loops-with-java-streams
 
 http://stackoverflow.com/questions/41186867/spring-boot-repository-is-always-null
 
+http://stackoverflow.com/questions/41126862/unique-method-call-to-access-any-content-of-a-org-json-jsonobject
+
+http://stackoverflow.com/questions/41108308/removing-elements-from-a-list-with-remove
+
+http://stackoverflow.com/questions/41093433/hashmap-with-custom-keys-equals-and-hashcode
+
 not yet
 ====
 
