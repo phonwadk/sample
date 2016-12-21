@@ -1,7 +1,5 @@
 http://stackoverflow.com/questions/41253585/go-to-else-from-if-block
 
-http://stackoverflow.com/questions/41234580/how-to-know-an-exception-is-checked-or-runtime-exception
-
 http://stackoverflow.com/questions/41246734/why-i-am-obtaining-this-wrong-value-when-i-am-trying-to-retrieve-the-year-value
 
 http://stackoverflow.com/questions/41210085/work-out-age-and-below
