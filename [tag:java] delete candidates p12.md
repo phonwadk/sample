@@ -46,3 +46,5 @@ http://stackoverflow.com/questions/41255913/enum-defined-in-interface-becomes-st
 http://stackoverflow.com/questions/41251976/how-to-format-a-string-in-java
 
 http://stackoverflow.com/questions/41267143/avoid-massive-switch-statement
+
+http://stackoverflow.com/questions/41268694/variable-may-not-have-been-initialized-even-after-an-initializer-has-been-passe
