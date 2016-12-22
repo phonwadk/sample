@@ -24,9 +24,6 @@ http://stackoverflow.com/questions/41108308/removing-elements-from-a-list-with-r
 
 http://stackoverflow.com/questions/41093433/hashmap-with-custom-keys-equals-and-hashcode
 
-not yet
-====
-
 http://stackoverflow.com/questions/41225848/if-two-objects-have-the-same-hashcode-they-should-be-equal
 
 http://stackoverflow.com/questions/41225737/extract-generic-type-t-from-hashmap
@@ -36,6 +33,9 @@ http://stackoverflow.com/questions/41227062/illegalstateexception-with-scanner
 http://stackoverflow.com/questions/41228822/how-to-get-all-static-variables-in-class-in-java
 
 http://stackoverflow.com/questions/41229790/my-program-is-not-displaying-the-correct-output
+
+not yet
+====
 
 http://stackoverflow.com/questions/41244707/throw-exception-from-uncaughtexceptionhandler
 
