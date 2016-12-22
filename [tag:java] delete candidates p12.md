@@ -6,10 +6,10 @@ http://stackoverflow.com/questions/41246734/why-i-am-obtaining-this-wrong-value-
 
 http://stackoverflow.com/questions/41108308/removing-elements-from-a-list-with-remove
 
+http://stackoverflow.com/questions/41244707/throw-exception-from-uncaughtexceptionhandler
+
 not yet
 ====
-
-http://stackoverflow.com/questions/41244707/throw-exception-from-uncaughtexceptionhandler
 
 http://stackoverflow.com/questions/41246399/subclass-constructor-using-superclass
 
