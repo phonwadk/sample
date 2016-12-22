@@ -28,3 +28,5 @@ http://stackoverflow.com/questions/41269091/for-loop-stop-condition-that-depends
 http://stackoverflow.com/questions/41275753/resolving-output-order-of-try-catch-finally-execution-in-java-in-the-rig
 
 http://stackoverflow.com/questions/41285543/printing-an-int-double-value-from-an-array-method-in-the-main-method-using-java
+
+http://stackoverflow.com/questions/41286088/how-do-i-check-if-a-hashtable-in-java-already-contains-a-specific-key
