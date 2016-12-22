@@ -4,8 +4,6 @@ http://stackoverflow.com/questions/41269423/will-my-program-execute-else-even-if
 
 http://stackoverflow.com/questions/41246734/why-i-am-obtaining-this-wrong-value-when-i-am-trying-to-retrieve-the-year-value
 
-http://stackoverflow.com/questions/41126862/unique-method-call-to-access-any-content-of-a-org-json-jsonobject
-
 http://stackoverflow.com/questions/41108308/removing-elements-from-a-list-with-remove
 
 http://stackoverflow.com/questions/41093433/hashmap-with-custom-keys-equals-and-hashcode
