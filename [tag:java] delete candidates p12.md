@@ -4,8 +4,6 @@ http://stackoverflow.com/questions/41253585/go-to-else-from-if-block
 
 http://stackoverflow.com/questions/41246734/why-i-am-obtaining-this-wrong-value-when-i-am-trying-to-retrieve-the-year-value
 
-http://stackoverflow.com/questions/41210085/work-out-age-and-below
-
 http://stackoverflow.com/questions/41268845/whats-wrong-with-my-method
 
 http://stackoverflow.com/questions/41225082/explaining-pass-by-value-with-a-string-vs-a-list-of-strings
