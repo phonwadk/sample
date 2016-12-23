@@ -34,3 +34,5 @@ http://stackoverflow.com/questions/41286088/how-do-i-check-if-a-hashtable-in-jav
 http://stackoverflow.com/questions/41286356/i-want-keep-using-this-variable-which-is-in-my-if-statement
 
 http://stackoverflow.com/questions/41293309/i-dont-understand-why-this-outputs-0-instead-of-12-can-anyone-explain
+
+http://stackoverflow.com/questions/41293655/whats-the-difference-in-declaring-a-java-hashtable-in-the-given-code-examples
