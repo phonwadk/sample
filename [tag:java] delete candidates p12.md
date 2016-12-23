@@ -2,6 +2,10 @@ http://stackoverflow.com/questions/41269423/will-my-program-execute-else-even-if
 
 http://stackoverflow.com/questions/41246734/why-i-am-obtaining-this-wrong-value-when-i-am-trying-to-retrieve-the-year-value
 
+http://stackoverflow.com/questions/41295441/compiler-says-it-doesnt-override-abstract-method-but-it-does
+
+http://stackoverflow.com/questions/41304990/js-length-issue
+
 http://stackoverflow.com/questions/41244707/throw-exception-from-uncaughtexceptionhandler
 
 http://stackoverflow.com/questions/41255913/enum-defined-in-interface-becomes-static-or-non-static
@@ -9,6 +13,8 @@ http://stackoverflow.com/questions/41255913/enum-defined-in-interface-becomes-st
 http://stackoverflow.com/questions/41251976/how-to-format-a-string-in-java
 
 http://stackoverflow.com/questions/41267143/avoid-massive-switch-statement
+
+http://stackoverflow.com/questions/41289030/java-programming-having-problems
 
 NOT YET
 =====
@@ -30,3 +36,9 @@ http://stackoverflow.com/questions/41293309/i-dont-understand-why-this-outputs-0
 http://stackoverflow.com/questions/41293655/whats-the-difference-in-declaring-a-java-hashtable-in-the-given-code-examples
 
 http://stackoverflow.com/questions/41295964/java-text-parseexception-unparseable-date
+
+http://stackoverflow.com/questions/41290607/why-i-only-have-to-import-classes-sometimes
+
+http://stackoverflow.com/questions/41286830/jackson-create-a-simple-key-value-json-pair
+
+http://stackoverflow.com/questions/41287604/refactor-multiple-if-statements
