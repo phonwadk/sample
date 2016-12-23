@@ -18,12 +18,12 @@ http://stackoverflow.com/questions/41267143/avoid-massive-switch-statement
 
 http://stackoverflow.com/questions/41289030/java-programming-having-problems
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41268694/variable-may-not-have-been-initialized-even-after-an-initializer-has-been-passe
 
 http://stackoverflow.com/questions/41269091/for-loop-stop-condition-that-depends-on-i
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41275753/resolving-output-order-of-try-catch-finally-execution-in-java-in-the-rig
 
