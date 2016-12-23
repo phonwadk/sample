@@ -43,6 +43,8 @@ http://stackoverflow.com/questions/41295964/java-text-parseexception-unparseable
 
 http://stackoverflow.com/questions/41290607/why-i-only-have-to-import-classes-sometimes
 
+http://stackoverflow.com/questions/41287244/why-is-my-program-throwing-the-exception-java-util-inputmismatchexception
+
 http://stackoverflow.com/questions/41286830/jackson-create-a-simple-key-value-json-pair
 
 http://stackoverflow.com/questions/41287604/refactor-multiple-if-statements
