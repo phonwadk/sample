@@ -1,5 +1,3 @@
-
-
 http://stackoverflow.com/questions/41284537/static-and-instance-variables-java
 
 http://stackoverflow.com/questions/41269423/will-my-program-execute-else-even-if-it-executed-my-if
