@@ -42,3 +42,5 @@ http://stackoverflow.com/questions/41290607/why-i-only-have-to-import-classes-so
 http://stackoverflow.com/questions/41286830/jackson-create-a-simple-key-value-json-pair
 
 http://stackoverflow.com/questions/41287604/refactor-multiple-if-statements
+
+http://stackoverflow.com/questions/41306044/having-trouble-printing
