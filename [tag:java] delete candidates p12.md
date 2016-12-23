@@ -1,14 +1,8 @@
-http://stackoverflow.com/questions/41284537/static-and-instance-variables-java
-
 http://stackoverflow.com/questions/41269423/will-my-program-execute-else-even-if-it-executed-my-if
 
 http://stackoverflow.com/questions/41246734/why-i-am-obtaining-this-wrong-value-when-i-am-trying-to-retrieve-the-year-value
 
 http://stackoverflow.com/questions/41244707/throw-exception-from-uncaughtexceptionhandler
-
-http://stackoverflow.com/questions/41246399/subclass-constructor-using-superclass
-
-http://stackoverflow.com/questions/41248448/non-static-variable-z-cannot-be-referenced-from-a-static-context
 
 not yet
 ====
