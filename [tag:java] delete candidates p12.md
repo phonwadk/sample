@@ -1,5 +1,3 @@
-http://stackoverflow.com/questions/41287181/in-java-is-main-function-a-variadic-function
-
 http://stackoverflow.com/questions/41269423/will-my-program-execute-else-even-if-it-executed-my-if
 
 http://stackoverflow.com/questions/41306128/why-the-keyword-this-is-used-alone-here
