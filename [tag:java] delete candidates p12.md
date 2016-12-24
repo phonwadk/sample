@@ -48,3 +48,5 @@ http://stackoverflow.com/questions/41308301/error-in-method
 http://stackoverflow.com/questions/41306044/having-trouble-printing
 
 http://stackoverflow.com/questions/41309080/exception-in-thread-main-java-lang-illegalargumentexception-wrong-number-of-a
+
+http://stackoverflow.com/questions/41314854/java-gives-different-results-for-statement-having-post-decrement-operator
