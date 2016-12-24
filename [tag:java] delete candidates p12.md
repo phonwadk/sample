@@ -26,6 +26,10 @@ http://stackoverflow.com/questions/41286088/how-do-i-check-if-a-hashtable-in-jav
 
 http://stackoverflow.com/questions/41286356/i-want-keep-using-this-variable-which-is-in-my-if-statement
 
+http://stackoverflow.com/questions/41306044/having-trouble-printing
+
+http://stackoverflow.com/questions/41307773/try-catch-block-inside-a-method-interferes-with-return
+
 NOT YET
 =====
 
@@ -45,8 +49,19 @@ http://stackoverflow.com/questions/41287604/refactor-multiple-if-statements
 
 http://stackoverflow.com/questions/41308301/error-in-method
 
-http://stackoverflow.com/questions/41306044/having-trouble-printing
-
 http://stackoverflow.com/questions/41309080/exception-in-thread-main-java-lang-illegalargumentexception-wrong-number-of-a
 
 http://stackoverflow.com/questions/41314854/java-gives-different-results-for-statement-having-post-decrement-operator
+
+http://stackoverflow.com/questions/41315932/substring-method-in-java
+
+http://stackoverflow.com/questions/41305190/collections-reversearrays-aslistarr-not-working
+
+http://stackoverflow.com/questions/41306128/why-the-keyword-this-is-used-alone-here
+
+http://stackoverflow.com/questions/41305604/non-static-variable-cannot-be-referenced
+
+http://stackoverflow.com/questions/41307619/java-equals-overriding-in-subclasses
+
+http://stackoverflow.com/questions/41310464/splitting-string-by-spaces-using-split
+
