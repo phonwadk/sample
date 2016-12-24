@@ -53,8 +53,6 @@ http://stackoverflow.com/questions/41309080/exception-in-thread-main-java-lang-i
 
 http://stackoverflow.com/questions/41314854/java-gives-different-results-for-statement-having-post-decrement-operator
 
-http://stackoverflow.com/questions/41315932/substring-method-in-java
-
 http://stackoverflow.com/questions/41305190/collections-reversearrays-aslistarr-not-working
 
 http://stackoverflow.com/questions/41306128/why-the-keyword-this-is-used-alone-here
