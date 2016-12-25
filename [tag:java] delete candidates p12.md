@@ -22,9 +22,6 @@ http://stackoverflow.com/questions/41286356/i-want-keep-using-this-variable-whic
 
 http://stackoverflow.com/questions/41307773/try-catch-block-inside-a-method-interferes-with-return
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41293309/i-dont-understand-why-this-outputs-0-instead-of-12-can-anyone-explain
 
 http://stackoverflow.com/questions/41293655/whats-the-difference-in-declaring-a-java-hashtable-in-the-given-code-examples
@@ -33,11 +30,14 @@ http://stackoverflow.com/questions/41295964/java-text-parseexception-unparseable
 
 http://stackoverflow.com/questions/41290607/why-i-only-have-to-import-classes-sometimes
 
-http://stackoverflow.com/questions/41287244/why-is-my-program-throwing-the-exception-java-util-inputmismatchexception
-
 http://stackoverflow.com/questions/41286830/jackson-create-a-simple-key-value-json-pair
 
 http://stackoverflow.com/questions/41287604/refactor-multiple-if-statements
+
+NOT YET
+=====
+
+http://stackoverflow.com/questions/41287244/why-is-my-program-throwing-the-exception-java-util-inputmismatchexception
 
 http://stackoverflow.com/questions/41308301/error-in-method
 
