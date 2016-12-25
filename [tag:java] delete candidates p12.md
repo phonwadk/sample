@@ -58,3 +58,5 @@ http://stackoverflow.com/questions/41316297/dateformating-messing-up-date
 http://stackoverflow.com/questions/41316072/missing-return-statement-error-even-though-i-have-a-return-statement
 
 http://stackoverflow.com/questions/41322465/will-java-accept-the-form-of-giving-hard-coded-values-for-array-of-class-variabl
+
+http://stackoverflow.com/questions/41324668/why-is-my-getter-not-getting-hashmap-from-constructor
