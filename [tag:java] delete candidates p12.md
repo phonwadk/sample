@@ -16,15 +16,9 @@ http://stackoverflow.com/questions/41268694/variable-may-not-have-been-initializ
 
 http://stackoverflow.com/questions/41269091/for-loop-stop-condition-that-depends-on-i
 
-http://stackoverflow.com/questions/41275753/resolving-output-order-of-try-catch-finally-execution-in-java-in-the-rig
-
-http://stackoverflow.com/questions/41285543/printing-an-int-double-value-from-an-array-method-in-the-main-method-using-java
-
 http://stackoverflow.com/questions/41286088/how-do-i-check-if-a-hashtable-in-java-already-contains-a-specific-key
 
 http://stackoverflow.com/questions/41286356/i-want-keep-using-this-variable-which-is-in-my-if-statement
-
-http://stackoverflow.com/questions/41306044/having-trouble-printing
 
 http://stackoverflow.com/questions/41307773/try-catch-block-inside-a-method-interferes-with-return
 
