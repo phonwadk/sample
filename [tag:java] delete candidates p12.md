@@ -22,8 +22,6 @@ http://stackoverflow.com/questions/41286356/i-want-keep-using-this-variable-whic
 
 http://stackoverflow.com/questions/41307773/try-catch-block-inside-a-method-interferes-with-return
 
-http://stackoverflow.com/questions/41293309/i-dont-understand-why-this-outputs-0-instead-of-12-can-anyone-explain
-
 http://stackoverflow.com/questions/41293655/whats-the-difference-in-declaring-a-java-hashtable-in-the-given-code-examples
 
 http://stackoverflow.com/questions/41295964/java-text-parseexception-unparseable-date
