@@ -44,12 +44,12 @@ http://stackoverflow.com/questions/41305190/collections-reversearrays-aslistarr-
 
 http://stackoverflow.com/questions/41306128/why-the-keyword-this-is-used-alone-here
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41305604/non-static-variable-cannot-be-referenced
 
 http://stackoverflow.com/questions/41307619/java-equals-overriding-in-subclasses
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41310464/splitting-string-by-spaces-using-split
 
