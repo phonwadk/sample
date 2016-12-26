@@ -1,5 +1,9 @@
 http://stackoverflow.com/questions/41326137/java-int-declaration-without-value-no-always-be-preset-value
 
+http://stackoverflow.com/questions/41326779/compressing-arrays
+
+http://stackoverflow.com/questions/41326913/interface-benefits-respect-to-di-in-spring
+
 http://stackoverflow.com/questions/41295441/compiler-says-it-doesnt-override-abstract-method-but-it-does
 
 http://stackoverflow.com/questions/41304990/js-length-issue
