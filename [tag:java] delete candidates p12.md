@@ -2,25 +2,7 @@ http://stackoverflow.com/questions/41333481/variable-inside-while-loop
 
 http://stackoverflow.com/questions/41326137/java-int-declaration-without-value-no-always-be-preset-value
 
-http://stackoverflow.com/questions/41326779/compressing-arrays
-
 http://stackoverflow.com/questions/41326913/interface-benefits-respect-to-di-in-spring
-
-http://stackoverflow.com/questions/41295441/compiler-says-it-doesnt-override-abstract-method-but-it-does
-
-http://stackoverflow.com/questions/41304990/js-length-issue
-
-http://stackoverflow.com/questions/41255913/enum-defined-in-interface-becomes-static-or-non-static
-
-http://stackoverflow.com/questions/41251976/how-to-format-a-string-in-java
-
-http://stackoverflow.com/questions/41267143/avoid-massive-switch-statement
-
-http://stackoverflow.com/questions/41268694/variable-may-not-have-been-initialized-even-after-an-initializer-has-been-passe
-
-http://stackoverflow.com/questions/41269091/for-loop-stop-condition-that-depends-on-i
-
-http://stackoverflow.com/questions/41286356/i-want-keep-using-this-variable-which-is-in-my-if-statement
 
 http://stackoverflow.com/questions/41308301/error-in-method
 
