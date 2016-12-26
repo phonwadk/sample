@@ -10,43 +10,17 @@ http://stackoverflow.com/questions/41251976/how-to-format-a-string-in-java
 
 http://stackoverflow.com/questions/41267143/avoid-massive-switch-statement
 
-http://stackoverflow.com/questions/41289030/java-programming-having-problems
-
 http://stackoverflow.com/questions/41268694/variable-may-not-have-been-initialized-even-after-an-initializer-has-been-passe
 
 http://stackoverflow.com/questions/41269091/for-loop-stop-condition-that-depends-on-i
 
-http://stackoverflow.com/questions/41286088/how-do-i-check-if-a-hashtable-in-java-already-contains-a-specific-key
-
 http://stackoverflow.com/questions/41286356/i-want-keep-using-this-variable-which-is-in-my-if-statement
-
-http://stackoverflow.com/questions/41307773/try-catch-block-inside-a-method-interferes-with-return
-
-http://stackoverflow.com/questions/41293655/whats-the-difference-in-declaring-a-java-hashtable-in-the-given-code-examples
-
-http://stackoverflow.com/questions/41295964/java-text-parseexception-unparseable-date
-
-http://stackoverflow.com/questions/41290607/why-i-only-have-to-import-classes-sometimes
-
-http://stackoverflow.com/questions/41286830/jackson-create-a-simple-key-value-json-pair
-
-http://stackoverflow.com/questions/41287604/refactor-multiple-if-statements
-
-http://stackoverflow.com/questions/41287244/why-is-my-program-throwing-the-exception-java-util-inputmismatchexception
 
 http://stackoverflow.com/questions/41308301/error-in-method
 
 http://stackoverflow.com/questions/41309080/exception-in-thread-main-java-lang-illegalargumentexception-wrong-number-of-a
 
 http://stackoverflow.com/questions/41314854/java-gives-different-results-for-statement-having-post-decrement-operator
-
-http://stackoverflow.com/questions/41305190/collections-reversearrays-aslistarr-not-working
-
-http://stackoverflow.com/questions/41306128/why-the-keyword-this-is-used-alone-here
-
-http://stackoverflow.com/questions/41305604/non-static-variable-cannot-be-referenced
-
-http://stackoverflow.com/questions/41307619/java-equals-overriding-in-subclasses
 
 NOT YET
 =====
