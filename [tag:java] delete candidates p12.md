@@ -16,6 +16,8 @@ http://stackoverflow.com/questions/41316297/dateformating-messing-up-date
 
 http://stackoverflow.com/questions/41316072/missing-return-statement-error-even-though-i-have-a-return-statement
 
+http://stackoverflow.com/questions/41130609/declaring-fields-in-the-most-specific-way
+
 NOT YET
 =====
 
