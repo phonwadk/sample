@@ -44,3 +44,5 @@ http://stackoverflow.com/questions/41324668/why-is-my-getter-not-getting-hashmap
 http://stackoverflow.com/questions/41325787/convert-string-to-date-and-extract-year-month-day-individually-in-java
 
 http://stackoverflow.com/questions/41333905/what-is-the-best-approach-to-initialize-a-list-in-java
+
+http://stackoverflow.com/questions/41334458/is-string-in-java-unique-object-or-primitive-etc
