@@ -60,3 +60,5 @@ http://stackoverflow.com/questions/41316072/missing-return-statement-error-even-
 http://stackoverflow.com/questions/41322465/will-java-accept-the-form-of-giving-hard-coded-values-for-array-of-class-variabl
 
 http://stackoverflow.com/questions/41324668/why-is-my-getter-not-getting-hashmap-from-constructor
+
+http://stackoverflow.com/questions/41325787/convert-string-to-date-and-extract-year-month-day-individually-in-java
