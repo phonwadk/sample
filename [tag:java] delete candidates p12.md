@@ -1,5 +1,3 @@
-http://stackoverflow.com/questions/41306128/why-the-keyword-this-is-used-alone-here
-
 http://stackoverflow.com/questions/41295441/compiler-says-it-doesnt-override-abstract-method-but-it-does
 
 http://stackoverflow.com/questions/41304990/js-length-issue
