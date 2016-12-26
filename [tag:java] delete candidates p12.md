@@ -32,9 +32,6 @@ http://stackoverflow.com/questions/41286830/jackson-create-a-simple-key-value-js
 
 http://stackoverflow.com/questions/41287604/refactor-multiple-if-statements
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41287244/why-is-my-program-throwing-the-exception-java-util-inputmismatchexception
 
 http://stackoverflow.com/questions/41308301/error-in-method
@@ -46,6 +43,9 @@ http://stackoverflow.com/questions/41314854/java-gives-different-results-for-sta
 http://stackoverflow.com/questions/41305190/collections-reversearrays-aslistarr-not-working
 
 http://stackoverflow.com/questions/41306128/why-the-keyword-this-is-used-alone-here
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41305604/non-static-variable-cannot-be-referenced
 
