@@ -28,3 +28,5 @@ http://stackoverflow.com/questions/41338275/java-date-format-java-lang-illegalar
 http://stackoverflow.com/questions/41338875/convert-string-to-bytes-to-biginteger-to-elements-and-reverse-using-jpbc-library
 
 http://stackoverflow.com/questions/41349805/issue-with-collections-sort-method
+
+http://stackoverflow.com/questions/41350941/weird-calculations-in-java
