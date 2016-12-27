@@ -29,3 +29,5 @@ http://stackoverflow.com/questions/41350941/Calculations-in-java
 http://stackoverflow.com/questions/41351377/java-when-i-pass-a-list-to-the-method-it-edits-the-list-content
 
 http://stackoverflow.com/questions/41350317/map-json-objects-unnamed-array-of-object-to-pojo-with-jackson
+
+http://stackoverflow.com/questions/41353487/why-it-always-return-1-0-in-my-code
