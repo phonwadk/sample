@@ -1,10 +1,6 @@
 http://stackoverflow.com/questions/41333481/variable-inside-while-loop
 
-http://stackoverflow.com/questions/41326137/java-int-declaration-without-value-no-always-be-preset-value
-
 http://stackoverflow.com/questions/41326913/interface-benefits-respect-to-di-in-spring
-
-http://stackoverflow.com/questions/41309080/exception-in-thread-main-java-lang-illegalargumentexception-wrong-number-of-a
 
 http://stackoverflow.com/questions/41314854/java-gives-different-results-for-statement-having-post-decrement-operator
 
@@ -13,8 +9,6 @@ http://stackoverflow.com/questions/41246298/why-is-string-str-new-stringchararra
 http://stackoverflow.com/questions/41203097/java-for-loop-specific-step-by-step
 
 http://stackoverflow.com/questions/41224149/reading-multiple-string-input-lines-with-bufferedreader
-
-http://stackoverflow.com/questions/41322465/will-java-accept-the-form-of-giving-hard-coded-values-for-array-of-class-variabl
 
 NOT YET
 =====
