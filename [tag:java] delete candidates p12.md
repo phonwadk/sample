@@ -1,5 +1,3 @@
-http://stackoverflow.com/questions/41126867/java-what-kind-of-an-array-is-this
-
 http://stackoverflow.com/questions/41333481/variable-inside-while-loop
 
 http://stackoverflow.com/questions/41326137/java-int-declaration-without-value-no-always-be-preset-value
