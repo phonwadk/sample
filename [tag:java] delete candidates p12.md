@@ -26,3 +26,5 @@ http://stackoverflow.com/questions/41334458/is-string-in-java-unique-object-or-p
 http://stackoverflow.com/questions/41338275/java-date-format-java-lang-illegalargumentexception
 
 http://stackoverflow.com/questions/41338875/convert-string-to-bytes-to-biginteger-to-elements-and-reverse-using-jpbc-library
+
+http://stackoverflow.com/questions/41349805/issue-with-collections-sort-method
