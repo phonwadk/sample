@@ -23,8 +23,6 @@ http://stackoverflow.com/questions/41322465/will-java-accept-the-form-of-giving-
 
 http://stackoverflow.com/questions/41324668/why-is-my-getter-not-getting-hashmap-from-constructor
 
-http://stackoverflow.com/questions/41333905/what-is-the-best-approach-to-initialize-a-list-in-java
-
 http://stackoverflow.com/questions/41334458/is-string-in-java-unique-object-or-primitive-etc
 
 http://stackoverflow.com/questions/41338275/java-date-format-java-lang-illegalargumentexception
