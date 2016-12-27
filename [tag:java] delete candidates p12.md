@@ -16,6 +16,14 @@ http://stackoverflow.com/questions/41316072/missing-return-statement-error-even-
 
 http://stackoverflow.com/questions/41130609/declaring-fields-in-the-most-specific-way
 
+http://stackoverflow.com/questions/41246298/why-is-string-str-new-stringchararray-is-not-working-java
+
+http://stackoverflow.com/questions/41203097/java-for-loop-specific-step-by-step
+
+http://stackoverflow.com/questions/41217884/passing-arraylist-from-serlvet-to-jsp-and-printing-the-arraylist-values-in-jsp
+
+http://stackoverflow.com/questions/41224149/reading-multiple-string-input-lines-with-bufferedreader
+
 NOT YET
 =====
 
