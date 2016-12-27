@@ -10,13 +10,9 @@ http://stackoverflow.com/questions/41309080/exception-in-thread-main-java-lang-i
 
 http://stackoverflow.com/questions/41314854/java-gives-different-results-for-statement-having-post-decrement-operator
 
-http://stackoverflow.com/questions/41130609/declaring-fields-in-the-most-specific-way
-
 http://stackoverflow.com/questions/41246298/why-is-string-str-new-stringchararray-is-not-working-java
 
 http://stackoverflow.com/questions/41203097/java-for-loop-specific-step-by-step
-
-http://stackoverflow.com/questions/41217884/passing-arraylist-from-serlvet-to-jsp-and-printing-the-arraylist-values-in-jsp
 
 http://stackoverflow.com/questions/41224149/reading-multiple-string-input-lines-with-bufferedreader
 
