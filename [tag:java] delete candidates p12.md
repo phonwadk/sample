@@ -30,3 +30,5 @@ http://stackoverflow.com/questions/41325787/convert-string-to-date-and-extract-y
 http://stackoverflow.com/questions/41333905/what-is-the-best-approach-to-initialize-a-list-in-java
 
 http://stackoverflow.com/questions/41334458/is-string-in-java-unique-object-or-primitive-etc
+
+http://stackoverflow.com/questions/41338275/java-date-format-java-lang-illegalargumentexception
