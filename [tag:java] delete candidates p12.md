@@ -24,10 +24,10 @@ http://stackoverflow.com/questions/41217884/passing-arraylist-from-serlvet-to-js
 
 http://stackoverflow.com/questions/41224149/reading-multiple-string-input-lines-with-bufferedreader
 
+http://stackoverflow.com/questions/41322465/will-java-accept-the-form-of-giving-hard-coded-values-for-array-of-class-variabl
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/41322465/will-java-accept-the-form-of-giving-hard-coded-values-for-array-of-class-variabl
 
 http://stackoverflow.com/questions/41324668/why-is-my-getter-not-getting-hashmap-from-constructor
 
