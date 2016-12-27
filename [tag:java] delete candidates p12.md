@@ -32,3 +32,5 @@ http://stackoverflow.com/questions/41349805/issue-with-collections-sort-method
 http://stackoverflow.com/questions/41350941/weird-calculations-in-java
 
 http://stackoverflow.com/questions/41351377/java-when-i-pass-a-list-to-the-method-it-edits-the-list-content
+
+http://stackoverflow.com/questions/41351520/break-statement-doesnt-workjava
