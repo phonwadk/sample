@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/41336678/spring-mvc-vs-restful-webservices
+
 http://stackoverflow.com/questions/41333481/variable-inside-while-loop
 
 http://stackoverflow.com/questions/41326913/interface-benefits-respect-to-di-in-spring
@@ -16,9 +18,12 @@ http://stackoverflow.com/questions/41349805/issue-with-collections-sort-method
 
 http://stackoverflow.com/questions/41350941/Calculations-in-java
 
+http://stackoverflow.com/questions/41336737/thread-synchronisation-and-synchronized-keyword-prob
+
 NOT YET
 =====
 
+http://stackoverflow.com/questions/41336533/i-cant-return-a-string-value-but-i-can-print-it
 
 http://stackoverflow.com/questions/41334458/is-string-in-java-unique-object-or-primitive-etc
 
