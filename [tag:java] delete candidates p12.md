@@ -42,3 +42,5 @@ http://stackoverflow.com/questions/41353487/why-it-always-return-1-0-in-my-code
 http://stackoverflow.com/questions/41364978/should-values-like-60-minute-1000-second-be-constants-in-java
 
 http://stackoverflow.com/questions/41364367/iterating-through-linkedlist-in-on
+
+http://stackoverflow.com/questions/41369262/accessing-a-variable-declared-in-a-private-void-method-in-java
