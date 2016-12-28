@@ -26,6 +26,8 @@ http://stackoverflow.com/questions/41336737/thread-synchronisation-and-synchroni
 
 http://stackoverflow.com/questions/41323017/after-introduction-of-default-methods-what-is-the-difference-between-interface
 
+http://stackoverflow.com/questions/41367203/what-is-the-practical-use-and-advantage-of-following-type-of-catch-block
+
 NOT YET
 =====
 
