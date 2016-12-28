@@ -6,8 +6,6 @@ http://stackoverflow.com/questions/41314854/java-gives-different-results-for-sta
 
 http://stackoverflow.com/questions/41246298/why-is-string-str-new-stringchararray-is-not-working-java
 
-http://stackoverflow.com/questions/41203097/java-for-loop-specific-step-by-step
-
 http://stackoverflow.com/questions/41224149/reading-multiple-string-input-lines-with-bufferedreader
 
 http://stackoverflow.com/questions/41324668/why-is-my-getter-not-getting-hashmap-from-constructor
@@ -20,8 +18,6 @@ NOT YET
 
 http://stackoverflow.com/questions/41334458/is-string-in-java-unique-object-or-primitive-etc
 
-http://stackoverflow.com/questions/41338875/convert-string-to-bytes-to-biginteger-to-elements-and-reverse-using-jpbc-library
-
 http://stackoverflow.com/questions/41349805/issue-with-collections-sort-method
 
 http://stackoverflow.com/questions/41350941/Calculations-in-java
@@ -31,3 +27,5 @@ http://stackoverflow.com/questions/41351377/java-when-i-pass-a-list-to-the-metho
 http://stackoverflow.com/questions/41350317/map-json-objects-unnamed-array-of-object-to-pojo-with-jackson
 
 http://stackoverflow.com/questions/41353487/why-it-always-return-1-0-in-my-code
+
+http://stackoverflow.com/questions/41364978/should-values-like-60-minute-1000-second-be-constants-in-java
