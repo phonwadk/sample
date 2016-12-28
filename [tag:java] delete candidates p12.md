@@ -14,13 +14,7 @@ http://stackoverflow.com/questions/41246298/why-is-string-str-new-stringchararra
 
 http://stackoverflow.com/questions/41224149/reading-multiple-string-input-lines-with-bufferedreader
 
-http://stackoverflow.com/questions/41324668/why-is-my-getter-not-getting-hashmap-from-constructor
-
 http://stackoverflow.com/questions/41338275/java-date-format-java-lang-illegalargumentexception
-
-http://stackoverflow.com/questions/41349805/issue-with-collections-sort-method
-
-http://stackoverflow.com/questions/41350941/Calculations-in-java
 
 http://stackoverflow.com/questions/41336737/thread-synchronisation-and-synchronized-keyword-prob
 
