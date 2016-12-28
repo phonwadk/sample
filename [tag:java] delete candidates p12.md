@@ -12,15 +12,15 @@ http://stackoverflow.com/questions/41324668/why-is-my-getter-not-getting-hashmap
 
 http://stackoverflow.com/questions/41338275/java-date-format-java-lang-illegalargumentexception
 
+http://stackoverflow.com/questions/41349805/issue-with-collections-sort-method
+
+http://stackoverflow.com/questions/41350941/Calculations-in-java
+
 NOT YET
 =====
 
 
 http://stackoverflow.com/questions/41334458/is-string-in-java-unique-object-or-primitive-etc
-
-http://stackoverflow.com/questions/41349805/issue-with-collections-sort-method
-
-http://stackoverflow.com/questions/41350941/Calculations-in-java
 
 http://stackoverflow.com/questions/41351377/java-when-i-pass-a-list-to-the-method-it-edits-the-list-content
 
