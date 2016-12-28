@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/41365161/why-the-linkedlist-becomes-empty
+
 http://stackoverflow.com/questions/41336678/spring-mvc-vs-restful-webservices
 
 http://stackoverflow.com/questions/41333481/variable-inside-while-loop
