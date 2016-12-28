@@ -20,8 +20,14 @@ http://stackoverflow.com/questions/41350941/Calculations-in-java
 
 http://stackoverflow.com/questions/41336737/thread-synchronisation-and-synchronized-keyword-prob
 
+http://stackoverflow.com/questions/41323017/after-introduction-of-default-methods-what-is-the-difference-between-interface
+
 NOT YET
 =====
+
+http://stackoverflow.com/questions/41335897/why-creating-instance-of-the-class-in-non-static-field-of-another-class-and-then
+
+http://stackoverflow.com/questions/41334013/what-happens-when-i-cast-a-negative-byte-to-a-char
 
 http://stackoverflow.com/questions/41336533/i-cant-return-a-string-value-but-i-can-print-it
 
