@@ -34,3 +34,5 @@ http://stackoverflow.com/questions/41364978/should-values-like-60-minute-1000-se
 http://stackoverflow.com/questions/41364367/iterating-through-linkedlist-in-on
 
 http://stackoverflow.com/questions/41369262/accessing-a-variable-declared-in-a-private-void-method-in-java
+
+http://stackoverflow.com/questions/41382748/why-java-allowing-implement-interface-method-in-parent-class
