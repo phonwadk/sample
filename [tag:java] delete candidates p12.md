@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/35405598/xmppframework-vendor-files-missing
+
 http://stackoverflow.com/questions/26410043/how-do-i-fix-syntax-error-on-token-name-expected-after-this-token
 
 http://stackoverflow.com/questions/41365161/why-the-linkedlist-becomes-empty
