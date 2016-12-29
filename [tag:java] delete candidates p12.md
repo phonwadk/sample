@@ -1,5 +1,11 @@
 http://stackoverflow.com/questions/41382303/hi-has-anyone-any-idea-why-this-java-code-is-not-running-any-help-would-be-great
 
+http://stackoverflow.com/questions/41364978/should-values-like-60-minute-1000-second-be-constants-in-java
+
+http://stackoverflow.com/questions/41352599/string-touppercase-and-a-weird-unicode-character
+
+http://stackoverflow.com/questions/41366979/find-all-possible-int-arrays
+
 http://stackoverflow.com/questions/41383137/call-a-constructor-in-java-from-main-or-another-constructor
 
 http://stackoverflow.com/questions/35200443/this-for-loop-in-my-java-program-doesnt-work-using-arraylist
@@ -20,8 +26,6 @@ http://stackoverflow.com/questions/41351377/java-when-i-pass-a-list-to-the-metho
 http://stackoverflow.com/questions/41350317/map-json-objects-unnamed-array-of-object-to-pojo-with-jackson
 
 http://stackoverflow.com/questions/41353487/why-it-always-return-1-0-in-my-code
-
-http://stackoverflow.com/questions/41364978/should-values-like-60-minute-1000-second-be-constants-in-java
 
 http://stackoverflow.com/questions/41364367/iterating-through-linkedlist-in-on
 
