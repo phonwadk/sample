@@ -52,3 +52,5 @@ http://stackoverflow.com/questions/41382453/jave-create-class-extends-number
 http://stackoverflow.com/questions/41369514/how-can-designate-a-singleton-class-as-spring-singleton-scoped-bean-using-annota
 
 http://stackoverflow.com/questions/41372918/getting-output-in-negative-numbers-in-java
+
+http://stackoverflow.com/questions/41383978/nosuchbeandefinitionexception-with-spring-boot-1-4-2-without-xml
