@@ -18,8 +18,6 @@ http://stackoverflow.com/questions/35200443/this-for-loop-in-my-java-program-doe
 
 http://stackoverflow.com/questions/41314854/java-gives-different-results-for-statement-having-post-decrement-operator
 
-http://stackoverflow.com/questions/41224149/reading-multiple-string-input-lines-with-bufferedreader
-
 http://stackoverflow.com/questions/41338275/java-date-format-java-lang-illegalargumentexception
 
 NOT YET
