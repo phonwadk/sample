@@ -32,3 +32,5 @@ http://stackoverflow.com/questions/41382748/why-java-allowing-implement-interfac
 http://stackoverflow.com/questions/41381465/java-hashmap-get-value-from-key-using-streams
 
 http://stackoverflow.com/questions/41381846/how-can-switch-statement-cases-test-for-inequalities-rather-than-booleans
+
+http://stackoverflow.com/questions/41382453/jave-create-class-extends-number
