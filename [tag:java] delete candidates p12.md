@@ -1,5 +1,7 @@
 http://stackoverflow.com/questions/41382303/hi-has-anyone-any-idea-why-this-java-code-is-not-running-any-help-would-be-great
 
+http://stackoverflow.com/questions/35200443/this-for-loop-in-my-java-program-doesnt-work-using-arraylist
+
 http://stackoverflow.com/questions/41326913/interface-benefits-respect-to-di-in-spring
 
 http://stackoverflow.com/questions/41314854/java-gives-different-results-for-statement-having-post-decrement-operator
