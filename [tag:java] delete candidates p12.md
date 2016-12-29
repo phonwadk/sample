@@ -8,8 +8,6 @@ http://stackoverflow.com/questions/41382303/hi-has-anyone-any-idea-why-this-java
 
 http://stackoverflow.com/questions/41367991/what-is-the-meaning-of-findviewbyidr-id-in-android
 
-http://stackoverflow.com/questions/41364978/should-values-like-60-minute-1000-second-be-constants-in-java
-
 http://stackoverflow.com/questions/41366979/find-all-possible-int-arrays
 
 http://stackoverflow.com/questions/41383137/call-a-constructor-in-java-from-main-or-another-constructor
