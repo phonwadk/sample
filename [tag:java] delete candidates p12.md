@@ -24,9 +24,6 @@ http://stackoverflow.com/questions/41323017/after-introduction-of-default-method
 
 http://stackoverflow.com/questions/41367203/what-is-the-practical-use-and-advantage-of-following-type-of-catch-block
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41335897/why-creating-instance-of-the-class-in-non-static-field-of-another-class-and-then
 
 http://stackoverflow.com/questions/41334013/what-happens-when-i-cast-a-negative-byte-to-a-char
@@ -34,6 +31,9 @@ http://stackoverflow.com/questions/41334013/what-happens-when-i-cast-a-negative-
 http://stackoverflow.com/questions/41336533/i-cant-return-a-string-value-but-i-can-print-it
 
 http://stackoverflow.com/questions/41334458/is-string-in-java-unique-object-or-primitive-etc
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41351377/java-when-i-pass-a-list-to-the-method-it-edits-the-list-content
 
