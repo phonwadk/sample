@@ -54,3 +54,5 @@ http://stackoverflow.com/questions/41369514/how-can-designate-a-singleton-class-
 http://stackoverflow.com/questions/41372918/getting-output-in-negative-numbers-in-java
 
 http://stackoverflow.com/questions/41383978/nosuchbeandefinitionexception-with-spring-boot-1-4-2-without-xml
+
+http://stackoverflow.com/questions/41383809/cannot-convert-from-double-to-double
