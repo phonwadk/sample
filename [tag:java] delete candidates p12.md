@@ -4,8 +4,6 @@ http://stackoverflow.com/questions/26410043/how-do-i-fix-syntax-error-on-token-n
 
 http://stackoverflow.com/questions/41365161/why-the-linkedlist-becomes-empty
 
-http://stackoverflow.com/questions/41336678/spring-mvc-vs-restful-webservices
-
 http://stackoverflow.com/questions/41333481/variable-inside-while-loop
 
 http://stackoverflow.com/questions/41326913/interface-benefits-respect-to-di-in-spring
@@ -20,17 +18,11 @@ http://stackoverflow.com/questions/41338275/java-date-format-java-lang-illegalar
 
 http://stackoverflow.com/questions/41336737/thread-synchronisation-and-synchronized-keyword-prob
 
-http://stackoverflow.com/questions/41323017/after-introduction-of-default-methods-what-is-the-difference-between-interface
-
 http://stackoverflow.com/questions/41367203/what-is-the-practical-use-and-advantage-of-following-type-of-catch-block
 
 http://stackoverflow.com/questions/41335897/why-creating-instance-of-the-class-in-non-static-field-of-another-class-and-then
 
-http://stackoverflow.com/questions/41334013/what-happens-when-i-cast-a-negative-byte-to-a-char
-
 http://stackoverflow.com/questions/41336533/i-cant-return-a-string-value-but-i-can-print-it
-
-http://stackoverflow.com/questions/41334458/is-string-in-java-unique-object-or-primitive-etc
 
 NOT YET
 =====
