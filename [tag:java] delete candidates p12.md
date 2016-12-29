@@ -38,3 +38,5 @@ http://stackoverflow.com/questions/41381846/how-can-switch-statement-cases-test-
 http://stackoverflow.com/questions/41371291/initializing-two-dimentional-arrays-arrays-inside-an-array-dont-follow-java-s
 
 http://stackoverflow.com/questions/41382453/jave-create-class-extends-number
+
+http://stackoverflow.com/questions/41369514/how-can-designate-a-singleton-class-as-spring-singleton-scoped-bean-using-annota
