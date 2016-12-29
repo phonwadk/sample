@@ -27,10 +27,14 @@ http://stackoverflow.com/questions/41364367/iterating-through-linkedlist-in-on
 
 http://stackoverflow.com/questions/41369262/accessing-a-variable-declared-in-a-private-void-method-in-java
 
+http://stackoverflow.com/questions/41373291/illegal-character-in-query
+
 http://stackoverflow.com/questions/41382748/why-java-allowing-implement-interface-method-in-parent-class
 
 http://stackoverflow.com/questions/41381465/java-hashmap-get-value-from-key-using-streams
 
 http://stackoverflow.com/questions/41381846/how-can-switch-statement-cases-test-for-inequalities-rather-than-booleans
+
+http://stackoverflow.com/questions/41371291/initializing-two-dimentional-arrays-arrays-inside-an-array-dont-follow-java-s
 
 http://stackoverflow.com/questions/41382453/jave-create-class-extends-number
