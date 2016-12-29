@@ -30,3 +30,5 @@ http://stackoverflow.com/questions/41369262/accessing-a-variable-declared-in-a-p
 http://stackoverflow.com/questions/41382748/why-java-allowing-implement-interface-method-in-parent-class
 
 http://stackoverflow.com/questions/41381465/java-hashmap-get-value-from-key-using-streams
+
+http://stackoverflow.com/questions/41381846/how-can-switch-statement-cases-test-for-inequalities-rather-than-booleans
