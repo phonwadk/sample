@@ -56,3 +56,5 @@ http://stackoverflow.com/questions/41383809/cannot-convert-from-double-to-double
 http://stackoverflow.com/questions/41388558/a-jsonobject-text-must-begin-with-at-1-character-2-line-1-error
 
 http://stackoverflow.com/questions/41386966/scanner-returns-null
+
+http://stackoverflow.com/questions/41386704/why-does-dynamic-method-lookup-doesnt-work-here
