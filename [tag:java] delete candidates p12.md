@@ -63,3 +63,5 @@ http://stackoverflow.com/questions/41398887/object-reference-reassignment
 http://stackoverflow.com/questions/41398599/why-i-am-having-error-like-class-is-not-abstract-and-does-not-override-abstract
 
 http://stackoverflow.com/questions/41399429/java-textfield-throws-nullpointerexception
+
+http://stackoverflow.com/questions/41398326/the-operator-is-undefined-for-the-argument-types-double-boolean
