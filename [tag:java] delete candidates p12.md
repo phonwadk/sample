@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/41386139/creating-an-executable-program-for-dummies
+
 http://stackoverflow.com/questions/41387326/why-cant-i-compare-these-two-dimensional-arrays-nullpointerexception
 
 http://stackoverflow.com/questions/41384123/why-does-this-input-return-out-of-bounds-for-this-method
@@ -58,3 +60,5 @@ http://stackoverflow.com/questions/41388558/a-jsonobject-text-must-begin-with-at
 http://stackoverflow.com/questions/41386966/scanner-returns-null
 
 http://stackoverflow.com/questions/41386704/why-does-dynamic-method-lookup-doesnt-work-here
+
+http://stackoverflow.com/questions/41398894/efficient-shorthands-or-compacting-techniques-for-java-boolean-expressions
