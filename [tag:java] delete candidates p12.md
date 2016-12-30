@@ -62,3 +62,5 @@ http://stackoverflow.com/questions/41386966/scanner-returns-null
 http://stackoverflow.com/questions/41386704/why-does-dynamic-method-lookup-doesnt-work-here
 
 http://stackoverflow.com/questions/41398894/efficient-shorthands-or-compacting-techniques-for-java-boolean-expressions
+
+http://stackoverflow.com/questions/41398887/object-reference-reassignment
