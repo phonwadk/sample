@@ -20,6 +20,9 @@ http://stackoverflow.com/questions/41364367/iterating-through-linkedlist-in-on
 
 http://stackoverflow.com/questions/41369514/how-can-designate-a-singleton-class-as-spring-singleton-scoped-bean-using-annota
 
+http://stackoverflow.com/questions/41382453/jave-create-class-extends-number
+
+
 NOT YET
 =====
 
@@ -35,15 +38,11 @@ http://stackoverflow.com/questions/41381846/how-can-switch-statement-cases-test-
 
 http://stackoverflow.com/questions/41371291/initializing-two-dimentional-arrays-arrays-inside-an-array-dont-follow-java-s
 
-http://stackoverflow.com/questions/41382453/jave-create-class-extends-number
-
 http://stackoverflow.com/questions/41372918/getting-output-in-negative-numbers-in-java
 
 http://stackoverflow.com/questions/41383978/nosuchbeandefinitionexception-with-spring-boot-1-4-2-without-xml
 
 http://stackoverflow.com/questions/41383809/cannot-convert-from-double-to-double
-
-http://stackoverflow.com/questions/41388558/a-jsonobject-text-must-begin-with-at-1-character-2-line-1-error
 
 http://stackoverflow.com/questions/41386966/scanner-returns-null
 
