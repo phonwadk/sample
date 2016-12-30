@@ -59,3 +59,5 @@ http://stackoverflow.com/questions/41399429/java-textfield-throws-nullpointerexc
 http://stackoverflow.com/questions/41398326/the-operator-is-undefined-for-the-argument-types-double-boolean
 
 http://stackoverflow.com/questions/41375896/java-8-get-default-value-from-hashmap-and-update-underlying-map
+
+http://stackoverflow.com/questions/41344771/i-dont-understand-a-behavior-of-binary-numbers-in-java
