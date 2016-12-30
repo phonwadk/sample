@@ -57,3 +57,5 @@ http://stackoverflow.com/questions/41398599/why-i-am-having-error-like-class-is-
 http://stackoverflow.com/questions/41399429/java-textfield-throws-nullpointerexception
 
 http://stackoverflow.com/questions/41398326/the-operator-is-undefined-for-the-argument-types-double-boolean
+
+http://stackoverflow.com/questions/41375896/java-8-get-default-value-from-hashmap-and-update-underlying-map
