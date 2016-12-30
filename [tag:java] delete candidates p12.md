@@ -65,3 +65,5 @@ http://stackoverflow.com/questions/41398326/the-operator-is-undefined-for-the-ar
 http://stackoverflow.com/questions/41375896/java-8-get-default-value-from-hashmap-and-update-underlying-map
 
 http://stackoverflow.com/questions/41401574/reading-and-printing-a-string
+
+http://stackoverflow.com/questions/41377065/java-error-bad-operand-types-for-binary-operator
