@@ -54,6 +54,8 @@ http://stackoverflow.com/questions/41398894/efficient-shorthands-or-compacting-t
 
 http://stackoverflow.com/questions/41398887/object-reference-reassignment
 
+http://stackoverflow.com/questions/41346472/lambda-expression-display-the-second-element-in-a-stream
+
 http://stackoverflow.com/questions/41398599/why-i-am-having-error-like-class-is-not-abstract-and-does-not-override-abstract
 
 http://stackoverflow.com/questions/41399429/java-textfield-throws-nullpointerexception
