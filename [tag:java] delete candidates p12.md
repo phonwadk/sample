@@ -2,11 +2,7 @@ http://stackoverflow.com/questions/41388986/what-happen-with-object-after-method
 
 http://stackoverflow.com/questions/41386139/creating-an-executable-program-for-dummies
 
-http://stackoverflow.com/questions/41387326/why-cant-i-compare-these-two-dimensional-arrays-nullpointerexception
-
 http://stackoverflow.com/questions/41384123/why-does-this-input-return-out-of-bounds-for-this-method
-
-http://stackoverflow.com/questions/41352335/java-pattern-with-numbers
 
 http://stackoverflow.com/questions/37298325/cant-understanding-double-recursive-call-control-flow
 
@@ -19,10 +15,6 @@ http://stackoverflow.com/questions/35200443/this-for-loop-in-my-java-program-doe
 http://stackoverflow.com/questions/41314854/java-gives-different-results-for-statement-having-post-decrement-operator
 
 http://stackoverflow.com/questions/41338275/java-date-format-java-lang-illegalargumentexception
-
-http://stackoverflow.com/questions/41350317/map-json-objects-unnamed-array-of-object-to-pojo-with-jackson
-
-http://stackoverflow.com/questions/41353487/why-it-always-return-1-0-in-my-code
 
 http://stackoverflow.com/questions/41364367/iterating-through-linkedlist-in-on
 
