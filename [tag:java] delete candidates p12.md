@@ -8,11 +8,7 @@ http://stackoverflow.com/questions/41352335/java-pattern-with-numbers
 
 http://stackoverflow.com/questions/37298325/cant-understanding-double-recursive-call-control-flow
 
-http://stackoverflow.com/questions/41382303/hi-has-anyone-any-idea-why-this-java-code-is-not-running-any-help-would-be-great
-
 http://stackoverflow.com/questions/41367991/what-is-the-meaning-of-findviewbyidr-id-in-android
-
-http://stackoverflow.com/questions/41366979/find-all-possible-int-arrays
 
 http://stackoverflow.com/questions/41383137/call-a-constructor-in-java-from-main-or-another-constructor
 
