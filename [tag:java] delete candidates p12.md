@@ -1,5 +1,7 @@
 http://stackoverflow.com/questions/41344771/i-dont-understand-a-behavior-of-binary-numbers-in-java
 
+http://stackoverflow.com/questions/41402357/nullpoint-exception-error-java-array
+
 http://stackoverflow.com/questions/41388986/what-happen-with-object-after-method-done
 
 http://stackoverflow.com/questions/41386139/creating-an-executable-program-for-dummies
