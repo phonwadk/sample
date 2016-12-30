@@ -60,3 +60,5 @@ http://stackoverflow.com/questions/41386704/why-does-dynamic-method-lookup-doesn
 http://stackoverflow.com/questions/41398894/efficient-shorthands-or-compacting-techniques-for-java-boolean-expressions
 
 http://stackoverflow.com/questions/41398887/object-reference-reassignment
+
+http://stackoverflow.com/questions/41398599/why-i-am-having-error-like-class-is-not-abstract-and-does-not-override-abstract
