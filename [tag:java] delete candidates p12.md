@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/41388986/what-happen-with-object-after-method-done
+
 http://stackoverflow.com/questions/41386139/creating-an-executable-program-for-dummies
 
 http://stackoverflow.com/questions/41387326/why-cant-i-compare-these-two-dimensional-arrays-nullpointerexception
