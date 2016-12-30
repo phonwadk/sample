@@ -18,16 +18,15 @@ http://stackoverflow.com/questions/41314854/java-gives-different-results-for-sta
 
 http://stackoverflow.com/questions/41338275/java-date-format-java-lang-illegalargumentexception
 
-NOT YET
-=====
-
-http://stackoverflow.com/questions/41351377/java-when-i-pass-a-list-to-the-method-it-edits-the-list-content
-
 http://stackoverflow.com/questions/41350317/map-json-objects-unnamed-array-of-object-to-pojo-with-jackson
 
 http://stackoverflow.com/questions/41353487/why-it-always-return-1-0-in-my-code
 
 http://stackoverflow.com/questions/41364367/iterating-through-linkedlist-in-on
+
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41369262/accessing-a-variable-declared-in-a-private-void-method-in-java
 
