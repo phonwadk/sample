@@ -1,5 +1,7 @@
 http://stackoverflow.com/questions/41344771/i-dont-understand-a-behavior-of-binary-numbers-in-java
 
+http://stackoverflow.com/questions/41366694/if-double-braces-initialization-is-not-recommended-why-does-java-allow-us-to-do
+
 http://stackoverflow.com/questions/41402357/nullpoint-exception-error-java-array
 
 http://stackoverflow.com/questions/41388986/what-happen-with-object-after-method-done
