@@ -66,3 +66,5 @@ http://stackoverflow.com/questions/41401574/reading-and-printing-a-string
 http://stackoverflow.com/questions/41377065/java-error-bad-operand-types-for-binary-operator
 
 http://stackoverflow.com/questions/41409133/retrieving-nested-element-in-a-json-file
+
+http://stackoverflow.com/questions/41410175/generate-a-random-matrix-in-java
