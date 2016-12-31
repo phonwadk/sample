@@ -22,8 +22,6 @@ http://stackoverflow.com/questions/41338275/java-date-format-java-lang-illegalar
 
 http://stackoverflow.com/questions/41364367/iterating-through-linkedlist-in-on
 
-http://stackoverflow.com/questions/41369514/how-can-designate-a-singleton-class-as-spring-singleton-scoped-bean-using-annota
-
 http://stackoverflow.com/questions/41382453/jave-create-class-extends-number
 
 
