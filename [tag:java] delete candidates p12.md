@@ -64,3 +64,5 @@ http://stackoverflow.com/questions/41375896/java-8-get-default-value-from-hashma
 http://stackoverflow.com/questions/41401574/reading-and-printing-a-string
 
 http://stackoverflow.com/questions/41377065/java-error-bad-operand-types-for-binary-operator
+
+http://stackoverflow.com/questions/41409133/retrieving-nested-element-in-a-json-file
