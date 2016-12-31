@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/41409255/what-happens-if-we-pass-a-class-reference-as-an-arugment-for-a-method
+
 http://stackoverflow.com/questions/41344771/i-dont-understand-a-behavior-of-binary-numbers-in-java
 
 http://stackoverflow.com/questions/41366694/if-double-braces-initialization-is-not-recommended-why-does-java-allow-us-to-do
