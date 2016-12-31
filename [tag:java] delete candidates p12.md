@@ -24,11 +24,10 @@ http://stackoverflow.com/questions/41364367/iterating-through-linkedlist-in-on
 
 http://stackoverflow.com/questions/41382453/jave-create-class-extends-number
 
+http://stackoverflow.com/questions/41369262/accessing-a-variable-declared-in-a-private-void-method-in-java
 
 NOT YET
 =====
-
-http://stackoverflow.com/questions/41369262/accessing-a-variable-declared-in-a-private-void-method-in-java
 
 http://stackoverflow.com/questions/41373291/illegal-character-in-query
 
