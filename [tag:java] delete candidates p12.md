@@ -22,8 +22,6 @@ http://stackoverflow.com/questions/41338275/java-date-format-java-lang-illegalar
 
 http://stackoverflow.com/questions/41364367/iterating-through-linkedlist-in-on
 
-http://stackoverflow.com/questions/41382453/jave-create-class-extends-number
-
 http://stackoverflow.com/questions/41369262/accessing-a-variable-declared-in-a-private-void-method-in-java
 
 NOT YET
