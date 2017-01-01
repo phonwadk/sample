@@ -10,8 +10,6 @@ http://stackoverflow.com/questions/41388986/what-happen-with-object-after-method
 
 http://stackoverflow.com/questions/41386139/creating-an-executable-program-for-dummies
 
-http://stackoverflow.com/questions/41384123/why-does-this-input-return-out-of-bounds-for-this-method
-
 http://stackoverflow.com/questions/37298325/cant-understanding-double-recursive-call-control-flow
 
 http://stackoverflow.com/questions/35200443/this-for-loop-in-my-java-program-doesnt-work-using-arraylist
