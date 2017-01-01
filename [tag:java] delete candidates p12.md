@@ -40,18 +40,18 @@ http://stackoverflow.com/questions/41386966/scanner-returns-null
 
 http://stackoverflow.com/questions/41386704/why-does-dynamic-method-lookup-doesnt-work-here
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41398894/efficient-shorthands-or-compacting-techniques-for-java-boolean-expressions
 
 http://stackoverflow.com/questions/41398887/object-reference-reassignment
 
-http://stackoverflow.com/questions/41346472/lambda-expression-display-the-second-element-in-a-stream
-
 http://stackoverflow.com/questions/41398599/why-i-am-having-error-like-class-is-not-abstract-and-does-not-override-abstract
 
 http://stackoverflow.com/questions/41399429/java-textfield-throws-nullpointerexception
+
+NOT YET
+=====
+
+http://stackoverflow.com/questions/41346472/lambda-expression-display-the-second-element-in-a-stream
 
 http://stackoverflow.com/questions/41398326/the-operator-is-undefined-for-the-argument-types-double-boolean
 
