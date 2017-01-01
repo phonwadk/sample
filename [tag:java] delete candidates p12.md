@@ -30,9 +30,6 @@ http://stackoverflow.com/questions/41381846/how-can-switch-statement-cases-test-
 
 http://stackoverflow.com/questions/41371291/initializing-two-dimentional-arrays-arrays-inside-an-array-dont-follow-java-s
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41372918/getting-output-in-negative-numbers-in-java
 
 http://stackoverflow.com/questions/41383978/nosuchbeandefinitionexception-with-spring-boot-1-4-2-without-xml
@@ -42,6 +39,9 @@ http://stackoverflow.com/questions/41383809/cannot-convert-from-double-to-double
 http://stackoverflow.com/questions/41386966/scanner-returns-null
 
 http://stackoverflow.com/questions/41386704/why-does-dynamic-method-lookup-doesnt-work-here
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41398894/efficient-shorthands-or-compacting-techniques-for-java-boolean-expressions
 
