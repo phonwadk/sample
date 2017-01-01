@@ -14,8 +14,6 @@ http://stackoverflow.com/questions/41384123/why-does-this-input-return-out-of-bo
 
 http://stackoverflow.com/questions/37298325/cant-understanding-double-recursive-call-control-flow
 
-http://stackoverflow.com/questions/41383137/call-a-constructor-in-java-from-main-or-another-constructor
-
 http://stackoverflow.com/questions/35200443/this-for-loop-in-my-java-program-doesnt-work-using-arraylist
 
 http://stackoverflow.com/questions/41314854/java-gives-different-results-for-statement-having-post-decrement-operator
@@ -23,10 +21,6 @@ http://stackoverflow.com/questions/41314854/java-gives-different-results-for-sta
 http://stackoverflow.com/questions/41338275/java-date-format-java-lang-illegalargumentexception
 
 http://stackoverflow.com/questions/41364367/iterating-through-linkedlist-in-on
-
-http://stackoverflow.com/questions/41369262/accessing-a-variable-declared-in-a-private-void-method-in-java
-
-http://stackoverflow.com/questions/41373291/illegal-character-in-query
 
 http://stackoverflow.com/questions/41382748/why-java-allowing-implement-interface-method-in-parent-class
 
