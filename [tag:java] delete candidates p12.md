@@ -6,21 +6,11 @@ http://stackoverflow.com/questions/32897838/what-does-the-operator-do
 
 http://stackoverflow.com/questions/41419246/how-can-i-fix-arrayindexoutofbounds-error
 
-http://stackoverflow.com/questions/41366694/if-double-braces-initialization-is-not-recommended-why-does-java-allow-us-to-do
-
-http://stackoverflow.com/questions/41388986/what-happen-with-object-after-method-done
-
 http://stackoverflow.com/questions/41314854/java-gives-different-results-for-statement-having-post-decrement-operator
 
 http://stackoverflow.com/questions/41364367/iterating-through-linkedlist-in-on
 
-http://stackoverflow.com/questions/41381465/java-hashmap-get-value-from-key-using-streams
-
-http://stackoverflow.com/questions/41381846/how-can-switch-statement-cases-test-for-inequalities-rather-than-booleans
-
 http://stackoverflow.com/questions/41372918/getting-output-in-negative-numbers-in-java
-
-http://stackoverflow.com/questions/41383978/nosuchbeandefinitionexception-with-spring-boot-1-4-2-without-xml
 
 http://stackoverflow.com/questions/41386704/why-does-dynamic-method-lookup-doesnt-work-here
 
@@ -29,10 +19,6 @@ http://stackoverflow.com/questions/41398894/efficient-shorthands-or-compacting-t
 http://stackoverflow.com/questions/41399429/java-textfield-throws-nullpointerexception
 
 http://stackoverflow.com/questions/41346472/lambda-expression-display-the-second-element-in-a-stream
-
-http://stackoverflow.com/questions/41375896/java-8-get-default-value-from-hashmap-and-update-underlying-map
-
-http://stackoverflow.com/questions/41401574/reading-and-printing-a-string
 
 http://stackoverflow.com/questions/41377065/java-error-bad-operand-types-for-binary-operator
 
