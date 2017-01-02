@@ -8,8 +8,6 @@ http://stackoverflow.com/questions/41314854/java-gives-different-results-for-sta
 
 http://stackoverflow.com/questions/41377065/java-error-bad-operand-types-for-binary-operator
 
-http://stackoverflow.com/questions/41402937/why-does-java-not-allow-types-only-in-method-stubs
-
 NOT YET
 =====
 
