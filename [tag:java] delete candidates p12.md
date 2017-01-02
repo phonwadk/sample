@@ -10,15 +10,7 @@ http://stackoverflow.com/questions/41366694/if-double-braces-initialization-is-n
 
 http://stackoverflow.com/questions/41388986/what-happen-with-object-after-method-done
 
-http://stackoverflow.com/questions/41386139/creating-an-executable-program-for-dummies
-
-http://stackoverflow.com/questions/37298325/cant-understanding-double-recursive-call-control-flow
-
-http://stackoverflow.com/questions/35200443/this-for-loop-in-my-java-program-doesnt-work-using-arraylist
-
 http://stackoverflow.com/questions/41314854/java-gives-different-results-for-statement-having-post-decrement-operator
-
-http://stackoverflow.com/questions/41338275/java-date-format-java-lang-illegalargumentexception
 
 http://stackoverflow.com/questions/41364367/iterating-through-linkedlist-in-on
 
@@ -31,8 +23,6 @@ http://stackoverflow.com/questions/41371291/initializing-two-dimentional-arrays-
 http://stackoverflow.com/questions/41372918/getting-output-in-negative-numbers-in-java
 
 http://stackoverflow.com/questions/41383978/nosuchbeandefinitionexception-with-spring-boot-1-4-2-without-xml
-
-http://stackoverflow.com/questions/41383809/cannot-convert-from-double-to-double
 
 http://stackoverflow.com/questions/41386704/why-does-dynamic-method-lookup-doesnt-work-here
 
