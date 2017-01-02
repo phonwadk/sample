@@ -80,3 +80,5 @@ http://stackoverflow.com/questions/41423022/how-can-i-solve-this-exception-in-th
 http://stackoverflow.com/questions/41430034/an-error-in-second-class
 
 http://stackoverflow.com/questions/41430066/nosuchfieldexception-in-java-reflection-despite-the-fields-being-present
+
+http://stackoverflow.com/questions/41417594/okhttp-jsonexception-value-of-type-org-json-jsonobject-cannot-be-converted-to
