@@ -6,9 +6,6 @@ http://stackoverflow.com/questions/41419246/how-can-i-fix-arrayindexoutofbounds-
 
 http://stackoverflow.com/questions/41314854/java-gives-different-results-for-statement-having-post-decrement-operator
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41409133/retrieving-nested-element-in-a-json-file
 
 http://stackoverflow.com/questions/41410175/generate-a-random-matrix-in-java
@@ -16,6 +13,9 @@ http://stackoverflow.com/questions/41410175/generate-a-random-matrix-in-java
 http://stackoverflow.com/questions/41412482/the-program-works-but-the-answer-arent-correct
 
 http://stackoverflow.com/questions/41409133/parse-nested-element-in-a-json-file-using-json-simple-and-find-its-type
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41411477/java-syntax-error-can-not-figure-it-out
 
