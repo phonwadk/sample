@@ -6,8 +6,6 @@ http://stackoverflow.com/questions/41419246/how-can-i-fix-arrayindexoutofbounds-
 
 http://stackoverflow.com/questions/41314854/java-gives-different-results-for-statement-having-post-decrement-operator
 
-http://stackoverflow.com/questions/41377065/java-error-bad-operand-types-for-binary-operator
-
 NOT YET
 =====
 
