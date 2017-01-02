@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/41429343/why-my-asserttrue-doesnt-work
+
 http://stackoverflow.com/questions/41409255/what-happens-if-we-pass-a-class-reference-as-an-arugment-for-a-method
 
 http://stackoverflow.com/questions/32897838/what-does-the-operator-do
@@ -70,5 +72,7 @@ http://stackoverflow.com/questions/41418504/put-line-break-in-string
 http://stackoverflow.com/questions/41429527/java-8-functional-interface
 
 http://stackoverflow.com/questions/41419649/wanna-split-string-by-in-java-how-to-do-it
+
+http://stackoverflow.com/questions/41429932/java-checkers-check-if-player-clicked-on-enemy
 
 http://stackoverflow.com/questions/41423022/how-can-i-solve-this-exception-in-thread-main-java-lang-nullpointerexception
