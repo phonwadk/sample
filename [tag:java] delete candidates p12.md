@@ -1,7 +1,5 @@
 http://stackoverflow.com/questions/41409255/what-happens-if-we-pass-a-class-reference-as-an-arugment-for-a-method
 
-http://stackoverflow.com/questions/41344771/i-dont-understand-a-behavior-of-binary-numbers-in-java
-
 http://stackoverflow.com/questions/41366694/if-double-braces-initialization-is-not-recommended-why-does-java-allow-us-to-do
 
 http://stackoverflow.com/questions/41388986/what-happen-with-object-after-method-done
@@ -18,8 +16,6 @@ http://stackoverflow.com/questions/41338275/java-date-format-java-lang-illegalar
 
 http://stackoverflow.com/questions/41364367/iterating-through-linkedlist-in-on
 
-http://stackoverflow.com/questions/41382748/why-java-allowing-implement-interface-method-in-parent-class
-
 http://stackoverflow.com/questions/41381465/java-hashmap-get-value-from-key-using-streams
 
 http://stackoverflow.com/questions/41381846/how-can-switch-statement-cases-test-for-inequalities-rather-than-booleans
@@ -32,19 +28,13 @@ http://stackoverflow.com/questions/41383978/nosuchbeandefinitionexception-with-s
 
 http://stackoverflow.com/questions/41383809/cannot-convert-from-double-to-double
 
-http://stackoverflow.com/questions/41386966/scanner-returns-null
-
 http://stackoverflow.com/questions/41386704/why-does-dynamic-method-lookup-doesnt-work-here
 
 http://stackoverflow.com/questions/41398894/efficient-shorthands-or-compacting-techniques-for-java-boolean-expressions
 
 http://stackoverflow.com/questions/41398887/object-reference-reassignment
 
-http://stackoverflow.com/questions/41398599/why-i-am-having-error-like-class-is-not-abstract-and-does-not-override-abstract
-
 http://stackoverflow.com/questions/41399429/java-textfield-throws-nullpointerexception
-
-http://stackoverflow.com/questions/41398326/the-operator-is-undefined-for-the-argument-types-double-boolean
 
 NOT YET
 =====
