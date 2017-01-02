@@ -38,8 +38,6 @@ http://stackoverflow.com/questions/41386704/why-does-dynamic-method-lookup-doesn
 
 http://stackoverflow.com/questions/41398894/efficient-shorthands-or-compacting-techniques-for-java-boolean-expressions
 
-http://stackoverflow.com/questions/41398887/object-reference-reassignment
-
 http://stackoverflow.com/questions/41399429/java-textfield-throws-nullpointerexception
 
 http://stackoverflow.com/questions/41346472/lambda-expression-display-the-second-element-in-a-stream
