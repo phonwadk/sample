@@ -36,9 +36,6 @@ http://stackoverflow.com/questions/41398887/object-reference-reassignment
 
 http://stackoverflow.com/questions/41399429/java-textfield-throws-nullpointerexception
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41346472/lambda-expression-display-the-second-element-in-a-stream
 
 http://stackoverflow.com/questions/41375896/java-8-get-default-value-from-hashmap-and-update-underlying-map
@@ -46,6 +43,9 @@ http://stackoverflow.com/questions/41375896/java-8-get-default-value-from-hashma
 http://stackoverflow.com/questions/41401574/reading-and-printing-a-string
 
 http://stackoverflow.com/questions/41377065/java-error-bad-operand-types-for-binary-operator
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41409133/retrieving-nested-element-in-a-json-file
 
