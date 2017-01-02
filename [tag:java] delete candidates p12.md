@@ -42,3 +42,5 @@ http://stackoverflow.com/questions/41430034/an-error-in-second-class
 http://stackoverflow.com/questions/41430066/nosuchfieldexception-in-java-reflection-despite-the-fields-being-present
 
 http://stackoverflow.com/questions/41417594/okhttp-jsonexception-value-of-type-org-json-jsonobject-cannot-be-converted-to
+
+http://stackoverflow.com/questions/41433058/error-in-sql-syntax-mysqlsyntaxerrorexception
