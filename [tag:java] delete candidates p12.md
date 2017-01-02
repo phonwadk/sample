@@ -1,22 +1,10 @@
 http://stackoverflow.com/questions/41429343/why-my-asserttrue-doesnt-work
 
-http://stackoverflow.com/questions/41409255/what-happens-if-we-pass-a-class-reference-as-an-arugment-for-a-method
-
-http://stackoverflow.com/questions/32897838/what-does-the-operator-do
-
 http://stackoverflow.com/questions/41419246/how-can-i-fix-arrayindexoutofbounds-error
 
 http://stackoverflow.com/questions/41314854/java-gives-different-results-for-statement-having-post-decrement-operator
 
 http://stackoverflow.com/questions/41364367/iterating-through-linkedlist-in-on
-
-http://stackoverflow.com/questions/41372918/getting-output-in-negative-numbers-in-java
-
-http://stackoverflow.com/questions/41386704/why-does-dynamic-method-lookup-doesnt-work-here
-
-http://stackoverflow.com/questions/41398894/efficient-shorthands-or-compacting-techniques-for-java-boolean-expressions
-
-http://stackoverflow.com/questions/41399429/java-textfield-throws-nullpointerexception
 
 http://stackoverflow.com/questions/41346472/lambda-expression-display-the-second-element-in-a-stream
 
