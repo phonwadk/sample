@@ -1,5 +1,9 @@
 http://stackoverflow.com/questions/41409255/what-happens-if-we-pass-a-class-reference-as-an-arugment-for-a-method
 
+http://stackoverflow.com/questions/32897838/what-does-the-operator-do
+
+http://stackoverflow.com/questions/41419246/how-can-i-fix-arrayindexoutofbounds-error
+
 http://stackoverflow.com/questions/41366694/if-double-braces-initialization-is-not-recommended-why-does-java-allow-us-to-do
 
 http://stackoverflow.com/questions/41388986/what-happen-with-object-after-method-done
@@ -44,6 +48,8 @@ http://stackoverflow.com/questions/41401574/reading-and-printing-a-string
 
 http://stackoverflow.com/questions/41377065/java-error-bad-operand-types-for-binary-operator
 
+http://stackoverflow.com/questions/41402937/why-does-java-not-allow-types-only-in-method-stubs
+
 NOT YET
 =====
 
@@ -53,4 +59,14 @@ http://stackoverflow.com/questions/41410175/generate-a-random-matrix-in-java
 
 http://stackoverflow.com/questions/41412482/the-program-works-but-the-answer-arent-correct
 
+http://stackoverflow.com/questions/41409133/parse-nested-element-in-a-json-file-using-json-simple-and-find-its-type
+
+http://stackoverflow.com/questions/41411477/java-syntax-error-can-not-figure-it-out
+
 http://stackoverflow.com/questions/41412328/what-does-do-in-java
+
+http://stackoverflow.com/questions/41418504/put-line-break-in-string
+
+http://stackoverflow.com/questions/41429527/java-8-functional-interface
+
+http://stackoverflow.com/questions/41419649/wanna-split-string-by-in-java-how-to-do-it
