@@ -70,3 +70,5 @@ http://stackoverflow.com/questions/41418504/put-line-break-in-string
 http://stackoverflow.com/questions/41429527/java-8-functional-interface
 
 http://stackoverflow.com/questions/41419649/wanna-split-string-by-in-java-how-to-do-it
+
+http://stackoverflow.com/questions/41423022/how-can-i-solve-this-exception-in-thread-main-java-lang-nullpointerexception
