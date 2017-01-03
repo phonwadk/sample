@@ -16,9 +16,6 @@ http://stackoverflow.com/questions/41409133/parse-nested-element-in-a-json-file-
 
 http://stackoverflow.com/questions/41384396/servlet-nullpointerexception
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41411477/java-syntax-error-can-not-figure-it-out
 
 http://stackoverflow.com/questions/41412328/what-does-do-in-java
@@ -28,6 +25,9 @@ http://stackoverflow.com/questions/41418504/put-line-break-in-string
 http://stackoverflow.com/questions/41429527/java-8-functional-interface
 
 http://stackoverflow.com/questions/41419649/wanna-split-string-by-in-java-how-to-do-it
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41429932/java-checkers-check-if-player-clicked-on-enemy
 
