@@ -40,3 +40,5 @@ http://stackoverflow.com/questions/41417594/okhttp-jsonexception-value-of-type-o
 http://stackoverflow.com/questions/41433058/error-in-sql-syntax-mysqlsyntaxerrorexception
 
 http://stackoverflow.com/questions/41435355/why-does-java-return-1-0-just-an-interesting-thing-i-saw
+
+http://stackoverflow.com/questions/41446329/error-when-i-use-iterator-variable-of-foreach-loop-inside-it-for-an-array-in-jav
