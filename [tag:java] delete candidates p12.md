@@ -4,8 +4,6 @@ http://stackoverflow.com/questions/41448176/cant-allocate-space-to-array-using-u
 
 http://stackoverflow.com/questions/41429932/java-checkers-check-if-player-clicked-on-enemy
 
-http://stackoverflow.com/questions/41431826/why-is-this-java-code-an-inefficient-way-to-reverse-a-string
-
 http://stackoverflow.com/questions/41429343/why-my-asserttrue-doesnt-work
 
 http://stackoverflow.com/questions/41419246/how-can-i-fix-arrayindexoutofbounds-error
@@ -18,15 +16,11 @@ http://stackoverflow.com/questions/41410175/generate-a-random-matrix-in-java
 
 http://stackoverflow.com/questions/41412482/the-program-works-but-the-answer-arent-correct
 
-http://stackoverflow.com/questions/41409133/parse-nested-element-in-a-json-file-using-json-simple-and-find-its-type
-
 http://stackoverflow.com/questions/41384396/servlet-nullpointerexception
 
 http://stackoverflow.com/questions/41411477/java-syntax-error-can-not-figure-it-out
 
 http://stackoverflow.com/questions/41418504/put-line-break-in-string
-
-http://stackoverflow.com/questions/41429527/java-8-functional-interface
 
 NOT YET
 =====
