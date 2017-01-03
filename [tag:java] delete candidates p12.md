@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/41448176/cant-allocate-space-to-array-using-user-input-java
+
 http://stackoverflow.com/questions/41429932/java-checkers-check-if-player-clicked-on-enemy
 
 http://stackoverflow.com/questions/41431826/why-is-this-java-code-an-inefficient-way-to-reverse-a-string
