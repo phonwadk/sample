@@ -50,3 +50,5 @@ http://stackoverflow.com/questions/41446329/error-when-i-use-iterator-variable-o
 http://stackoverflow.com/questions/41446427/memory-allocation-for-object-type-instance-variables
 
 http://stackoverflow.com/questions/41446705/is-it-possible-to-get-return-type-from-lambda-parameter-in-java
+
+http://stackoverflow.com/questions/41432449/what-would-the-non-lambda-version-of-role-admin-look-like
