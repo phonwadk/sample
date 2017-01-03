@@ -42,3 +42,5 @@ http://stackoverflow.com/questions/41433058/error-in-sql-syntax-mysqlsyntaxerror
 http://stackoverflow.com/questions/41435355/why-does-java-return-1-0-just-an-interesting-thing-i-saw
 
 http://stackoverflow.com/questions/41446329/error-when-i-use-iterator-variable-of-foreach-loop-inside-it-for-an-array-in-jav
+
+http://stackoverflow.com/questions/41446427/memory-allocation-for-object-type-instance-variables
