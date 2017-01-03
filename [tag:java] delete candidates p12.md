@@ -38,3 +38,5 @@ http://stackoverflow.com/questions/41430066/nosuchfieldexception-in-java-reflect
 http://stackoverflow.com/questions/41417594/okhttp-jsonexception-value-of-type-org-json-jsonobject-cannot-be-converted-to
 
 http://stackoverflow.com/questions/41433058/error-in-sql-syntax-mysqlsyntaxerrorexception
+
+http://stackoverflow.com/questions/41435355/why-does-java-return-1-0-just-an-interesting-thing-i-saw
