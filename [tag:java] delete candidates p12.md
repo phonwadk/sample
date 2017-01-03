@@ -14,6 +14,8 @@ http://stackoverflow.com/questions/41412482/the-program-works-but-the-answer-are
 
 http://stackoverflow.com/questions/41409133/parse-nested-element-in-a-json-file-using-json-simple-and-find-its-type
 
+http://stackoverflow.com/questions/41384396/servlet-nullpointerexception
+
 NOT YET
 =====
 
