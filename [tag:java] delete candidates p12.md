@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/41449389/string-is-said-to-be-immutable-meaning-its-value-cant-be-changed-so-how-can-we
+
 http://stackoverflow.com/questions/41448176/cant-allocate-space-to-array-using-user-input-java
 
 http://stackoverflow.com/questions/41429932/java-checkers-check-if-player-clicked-on-enemy
