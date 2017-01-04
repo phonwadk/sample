@@ -1,5 +1,7 @@
 http://stackoverflow.com/questions/41468352/how-to-perform-this-using-bigintegers
 
+http://stackoverflow.com/questions/41436254/could-not-call-class-method
+
 http://stackoverflow.com/questions/41457476/remove-all-line-break-from-a-string-after-reading-data-from-excel-apache-poi
 
 http://stackoverflow.com/questions/41448176/cant-allocate-space-to-array-using-user-input-java
