@@ -55,3 +55,5 @@ http://stackoverflow.com/questions/41451802/does-there-exist-an-equivalent-to-ja
 http://stackoverflow.com/questions/41457675/difference-betweenthread-and-newsinglethreadexecutor
 
 http://stackoverflow.com/questions/41454905/how-can-i-compare-a-character-to-a-regex-from-a-z
+
+http://stackoverflow.com/questions/41467496/array-of-zero-in-a-double-loop-throws-exception
