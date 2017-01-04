@@ -18,16 +18,15 @@ http://stackoverflow.com/questions/41411477/java-syntax-error-can-not-figure-it-
 
 http://stackoverflow.com/questions/41418504/put-line-break-in-string
 
+http://stackoverflow.com/questions/41429932/java-checkers-check-if-player-clicked-on-enemy
+
 NOT YET
 =====
 
-http://stackoverflow.com/questions/41429932/java-checkers-check-if-player-clicked-on-enemy
 
 http://stackoverflow.com/questions/41423022/how-can-i-solve-this-exception-in-thread-main-java-lang-nullpointerexception
 
 http://stackoverflow.com/questions/41430034/an-error-in-second-class
-
-http://stackoverflow.com/questions/41430066/nosuchfieldexception-in-java-reflection-despite-the-fields-being-present
 
 http://stackoverflow.com/questions/41417594/okhttp-jsonexception-value-of-type-org-json-jsonobject-cannot-be-converted-to
 
