@@ -8,8 +8,6 @@ http://stackoverflow.com/questions/41448176/cant-allocate-space-to-array-using-u
 
 http://stackoverflow.com/questions/41429932/java-checkers-check-if-player-clicked-on-enemy
 
-http://stackoverflow.com/questions/41314854/java-gives-different-results-for-statement-having-post-decrement-operator
-
 http://stackoverflow.com/questions/41409133/retrieving-nested-element-in-a-json-file
 
 http://stackoverflow.com/questions/41412482/the-program-works-but-the-answer-arent-correct
@@ -56,3 +54,4 @@ http://stackoverflow.com/questions/41467496/array-of-zero-in-a-double-loop-throw
 http://stackoverflow.com/questions/41436026/how-is-printing-a-stringbuilder-object-by-referencing-it-directly-different-than
 
 http://stackoverflow.com/questions/41468190/hashmap-inserting-duplicate-keys-with-string-as-a-key-java
+
