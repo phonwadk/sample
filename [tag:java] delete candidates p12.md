@@ -1,5 +1,3 @@
-http://stackoverflow.com/questions/41465841/arrayindexoutofbondexception-while-reading-iterator-map
-
 http://stackoverflow.com/questions/41468352/how-to-perform-this-using-bigintegers
 
 http://stackoverflow.com/questions/41436254/could-not-call-class-method
