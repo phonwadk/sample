@@ -8,21 +8,14 @@ http://stackoverflow.com/questions/41448176/cant-allocate-space-to-array-using-u
 
 http://stackoverflow.com/questions/41429932/java-checkers-check-if-player-clicked-on-enemy
 
-http://stackoverflow.com/questions/41429343/why-my-asserttrue-doesnt-work
-
-http://stackoverflow.com/questions/41419246/how-can-i-fix-arrayindexoutofbounds-error
-
 http://stackoverflow.com/questions/41314854/java-gives-different-results-for-statement-having-post-decrement-operator
 
 http://stackoverflow.com/questions/41409133/retrieving-nested-element-in-a-json-file
 
 http://stackoverflow.com/questions/41412482/the-program-works-but-the-answer-arent-correct
 
-http://stackoverflow.com/questions/41384396/servlet-nullpointerexception
-
 http://stackoverflow.com/questions/41418504/put-line-break-in-string
 
-http://stackoverflow.com/questions/41429932/java-checkers-check-if-player-clicked-on-enemy
 
 NOT YET
 =====
