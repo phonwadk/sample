@@ -54,3 +54,5 @@ http://stackoverflow.com/questions/41454905/how-can-i-compare-a-character-to-a-r
 http://stackoverflow.com/questions/41467496/array-of-zero-in-a-double-loop-throws-exception
 
 http://stackoverflow.com/questions/41436026/how-is-printing-a-stringbuilder-object-by-referencing-it-directly-different-than
+
+http://stackoverflow.com/questions/41468190/hashmap-inserting-duplicate-keys-with-string-as-a-key-java
