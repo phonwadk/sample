@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/41457476/remove-all-line-break-from-a-string-after-reading-data-from-excel-apache-poi
+
 http://stackoverflow.com/questions/41448176/cant-allocate-space-to-array-using-user-input-java
 
 http://stackoverflow.com/questions/41429932/java-checkers-check-if-player-clicked-on-enemy
@@ -45,3 +47,7 @@ http://stackoverflow.com/questions/41435542/what-is-the-space-and-time-complexit
 http://stackoverflow.com/questions/41448568/understanding-thread-starvation-deadlock
 
 http://stackoverflow.com/questions/41466346/missing-compile-error-with-generics-bounded-return-type
+
+http://stackoverflow.com/questions/41451802/does-there-exist-an-equivalent-to-java-agents-jvmti-java-virtual-machine-tool
+
+http://stackoverflow.com/questions/41457675/difference-betweenthread-and-newsinglethreadexecutor
