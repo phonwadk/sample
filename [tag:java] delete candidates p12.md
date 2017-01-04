@@ -14,16 +14,13 @@ http://stackoverflow.com/questions/41412482/the-program-works-but-the-answer-are
 
 http://stackoverflow.com/questions/41418504/put-line-break-in-string
 
-
-NOT YET
-=====
-
-
-http://stackoverflow.com/questions/41423022/how-can-i-solve-this-exception-in-thread-main-java-lang-nullpointerexception
-
 http://stackoverflow.com/questions/41430034/an-error-in-second-class
 
 http://stackoverflow.com/questions/41417594/okhttp-jsonexception-value-of-type-org-json-jsonobject-cannot-be-converted-to
+
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41433058/error-in-sql-syntax-mysqlsyntaxerrorexception
 
