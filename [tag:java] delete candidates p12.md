@@ -14,8 +14,6 @@ http://stackoverflow.com/questions/41412482/the-program-works-but-the-answer-are
 
 http://stackoverflow.com/questions/41384396/servlet-nullpointerexception
 
-http://stackoverflow.com/questions/41411477/java-syntax-error-can-not-figure-it-out
-
 http://stackoverflow.com/questions/41418504/put-line-break-in-string
 
 http://stackoverflow.com/questions/41429932/java-checkers-check-if-player-clicked-on-enemy
