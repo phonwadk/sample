@@ -43,3 +43,5 @@ http://stackoverflow.com/questions/41432449/what-would-the-non-lambda-version-of
 http://stackoverflow.com/questions/41435542/what-is-the-space-and-time-complexity-of-the-given-sample-code
 
 http://stackoverflow.com/questions/41448568/understanding-thread-starvation-deadlock
+
+http://stackoverflow.com/questions/41466346/missing-compile-error-with-generics-bounded-return-type
