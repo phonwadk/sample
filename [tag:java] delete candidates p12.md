@@ -39,6 +39,8 @@ http://stackoverflow.com/questions/41457675/difference-betweenthread-and-newsing
 
 http://stackoverflow.com/questions/41454905/how-can-i-compare-a-character-to-a-regex-from-a-z
 
+http://stackoverflow.com/questions/41450577/generate-type-that-extends-from-foo-and-also-implements-bar
+
 http://stackoverflow.com/questions/41467496/array-of-zero-in-a-double-loop-throws-exception
 
 http://stackoverflow.com/questions/41436026/how-is-printing-a-stringbuilder-object-by-referencing-it-directly-different-than
