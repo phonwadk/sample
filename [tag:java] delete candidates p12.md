@@ -10,6 +10,8 @@ http://stackoverflow.com/questions/41431946/java-same-string-of-different-length
 
 http://stackoverflow.com/questions/41430718/object-type-and-class-initialization-are-different-java
 
+http://stackoverflow.com/questions/41491754/rewriting-my-code-to-get-right-output
+
 NOT YET
 =====
 
