@@ -54,3 +54,5 @@ http://stackoverflow.com/questions/41479060/illegalmonitorstateexception-in-prod
 http://stackoverflow.com/questions/41479689/how-to-determine-appropriate-buffer-size-in-java
 
 http://stackoverflow.com/questions/41479248/in-java-why-does-the-output-of-b-does-not-change-in-the-case-is-it-possible-th
+
+http://stackoverflow.com/questions/41478678/java-try-catch-not-defining-variable-that-i-can-use-outwith-that-method
