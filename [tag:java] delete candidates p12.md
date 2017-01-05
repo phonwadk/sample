@@ -1,14 +1,3 @@
-http://stackoverflow.com/questions/41449515/why-are-lists-considered-an-interface
-
-http://stackoverflow.com/questions/41478548/how-to-instantiate-a-singleton-class-at-system-startup-in-java
-
-http://stackoverflow.com/questions/41448176/cant-allocate-space-to-array-using-user-input-java
-
-http://stackoverflow.com/questions/41412482/the-program-works-but-the-answer-arent-correct
-
-http://stackoverflow.com/questions/41446329/error-when-i-use-iterator-variable-of-foreach-loop-inside-it-for-an-array-in-jav
-
-http://stackoverflow.com/questions/41446427/memory-allocation-for-object-type-instance-variables
 
 NOT YET
 =====
