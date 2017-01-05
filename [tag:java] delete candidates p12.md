@@ -56,3 +56,5 @@ http://stackoverflow.com/questions/41479248/in-java-why-does-the-output-of-b-doe
 http://stackoverflow.com/questions/41478678/java-try-catch-not-defining-variable-that-i-can-use-outwith-that-method
 
 http://stackoverflow.com/questions/41478262/why-do-we-use-constructors-if-we-can-initialize-member-variables-directly
+
+http://stackoverflow.com/questions/41469653/unknown-issue-with-arraylists-and-new-objects
