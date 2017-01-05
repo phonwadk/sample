@@ -8,8 +8,6 @@ http://stackoverflow.com/questions/41436254/could-not-call-class-method
 
 http://stackoverflow.com/questions/41448176/cant-allocate-space-to-array-using-user-input-java
 
-http://stackoverflow.com/questions/41409133/retrieving-nested-element-in-a-json-file
-
 http://stackoverflow.com/questions/41412482/the-program-works-but-the-answer-arent-correct
 
 http://stackoverflow.com/questions/41418504/put-line-break-in-string
