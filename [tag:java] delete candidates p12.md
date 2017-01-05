@@ -16,10 +16,6 @@ http://stackoverflow.com/questions/41418504/put-line-break-in-string
 
 http://stackoverflow.com/questions/41417594/okhttp-jsonexception-value-of-type-org-json-jsonobject-cannot-be-converted-to
 
-
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41435355/why-does-java-return-1-0-just-an-interesting-thing-i-saw
 
 http://stackoverflow.com/questions/41446329/error-when-i-use-iterator-variable-of-foreach-loop-inside-it-for-an-array-in-jav
@@ -29,6 +25,9 @@ http://stackoverflow.com/questions/41446427/memory-allocation-for-object-type-in
 http://stackoverflow.com/questions/41446705/is-it-possible-to-get-return-type-from-lambda-parameter-in-java
 
 http://stackoverflow.com/questions/41432449/what-would-the-non-lambda-version-of-role-admin-look-like
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41435542/what-is-the-space-and-time-complexity-of-the-given-sample-code
 
