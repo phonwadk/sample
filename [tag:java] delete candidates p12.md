@@ -52,3 +52,5 @@ http://stackoverflow.com/questions/41469653/unknown-issue-with-arraylists-and-ne
 http://stackoverflow.com/questions/41471997/how-to-add-stuff-into-a-2d-arraylist-java
 
 http://stackoverflow.com/questions/41490252/how-does-string-class-in-java-creates-object
+
+http://stackoverflow.com/questions/41495579/java-getting-multiple-user-inputs
