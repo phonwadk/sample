@@ -41,3 +41,5 @@ http://stackoverflow.com/questions/41478262/why-do-we-use-constructors-if-we-can
 http://stackoverflow.com/questions/41469653/unknown-issue-with-arraylists-and-new-objects
 
 http://stackoverflow.com/questions/41471997/how-to-add-stuff-into-a-2d-arraylist-java
+
+http://stackoverflow.com/questions/41490252/how-does-string-class-in-java-creates-object
