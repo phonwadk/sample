@@ -1,8 +1,8 @@
 http://stackoverflow.com/questions/41468352/how-to-perform-this-using-bigintegers
 
-http://stackoverflow.com/questions/41436254/could-not-call-class-method
+http://stackoverflow.com/questions/41457476/remove-end-of-line-character-after-reading-data-from-excel-apache-poi
 
-http://stackoverflow.com/questions/41457476/remove-all-line-break-from-a-string-after-reading-data-from-excel-apache-poi
+http://stackoverflow.com/questions/41436254/could-not-call-class-method
 
 http://stackoverflow.com/questions/41448176/cant-allocate-space-to-array-using-user-input-java
 
@@ -48,3 +48,9 @@ http://stackoverflow.com/questions/41436026/how-is-printing-a-stringbuilder-obje
 http://stackoverflow.com/questions/41468190/hashmap-inserting-duplicate-keys-with-string-as-a-key-java
 
 http://stackoverflow.com/questions/41468455/sort-array-not-working-in-java-error-cannot-find-symbol
+
+http://stackoverflow.com/questions/41479060/illegalmonitorstateexception-in-producer-consumer-code
+
+http://stackoverflow.com/questions/41479689/how-to-determine-appropriate-buffer-size-in-java
+
+http://stackoverflow.com/questions/41479248/in-java-why-does-the-output-of-b-does-not-change-in-the-case-is-it-possible-th
