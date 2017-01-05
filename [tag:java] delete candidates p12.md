@@ -1,30 +1,14 @@
-http://stackoverflow.com/questions/41468352/how-to-perform-this-using-bigintegers
-
-http://stackoverflow.com/questions/41457476/remove-end-of-line-character-after-reading-data-from-excel-apache-poi
-
 http://stackoverflow.com/questions/41449515/why-are-lists-considered-an-interface
 
 http://stackoverflow.com/questions/41478548/how-to-instantiate-a-singleton-class-at-system-startup-in-java
-
-http://stackoverflow.com/questions/41436254/could-not-call-class-method
 
 http://stackoverflow.com/questions/41448176/cant-allocate-space-to-array-using-user-input-java
 
 http://stackoverflow.com/questions/41412482/the-program-works-but-the-answer-arent-correct
 
-http://stackoverflow.com/questions/41418504/put-line-break-in-string
-
-http://stackoverflow.com/questions/41417594/okhttp-jsonexception-value-of-type-org-json-jsonobject-cannot-be-converted-to
-
-http://stackoverflow.com/questions/41435355/why-does-java-return-1-0-just-an-interesting-thing-i-saw
-
 http://stackoverflow.com/questions/41446329/error-when-i-use-iterator-variable-of-foreach-loop-inside-it-for-an-array-in-jav
 
 http://stackoverflow.com/questions/41446427/memory-allocation-for-object-type-instance-variables
-
-http://stackoverflow.com/questions/41446705/is-it-possible-to-get-return-type-from-lambda-parameter-in-java
-
-http://stackoverflow.com/questions/41432449/what-would-the-non-lambda-version-of-role-admin-look-like
 
 NOT YET
 =====
