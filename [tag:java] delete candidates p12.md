@@ -14,6 +14,8 @@ http://stackoverflow.com/questions/41466346/missing-compile-error-with-generics-
 
 http://stackoverflow.com/questions/41451802/does-there-exist-an-equivalent-to-java-agents-jvmti-java-virtual-machine-tool
 
+http://stackoverflow.com/questions/41344243/why-when-i-perform-the-multiplication-between-these-2-bigdecimal-values-i-obtain
+
 NOT YET
 =====
 
