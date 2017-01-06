@@ -1,12 +1,6 @@
-http://stackoverflow.com/questions/41448568/understanding-thread-starvation-deadlock
-
 http://stackoverflow.com/questions/41434069/i-am-receiving-multiple-errors-with-this-code-i-cant-seem-to-fix-it-new-to-ja
 
 http://stackoverflow.com/questions/41432663/im-getting-a-stackoverflow-in-this-code-and-i-dont-know-why
-
-http://stackoverflow.com/questions/41431946/java-same-string-of-different-lengths
-
-http://stackoverflow.com/questions/41491754/rewriting-my-code-to-get-right-output
 
 http://stackoverflow.com/questions/41457675/difference-betweenthread-and-newsinglethreadexecutor
 
