@@ -2,8 +2,6 @@ http://stackoverflow.com/questions/41434069/i-am-receiving-multiple-errors-with-
 
 http://stackoverflow.com/questions/41432663/im-getting-a-stackoverflow-in-this-code-and-i-dont-know-why
 
-http://stackoverflow.com/questions/41457675/difference-betweenthread-and-newsinglethreadexecutor
-
 http://stackoverflow.com/questions/41466346/missing-compile-error-with-generics-bounded-return-type
 
 http://stackoverflow.com/questions/41451802/does-there-exist-an-equivalent-to-java-agents-jvmti-java-virtual-machine-tool
