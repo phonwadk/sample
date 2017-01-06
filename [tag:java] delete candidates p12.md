@@ -54,3 +54,5 @@ http://stackoverflow.com/questions/41490252/how-does-string-class-in-java-create
 http://stackoverflow.com/questions/41495579/java-getting-multiple-user-inputs
 
 http://stackoverflow.com/questions/41497777/how-to-create-an-array-of-size-specified-by-the-user
+
+http://stackoverflow.com/questions/41507956/java-how-can-i-know-my-instances-type-childs-interface-type
