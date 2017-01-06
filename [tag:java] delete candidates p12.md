@@ -10,18 +10,16 @@ http://stackoverflow.com/questions/41451802/does-there-exist-an-equivalent-to-ja
 
 http://stackoverflow.com/questions/41344243/why-when-i-perform-the-multiplication-between-these-2-bigdecimal-values-i-obtain
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41454905/how-can-i-compare-a-character-to-a-regex-from-a-z
 
 http://stackoverflow.com/questions/41450577/generate-type-that-extends-from-foo-and-also-implements-bar
 
 http://stackoverflow.com/questions/41467496/array-of-zero-in-a-double-loop-throws-exception
 
-http://stackoverflow.com/questions/41454145/why-saving-passwords-as-char-isnt-foolproof
-
 http://stackoverflow.com/questions/41436026/how-is-printing-a-stringbuilder-object-by-referencing-it-directly-different-than
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41468190/hashmap-inserting-duplicate-keys-with-string-as-a-key-java
 
