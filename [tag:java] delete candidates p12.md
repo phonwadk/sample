@@ -48,3 +48,5 @@ http://stackoverflow.com/questions/41497777/how-to-create-an-array-of-size-speci
 http://stackoverflow.com/questions/41507956/java-how-can-i-know-my-instances-type-childs-interface-type
 
 http://stackoverflow.com/questions/41509844/effectively-final-variables-vs-static-variables
+
+http://stackoverflow.com/questions/41511579/arrayindexoutofboundsexception-message-in-java
