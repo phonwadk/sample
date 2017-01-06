@@ -1,6 +1,8 @@
 http://stackoverflow.com/questions/41434069/i-am-receiving-multiple-errors-with-this-code-i-cant-seem-to-fix-it-new-to-ja
 
-http://stackoverflow.com/questions/41512351/unable-to-locate-the-error-for-arrayindexoutofboundsexception
+http://stackoverflow.com/questions/41512351/arrayindexoutofboundsexception-for-nested-loop-guessing-game
+
+http://stackoverflow.com/questions/41512905/java-some-problems-with-while-loop-i-supposerock-paper-scissors-game
 
 http://stackoverflow.com/questions/41432663/im-getting-a-stackoverflow-in-this-code-and-i-dont-know-why
 
