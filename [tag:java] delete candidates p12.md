@@ -54,3 +54,5 @@ http://stackoverflow.com/questions/41509844/effectively-final-variables-vs-stati
 http://stackoverflow.com/questions/41511579/arrayindexoutofboundsexception-message-in-java
 
 http://stackoverflow.com/questions/41512605/java-character-to-integer
+
+http://stackoverflow.com/questions/41512774/what-does-it-mean-by-setupjframe-is-not-absract
