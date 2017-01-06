@@ -18,16 +18,16 @@ http://stackoverflow.com/questions/41467496/array-of-zero-in-a-double-loop-throw
 
 http://stackoverflow.com/questions/41436026/how-is-printing-a-stringbuilder-object-by-referencing-it-directly-different-than
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41468190/hashmap-inserting-duplicate-keys-with-string-as-a-key-java
 
 http://stackoverflow.com/questions/41468455/sort-array-not-working-in-java-error-cannot-find-symbol
 
-http://stackoverflow.com/questions/41479060/illegalmonitorstateexception-in-producer-consumer-code
-
 http://stackoverflow.com/questions/41451754/can-someone-explain-how-some-parts-of-this-java-code-works-overriding-the-metho
+
+NOT YET
+=====
+
+http://stackoverflow.com/questions/41479060/illegalmonitorstateexception-in-producer-consumer-code
 
 http://stackoverflow.com/questions/41479689/how-to-determine-appropriate-buffer-size-in-java
 
