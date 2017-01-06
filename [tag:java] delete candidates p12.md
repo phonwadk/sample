@@ -52,3 +52,5 @@ http://stackoverflow.com/questions/41507956/java-how-can-i-know-my-instances-typ
 http://stackoverflow.com/questions/41509844/effectively-final-variables-vs-static-variables
 
 http://stackoverflow.com/questions/41511579/arrayindexoutofboundsexception-message-in-java
+
+http://stackoverflow.com/questions/41512605/java-character-to-integer
