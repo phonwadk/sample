@@ -10,13 +10,12 @@ http://stackoverflow.com/questions/41491754/rewriting-my-code-to-get-right-outpu
 
 http://stackoverflow.com/questions/41457675/difference-betweenthread-and-newsinglethreadexecutor
 
-
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41466346/missing-compile-error-with-generics-bounded-return-type
 
 http://stackoverflow.com/questions/41451802/does-there-exist-an-equivalent-to-java-agents-jvmti-java-virtual-machine-tool
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41454905/how-can-i-compare-a-character-to-a-regex-from-a-z
 
