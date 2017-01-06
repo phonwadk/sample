@@ -50,3 +50,5 @@ http://stackoverflow.com/questions/41471997/how-to-add-stuff-into-a-2d-arraylist
 http://stackoverflow.com/questions/41490252/how-does-string-class-in-java-creates-object
 
 http://stackoverflow.com/questions/41495579/java-getting-multiple-user-inputs
+
+http://stackoverflow.com/questions/41497777/how-to-create-an-array-of-size-specified-by-the-user
