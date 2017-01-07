@@ -66,3 +66,5 @@ http://stackoverflow.com/questions/41525052/why-does-the-main-thread-acquire-the
 http://stackoverflow.com/questions/41525716/retriving-values-from-an-hashmap-which-has-arraylist-as-value
 
 http://stackoverflow.com/questions/41526004/java-generics-method-wont-work-when-wrapper-classes-are-used
+
+http://stackoverflow.com/questions/41526072/unable-to-print-arraylist
