@@ -6,8 +6,6 @@ http://stackoverflow.com/questions/41522461/is-void-a-data-type-or-not-in-the-ja
 
 http://stackoverflow.com/questions/41521644/print-a-pyramid-structure-without-using-nested-loops-or-a-conditional-statements
 
-http://stackoverflow.com/questions/41522103/if-condition-confusion
-
 http://stackoverflow.com/questions/41516565/beginner-code-calling-error
 
 http://stackoverflow.com/questions/41501347/how-to-check-if-the-value-entered-in-string-is-int-double-float-or-long
