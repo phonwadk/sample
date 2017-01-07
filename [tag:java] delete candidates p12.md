@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/41522338/serializing-and-deserializing-list-in-java
+
 http://stackoverflow.com/questions/41512351/arrayindexoutofboundsexception-for-nested-loop-guessing-game
 
 http://stackoverflow.com/questions/41521644/print-a-pyramid-structure-without-using-nested-loops-or-a-conditional-statements
