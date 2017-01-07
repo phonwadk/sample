@@ -58,3 +58,5 @@ http://stackoverflow.com/questions/41513094/post-and-pre-increment-as-condition-
 http://stackoverflow.com/questions/41513960/java-compiler-execution-in-try-catch
 
 http://stackoverflow.com/questions/41522599/what-is-the-correct-way-to-format-a-boolean-return-method
+
+http://stackoverflow.com/questions/41522122/pass-long-values-through-a-constructor-call
