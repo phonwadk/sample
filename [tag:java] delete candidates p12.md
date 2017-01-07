@@ -56,3 +56,5 @@ http://stackoverflow.com/questions/41512774/what-does-it-mean-by-setupjframe-is-
 http://stackoverflow.com/questions/41513094/post-and-pre-increment-as-condition-for-if-else
 
 http://stackoverflow.com/questions/41513960/java-compiler-execution-in-try-catch
+
+http://stackoverflow.com/questions/41522599/what-is-the-correct-way-to-format-a-boolean-return-method
