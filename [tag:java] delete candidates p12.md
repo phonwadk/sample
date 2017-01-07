@@ -1,14 +1,8 @@
-http://stackoverflow.com/questions/41434069/i-am-receiving-multiple-errors-with-this-code-i-cant-seem-to-fix-it-new-to-ja
-
 http://stackoverflow.com/questions/41512351/arrayindexoutofboundsexception-for-nested-loop-guessing-game
 
 http://stackoverflow.com/questions/41512905/java-some-problems-with-while-loop-i-supposerock-paper-scissors-game
 
-http://stackoverflow.com/questions/41432663/im-getting-a-stackoverflow-in-this-code-and-i-dont-know-why
-
 http://stackoverflow.com/questions/41466346/missing-compile-error-with-generics-bounded-return-type
-
-http://stackoverflow.com/questions/41451802/does-there-exist-an-equivalent-to-java-agents-jvmti-java-virtual-machine-tool
 
 http://stackoverflow.com/questions/41344243/why-when-i-perform-the-multiplication-between-these-2-bigdecimal-values-i-obtain
 
@@ -23,8 +17,6 @@ http://stackoverflow.com/questions/41436026/how-is-printing-a-stringbuilder-obje
 http://stackoverflow.com/questions/41468190/hashmap-inserting-duplicate-keys-with-string-as-a-key-java
 
 http://stackoverflow.com/questions/41468455/sort-array-not-working-in-java-error-cannot-find-symbol
-
-http://stackoverflow.com/questions/41451754/can-someone-explain-how-some-parts-of-this-java-code-works-overriding-the-metho
 
 NOT YET
 =====
