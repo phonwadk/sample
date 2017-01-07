@@ -2,29 +2,11 @@ http://stackoverflow.com/questions/41522338/serializing-and-deserializing-list-i
 
 http://stackoverflow.com/questions/41522461/is-void-a-data-type-or-not-in-the-java-programming-language
 
-http://stackoverflow.com/questions/41512351/arrayindexoutofboundsexception-for-nested-loop-guessing-game
-
 http://stackoverflow.com/questions/41521644/print-a-pyramid-structure-without-using-nested-loops-or-a-conditional-statements
 
 http://stackoverflow.com/questions/41522103/if-condition-confusion
 
-http://stackoverflow.com/questions/41512905/java-some-problems-with-while-loop-i-supposerock-paper-scissors-game
-
-http://stackoverflow.com/questions/41466346/missing-compile-error-with-generics-bounded-return-type
-
 http://stackoverflow.com/questions/41516565/beginner-code-calling-error
-
-http://stackoverflow.com/questions/41454905/how-can-i-compare-a-character-to-a-regex-from-a-z
-
-http://stackoverflow.com/questions/41450577/generate-type-that-extends-from-foo-and-also-implements-bar
-
-http://stackoverflow.com/questions/41467496/array-of-zero-in-a-double-loop-throws-exception
-
-http://stackoverflow.com/questions/41436026/how-is-printing-a-stringbuilder-object-by-referencing-it-directly-different-than
-
-http://stackoverflow.com/questions/41468190/hashmap-inserting-duplicate-keys-with-string-as-a-key-java
-
-http://stackoverflow.com/questions/41468455/sort-array-not-working-in-java-error-cannot-find-symbol
 
 http://stackoverflow.com/questions/41501347/how-to-check-if-the-value-entered-in-string-is-int-double-float-or-long
 
