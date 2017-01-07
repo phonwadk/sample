@@ -2,8 +2,6 @@ http://stackoverflow.com/questions/41526004/java-generics-method-wont-work-when-
 
 http://stackoverflow.com/questions/41526072/unable-to-print-arraylist
 
-http://stackoverflow.com/questions/41523246/java-collections
-
 http://stackoverflow.com/questions/41522338/serializing-and-deserializing-list-in-java
 
 http://stackoverflow.com/questions/41522461/is-void-a-data-type-or-not-in-the-java-programming-language
