@@ -20,9 +20,6 @@ http://stackoverflow.com/questions/41479248/in-java-why-does-the-output-of-b-doe
 
 http://stackoverflow.com/questions/41469653/unknown-issue-with-arraylists-and-new-objects
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41479060/illegalmonitorstateexception-in-producer-consumer-code
 
 http://stackoverflow.com/questions/41478678/java-try-catch-not-defining-variable-that-i-can-use-outwith-that-method
@@ -32,6 +29,9 @@ http://stackoverflow.com/questions/41478262/why-do-we-use-constructors-if-we-can
 http://stackoverflow.com/questions/41471997/how-to-add-stuff-into-a-2d-arraylist-java
 
 http://stackoverflow.com/questions/41490252/how-does-string-class-in-java-creates-object
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41495579/java-getting-multiple-user-inputs
 
