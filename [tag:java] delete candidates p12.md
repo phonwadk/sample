@@ -62,3 +62,5 @@ http://stackoverflow.com/questions/41522421/default-contructor-throwing-npe-when
 http://stackoverflow.com/questions/41522607/issue-with-javac-command
 
 http://stackoverflow.com/questions/41524119/what-is-1-in-regular-expressions
+
+http://stackoverflow.com/questions/41525052/why-does-the-main-thread-acquire-the-lock-of-a-synchronized-instance-here
