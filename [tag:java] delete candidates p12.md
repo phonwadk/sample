@@ -1,30 +1,8 @@
-http://stackoverflow.com/questions/41526004/java-generics-method-wont-work-when-wrapper-classes-are-used
-
-http://stackoverflow.com/questions/41526072/unable-to-print-arraylist
-
 http://stackoverflow.com/questions/41522338/serializing-and-deserializing-list-in-java
-
-http://stackoverflow.com/questions/41522461/is-void-a-data-type-or-not-in-the-java-programming-language
-
-http://stackoverflow.com/questions/41501347/how-to-check-if-the-value-entered-in-string-is-int-double-float-or-long
 
 http://stackoverflow.com/questions/41515035/cant-update-app-on-google-play-error-8869003
 
-http://stackoverflow.com/questions/41479689/how-to-determine-appropriate-buffer-size-in-java
-
-http://stackoverflow.com/questions/41479248/in-java-why-does-the-output-of-b-does-not-change-in-the-case-is-it-possible-th
-
-http://stackoverflow.com/questions/41469653/unknown-issue-with-arraylists-and-new-objects
-
 http://stackoverflow.com/questions/41479060/illegalmonitorstateexception-in-producer-consumer-code
-
-http://stackoverflow.com/questions/41478678/java-try-catch-not-defining-variable-that-i-can-use-outwith-that-method
-
-http://stackoverflow.com/questions/41478262/why-do-we-use-constructors-if-we-can-initialize-member-variables-directly
-
-http://stackoverflow.com/questions/41471997/how-to-add-stuff-into-a-2d-arraylist-java
-
-http://stackoverflow.com/questions/41490252/how-does-string-class-in-java-creates-object
 
 NOT YET
 =====
