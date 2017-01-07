@@ -16,6 +16,8 @@ http://stackoverflow.com/questions/41468190/hashmap-inserting-duplicate-keys-wit
 
 http://stackoverflow.com/questions/41468455/sort-array-not-working-in-java-error-cannot-find-symbol
 
+http://stackoverflow.com/questions/41501347/how-to-check-if-the-value-entered-in-string-is-int-double-float-or-long
+
 NOT YET
 =====
 
