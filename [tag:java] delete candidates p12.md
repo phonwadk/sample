@@ -1,5 +1,7 @@
 http://stackoverflow.com/questions/41526004/java-generics-method-wont-work-when-wrapper-classes-are-used
 
+http://stackoverflow.com/questions/41526072/unable-to-print-arraylist
+
 http://stackoverflow.com/questions/41523246/java-collections
 
 http://stackoverflow.com/questions/41522338/serializing-and-deserializing-list-in-java
@@ -64,7 +66,5 @@ http://stackoverflow.com/questions/41524119/what-is-1-in-regular-expressions
 http://stackoverflow.com/questions/41525052/why-does-the-main-thread-acquire-the-lock-of-a-synchronized-instance-here
 
 http://stackoverflow.com/questions/41525716/retriving-values-from-an-hashmap-which-has-arraylist-as-value
-
-http://stackoverflow.com/questions/41526072/unable-to-print-arraylist
 
 http://stackoverflow.com/questions/41526688/how-to-ignore-something-like-between-integers-in-java
