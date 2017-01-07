@@ -1,5 +1,7 @@
 http://stackoverflow.com/questions/41512351/arrayindexoutofboundsexception-for-nested-loop-guessing-game
 
+http://stackoverflow.com/questions/41521644/print-a-pyramid-structure-without-using-nested-loops-or-a-conditional-statements
+
 http://stackoverflow.com/questions/41512905/java-some-problems-with-while-loop-i-supposerock-paper-scissors-game
 
 http://stackoverflow.com/questions/41466346/missing-compile-error-with-generics-bounded-return-type
