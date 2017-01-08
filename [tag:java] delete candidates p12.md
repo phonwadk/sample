@@ -44,3 +44,5 @@ http://stackoverflow.com/questions/41525716/retriving-values-from-an-hashmap-whi
 http://stackoverflow.com/questions/41526688/how-to-ignore-something-like-between-integers-in-java
 
 http://stackoverflow.com/questions/41529595/anonymous-lambda-expression
+
+http://stackoverflow.com/questions/41495579/java-getting-multiple-user-inputs
