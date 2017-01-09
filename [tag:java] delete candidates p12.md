@@ -53,4 +53,6 @@ http://stackoverflow.com/questions/41532534/business-logic-in-rest
 
 http://stackoverflow.com/questions/41537318/issue-getting-an-int-to-increment
 
+http://stackoverflow.com/questions/41535191/add-conditions-to-a-string-switch-case
+
 http://stackoverflow.com/questions/41549235/ask-about-simpledateformat-in-java
