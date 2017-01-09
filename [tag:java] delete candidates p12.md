@@ -73,4 +73,4 @@ http://stackoverflow.com/questions/41544235/what-is-the-output-in-this-case-it-s
 
 http://stackoverflow.com/questions/41552284/i-need-help-in-nested-for-loop-java
 
-http://stackoverflow.com/questions/41555731/different-outputs-while-comparing-null-object-with-and-without-string-concatenat?noredirect=1
+http://stackoverflow.com/questions/41555731/different-outputs-while-comparing-null-object-with-and-without-string-concatenat
