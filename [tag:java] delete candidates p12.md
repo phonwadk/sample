@@ -47,6 +47,8 @@ http://stackoverflow.com/questions/41534618/java-code-conventions-for-java-8-fea
 
 http://stackoverflow.com/questions/41532799/what-does-this-mean-in-the-spring-api
 
+http://stackoverflow.com/questions/41532534/business-logic-in-rest
+
 http://stackoverflow.com/questions/41537318/issue-getting-an-int-to-increment
 
 http://stackoverflow.com/questions/41549235/ask-about-simpledateformat-in-java
