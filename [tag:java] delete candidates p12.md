@@ -68,3 +68,5 @@ http://stackoverflow.com/questions/41534622/nullpointerexception-null-when-initi
 http://stackoverflow.com/questions/41533214/change-format-of-datetime-to-yyyyddmm-and-integer-type
 
 http://stackoverflow.com/questions/41534821/java-semaphore-and-fifo-order-on-release
+
+http://stackoverflow.com/questions/41544235/what-is-the-output-in-this-case-it-shows-compilation-error
