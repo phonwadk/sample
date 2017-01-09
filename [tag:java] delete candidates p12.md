@@ -1,5 +1,3 @@
-http://stackoverflow.com/questions/41479060/illegalmonitorstateexception-in-producer-consumer-code
-
 http://stackoverflow.com/questions/41512605/java-character-to-integer
 
 http://stackoverflow.com/questions/41513094/post-and-pre-increment-as-condition-for-if-else
