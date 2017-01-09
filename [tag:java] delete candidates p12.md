@@ -72,3 +72,5 @@ http://stackoverflow.com/questions/41534821/java-semaphore-and-fifo-order-on-rel
 http://stackoverflow.com/questions/41544235/what-is-the-output-in-this-case-it-shows-compilation-error
 
 http://stackoverflow.com/questions/41552284/i-need-help-in-nested-for-loop-java
+
+http://stackoverflow.com/questions/41555731/different-outputs-while-comparing-null-object-with-and-without-string-concatenat?noredirect=1
