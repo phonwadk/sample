@@ -66,3 +66,5 @@ http://stackoverflow.com/questions/41541701/break-in-if-else-program-java
 http://stackoverflow.com/questions/41534622/nullpointerexception-null-when-initializing-spring-bean
 
 http://stackoverflow.com/questions/41533214/change-format-of-datetime-to-yyyyddmm-and-integer-type
+
+http://stackoverflow.com/questions/41534821/java-semaphore-and-fifo-order-on-release
