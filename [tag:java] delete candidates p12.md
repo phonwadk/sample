@@ -70,3 +70,5 @@ http://stackoverflow.com/questions/41533214/change-format-of-datetime-to-yyyyddm
 http://stackoverflow.com/questions/41534821/java-semaphore-and-fifo-order-on-release
 
 http://stackoverflow.com/questions/41544235/what-is-the-output-in-this-case-it-shows-compilation-error
+
+http://stackoverflow.com/questions/41552284/i-need-help-in-nested-for-loop-java
