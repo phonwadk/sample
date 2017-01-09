@@ -62,3 +62,5 @@ http://stackoverflow.com/questions/41535191/add-conditions-to-a-string-switch-ca
 http://stackoverflow.com/questions/41549235/ask-about-simpledateformat-in-java
 
 http://stackoverflow.com/questions/41541701/break-in-if-else-program-java
+
+http://stackoverflow.com/questions/41534622/nullpointerexception-null-when-initializing-spring-bean
