@@ -1,3 +1,6 @@
+missing a vote for not repro (wrong lib version, bug), please review http://stackoverflow.com/questions/41448428/springjava-util-missingformatargumentexception-format-specifier-s
+
+
 http://stackoverflow.com/questions/41542386/which-di-framework-should-i-use
 
 http://stackoverflow.com/questions/41535412/there-are-2-void-methods-about-string-and-array-which-didnt-work
