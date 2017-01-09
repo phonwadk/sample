@@ -35,8 +35,6 @@ http://stackoverflow.com/questions/41522329/when-using-nbsp-it-does-not-create-a
 
 http://stackoverflow.com/questions/41522607/issue-with-javac-command
 
-http://stackoverflow.com/questions/41524119/what-is-1-in-regular-expressions
-
 http://stackoverflow.com/questions/41525052/why-does-the-main-thread-acquire-the-lock-of-a-synchronized-instance-here
 
 http://stackoverflow.com/questions/41525716/retriving-values-from-an-hashmap-which-has-arraylist-as-value
