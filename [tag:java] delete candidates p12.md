@@ -30,6 +30,12 @@ http://stackoverflow.com/questions/41496096/two-arrays-but-they-both-change-when
 
 http://stackoverflow.com/questions/41495667/how-to-handle-exceptions-in-java-8-streams
 
+http://stackoverflow.com/questions/41513693/java-java-io-file-isfile-and-isdirectory-implementation
+
+http://stackoverflow.com/questions/41514977/type-mismatch-cannot-convert-from-java-lang-string-to-lessons-string
+
+http://stackoverflow.com/questions/41516609/python-if-a-split-string-contains-all-words-in-a-list
+
 NOT YET
 =====
 
