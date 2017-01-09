@@ -43,6 +43,8 @@ http://stackoverflow.com/questions/41529595/anonymous-lambda-expression
 
 http://stackoverflow.com/questions/41495579/java-getting-multiple-user-inputs
 
+http://stackoverflow.com/questions/41534618/java-code-conventions-for-java-8-features
+
 http://stackoverflow.com/questions/41532799/what-does-this-mean-in-the-spring-api
 
 http://stackoverflow.com/questions/41537318/issue-getting-an-int-to-increment
