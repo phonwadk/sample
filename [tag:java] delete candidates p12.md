@@ -60,3 +60,5 @@ http://stackoverflow.com/questions/41537318/issue-getting-an-int-to-increment
 http://stackoverflow.com/questions/41535191/add-conditions-to-a-string-switch-case
 
 http://stackoverflow.com/questions/41549235/ask-about-simpledateformat-in-java
+
+http://stackoverflow.com/questions/41541701/break-in-if-else-program-java
