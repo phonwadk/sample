@@ -20,6 +20,15 @@ http://stackoverflow.com/questions/41513960/java-compiler-execution-in-try-catch
 
 http://stackoverflow.com/questions/41497777/how-to-create-an-array-of-size-specified-by-the-user
 
+http://stackoverflow.com/questions/41491510/does-returning-an-int-variable-as-an-integer-instead-of-int-affect-performance
+
+http://stackoverflow.com/questions/41487742/downcast-to-grandchildren-in-java
+
+http://stackoverflow.com/questions/41496784/how-to-make-number-from-string
+
+http://stackoverflow.com/questions/41496096/two-arrays-but-they-both-change-when-editing-one
+
+http://stackoverflow.com/questions/41495667/how-to-handle-exceptions-in-java-8-streams
 
 NOT YET
 =====
