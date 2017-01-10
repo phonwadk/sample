@@ -1,5 +1,7 @@
 missing a vote for not repro (wrong lib version, bug), please review http://stackoverflow.com/questions/41448428/springjava-util-missingformatargumentexception-format-specifier-s
 
+http://stackoverflow.com/questions/41460974/spring-boot-apache-cxf-rest-autowiring-nullpointerexception
+
 http://stackoverflow.com/questions/41556016/string-replacement-with-regex-in-java
 
 http://stackoverflow.com/questions/41542386/which-di-framework-should-i-use
