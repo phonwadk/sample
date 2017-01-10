@@ -4,6 +4,8 @@ http://stackoverflow.com/questions/41556016/string-replacement-with-regex-in-jav
 
 http://stackoverflow.com/questions/41542386/which-di-framework-should-i-use
 
+http://stackoverflow.com/questions/41557070/compile-this-in-command-line
+
 http://stackoverflow.com/questions/41535412/there-are-2-void-methods-about-string-and-array-which-didnt-work
 
 http://stackoverflow.com/questions/41512605/java-character-to-integer
