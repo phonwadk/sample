@@ -83,3 +83,5 @@ http://stackoverflow.com/questions/41557295/in-java-does-the-order-of-the-parame
 http://stackoverflow.com/questions/41555005/get-all-instances-of-a-class-from-another-class-java
 
 http://stackoverflow.com/questions/41557646/how-do-you-get-an-integer-from-an-object-that-is-in-a-list
+
+http://stackoverflow.com/questions/41558523/java-compile-with-cmd-error
