@@ -1,5 +1,9 @@
 missing a vote for not repro (wrong lib version, bug), please review http://stackoverflow.com/questions/41448428/springjava-util-missingformatargumentexception-format-specifier-s
 
+http://stackoverflow.com/questions/41559922/java-if-block-is-bothering-me-keeps-ignoring-the-brackets
+
+http://stackoverflow.com/questions/41559165/im-unable-to-imort-scanner-i-am-using-eclipse
+
 http://stackoverflow.com/questions/41460974/spring-boot-apache-cxf-rest-autowiring-nullpointerexception
 
 http://stackoverflow.com/questions/41556016/string-replacement-with-regex-in-java
