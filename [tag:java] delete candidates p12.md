@@ -29,9 +29,6 @@ http://stackoverflow.com/questions/41549100/size-of-hashset-after-adding-multipl
 
 http://stackoverflow.com/questions/41557774/why-am-i-getting-exception-in-thread-main-java-util-nosuchelementexception
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41522599/what-is-the-correct-way-to-format-a-boolean-return-method
 
 http://stackoverflow.com/questions/41522122/pass-long-values-through-a-constructor-call
@@ -45,6 +42,9 @@ http://stackoverflow.com/questions/41525052/why-does-the-main-thread-acquire-the
 http://stackoverflow.com/questions/41525716/retriving-values-from-an-hashmap-which-has-arraylist-as-value
 
 http://stackoverflow.com/questions/41526688/how-to-ignore-something-like-between-integers-in-java
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41529595/anonymous-lambda-expression
 
