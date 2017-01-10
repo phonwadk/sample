@@ -54,6 +54,8 @@ http://stackoverflow.com/questions/41529595/anonymous-lambda-expression
 
 http://stackoverflow.com/questions/41532799/what-does-this-mean-in-the-spring-api
 
+http://stackoverflow.com/questions/41572896/confusing-array-loops
+
 NOT YET
 =====
 
