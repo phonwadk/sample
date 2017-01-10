@@ -1,14 +1,8 @@
 http://stackoverflow.com/questions/41559165/im-unable-to-imort-scanner-i-am-using-eclipse
 
-http://stackoverflow.com/questions/41460974/spring-boot-apache-cxf-rest-autowiring-nullpointerexception
-
 http://stackoverflow.com/questions/41556016/string-replacement-with-regex-in-java
 
-http://stackoverflow.com/questions/41477688/java-hashmap-concurrent-modification-not-thrown
-
 http://stackoverflow.com/questions/41542386/which-di-framework-should-i-use
-
-http://stackoverflow.com/questions/41557070/compile-this-in-command-line
 
 http://stackoverflow.com/questions/41535412/there-are-2-void-methods-about-string-and-array-which-didnt-work
 
@@ -32,19 +26,7 @@ http://stackoverflow.com/questions/41516609/python-if-a-split-string-contains-al
 
 http://stackoverflow.com/questions/41549100/size-of-hashset-after-adding-multiple-string-object
 
-http://stackoverflow.com/questions/41557774/why-am-i-getting-exception-in-thread-main-java-util-nosuchelementexception
-
-http://stackoverflow.com/questions/41522599/what-is-the-correct-way-to-format-a-boolean-return-method
-
-http://stackoverflow.com/questions/41522607/issue-with-javac-command
-
 http://stackoverflow.com/questions/41525052/why-does-the-main-thread-acquire-the-lock-of-a-synchronized-instance-here
-
-http://stackoverflow.com/questions/41525716/retriving-values-from-an-hashmap-which-has-arraylist-as-value
-
-http://stackoverflow.com/questions/41526688/how-to-ignore-something-like-between-integers-in-java
-
-http://stackoverflow.com/questions/41527114/is-it-possible-to-generation-json-with-gson-without-newlines-in-the-result
 
 http://stackoverflow.com/questions/41529595/anonymous-lambda-expression
 
@@ -76,8 +58,6 @@ http://stackoverflow.com/questions/41533214/change-format-of-datetime-to-yyyyddm
 http://stackoverflow.com/questions/41534821/java-semaphore-and-fifo-order-on-release
 
 http://stackoverflow.com/questions/41544235/what-is-the-output-in-this-case-it-shows-compilation-error
-
-http://stackoverflow.com/questions/41552284/i-need-help-in-nested-for-loop-java
 
 http://stackoverflow.com/questions/41555731/different-outputs-while-comparing-null-object-with-and-without-string-concatenat
 
