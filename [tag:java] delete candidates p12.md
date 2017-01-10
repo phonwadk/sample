@@ -43,16 +43,15 @@ http://stackoverflow.com/questions/41525716/retriving-values-from-an-hashmap-whi
 
 http://stackoverflow.com/questions/41526688/how-to-ignore-something-like-between-integers-in-java
 
+http://stackoverflow.com/questions/41527114/is-it-possible-to-generation-json-with-gson-without-newlines-in-the-result
+
+
 NOT YET
 =====
 
 http://stackoverflow.com/questions/41529595/anonymous-lambda-expression
 
-http://stackoverflow.com/questions/41495579/java-getting-multiple-user-inputs
-
 http://stackoverflow.com/questions/41534618/java-code-conventions-for-java-8-features
-
-http://stackoverflow.com/questions/41527114/is-it-possible-to-generation-json-with-gson-without-newlines-in-the-result
 
 http://stackoverflow.com/questions/41532799/what-does-this-mean-in-the-spring-api
 
