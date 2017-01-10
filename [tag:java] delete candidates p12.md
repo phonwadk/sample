@@ -4,6 +4,8 @@ http://stackoverflow.com/questions/41460974/spring-boot-apache-cxf-rest-autowiri
 
 http://stackoverflow.com/questions/41556016/string-replacement-with-regex-in-java
 
+http://stackoverflow.com/questions/41477688/java-hashmap-concurrent-modification-not-thrown
+
 http://stackoverflow.com/questions/41542386/which-di-framework-should-i-use
 
 http://stackoverflow.com/questions/41557070/compile-this-in-command-line
