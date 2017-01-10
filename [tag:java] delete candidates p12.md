@@ -48,15 +48,14 @@ http://stackoverflow.com/questions/41526688/how-to-ignore-something-like-between
 
 http://stackoverflow.com/questions/41527114/is-it-possible-to-generation-json-with-gson-without-newlines-in-the-result
 
+http://stackoverflow.com/questions/41529595/anonymous-lambda-expression
+
+http://stackoverflow.com/questions/41532799/what-does-this-mean-in-the-spring-api
 
 NOT YET
 =====
 
-http://stackoverflow.com/questions/41529595/anonymous-lambda-expression
-
 http://stackoverflow.com/questions/41534618/java-code-conventions-for-java-8-features
-
-http://stackoverflow.com/questions/41532799/what-does-this-mean-in-the-spring-api
 
 http://stackoverflow.com/questions/41532534/business-logic-in-rest
 
