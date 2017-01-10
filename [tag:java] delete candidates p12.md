@@ -79,3 +79,7 @@ http://stackoverflow.com/questions/41552284/i-need-help-in-nested-for-loop-java
 http://stackoverflow.com/questions/41555731/different-outputs-while-comparing-null-object-with-and-without-string-concatenat
 
 http://stackoverflow.com/questions/41557295/in-java-does-the-order-of-the-parameters-in-a-method-definition-affect-what-the
+
+http://stackoverflow.com/questions/41555005/get-all-instances-of-a-class-from-another-class-java
+
+http://stackoverflow.com/questions/41557646/how-do-you-get-an-integer-from-an-object-that-is-in-a-list
