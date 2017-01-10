@@ -95,3 +95,5 @@ http://stackoverflow.com/questions/41558382/how-to-convert-json-string-to-java-o
 http://stackoverflow.com/questions/41559031/cannot-call-subclasses-inheritance-in-oop
 
 http://stackoverflow.com/questions/41537327/static-initializers-being-called-wrongly-when-inheritance-comes-to-play
+
+http://stackoverflow.com/questions/41560807/java-error-non-static-variable-this-cannot-be-referenced-from-a-static-context
