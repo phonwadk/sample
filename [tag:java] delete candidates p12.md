@@ -27,6 +27,8 @@ http://stackoverflow.com/questions/41516609/python-if-a-split-string-contains-al
 
 http://stackoverflow.com/questions/41549100/size-of-hashset-after-adding-multiple-string-object
 
+http://stackoverflow.com/questions/41557774/why-am-i-getting-exception-in-thread-main-java-util-nosuchelementexception
+
 NOT YET
 =====
 
