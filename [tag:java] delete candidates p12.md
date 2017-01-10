@@ -1,5 +1,3 @@
-missing a vote for not repro (wrong lib version, bug), please review http://stackoverflow.com/questions/41448428/springjava-util-missingformatargumentexception-format-specifier-s
-
 http://stackoverflow.com/questions/41559165/im-unable-to-imort-scanner-i-am-using-eclipse
 
 http://stackoverflow.com/questions/41460974/spring-boot-apache-cxf-rest-autowiring-nullpointerexception
@@ -96,6 +94,8 @@ http://stackoverflow.com/questions/41558382/how-to-convert-json-string-to-java-o
 http://stackoverflow.com/questions/41559031/cannot-call-subclasses-inheritance-in-oop
 
 http://stackoverflow.com/questions/41537327/static-initializers-being-called-wrongly-when-inheritance-comes-to-play
+
+http://stackoverflow.com/questions/41448428/springjava-util-missingformatargumentexception-format-specifier-s
 
 http://stackoverflow.com/questions/41560807/java-error-non-static-variable-this-cannot-be-referenced-from-a-static-context
 
