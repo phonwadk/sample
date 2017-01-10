@@ -88,4 +88,6 @@ http://stackoverflow.com/questions/41557646/how-do-you-get-an-integer-from-an-ob
 
 http://stackoverflow.com/questions/41558523/java-compile-with-cmd-error
 
+http://stackoverflow.com/questions/41558382/how-to-convert-json-string-to-java-object-with-indefinite-key-values
+
 http://stackoverflow.com/questions/41559031/cannot-call-subclasses-inheritance-in-oop
