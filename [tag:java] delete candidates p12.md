@@ -1,3 +1,9 @@
+http://stackoverflow.com/questions/41580942/error-in-scanning
+
+http://stackoverflow.com/questions/41579819/java-error-when-running
+
+http://stackoverflow.com/questions/41581403/in-java-for-primitive-and-objects
+
 http://stackoverflow.com/questions/41559165/im-unable-to-imort-scanner-i-am-using-eclipse
 
 http://stackoverflow.com/questions/41556016/string-replacement-with-regex-in-java
