@@ -92,3 +92,5 @@ http://stackoverflow.com/questions/41574891/why-the-operation-is-called-autoboxi
 http://stackoverflow.com/questions/41581552/java-bufferedwriter-cannot-write-the-data-properly
 
 http://stackoverflow.com/questions/41581718/when-a-stringbuilder-will-be-created
+
+http://stackoverflow.com/questions/41582108/how-to-print-to-console-without-skipping-to-the-next-line
