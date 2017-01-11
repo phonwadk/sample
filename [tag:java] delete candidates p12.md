@@ -28,8 +28,6 @@ http://stackoverflow.com/questions/41549100/size-of-hashset-after-adding-multipl
 
 http://stackoverflow.com/questions/41572896/confusing-array-loops
 
-http://stackoverflow.com/questions/41535191/add-conditions-to-a-string-switch-case
-
 http://stackoverflow.com/questions/41549235/ask-about-simpledateformat-in-java
 
 NOT YET
