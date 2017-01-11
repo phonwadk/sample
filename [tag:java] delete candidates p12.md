@@ -72,3 +72,5 @@ http://stackoverflow.com/questions/41581552/java-bufferedwriter-cannot-write-the
 http://stackoverflow.com/questions/41581718/when-a-stringbuilder-will-be-created
 
 http://stackoverflow.com/questions/41582108/how-to-print-to-console-without-skipping-to-the-next-line
+
+http://stackoverflow.com/questions/41595540/how-to-say-date-not-equal-to-in-java
