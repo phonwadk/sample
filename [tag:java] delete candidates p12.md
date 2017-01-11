@@ -86,3 +86,5 @@ http://stackoverflow.com/questions/41574400/passing-class-argument-in-java
 http://stackoverflow.com/questions/41574891/why-the-operation-is-called-autoboxing
 
 http://stackoverflow.com/questions/41581552/java-bufferedwriter-cannot-write-the-data-properly
+
+http://stackoverflow.com/questions/41581718/when-a-stringbuilder-will-be-created
