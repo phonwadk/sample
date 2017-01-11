@@ -1,5 +1,3 @@
-http://stackoverflow.com/questions/41580942/error-in-scanning
-
 http://stackoverflow.com/questions/41581403/in-java-for-primitive-and-objects
 
 http://stackoverflow.com/questions/41559165/im-unable-to-imort-scanner-i-am-using-eclipse
@@ -13,8 +11,6 @@ http://stackoverflow.com/questions/41535412/there-are-2-void-methods-about-strin
 http://stackoverflow.com/questions/41512605/java-character-to-integer
 
 http://stackoverflow.com/questions/41513094/post-and-pre-increment-as-condition-for-if-else
-
-http://stackoverflow.com/questions/41491510/does-returning-an-int-variable-as-an-integer-instead-of-int-affect-performance
 
 http://stackoverflow.com/questions/41487742/downcast-to-grandchildren-in-java
 
@@ -30,17 +26,7 @@ http://stackoverflow.com/questions/41516609/python-if-a-split-string-contains-al
 
 http://stackoverflow.com/questions/41549100/size-of-hashset-after-adding-multiple-string-object
 
-http://stackoverflow.com/questions/41525052/why-does-the-main-thread-acquire-the-lock-of-a-synchronized-instance-here
-
-http://stackoverflow.com/questions/41529595/anonymous-lambda-expression
-
-http://stackoverflow.com/questions/41532799/what-does-this-mean-in-the-spring-api
-
 http://stackoverflow.com/questions/41572896/confusing-array-loops
-
-http://stackoverflow.com/questions/41534618/java-code-conventions-for-java-8-features
-
-http://stackoverflow.com/questions/41532534/business-logic-in-rest
 
 http://stackoverflow.com/questions/41535191/add-conditions-to-a-string-switch-case
 
