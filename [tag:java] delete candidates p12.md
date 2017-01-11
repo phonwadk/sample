@@ -74,3 +74,7 @@ http://stackoverflow.com/questions/41581718/when-a-stringbuilder-will-be-created
 http://stackoverflow.com/questions/41582108/how-to-print-to-console-without-skipping-to-the-next-line
 
 http://stackoverflow.com/questions/41595540/how-to-say-date-not-equal-to-in-java
+
+http://stackoverflow.com/questions/41596250/what-do-you-think-of-using-properties-of-final-parameter-of-method
+
+http://stackoverflow.com/questions/41596131/java-reflexion-get-parameters-name-on-java-7
