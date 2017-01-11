@@ -36,12 +36,12 @@ http://stackoverflow.com/questions/41533214/change-format-of-datetime-to-yyyyddm
 
 http://stackoverflow.com/questions/41534821/java-semaphore-and-fifo-order-on-release
 
+http://stackoverflow.com/questions/41555731/different-outputs-while-comparing-null-object-with-and-without-string-concatenat
+
 NOT YET
 =====
 
 http://stackoverflow.com/questions/41544235/what-is-the-output-in-this-case-it-shows-compilation-error
-
-http://stackoverflow.com/questions/41555731/different-outputs-while-comparing-null-object-with-and-without-string-concatenat
 
 http://stackoverflow.com/questions/41557295/in-java-does-the-order-of-the-parameters-in-a-method-definition-affect-what-the
 
