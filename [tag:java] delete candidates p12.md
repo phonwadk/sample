@@ -26,8 +26,6 @@ http://stackoverflow.com/questions/41572896/confusing-array-loops
 
 http://stackoverflow.com/questions/41549235/ask-about-simpledateformat-in-java
 
-http://stackoverflow.com/questions/10633869/online-compiler
-
 http://stackoverflow.com/questions/41537318/issue-getting-an-int-to-increment
 
 http://stackoverflow.com/questions/41541701/break-in-if-else-program-java
