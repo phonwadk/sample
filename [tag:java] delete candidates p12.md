@@ -34,20 +34,20 @@ http://stackoverflow.com/questions/41532799/what-does-this-mean-in-the-spring-ap
 
 http://stackoverflow.com/questions/41572896/confusing-array-loops
 
+http://stackoverflow.com/questions/41534618/java-code-conventions-for-java-8-features
+
+http://stackoverflow.com/questions/41532534/business-logic-in-rest
+
+http://stackoverflow.com/questions/41535191/add-conditions-to-a-string-switch-case
+
+http://stackoverflow.com/questions/41549235/ask-about-simpledateformat-in-java
+
 NOT YET
 =====
 
 http://stackoverflow.com/questions/10633869/online-compiler
 
-http://stackoverflow.com/questions/41534618/java-code-conventions-for-java-8-features
-
-http://stackoverflow.com/questions/41532534/business-logic-in-rest
-
 http://stackoverflow.com/questions/41537318/issue-getting-an-int-to-increment
-
-http://stackoverflow.com/questions/41535191/add-conditions-to-a-string-switch-case
-
-http://stackoverflow.com/questions/41549235/ask-about-simpledateformat-in-java
 
 http://stackoverflow.com/questions/41541701/break-in-if-else-program-java
 
