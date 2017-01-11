@@ -18,8 +18,6 @@ http://stackoverflow.com/questions/41514977/type-mismatch-cannot-convert-from-ja
 
 http://stackoverflow.com/questions/41516609/python-if-a-split-string-contains-all-words-in-a-list
 
-http://stackoverflow.com/questions/41549100/size-of-hashset-after-adding-multiple-string-object
-
 http://stackoverflow.com/questions/41572896/confusing-array-loops
 
 http://stackoverflow.com/questions/41549235/ask-about-simpledateformat-in-java
