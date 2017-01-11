@@ -26,20 +26,18 @@ http://stackoverflow.com/questions/41572896/confusing-array-loops
 
 http://stackoverflow.com/questions/41549235/ask-about-simpledateformat-in-java
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/10633869/online-compiler
 
 http://stackoverflow.com/questions/41537318/issue-getting-an-int-to-increment
 
 http://stackoverflow.com/questions/41541701/break-in-if-else-program-java
 
-http://stackoverflow.com/questions/41534622/nullpointerexception-null-when-initializing-spring-bean
-
 http://stackoverflow.com/questions/41533214/change-format-of-datetime-to-yyyyddmm-and-integer-type
 
 http://stackoverflow.com/questions/41534821/java-semaphore-and-fifo-order-on-release
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41544235/what-is-the-output-in-this-case-it-shows-compilation-error
 
