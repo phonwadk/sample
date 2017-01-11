@@ -38,6 +38,8 @@ http://stackoverflow.com/questions/41534821/java-semaphore-and-fifo-order-on-rel
 
 http://stackoverflow.com/questions/41555731/different-outputs-while-comparing-null-object-with-and-without-string-concatenat
 
+http://stackoverflow.com/questions/41594826/what-happens-if-i-do-not-use-this-keyword-while-creating-a-constructer-metho
+
 NOT YET
 =====
 
