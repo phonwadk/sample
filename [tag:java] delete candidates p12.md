@@ -12,8 +12,6 @@ http://stackoverflow.com/questions/41487742/downcast-to-grandchildren-in-java
 
 http://stackoverflow.com/questions/41496784/how-to-make-number-from-string
 
-http://stackoverflow.com/questions/41495667/how-to-handle-exceptions-in-java-8-streams
-
 http://stackoverflow.com/questions/41513693/java-java-io-file-isfile-and-isdirectory-implementation
 
 http://stackoverflow.com/questions/41514977/type-mismatch-cannot-convert-from-java-lang-string-to-lessons-string
