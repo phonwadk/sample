@@ -1,5 +1,7 @@
 please review and decide if this belongs on the site (CV if not) http://stackoverflow.com/questions/41614773/tips-on-organizing-and-cleaning-up-code-and-generally-better-design
 
+http://stackoverflow.com/questions/41615222/linked-list-delete-nth-element
+
 http://stackoverflow.com/questions/41616485/arraylist-max-number
 
 http://stackoverflow.com/questions/41506342/for-loop-not-working-the-way-i-want-it-to
