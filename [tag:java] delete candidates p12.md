@@ -84,3 +84,5 @@ http://stackoverflow.com/questions/41615463/why-the-java-dead-lock-example-doesn
 http://stackoverflow.com/questions/41444366/i-am-getting-syntax-error-on-token-4-delete-this-token-below-code
 
 http://stackoverflow.com/questions/41616866/arraylist-not-adding-elements
+
+http://stackoverflow.com/questions/41617346/using-contains-method-on-a-string-array-within-an-array-list-java
