@@ -36,9 +36,6 @@ http://stackoverflow.com/questions/41558523/java-compile-with-cmd-error
 
 http://stackoverflow.com/questions/41558382/how-to-convert-json-string-to-java-object-with-indefinite-key-values
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41537327/static-initializers-being-called-wrongly-when-inheritance-comes-to-play
 
 http://stackoverflow.com/questions/41448428/springjava-util-missingformatargumentexception-format-specifier-s
@@ -47,11 +44,12 @@ http://stackoverflow.com/questions/41560807/java-error-non-static-variable-this-
 
 http://stackoverflow.com/questions/41562165/if-statement-not-working-nor-being-recognised
 
+NOT YET
+=====
+
 http://stackoverflow.com/questions/41574400/passing-class-argument-in-java
 
 http://stackoverflow.com/questions/41574891/why-the-operation-is-called-autoboxing
-
-http://stackoverflow.com/questions/41581552/java-bufferedwriter-cannot-write-the-data-properly
 
 http://stackoverflow.com/questions/41581718/when-a-stringbuilder-will-be-created
 
