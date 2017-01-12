@@ -83,4 +83,4 @@ http://stackoverflow.com/questions/41600956/java-8-stream-listobject-to-mapobjec
 
 http://stackoverflow.com/questions/41604005/scanner-input-results-out-of-bounds-exception-arrays
 
-http://stackoverflow.com/questions/41600956/java-8-stream-listobject-to-mapobject-1-object-1
+http://stackoverflow.com/questions/41599618/autowire-the-attributes-in-a-class-or-the-constructor
