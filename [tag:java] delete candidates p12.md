@@ -38,6 +38,8 @@ http://stackoverflow.com/questions/41544235/what-is-the-output-in-this-case-it-s
 
 http://stackoverflow.com/questions/41557295/in-java-does-the-order-of-the-parameters-in-a-method-definition-affect-what-the
 
+http://stackoverflow.com/questions/41604018/java-null-and-null-pointer-exception
+
 NOT YET
 =====
 
@@ -76,5 +78,9 @@ http://stackoverflow.com/questions/41596250/what-do-you-think-of-using-propertie
 http://stackoverflow.com/questions/41596131/java-reflexion-get-parameters-name-on-java-7
 
 http://stackoverflow.com/questions/41595022/convert-time-zones
+
+http://stackoverflow.com/questions/41600956/java-8-stream-listobject-to-mapobject-1-object-1
+
+http://stackoverflow.com/questions/41604005/scanner-input-results-out-of-bounds-exception-arrays
 
 http://stackoverflow.com/questions/41600956/java-8-stream-listobject-to-mapobject-1-object-1
