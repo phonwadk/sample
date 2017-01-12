@@ -76,3 +76,5 @@ http://stackoverflow.com/questions/41596250/what-do-you-think-of-using-propertie
 http://stackoverflow.com/questions/41596131/java-reflexion-get-parameters-name-on-java-7
 
 http://stackoverflow.com/questions/41595022/convert-time-zones
+
+http://stackoverflow.com/questions/41600956/java-8-stream-listobject-to-mapobject-1-object-1
