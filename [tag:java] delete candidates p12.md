@@ -86,3 +86,5 @@ http://stackoverflow.com/questions/41444366/i-am-getting-syntax-error-on-token-4
 http://stackoverflow.com/questions/41616866/arraylist-not-adding-elements
 
 http://stackoverflow.com/questions/41617346/using-contains-method-on-a-string-array-within-an-array-list-java
+
+http://stackoverflow.com/questions/41609808/initialized-by-definition-or-constructor-in-java
