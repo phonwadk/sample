@@ -70,3 +70,5 @@ http://stackoverflow.com/questions/41637784/issue-reading-complex-java-8-lambda-
 http://stackoverflow.com/questions/41639113/concat-in-system-out-println
 
 http://stackoverflow.com/questions/41640342/println-concatenation
+
+http://stackoverflow.com/questions/41643989/why-does-s-substrings-length-s-length-successfully-run
