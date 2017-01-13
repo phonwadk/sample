@@ -40,8 +40,6 @@ http://stackoverflow.com/questions/41560807/java-error-non-static-variable-this-
 
 http://stackoverflow.com/questions/41562165/if-statement-not-working-nor-being-recognised
 
-http://stackoverflow.com/questions/41596250/what-do-you-think-of-using-properties-of-final-parameter-of-method
-
 http://stackoverflow.com/questions/41604924/dget-number-of-years-between-year-range-java
 
 http://stackoverflow.com/questions/41574400/passing-class-argument-in-java
