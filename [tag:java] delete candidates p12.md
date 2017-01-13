@@ -2,27 +2,15 @@ please review and decide if this belongs on the site (CV if not) http://stackove
 
 http://stackoverflow.com/questions/41615222/linked-list-delete-nth-element
 
-http://stackoverflow.com/questions/41616485/arraylist-max-number
-
 http://stackoverflow.com/questions/41506342/for-loop-not-working-the-way-i-want-it-to
-
-http://stackoverflow.com/questions/41581403/in-java-for-primitive-and-objects
-
-http://stackoverflow.com/questions/41615238/implementation-of-collection-sort-in-java
 
 http://stackoverflow.com/questions/41559165/im-unable-to-imort-scanner-i-am-using-eclipse
 
 http://stackoverflow.com/questions/41556016/string-replacement-with-regex-in-java
 
-http://stackoverflow.com/questions/41535412/there-are-2-void-methods-about-string-and-array-which-didnt-work
-
 http://stackoverflow.com/questions/41487742/downcast-to-grandchildren-in-java
 
-http://stackoverflow.com/questions/41496784/how-to-make-number-from-string
-
 http://stackoverflow.com/questions/41513693/java-java-io-file-isfile-and-isdirectory-implementation
-
-http://stackoverflow.com/questions/41572896/confusing-array-loops
 
 http://stackoverflow.com/questions/41549235/ask-about-simpledateformat-in-java
 
@@ -33,18 +21,6 @@ http://stackoverflow.com/questions/41555731/different-outputs-while-comparing-nu
 http://stackoverflow.com/questions/41594826/what-happens-if-i-do-not-use-this-keyword-while-creating-a-constructer-metho
 
 http://stackoverflow.com/questions/41544235/what-is-the-output-in-this-case-it-shows-compilation-error
-
-http://stackoverflow.com/questions/41448428/springjava-util-missingformatargumentexception-format-specifier-s
-
-http://stackoverflow.com/questions/41560807/java-error-non-static-variable-this-cannot-be-referenced-from-a-static-context
-
-http://stackoverflow.com/questions/41562165/if-statement-not-working-nor-being-recognised
-
-http://stackoverflow.com/questions/41604924/dget-number-of-years-between-year-range-java
-
-http://stackoverflow.com/questions/41574400/passing-class-argument-in-java
-
-http://stackoverflow.com/questions/41574891/why-the-operation-is-called-autoboxing
 
 NOT YET
 =====
