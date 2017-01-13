@@ -56,12 +56,12 @@ http://stackoverflow.com/questions/41596250/what-do-you-think-of-using-propertie
 
 http://stackoverflow.com/questions/41604924/dget-number-of-years-between-year-range-java
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41574400/passing-class-argument-in-java
 
 http://stackoverflow.com/questions/41574891/why-the-operation-is-called-autoboxing
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41582108/how-to-print-to-console-without-skipping-to-the-next-line
 
