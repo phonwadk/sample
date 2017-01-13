@@ -94,3 +94,5 @@ http://stackoverflow.com/questions/41617346/using-contains-method-on-a-string-ar
 http://stackoverflow.com/questions/41609808/initialized-by-definition-or-constructor-in-java
 
 http://stackoverflow.com/questions/41621234/confused-about-variable-rules
+
+http://stackoverflow.com/questions/41624364/how-to-loop-through-a-variable-number-of-user-inputsscanner
