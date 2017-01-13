@@ -66,3 +66,5 @@ http://stackoverflow.com/questions/41621622/is-it-possible-to-initialize-an-arra
 http://stackoverflow.com/questions/41628007/syntax-error-insert-to-complete-localvariabledeclarationstatement-when-pass
 
 http://stackoverflow.com/questions/41637784/issue-reading-complex-java-8-lambda-with-functionalinterface
+
+http://stackoverflow.com/questions/41639113/concat-in-system-out-println
