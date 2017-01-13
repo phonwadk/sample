@@ -88,3 +88,5 @@ http://stackoverflow.com/questions/41623443/java-checking-hashmap-entries-for-a-
 http://stackoverflow.com/questions/41623193/when-to-call-flush-in-a-try-with-resources-block
 
 http://stackoverflow.com/questions/41621622/is-it-possible-to-initialize-an-array-of-unspecified-size-in-java-if-it-assign
+
+http://stackoverflow.com/questions/41628007/syntax-error-insert-to-complete-localvariabledeclarationstatement-when-pass
