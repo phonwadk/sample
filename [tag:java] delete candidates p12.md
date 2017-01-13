@@ -2,8 +2,6 @@ please review and decide if this belongs on the site (CV if not) http://stackove
 
 http://stackoverflow.com/questions/41615222/linked-list-delete-nth-element
 
-http://stackoverflow.com/questions/41506342/for-loop-not-working-the-way-i-want-it-to
-
 http://stackoverflow.com/questions/41559165/im-unable-to-imort-scanner-i-am-using-eclipse
 
 http://stackoverflow.com/questions/41556016/string-replacement-with-regex-in-java
