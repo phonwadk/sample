@@ -34,18 +34,6 @@ http://stackoverflow.com/questions/41594826/what-happens-if-i-do-not-use-this-ke
 
 http://stackoverflow.com/questions/41544235/what-is-the-output-in-this-case-it-shows-compilation-error
 
-http://stackoverflow.com/questions/41604018/java-null-and-null-pointer-exception
-
-http://stackoverflow.com/questions/41555005/get-all-instances-of-a-class-from-another-class-java
-
-http://stackoverflow.com/questions/41557646/how-do-you-get-an-integer-from-an-object-that-is-in-a-list
-
-http://stackoverflow.com/questions/41558523/java-compile-with-cmd-error
-
-http://stackoverflow.com/questions/41558382/how-to-convert-json-string-to-java-object-with-indefinite-key-values
-
-http://stackoverflow.com/questions/41537327/static-initializers-being-called-wrongly-when-inheritance-comes-to-play
-
 http://stackoverflow.com/questions/41448428/springjava-util-missingformatargumentexception-format-specifier-s
 
 http://stackoverflow.com/questions/41560807/java-error-non-static-variable-this-cannot-be-referenced-from-a-static-context
