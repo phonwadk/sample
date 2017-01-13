@@ -28,6 +28,8 @@ http://stackoverflow.com/questions/41596131/java-reflexion-get-parameters-name-o
 
 http://stackoverflow.com/questions/41595022/convert-time-zones
 
+http://stackoverflow.com/questions/41579391/what-are-the-advantages-of-accessing-private-members-inside-instance-methods-usi
+
 NOT YET
 =====
 
