@@ -22,10 +22,10 @@ http://stackoverflow.com/questions/41594826/what-happens-if-i-do-not-use-this-ke
 
 http://stackoverflow.com/questions/41544235/what-is-the-output-in-this-case-it-shows-compilation-error
 
+http://stackoverflow.com/questions/41582108/how-to-print-to-console-without-skipping-to-the-next-line
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/41582108/how-to-print-to-console-without-skipping-to-the-next-line
 
 http://stackoverflow.com/questions/41595540/how-to-say-date-not-equal-to-in-java
 
