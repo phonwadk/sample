@@ -32,16 +32,16 @@ http://stackoverflow.com/questions/41595022/convert-time-zones
 
 http://stackoverflow.com/questions/41579391/what-are-the-advantages-of-accessing-private-members-inside-instance-methods-usi
 
+http://stackoverflow.com/questions/41600956/java-8-stream-listobject-to-mapobject-1-object-1
+
+http://stackoverflow.com/questions/41598820/find-number-of-days-between-two-localdate-java-8
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/41600956/java-8-stream-listobject-to-mapobject-1-object-1
 
 http://stackoverflow.com/questions/41604005/scanner-input-results-out-of-bounds-exception-arrays
 
 http://stackoverflow.com/questions/41599618/autowire-the-attributes-in-a-class-or-the-constructor
-
-http://stackoverflow.com/questions/41598820/find-number-of-days-between-two-localdate-java-8
 
 http://stackoverflow.com/questions/41599378/please-explain-the-right-output-c-a-in-java-code-having-operators
 
