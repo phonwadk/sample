@@ -4,31 +4,15 @@ http://stackoverflow.com/questions/41645051/java-method-of-class-type-what-is-th
 
 http://stackoverflow.com/questions/41615222/linked-list-delete-nth-element
 
-http://stackoverflow.com/questions/41559165/im-unable-to-imort-scanner-i-am-using-eclipse
-
-http://stackoverflow.com/questions/41556016/string-replacement-with-regex-in-java
-
-http://stackoverflow.com/questions/41487742/downcast-to-grandchildren-in-java
-
-http://stackoverflow.com/questions/41513693/java-java-io-file-isfile-and-isdirectory-implementation
-
-http://stackoverflow.com/questions/41549235/ask-about-simpledateformat-in-java
-
-http://stackoverflow.com/questions/41537318/issue-getting-an-int-to-increment
-
 http://stackoverflow.com/questions/41555731/different-outputs-while-comparing-null-object-with-and-without-string-concatenat
 
 http://stackoverflow.com/questions/41594826/what-happens-if-i-do-not-use-this-keyword-while-creating-a-constructer-metho
 
 http://stackoverflow.com/questions/41544235/what-is-the-output-in-this-case-it-shows-compilation-error
 
-http://stackoverflow.com/questions/41582108/how-to-print-to-console-without-skipping-to-the-next-line
-
 http://stackoverflow.com/questions/41595540/how-to-say-date-not-equal-to-in-java
 
 http://stackoverflow.com/questions/41596131/java-reflexion-get-parameters-name-on-java-7
-
-http://stackoverflow.com/questions/41595022/convert-time-zones
 
 http://stackoverflow.com/questions/41579391/what-are-the-advantages-of-accessing-private-members-inside-instance-methods-usi
 
