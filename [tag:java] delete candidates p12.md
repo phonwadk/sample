@@ -36,9 +36,6 @@ http://stackoverflow.com/questions/41617346/using-contains-method-on-a-string-ar
 
 http://stackoverflow.com/questions/41609808/initialized-by-definition-or-constructor-in-java
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41621234/confused-about-variable-rules
 
 http://stackoverflow.com/questions/41624364/how-to-loop-through-a-variable-number-of-user-inputsscanner
@@ -56,3 +53,6 @@ http://stackoverflow.com/questions/41639113/concat-in-system-out-println
 http://stackoverflow.com/questions/41640342/println-concatenation
 
 http://stackoverflow.com/questions/41643989/why-does-s-substrings-length-s-length-successfully-run
+
+NOT YET
+=====
