@@ -60,3 +60,5 @@ http://stackoverflow.com/questions/41663665/when-i-execute-this-code-why-excepti
 http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than-fdouble-x
 
 http://stackoverflow.com/questions/41666068/nullpointerexception-on-calendar-settime
+
+http://stackoverflow.com/questions/41665205/why-is-the-character-methods-not-working
