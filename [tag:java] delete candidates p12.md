@@ -22,8 +22,6 @@ http://stackoverflow.com/questions/41604005/scanner-input-results-out-of-bounds-
 
 http://stackoverflow.com/questions/41599618/autowire-the-attributes-in-a-class-or-the-constructor
 
-http://stackoverflow.com/questions/41599378/please-explain-the-right-output-c-a-in-java-code-having-operators
-
 http://stackoverflow.com/questions/41596832/backslash-in-url
 
 http://stackoverflow.com/questions/41615463/why-the-java-dead-lock-example-doesnt-work
