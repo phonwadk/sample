@@ -56,6 +56,8 @@ http://stackoverflow.com/questions/41658560/i-keep-getting-an-error-that-i-need-
 
 http://stackoverflow.com/questions/41656661/operator-cannot-be-applied-to-void-java-lang-sting
 
+http://stackoverflow.com/questions/41656489/using-this-in-java-classes
+
 NOT YET
 =====
 
