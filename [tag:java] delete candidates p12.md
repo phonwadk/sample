@@ -20,9 +20,6 @@ http://stackoverflow.com/questions/41600956/java-8-stream-listobject-to-mapobjec
 
 http://stackoverflow.com/questions/41598820/find-number-of-days-between-two-localdate-java-8
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41604005/scanner-input-results-out-of-bounds-exception-arrays
 
 http://stackoverflow.com/questions/41599618/autowire-the-attributes-in-a-class-or-the-constructor
@@ -35,11 +32,12 @@ http://stackoverflow.com/questions/41615463/why-the-java-dead-lock-example-doesn
 
 http://stackoverflow.com/questions/41444366/i-am-getting-syntax-error-on-token-4-delete-this-token-below-code
 
-http://stackoverflow.com/questions/41616866/arraylist-not-adding-elements
-
 http://stackoverflow.com/questions/41617346/using-contains-method-on-a-string-array-within-an-array-list-java
 
 http://stackoverflow.com/questions/41609808/initialized-by-definition-or-constructor-in-java
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41621234/confused-about-variable-rules
 
