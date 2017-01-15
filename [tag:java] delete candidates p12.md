@@ -36,8 +36,6 @@ http://stackoverflow.com/questions/41621234/confused-about-variable-rules
 
 http://stackoverflow.com/questions/41624364/how-to-loop-through-a-variable-number-of-user-inputsscanner
 
-http://stackoverflow.com/questions/41623443/java-checking-hashmap-entries-for-a-specific-pair
-
 http://stackoverflow.com/questions/41623193/when-to-call-flush-in-a-try-with-resources-block
 
 http://stackoverflow.com/questions/41621622/is-it-possible-to-initialize-an-array-of-unspecified-size-in-java-if-it-assign
