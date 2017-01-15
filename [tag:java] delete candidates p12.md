@@ -62,3 +62,5 @@ NOT YET
 http://stackoverflow.com/questions/41614773/tips-on-organizing-and-cleaning-up-code-and-generally-better-design
 
 http://stackoverflow.com/questions/41651264/why-doesnt-the-second-string-change-to-ab
+
+http://stackoverflow.com/questions/41663665/when-i-execute-this-code-why-exception-occur
