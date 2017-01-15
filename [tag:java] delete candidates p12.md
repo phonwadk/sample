@@ -54,5 +54,9 @@ http://stackoverflow.com/questions/41640342/println-concatenation
 
 http://stackoverflow.com/questions/41643989/why-does-s-substrings-length-s-length-successfully-run
 
+http://stackoverflow.com/questions/41658560/i-keep-getting-an-error-that-i-need-to-define-the-main-method-i-dont-understan
+
+http://stackoverflow.com/questions/41656661/operator-cannot-be-applied-to-void-java-lang-sting
+
 NOT YET
 =====
