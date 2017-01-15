@@ -2,11 +2,7 @@ http://stackoverflow.com/questions/41645051/java-method-of-class-type-what-is-th
 
 http://stackoverflow.com/questions/41615222/linked-list-delete-nth-element
 
-http://stackoverflow.com/questions/41555731/different-outputs-while-comparing-null-object-with-and-without-string-concatenat
-
 http://stackoverflow.com/questions/41594826/what-happens-if-i-do-not-use-this-keyword-while-creating-a-constructer-metho
-
-http://stackoverflow.com/questions/41544235/what-is-the-output-in-this-case-it-shows-compilation-error
 
 http://stackoverflow.com/questions/41595540/how-to-say-date-not-equal-to-in-java
 
