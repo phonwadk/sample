@@ -1,5 +1,3 @@
-please review and decide if this belongs on the site (CV if not) http://stackoverflow.com/questions/41614773/tips-on-organizing-and-cleaning-up-code-and-generally-better-design
-
 http://stackoverflow.com/questions/41645051/java-method-of-class-type-what-is-this
 
 http://stackoverflow.com/questions/41615222/linked-list-delete-nth-element
@@ -60,3 +58,5 @@ http://stackoverflow.com/questions/41656661/operator-cannot-be-applied-to-void-j
 
 NOT YET
 =====
+
+http://stackoverflow.com/questions/41614773/tips-on-organizing-and-cleaning-up-code-and-generally-better-design
