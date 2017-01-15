@@ -6,8 +6,6 @@ http://stackoverflow.com/questions/41594826/what-happens-if-i-do-not-use-this-ke
 
 http://stackoverflow.com/questions/41595540/how-to-say-date-not-equal-to-in-java
 
-http://stackoverflow.com/questions/41596131/java-reflexion-get-parameters-name-on-java-7
-
 http://stackoverflow.com/questions/41579391/what-are-the-advantages-of-accessing-private-members-inside-instance-methods-usi
 
 http://stackoverflow.com/questions/41600956/java-8-stream-listobject-to-mapobject-1-object-1
