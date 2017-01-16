@@ -1,7 +1,5 @@
 http://stackoverflow.com/questions/41668914/java-bitwise-operators
 
-http://stackoverflow.com/questions/41541088/java-for-loop-seems-to-be-skipping-code
-
 http://stackoverflow.com/questions/41599962/calling-this-from-parameterized-constructor-better-way-java
 
 http://stackoverflow.com/questions/41669999/im-trying-to-figure-out-how-to-get-the-length-of-an-array-object-from-another-c
