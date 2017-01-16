@@ -34,6 +34,8 @@ http://stackoverflow.com/questions/41679592/why-this-programs-executes-caffein
 
 http://stackoverflow.com/questions/41681886/quadratic-equation-solver-not-outputting-result
 
+http://stackoverflow.com/questions/41682941/what-happens-to-when-we-apply-some-computation-on-string-literals-in-java
+
 NOT YET
 =====
 
