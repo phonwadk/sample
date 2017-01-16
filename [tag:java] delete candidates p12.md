@@ -38,8 +38,6 @@ http://stackoverflow.com/questions/41683716/bad-operand-types-between-double-arr
 NOT YET
 =====
 
-http://stackoverflow.com/questions/41614773/tips-on-organizing-and-cleaning-up-code-and-generally-better-design
-
 http://stackoverflow.com/questions/41651264/why-doesnt-the-second-string-change-to-ab
 
 http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than-fdouble-x
