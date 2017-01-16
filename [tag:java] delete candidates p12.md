@@ -56,3 +56,5 @@ http://stackoverflow.com/questions/41666373/parsing-zoneddatetime-in-java-8
 http://stackoverflow.com/questions/41643467/why-doesnt-compound-assignment-operator-works-inside-ternary-operator-in-java
 
 http://stackoverflow.com/questions/41679837/my-answer-is-becoming-negative-in-some-numbers
+
+http://stackoverflow.com/questions/41682971/using-a-cast-for-loop-java
