@@ -65,3 +65,5 @@ http://stackoverflow.com/questions/41683270/eclipse-programe-terminated-without-
 http://stackoverflow.com/questions/41683251/why-can-i-access-private-variable-of-superclass-withing-derived-class-constructo
 
 http://stackoverflow.com/questions/41683928/duplication-objects-on-arraylist-insertion
+
+http://stackoverflow.com/questions/41684489/static-list-in-abstract-class
