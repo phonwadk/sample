@@ -28,8 +28,6 @@ http://stackoverflow.com/questions/41640342/println-concatenation
 
 http://stackoverflow.com/questions/41643989/why-does-s-substrings-length-s-length-successfully-run
 
-http://stackoverflow.com/questions/41656489/using-this-in-java-classes
-
 http://stackoverflow.com/questions/41669875/why-writing-static-doesnt-generate-nullpointerexception-in-array-of-objects
 NOT YET
 =====
