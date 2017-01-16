@@ -32,6 +32,8 @@ http://stackoverflow.com/questions/41669875/why-writing-static-doesnt-generate-n
 
 http://stackoverflow.com/questions/41679592/why-this-programs-executes-caffein
 
+http://stackoverflow.com/questions/41681886/quadratic-equation-solver-not-outputting-result
+
 NOT YET
 =====
 
