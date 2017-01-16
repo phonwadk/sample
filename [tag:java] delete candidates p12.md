@@ -36,6 +36,7 @@ http://stackoverflow.com/questions/41681886/quadratic-equation-solver-not-output
 
 http://stackoverflow.com/questions/41682941/what-happens-to-when-we-apply-some-computation-on-string-literals-in-java
 
+http://stackoverflow.com/questions/41683716/bad-operand-types-between-double-array-and-double
 NOT YET
 =====
 
