@@ -58,3 +58,5 @@ http://stackoverflow.com/questions/41643467/why-doesnt-compound-assignment-opera
 http://stackoverflow.com/questions/41679837/my-answer-is-becoming-negative-in-some-numbers
 
 http://stackoverflow.com/questions/41682971/using-a-cast-for-loop-java
+
+http://stackoverflow.com/questions/41683270/eclipse-programe-terminated-without-code-being-executed
