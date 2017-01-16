@@ -46,6 +46,7 @@ http://stackoverflow.com/questions/41656661/operator-cannot-be-applied-to-void-j
 
 http://stackoverflow.com/questions/41656489/using-this-in-java-classes
 
+http://stackoverflow.com/questions/41669875/why-writing-static-doesnt-generate-nullpointerexception-in-array-of-objects
 NOT YET
 =====
 
