@@ -49,3 +49,5 @@ http://stackoverflow.com/questions/41665205/why-is-the-character-methods-not-wor
 http://stackoverflow.com/questions/41668830/java-scanner-throw-inputmismatchexception-solved
 
 http://stackoverflow.com/questions/41666373/parsing-zoneddatetime-in-java-8
+
+http://stackoverflow.com/questions/41643467/why-doesnt-compound-assignment-operator-works-inside-ternary-operator-in-java
