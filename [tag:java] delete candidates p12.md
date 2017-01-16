@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/41668914/java-bitwise-operators
+
 http://stackoverflow.com/questions/41645051/java-method-of-class-type-what-is-this
 
 http://stackoverflow.com/questions/41615222/linked-list-delete-nth-element
