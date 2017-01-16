@@ -29,6 +29,9 @@ http://stackoverflow.com/questions/41640342/println-concatenation
 http://stackoverflow.com/questions/41643989/why-does-s-substrings-length-s-length-successfully-run
 
 http://stackoverflow.com/questions/41669875/why-writing-static-doesnt-generate-nullpointerexception-in-array-of-objects
+
+http://stackoverflow.com/questions/41679592/why-this-programs-executes-caffein
+
 NOT YET
 =====
 
