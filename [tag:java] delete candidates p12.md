@@ -39,8 +39,6 @@ http://stackoverflow.com/questions/41614773/tips-on-organizing-and-cleaning-up-c
 
 http://stackoverflow.com/questions/41651264/why-doesnt-the-second-string-change-to-ab
 
-http://stackoverflow.com/questions/41663665/when-i-execute-this-code-why-exception-occur
-
 http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than-fdouble-x
 
 http://stackoverflow.com/questions/41666068/nullpointerexception-on-calendar-settime
