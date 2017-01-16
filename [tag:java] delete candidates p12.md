@@ -1,7 +1,5 @@
 http://stackoverflow.com/questions/41668914/java-bitwise-operators
 
-http://stackoverflow.com/questions/41645051/java-method-of-class-type-what-is-this
-
 http://stackoverflow.com/questions/41669999/im-trying-to-figure-out-how-to-get-the-length-of-an-array-object-from-another-c
 
 http://stackoverflow.com/questions/41615222/linked-list-delete-nth-element
