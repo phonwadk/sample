@@ -47,3 +47,5 @@ http://stackoverflow.com/questions/41666068/nullpointerexception-on-calendar-set
 http://stackoverflow.com/questions/41665205/why-is-the-character-methods-not-working
 
 http://stackoverflow.com/questions/41668830/java-scanner-throw-inputmismatchexception-solved
+
+http://stackoverflow.com/questions/41666373/parsing-zoneddatetime-in-java-8
