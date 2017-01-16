@@ -18,8 +18,6 @@ http://stackoverflow.com/questions/41604005/scanner-input-results-out-of-bounds-
 
 http://stackoverflow.com/questions/41599618/autowire-the-attributes-in-a-class-or-the-constructor
 
-http://stackoverflow.com/questions/41596832/backslash-in-url
-
 http://stackoverflow.com/questions/41615463/why-the-java-dead-lock-example-doesnt-work
 
 http://stackoverflow.com/questions/41609808/initialized-by-definition-or-constructor-in-java
