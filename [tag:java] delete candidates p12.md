@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/41702661/error-identifier-expected-public-static-int
+
 http://stackoverflow.com/questions/41668914/java-bitwise-operators
 
 http://stackoverflow.com/questions/41595540/how-to-say-date-not-equal-to-in-java
