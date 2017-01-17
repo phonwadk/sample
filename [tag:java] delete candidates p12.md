@@ -1,18 +1,8 @@
 http://stackoverflow.com/questions/41702661/error-identifier-expected-public-static-int
 
-http://stackoverflow.com/questions/41668914/java-bitwise-operators
-
 http://stackoverflow.com/questions/41595540/how-to-say-date-not-equal-to-in-java
 
-http://stackoverflow.com/questions/41579391/what-are-the-advantages-of-accessing-private-members-inside-instance-methods-usi
-
-http://stackoverflow.com/questions/41604005/scanner-input-results-out-of-bounds-exception-arrays
-
-http://stackoverflow.com/questions/41615463/why-the-java-dead-lock-example-doesnt-work
-
 http://stackoverflow.com/questions/41609808/initialized-by-definition-or-constructor-in-java
-
-http://stackoverflow.com/questions/41669875/why-writing-static-doesnt-generate-nullpointerexception-in-array-of-objects
 
 http://stackoverflow.com/questions/41651264/why-doesnt-the-second-string-change-to-ab
 
