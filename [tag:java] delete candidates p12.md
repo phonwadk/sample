@@ -65,3 +65,5 @@ http://stackoverflow.com/questions/41683928/duplication-objects-on-arraylist-ins
 http://stackoverflow.com/questions/41684489/static-list-in-abstract-class
 
 http://stackoverflow.com/questions/41686097/how-to-get-arrays-elements-from-the-scnner
+
+http://stackoverflow.com/questions/41688145/why-is-this-outputting-the-value-as-nan
