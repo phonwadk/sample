@@ -12,12 +12,12 @@ http://stackoverflow.com/questions/41609808/initialized-by-definition-or-constru
 
 http://stackoverflow.com/questions/41669875/why-writing-static-doesnt-generate-nullpointerexception-in-array-of-objects
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41651264/why-doesnt-the-second-string-change-to-ab
 
 http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than-fdouble-x
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41666068/nullpointerexception-on-calendar-settime
 
