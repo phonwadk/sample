@@ -54,3 +54,5 @@ http://stackoverflow.com/questions/41688886/how-to-split-up-a-string-containing-
 http://stackoverflow.com/questions/41685858/how-bringing-script-media
 
 http://stackoverflow.com/questions/41686922/php-woocommerce-input-placeholder-issue
+
+http://stackoverflow.com/questions/41701206/why-generic-type-t-extends-comparable-interface-instead-of-implementing-it
