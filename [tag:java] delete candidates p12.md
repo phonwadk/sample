@@ -1,7 +1,5 @@
 http://stackoverflow.com/questions/41668914/java-bitwise-operators
 
-http://stackoverflow.com/questions/41669999/im-trying-to-figure-out-how-to-get-the-length-of-an-array-object-from-another-c
-
 http://stackoverflow.com/questions/41595540/how-to-say-date-not-equal-to-in-java
 
 http://stackoverflow.com/questions/41579391/what-are-the-advantages-of-accessing-private-members-inside-instance-methods-usi
