@@ -11,8 +11,6 @@ http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than
 NOT YET
 =====
 
-http://stackoverflow.com/questions/41666068/nullpointerexception-on-calendar-settime
-
 http://stackoverflow.com/questions/41665205/why-is-the-character-methods-not-working
 
 http://stackoverflow.com/questions/41668830/java-scanner-throw-inputmismatchexception-solved
