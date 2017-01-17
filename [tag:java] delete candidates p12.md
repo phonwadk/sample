@@ -1,30 +1,16 @@
 http://stackoverflow.com/questions/41668914/java-bitwise-operators
 
-http://stackoverflow.com/questions/41599962/calling-this-from-parameterized-constructor-better-way-java
-
 http://stackoverflow.com/questions/41669999/im-trying-to-figure-out-how-to-get-the-length-of-an-array-object-from-another-c
-
-http://stackoverflow.com/questions/41615222/linked-list-delete-nth-element
 
 http://stackoverflow.com/questions/41595540/how-to-say-date-not-equal-to-in-java
 
 http://stackoverflow.com/questions/41579391/what-are-the-advantages-of-accessing-private-members-inside-instance-methods-usi
-
-http://stackoverflow.com/questions/41600956/java-8-stream-listobject-to-mapobject-1-object-1
-
-http://stackoverflow.com/questions/41598820/find-number-of-days-between-two-localdate-java-8
 
 http://stackoverflow.com/questions/41604005/scanner-input-results-out-of-bounds-exception-arrays
 
 http://stackoverflow.com/questions/41615463/why-the-java-dead-lock-example-doesnt-work
 
 http://stackoverflow.com/questions/41609808/initialized-by-definition-or-constructor-in-java
-
-http://stackoverflow.com/questions/41637784/issue-reading-complex-java-8-lambda-with-functionalinterface
-
-http://stackoverflow.com/questions/41640342/println-concatenation
-
-http://stackoverflow.com/questions/41643989/why-does-s-substrings-length-s-length-successfully-run
 
 http://stackoverflow.com/questions/41669875/why-writing-static-doesnt-generate-nullpointerexception-in-array-of-objects
 
@@ -67,3 +53,4 @@ http://stackoverflow.com/questions/41688886/how-to-split-up-a-string-containing-
 
 http://stackoverflow.com/questions/41685858/how-bringing-script-media
 
+http://stackoverflow.com/questions/41686922/php-woocommerce-input-placeholder-issue
