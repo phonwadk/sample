@@ -60,3 +60,5 @@ http://stackoverflow.com/questions/41701206/why-generic-type-t-extends-comparabl
 http://stackoverflow.com/questions/41699892/filling-an-array-in-the-same-statement-as-its-initialization-using-a-loop
 
 http://stackoverflow.com/questions/41699567/missing-return-statement-error-even-with-return-statement-at-the-end-of-method
+
+http://stackoverflow.com/questions/41700338/multithreading-join-method
