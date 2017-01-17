@@ -62,3 +62,8 @@ http://stackoverflow.com/questions/41686097/how-to-get-arrays-elements-from-the-
 http://stackoverflow.com/questions/41688145/why-is-this-outputting-the-value-as-nan
 
 http://stackoverflow.com/questions/41689170/basic-about-object-programing
+
+http://stackoverflow.com/questions/41688886/how-to-split-up-a-string-containing-letters-and-numbers-in-java
+
+http://stackoverflow.com/questions/41685858/how-bringing-script-media
+
