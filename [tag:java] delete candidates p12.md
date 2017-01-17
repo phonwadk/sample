@@ -28,13 +28,6 @@ http://stackoverflow.com/questions/41643989/why-does-s-substrings-length-s-lengt
 
 http://stackoverflow.com/questions/41669875/why-writing-static-doesnt-generate-nullpointerexception-in-array-of-objects
 
-http://stackoverflow.com/questions/41679592/why-this-programs-executes-caffein
-
-http://stackoverflow.com/questions/41681886/quadratic-equation-solver-not-outputting-result
-
-http://stackoverflow.com/questions/41682941/what-happens-to-when-we-apply-some-computation-on-string-literals-in-java
-
-http://stackoverflow.com/questions/41683716/bad-operand-types-between-double-array-and-double
 NOT YET
 =====
 
