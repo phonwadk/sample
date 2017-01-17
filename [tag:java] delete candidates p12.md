@@ -62,3 +62,5 @@ http://stackoverflow.com/questions/41699892/filling-an-array-in-the-same-stateme
 http://stackoverflow.com/questions/41699567/missing-return-statement-error-even-with-return-statement-at-the-end-of-method
 
 http://stackoverflow.com/questions/41700338/multithreading-join-method
+
+http://stackoverflow.com/questions/41701933/interface-instantiate
