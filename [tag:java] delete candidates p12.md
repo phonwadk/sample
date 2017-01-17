@@ -60,3 +60,5 @@ http://stackoverflow.com/questions/41684489/static-list-in-abstract-class
 http://stackoverflow.com/questions/41686097/how-to-get-arrays-elements-from-the-scnner
 
 http://stackoverflow.com/questions/41688145/why-is-this-outputting-the-value-as-nan
+
+http://stackoverflow.com/questions/41689170/basic-about-object-programing
