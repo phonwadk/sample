@@ -64,3 +64,5 @@ http://stackoverflow.com/questions/41699567/missing-return-statement-error-even-
 http://stackoverflow.com/questions/41700338/multithreading-join-method
 
 http://stackoverflow.com/questions/41701933/interface-instantiate
+
+http://stackoverflow.com/questions/41700685/how-java-treat-method-declared-as-final-does-that-allow-to-inherit-those-final
