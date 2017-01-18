@@ -67,3 +67,5 @@ http://stackoverflow.com/questions/41703706/return-the-strings
 http://stackoverflow.com/questions/41710084/how-to-succintly-handle-calling-tostring-when-the-object-might-be-null
 
 http://stackoverflow.com/questions/41711369/java-string-touppercase-is-changing-special-characters
+
+http://stackoverflow.com/questions/41711709/how-to-take-an-arraylist-of-strings-and-split-it-up-between-letters-and-digits-i
