@@ -4,8 +4,6 @@ http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than
 
 http://stackoverflow.com/questions/41709566/max-capacity-of-an-array-of-arrays
 
-http://stackoverflow.com/questions/41665205/why-is-the-character-methods-not-working
-
 
 NOT YET
 =====
