@@ -2,15 +2,15 @@ http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than
 
 http://stackoverflow.com/questions/41709566/max-capacity-of-an-array-of-arrays
 
-
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41668830/java-scanner-throw-inputmismatchexception-solved
 
 http://stackoverflow.com/questions/41666373/parsing-zoneddatetime-in-java-8
 
 http://stackoverflow.com/questions/41643467/why-doesnt-compound-assignment-operator-works-inside-ternary-operator-in-java
+
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41679837/my-answer-is-becoming-negative-in-some-numbers
 
