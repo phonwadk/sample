@@ -59,3 +59,5 @@ http://stackoverflow.com/questions/41706168/list-mylst-new-arraylist-what-is-it-
 http://stackoverflow.com/questions/41706264/can-not-construct-instance-of-edu-kit-tm-cm-bamsg-person-employee-no-suitable-c
 
 http://stackoverflow.com/questions/41709768/should-all-methods-and-variables-in-a-singleton-class-be-static
+
+http://stackoverflow.com/questions/41709547/do-getters-in-java-require-a-this-keyword
