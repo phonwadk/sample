@@ -71,4 +71,6 @@ http://stackoverflow.com/questions/41711709/how-to-take-an-arraylist-of-strings-
 
 http://stackoverflow.com/questions/41712082/incompatible-types-void-cannot-be-converted-to-int
 
-http://stackoverflow.com/questions/41724294/method-undefined-for-type-in-java-referencing-arraylist?noredirect=1
+http://stackoverflow.com/questions/41724294/method-undefined-for-type-in-java-referencing-arraylist
+
+http://stackoverflow.com/questions/41722076/junit-assert-list-of-size-n
