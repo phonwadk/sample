@@ -10,6 +10,9 @@ http://stackoverflow.com/questions/41643467/why-doesnt-compound-assignment-opera
 
 http://stackoverflow.com/questions/41626206/cant-make-variables-public-or-static
 
+http://stackoverflow.com/questions/41710864/compile-error-incompatible-types-cannot-be-converted-to-java-lang-string
+
+http://stackoverflow.com/questions/41683270/eclipse-programe-terminated-without-code-being-executed
 
 NOT YET
 =====
@@ -17,8 +20,6 @@ NOT YET
 http://stackoverflow.com/questions/41679837/my-answer-is-becoming-negative-in-some-numbers
 
 http://stackoverflow.com/questions/41682971/using-a-cast-for-loop-java
-
-http://stackoverflow.com/questions/41683270/eclipse-programe-terminated-without-code-being-executed
 
 http://stackoverflow.com/questions/41683251/why-can-i-access-private-variable-of-superclass-withing-derived-class-constructo
 
@@ -58,9 +59,13 @@ http://stackoverflow.com/questions/41707601/is-this-singleton-in-spring-and-is-t
 
 http://stackoverflow.com/questions/41703706/return-the-strings
 
+http://stackoverflow.com/questions/41701149/comparing-with-two-comparators-unchecked-assignment-warning
+
 http://stackoverflow.com/questions/41710084/how-to-succintly-handle-calling-tostring-when-the-object-might-be-null
 
 http://stackoverflow.com/questions/41711369/java-string-touppercase-is-changing-special-characters
+
+http://stackoverflow.com/questions/41688775/learning-java-data-structures
 
 http://stackoverflow.com/questions/41711709/how-to-take-an-arraylist-of-strings-and-split-it-up-between-letters-and-digits-i
 
