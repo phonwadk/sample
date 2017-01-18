@@ -69,3 +69,5 @@ http://stackoverflow.com/questions/41710084/how-to-succintly-handle-calling-tost
 http://stackoverflow.com/questions/41711369/java-string-touppercase-is-changing-special-characters
 
 http://stackoverflow.com/questions/41711709/how-to-take-an-arraylist-of-strings-and-split-it-up-between-letters-and-digits-i
+
+http://stackoverflow.com/questions/41712082/incompatible-types-void-cannot-be-converted-to-int
