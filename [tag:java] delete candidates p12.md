@@ -70,3 +70,5 @@ http://stackoverflow.com/questions/41688775/learning-java-data-structures
 http://stackoverflow.com/questions/41711709/how-to-take-an-arraylist-of-strings-and-split-it-up-between-letters-and-digits-i
 
 http://stackoverflow.com/questions/41712082/incompatible-types-void-cannot-be-converted-to-int
+
+http://stackoverflow.com/questions/41724294/method-undefined-for-type-in-java-referencing-arraylist?noredirect=1
