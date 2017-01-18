@@ -61,3 +61,5 @@ http://stackoverflow.com/questions/41706264/can-not-construct-instance-of-edu-ki
 http://stackoverflow.com/questions/41709768/should-all-methods-and-variables-in-a-singleton-class-be-static
 
 http://stackoverflow.com/questions/41709547/do-getters-in-java-require-a-this-keyword
+
+http://stackoverflow.com/questions/41707601/is-this-singleton-in-spring-and-is-this-going-to-be-garbage-collected
