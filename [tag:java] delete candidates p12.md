@@ -52,3 +52,5 @@ http://stackoverflow.com/questions/41701933/interface-instantiate
 http://stackoverflow.com/questions/41700685/how-java-treat-method-declared-as-final-does-that-allow-to-inherit-those-final
 
 http://stackoverflow.com/questions/41706168/list-mylst-new-arraylist-what-is-it-why-it-compiles-and-how-different-f
+
+http://stackoverflow.com/questions/41706264/can-not-construct-instance-of-edu-kit-tm-cm-bamsg-person-employee-no-suitable-c
