@@ -8,6 +8,8 @@ http://stackoverflow.com/questions/41666373/parsing-zoneddatetime-in-java-8
 
 http://stackoverflow.com/questions/41643467/why-doesnt-compound-assignment-operator-works-inside-ternary-operator-in-java
 
+http://stackoverflow.com/questions/41626206/cant-make-variables-public-or-static
+
 
 NOT YET
 =====
@@ -24,8 +26,6 @@ http://stackoverflow.com/questions/41683928/duplication-objects-on-arraylist-ins
 
 http://stackoverflow.com/questions/41684489/static-list-in-abstract-class
 
-http://stackoverflow.com/questions/41686097/how-to-get-arrays-elements-from-the-scnner
-
 http://stackoverflow.com/questions/41688145/why-is-this-outputting-the-value-as-nan
 
 http://stackoverflow.com/questions/41689170/basic-about-object-programing
@@ -39,8 +39,6 @@ http://stackoverflow.com/questions/41686922/php-woocommerce-input-placeholder-is
 http://stackoverflow.com/questions/41701206/why-generic-type-t-extends-comparable-interface-instead-of-implementing-it
 
 http://stackoverflow.com/questions/41699892/filling-an-array-in-the-same-statement-as-its-initialization-using-a-loop
-
-http://stackoverflow.com/questions/41699567/missing-return-statement-error-even-with-return-statement-at-the-end-of-method
 
 http://stackoverflow.com/questions/41700338/multithreading-join-method
 
