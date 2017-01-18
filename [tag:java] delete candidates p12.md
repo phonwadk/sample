@@ -65,3 +65,5 @@ http://stackoverflow.com/questions/41707601/is-this-singleton-in-spring-and-is-t
 http://stackoverflow.com/questions/41703706/return-the-strings
 
 http://stackoverflow.com/questions/41710084/how-to-succintly-handle-calling-tostring-when-the-object-might-be-null
+
+http://stackoverflow.com/questions/41711369/java-string-touppercase-is-changing-special-characters
