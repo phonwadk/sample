@@ -54,3 +54,5 @@ http://stackoverflow.com/questions/41700685/how-java-treat-method-declared-as-fi
 http://stackoverflow.com/questions/41706168/list-mylst-new-arraylist-what-is-it-why-it-compiles-and-how-different-f
 
 http://stackoverflow.com/questions/41706264/can-not-construct-instance-of-edu-kit-tm-cm-bamsg-person-employee-no-suitable-c
+
+http://stackoverflow.com/questions/41709768/should-all-methods-and-variables-in-a-singleton-class-be-static
