@@ -18,6 +18,8 @@ http://stackoverflow.com/questions/41683270/eclipse-programe-terminated-without-
 
 http://stackoverflow.com/questions/41721868/different-approach-between-treemap-and-hashmap
 
+http://stackoverflow.com/questions/3583305/recommendations-on-books-for-multi-threaded-data-structures
+
 NOT YET
 =====
 
