@@ -65,3 +65,5 @@ http://stackoverflow.com/questions/41709547/do-getters-in-java-require-a-this-ke
 http://stackoverflow.com/questions/41707601/is-this-singleton-in-spring-and-is-this-going-to-be-garbage-collected
 
 http://stackoverflow.com/questions/41703706/return-the-strings
+
+http://stackoverflow.com/questions/41710084/how-to-succintly-handle-calling-tostring-when-the-object-might-be-null
