@@ -1,5 +1,3 @@
-http://stackoverflow.com/questions/41651264/why-doesnt-the-second-string-change-to-ab
-
 http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than-fdouble-x
 
 http://stackoverflow.com/questions/41709566/max-capacity-of-an-array-of-arrays
