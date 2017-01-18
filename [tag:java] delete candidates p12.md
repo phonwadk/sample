@@ -76,3 +76,5 @@ http://stackoverflow.com/questions/41724294/method-undefined-for-type-in-java-re
 http://stackoverflow.com/questions/41722076/junit-assert-list-of-size-n
 
 http://stackoverflow.com/questions/41723107/is-it-possible-to-show-popup-window-in-ios
+
+http://stackoverflow.com/questions/41724868/why-are-these-braces-allow-after-an-if-statement
