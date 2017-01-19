@@ -22,26 +22,24 @@ http://stackoverflow.com/questions/41721868/different-approach-between-treemap-a
 
 http://stackoverflow.com/questions/3583305/recommendations-on-books-for-multi-threaded-data-structures
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41679837/my-answer-is-becoming-negative-in-some-numbers
 
 http://stackoverflow.com/questions/41682971/using-a-cast-for-loop-java
 
 http://stackoverflow.com/questions/41683251/why-can-i-access-private-variable-of-superclass-withing-derived-class-constructo
 
-http://stackoverflow.com/questions/41683928/duplication-objects-on-arraylist-insertion
-
 http://stackoverflow.com/questions/41684489/static-list-in-abstract-class
+
+http://stackoverflow.com/questions/41685858/how-bringing-script-media
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41688145/why-is-this-outputting-the-value-as-nan
 
 http://stackoverflow.com/questions/41689170/basic-about-object-programing
 
 http://stackoverflow.com/questions/41688886/how-to-split-up-a-string-containing-letters-and-numbers-in-java
-
-http://stackoverflow.com/questions/41685858/how-bringing-script-media
 
 http://stackoverflow.com/questions/41686922/php-woocommerce-input-placeholder-issue
 
