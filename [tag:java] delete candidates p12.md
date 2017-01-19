@@ -38,6 +38,7 @@ http://stackoverflow.com/questions/41687351/reached-end-of-file-while-parsing-bu
 
 http://stackoverflow.com/questions/34470244/gson-deserialization-date-stringnot-date-formatting
 
+https://stackoverflow.com/questions/41732488/numberformatexception-in-java-when-reading-from-a-file
 
 
 NOT YET
