@@ -110,3 +110,5 @@ http://stackoverflow.com/questions/41716341/classcastexception-java-lang-object-
 http://stackoverflow.com/questions/41727299/method-with-extends-collectionsstring-is-not-applicable-for-setstring
 
 http://stackoverflow.com/questions/41732392/is-volatile-needed-for-a-member-variable-of-a-singleton-created-this-way
+
+http://stackoverflow.com/questions/41732837/two-type-dates-variables-in-one
