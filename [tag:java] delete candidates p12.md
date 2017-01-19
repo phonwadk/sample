@@ -21,6 +21,8 @@ http://stackoverflow.com/questions/41701206/why-generic-type-t-extends-comparabl
 NOT YET
 =====
 
+http://stackoverflow.com/questions/41746777/java-private-variables-acces-via-dot
+
 http://stackoverflow.com/questions/41699892/filling-an-array-in-the-same-statement-as-its-initialization-using-a-loop
 
 http://stackoverflow.com/questions/41700338/multithreading-join-method
