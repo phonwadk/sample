@@ -102,3 +102,5 @@ http://stackoverflow.com/questions/41725744/java-choose-random-string-from-multi
 http://stackoverflow.com/questions/41706140/why-am-i-getting-an-error-in-java-when-trying-to-call-the-methods-in-the-movetwo
 
 http://stackoverflow.com/questions/41597214/having-trouble-with-some-arraylists
+
+http://stackoverflow.com/questions/41701355/get-last-row-of-a-text-in-java
