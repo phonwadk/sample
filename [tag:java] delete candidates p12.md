@@ -34,6 +34,8 @@ http://stackoverflow.com/questions/41704969/make-a-function-non-virtual-in-java
 
 http://stackoverflow.com/questions/41687351/reached-end-of-file-while-parsing-but-no
 
+http://stackoverflow.com/questions/34470244/gson-deserialization-date-stringnot-date-formatting
+
 NOT YET
 =====
 
