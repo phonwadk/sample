@@ -1,5 +1,7 @@
 library recommendation, please cv http://stackoverflow.com/questions/41726286/map-alternative-for-primitive-values
 
+http://stackoverflow.com/questions/41698052/character-in-string-issues
+
 http://stackoverflow.com/questions/41724756/java-technologies-or-framework-used-to-develop-blog-website
 
 http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than-fdouble-x
@@ -35,6 +37,8 @@ http://stackoverflow.com/questions/41704969/make-a-function-non-virtual-in-java
 http://stackoverflow.com/questions/41687351/reached-end-of-file-while-parsing-but-no
 
 http://stackoverflow.com/questions/34470244/gson-deserialization-date-stringnot-date-formatting
+
+
 
 NOT YET
 =====
