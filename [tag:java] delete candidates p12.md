@@ -36,6 +36,8 @@ http://stackoverflow.com/questions/41724400/the-output-for-this-program-is-1-whe
 
 http://stackoverflow.com/questions/41704969/make-a-function-non-virtual-in-java
 
+http://stackoverflow.com/questions/41687351/reached-end-of-file-while-parsing-but-no
+
 NOT YET
 =====
 
