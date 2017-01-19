@@ -102,3 +102,5 @@ http://stackoverflow.com/questions/41746211/return-type-incompatible-when-puttin
 http://stackoverflow.com/questions/41746059/how-to-check-if-an-string-array-is-empty-or-not-i-found-many-answers-on-this-on
 
 http://stackoverflow.com/questions/41746303/how-to-check-if-a-bytes-bits-make-a-palindrome-in-java
+
+http://stackoverflow.com/questions/41746567/java-confusing-polymorphism
