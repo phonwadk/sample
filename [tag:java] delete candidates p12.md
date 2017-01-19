@@ -100,3 +100,5 @@ http://stackoverflow.com/questions/41726604/narrowing-in-range-values-for-litera
 http://stackoverflow.com/questions/41725744/java-choose-random-string-from-multiple-arrays-which-have-the-same-adress
 
 http://stackoverflow.com/questions/41706140/why-am-i-getting-an-error-in-java-when-trying-to-call-the-methods-in-the-movetwo
+
+http://stackoverflow.com/questions/41597214/having-trouble-with-some-arraylists
