@@ -98,3 +98,5 @@ http://stackoverflow.com/questions/41747841/do-the-following-lines-of-code-both-
 http://stackoverflow.com/questions/41745121/how-to-fix-nosuchelementexception-for-hashmap
 
 http://stackoverflow.com/questions/41746211/return-type-incompatible-when-putting-a-subclass-as-a-generic-type-in-a-parentcl
+
+http://stackoverflow.com/questions/41746059/how-to-check-if-an-string-array-is-empty-or-not-i-found-many-answers-on-this-on
