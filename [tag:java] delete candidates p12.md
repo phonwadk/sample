@@ -12,10 +12,6 @@ http://stackoverflow.com/questions/41666373/parsing-zoneddatetime-in-java-8
 
 http://stackoverflow.com/questions/41643467/why-doesnt-compound-assignment-operator-works-inside-ternary-operator-in-java
 
-http://stackoverflow.com/questions/41626206/cant-make-variables-public-or-static
-
-http://stackoverflow.com/questions/41710864/compile-error-incompatible-types-cannot-be-converted-to-java-lang-string
-
 http://stackoverflow.com/questions/41721868/different-approach-between-treemap-and-hashmap
 
 http://stackoverflow.com/questions/3583305/recommendations-on-books-for-multi-threaded-data-structures
@@ -25,12 +21,6 @@ http://stackoverflow.com/questions/41679837/my-answer-is-becoming-negative-in-so
 http://stackoverflow.com/questions/41682971/using-a-cast-for-loop-java
 
 http://stackoverflow.com/questions/41683251/why-can-i-access-private-variable-of-superclass-withing-derived-class-constructo
-
-http://stackoverflow.com/questions/41684489/static-list-in-abstract-class
-
-http://stackoverflow.com/questions/41685858/how-bringing-script-media
-
-http://stackoverflow.com/questions/41724400/the-output-for-this-program-is-1-when-i-executed-this-in-java-but-i-am-not-getti
 
 http://stackoverflow.com/questions/41704969/make-a-function-non-virtual-in-java
 
