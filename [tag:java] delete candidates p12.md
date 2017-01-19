@@ -86,3 +86,5 @@ http://stackoverflow.com/questions/41723107/is-it-possible-to-show-popup-window-
 http://stackoverflow.com/questions/41722027/calculating-maximum-depth-of-tree
 
 http://stackoverflow.com/questions/41724868/why-are-these-braces-allowed-after-an-if-statement
+
+http://stackoverflow.com/questions/41727915/autowired-is-not-working-in-unit-test
