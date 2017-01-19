@@ -4,8 +4,6 @@ http://stackoverflow.com/questions/41724756/java-technologies-or-framework-used-
 
 http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than-fdouble-x
 
-http://stackoverflow.com/questions/41709566/max-capacity-of-an-array-of-arrays
-
 http://stackoverflow.com/questions/41668830/java-scanner-throw-inputmismatchexception-solved
 
 http://stackoverflow.com/questions/41666373/parsing-zoneddatetime-in-java-8
@@ -15,8 +13,6 @@ http://stackoverflow.com/questions/41643467/why-doesnt-compound-assignment-opera
 http://stackoverflow.com/questions/41626206/cant-make-variables-public-or-static
 
 http://stackoverflow.com/questions/41710864/compile-error-incompatible-types-cannot-be-converted-to-java-lang-string
-
-http://stackoverflow.com/questions/41683270/eclipse-programe-terminated-without-code-being-executed
 
 http://stackoverflow.com/questions/41721868/different-approach-between-treemap-and-hashmap
 
