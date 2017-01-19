@@ -106,3 +106,5 @@ http://stackoverflow.com/questions/41706140/why-am-i-getting-an-error-in-java-wh
 http://stackoverflow.com/questions/41597214/having-trouble-with-some-arraylists
 
 http://stackoverflow.com/questions/41701355/get-last-row-of-a-text-in-java
+
+http://stackoverflow.com/questions/41731817/sort-set-of-objects-based-on-a-field
