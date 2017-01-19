@@ -42,6 +42,7 @@ https://stackoverflow.com/questions/41732488/numberformatexception-in-java-when-
 
 https://stackoverflow.com/questions/41669049/nullpointerexception-on-switch-statement-in-java
 
+http://stackoverflow.com/questions/41712049/is-it-possible-to-suppress-warnings-on-package-level-in-java-8
 
 NOT YET
 =====
