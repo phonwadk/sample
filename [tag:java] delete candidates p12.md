@@ -32,6 +32,8 @@ http://stackoverflow.com/questions/41684489/static-list-in-abstract-class
 
 http://stackoverflow.com/questions/41685858/how-bringing-script-media
 
+http://stackoverflow.com/questions/41724400/the-output-for-this-program-is-1-when-i-executed-this-in-java-but-i-am-not-getti
+
 NOT YET
 =====
 
