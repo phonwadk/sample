@@ -96,3 +96,5 @@ http://stackoverflow.com/questions/41726286/map-alternative-for-primitive-values
 http://stackoverflow.com/questions/41747841/do-the-following-lines-of-code-both-create-the-same-type-of-array-in-java
 
 http://stackoverflow.com/questions/41745121/how-to-fix-nosuchelementexception-for-hashmap
+
+http://stackoverflow.com/questions/41746211/return-type-incompatible-when-putting-a-subclass-as-a-generic-type-in-a-parentcl
