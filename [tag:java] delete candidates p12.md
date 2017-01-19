@@ -6,19 +6,11 @@ http://stackoverflow.com/questions/41724756/java-technologies-or-framework-used-
 
 http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than-fdouble-x
 
-http://stackoverflow.com/questions/41668830/java-scanner-throw-inputmismatchexception-solved
-
-http://stackoverflow.com/questions/41666373/parsing-zoneddatetime-in-java-8
-
 http://stackoverflow.com/questions/41643467/why-doesnt-compound-assignment-operator-works-inside-ternary-operator-in-java
 
 http://stackoverflow.com/questions/41721868/different-approach-between-treemap-and-hashmap
 
 http://stackoverflow.com/questions/3583305/recommendations-on-books-for-multi-threaded-data-structures
-
-http://stackoverflow.com/questions/41679837/my-answer-is-becoming-negative-in-some-numbers
-
-http://stackoverflow.com/questions/41682971/using-a-cast-for-loop-java
 
 http://stackoverflow.com/questions/41683251/why-can-i-access-private-variable-of-superclass-withing-derived-class-constructo
 
