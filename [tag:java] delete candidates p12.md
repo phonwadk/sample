@@ -112,3 +112,5 @@ http://stackoverflow.com/questions/41701355/get-last-row-of-a-text-in-java
 http://stackoverflow.com/questions/41731817/sort-set-of-objects-based-on-a-field
 
 http://stackoverflow.com/questions/41716341/classcastexception-java-lang-object-cannot-be-cast-to-float
+
+http://stackoverflow.com/questions/41727299/method-with-extends-collectionsstring-is-not-applicable-for-setstring
