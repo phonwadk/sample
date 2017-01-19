@@ -1,4 +1,3 @@
-library recommendation, please cv http://stackoverflow.com/questions/41726286/map-alternative-for-primitive-values
 
 http://stackoverflow.com/questions/41724756/java-technologies-or-framework-used-to-develop-blog-website
 
@@ -100,3 +99,5 @@ http://stackoverflow.com/questions/41732392/is-volatile-needed-for-a-member-vari
 http://stackoverflow.com/questions/41732837/two-type-dates-variables-in-one
 
 http://stackoverflow.com/questions/41733353/assign-a-function-variable-to-a-method-reference-failed-in-java-8
+
+http://stackoverflow.com/questions/41726286/map-alternative-for-primitive-values
