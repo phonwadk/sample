@@ -92,3 +92,5 @@ http://stackoverflow.com/questions/41732837/two-type-dates-variables-in-one
 http://stackoverflow.com/questions/41733353/assign-a-function-variable-to-a-method-reference-failed-in-java-8
 
 http://stackoverflow.com/questions/41726286/map-alternative-for-primitive-values
+
+http://stackoverflow.com/questions/41747841/do-the-following-lines-of-code-both-create-the-same-type-of-array-in-java
