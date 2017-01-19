@@ -1,3 +1,5 @@
+library recommendation, please cv http://stackoverflow.com/questions/41726286/map-alternative-for-primitive-values
+
 http://stackoverflow.com/questions/41724756/java-technologies-or-framework-used-to-develop-blog-website
 
 http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than-fdouble-x
