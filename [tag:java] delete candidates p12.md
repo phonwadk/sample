@@ -4,8 +4,6 @@ http://stackoverflow.com/questions/41721868/different-approach-between-treemap-a
 
 http://stackoverflow.com/questions/41683251/why-can-i-access-private-variable-of-superclass-withing-derived-class-constructo
 
-http://stackoverflow.com/questions/41704969/make-a-function-non-virtual-in-java
-
 http://stackoverflow.com/questions/41687351/reached-end-of-file-while-parsing-but-no
 
 http://stackoverflow.com/questions/41712049/is-it-possible-to-suppress-warnings-on-package-level-in-java-8
@@ -56,8 +54,6 @@ http://stackoverflow.com/questions/41688775/learning-java-data-structures
 http://stackoverflow.com/questions/41711709/how-to-take-an-arraylist-of-strings-and-split-it-up-between-letters-and-digits-i
 
 http://stackoverflow.com/questions/41712082/incompatible-types-void-cannot-be-converted-to-int
-
-http://stackoverflow.com/questions/41724294/method-undefined-for-type-in-java-referencing-arraylist
 
 http://stackoverflow.com/questions/41722076/junit-assert-list-of-size-n
 
