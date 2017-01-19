@@ -1,11 +1,6 @@
-
-http://stackoverflow.com/questions/41724756/java-technologies-or-framework-used-to-develop-blog-website
-
 http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than-fdouble-x
 
 http://stackoverflow.com/questions/41721868/different-approach-between-treemap-and-hashmap
-
-http://stackoverflow.com/questions/3583305/recommendations-on-books-for-multi-threaded-data-structures
 
 http://stackoverflow.com/questions/41683251/why-can-i-access-private-variable-of-superclass-withing-derived-class-constructo
 
