@@ -100,3 +100,5 @@ http://stackoverflow.com/questions/41745121/how-to-fix-nosuchelementexception-fo
 http://stackoverflow.com/questions/41746211/return-type-incompatible-when-putting-a-subclass-as-a-generic-type-in-a-parentcl
 
 http://stackoverflow.com/questions/41746059/how-to-check-if-an-string-array-is-empty-or-not-i-found-many-answers-on-this-on
+
+http://stackoverflow.com/questions/41746303/how-to-check-if-a-bytes-bits-make-a-palindrome-in-java
