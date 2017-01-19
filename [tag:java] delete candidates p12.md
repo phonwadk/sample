@@ -19,11 +19,6 @@ https://stackoverflow.com/questions/41669049/nullpointerexception-on-switch-stat
 
 http://stackoverflow.com/questions/41712049/is-it-possible-to-suppress-warnings-on-package-level-in-java-8
 
-NOT YET
-=====
-
-http://stackoverflow.com/questions/41688145/why-is-this-outputting-the-value-as-nan
-
 http://stackoverflow.com/questions/41689170/basic-about-object-programing
 
 http://stackoverflow.com/questions/41688886/how-to-split-up-a-string-containing-letters-and-numbers-in-java
@@ -31,6 +26,9 @@ http://stackoverflow.com/questions/41688886/how-to-split-up-a-string-containing-
 http://stackoverflow.com/questions/41686922/php-woocommerce-input-placeholder-issue
 
 http://stackoverflow.com/questions/41701206/why-generic-type-t-extends-comparable-interface-instead-of-implementing-it
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41699892/filling-an-array-in-the-same-statement-as-its-initialization-using-a-loop
 
