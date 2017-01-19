@@ -18,6 +18,8 @@ http://stackoverflow.com/questions/41686922/php-woocommerce-input-placeholder-is
 
 http://stackoverflow.com/questions/41701206/why-generic-type-t-extends-comparable-interface-instead-of-implementing-it
 
+http://stackoverflow.com/questions/41746777/java-private-variables-access-via-dot-seperator
+
 NOT YET
 =====
 
@@ -100,6 +102,10 @@ http://stackoverflow.com/questions/41745121/how-to-fix-nosuchelementexception-fo
 http://stackoverflow.com/questions/41746211/return-type-incompatible-when-putting-a-subclass-as-a-generic-type-in-a-parentcl
 
 http://stackoverflow.com/questions/41746059/how-to-check-if-an-string-array-is-empty-or-not-i-found-many-answers-on-this-on
+
+http://stackoverflow.com/questions/41751797/setting-a-string-as-index-0-in-a-arraylist-without-removing-the-current-index-0
+
+http://stackoverflow.com/questions/41749538/declaration-or-reassignment
 
 http://stackoverflow.com/questions/41746303/how-to-check-if-a-bytes-bits-make-a-palindrome-in-java
 
