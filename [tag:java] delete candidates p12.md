@@ -112,3 +112,5 @@ http://stackoverflow.com/questions/41727299/method-with-extends-collectionsstrin
 http://stackoverflow.com/questions/41732392/is-volatile-needed-for-a-member-variable-of-a-singleton-created-this-way
 
 http://stackoverflow.com/questions/41732837/two-type-dates-variables-in-one
+
+http://stackoverflow.com/questions/41733353/assign-a-function-variable-to-a-method-reference-failed-in-java-8
