@@ -90,3 +90,7 @@ http://stackoverflow.com/questions/41724868/why-are-these-braces-allowed-after-a
 http://stackoverflow.com/questions/41727915/autowired-is-not-working-in-unit-test
 
 http://stackoverflow.com/questions/41725945/spring-bean-definition-inheritence-using-annotation
+
+http://stackoverflow.com/questions/41726604/narrowing-in-range-values-for-literals-and-method-parameters
+
+http://stackoverflow.com/questions/41725744/java-choose-random-string-from-multiple-arrays-which-have-the-same-adress
