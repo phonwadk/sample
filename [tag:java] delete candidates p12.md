@@ -18,9 +18,6 @@ http://stackoverflow.com/questions/41701206/why-generic-type-t-extends-comparabl
 
 http://stackoverflow.com/questions/41746777/java-private-variables-access-via-dot-seperator
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41746777/java-private-variables-acces-via-dot
 
 http://stackoverflow.com/questions/41699892/filling-an-array-in-the-same-statement-as-its-initialization-using-a-loop
@@ -35,11 +32,14 @@ http://stackoverflow.com/questions/41706168/list-mylst-new-arraylist-what-is-it-
 
 http://stackoverflow.com/questions/41706264/can-not-construct-instance-of-edu-kit-tm-cm-bamsg-person-employee-no-suitable-c
 
+http://stackoverflow.com/questions/41707601/is-this-singleton-in-spring-and-is-this-going-to-be-garbage-collected
+
+NOT YET
+=====
+
 http://stackoverflow.com/questions/41709768/should-all-methods-and-variables-in-a-singleton-class-be-static
 
 http://stackoverflow.com/questions/41709547/do-getters-in-java-require-a-this-keyword
-
-http://stackoverflow.com/questions/41707601/is-this-singleton-in-spring-and-is-this-going-to-be-garbage-collected
 
 http://stackoverflow.com/questions/41703706/return-the-strings
 
