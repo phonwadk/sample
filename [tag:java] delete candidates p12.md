@@ -1,14 +1,10 @@
 http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than-fdouble-x
 
-http://stackoverflow.com/questions/41721868/different-approach-between-treemap-and-hashmap
-
 http://stackoverflow.com/questions/41683251/why-can-i-access-private-variable-of-superclass-withing-derived-class-constructo
 
 http://stackoverflow.com/questions/41687351/reached-end-of-file-while-parsing-but-no
 
 http://stackoverflow.com/questions/41712049/is-it-possible-to-suppress-warnings-on-package-level-in-java-8
-
-http://stackoverflow.com/questions/41689170/basic-about-object-programing
 
 http://stackoverflow.com/questions/41688886/how-to-split-up-a-string-containing-letters-and-numbers-in-java
 
