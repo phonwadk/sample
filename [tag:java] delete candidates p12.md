@@ -117,3 +117,5 @@ http://stackoverflow.com/questions/41754818/add-method-does-not-work-well-for-ov
 http://stackoverflow.com/questions/41755422/is-there-anything-wrong-with-this-code
 
 http://stackoverflow.com/questions/41755939/java-exception-errors
+
+http://stackoverflow.com/questions/41755970/nosuchelementexception-exception-at-scanner-nextint?noredirect=1
