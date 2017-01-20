@@ -46,6 +46,8 @@ http://stackoverflow.com/questions/41747841/do-the-following-lines-of-code-both-
 
 http://stackoverflow.com/questions/41734032/android-gives-html-code-when-printing-as-a-string
 
+http://stackoverflow.com/questions/41754438/switch-statement-input-name-of-month-to-get-the-season
+
 NOT YET
 =====
 
