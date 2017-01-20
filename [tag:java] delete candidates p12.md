@@ -32,22 +32,24 @@ http://stackoverflow.com/questions/41751616/exception-java-io-ioexception-is-nev
 
 http://stackoverflow.com/questions/41751115/how-are-instances-of-object-printed
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41709768/should-all-methods-and-variables-in-a-singleton-class-be-static
 
 http://stackoverflow.com/questions/41709547/do-getters-in-java-require-a-this-keyword
 
 http://stackoverflow.com/questions/41703706/return-the-strings
 
-http://stackoverflow.com/questions/41701149/comparing-with-two-comparators-unchecked-assignment-warning
+http://stackoverflow.com/questions/41688775/learning-java-data-structures
 
-http://stackoverflow.com/questions/41710084/how-to-succintly-handle-calling-tostring-when-the-object-might-be-null
+http://stackoverflow.com/questions/41725744/java-choose-random-string-from-multiple-arrays-which-have-the-same-adress
+
+http://stackoverflow.com/questions/41747841/do-the-following-lines-of-code-both-create-the-same-type-of-array-in-java
+
+http://stackoverflow.com/questions/41734032/android-gives-html-code-when-printing-as-a-string
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41711369/java-string-touppercase-is-changing-special-characters
-
-http://stackoverflow.com/questions/41688775/learning-java-data-structures
 
 http://stackoverflow.com/questions/41711709/how-to-take-an-arraylist-of-strings-and-split-it-up-between-letters-and-digits-i
 
@@ -67,8 +69,6 @@ http://stackoverflow.com/questions/41725945/spring-bean-definition-inheritence-u
 
 http://stackoverflow.com/questions/41726604/narrowing-in-range-values-for-literals-and-method-parameters
 
-http://stackoverflow.com/questions/41725744/java-choose-random-string-from-multiple-arrays-which-have-the-same-adress
-
 http://stackoverflow.com/questions/41706140/why-am-i-getting-an-error-in-java-when-trying-to-call-the-methods-in-the-movetwo
 
 http://stackoverflow.com/questions/41597214/having-trouble-with-some-arraylists
@@ -83,11 +83,10 @@ http://stackoverflow.com/questions/41727299/method-with-extends-collectionsstrin
 
 http://stackoverflow.com/questions/41732392/is-volatile-needed-for-a-member-variable-of-a-singleton-created-this-way
 
-http://stackoverflow.com/questions/41733353/assign-a-function-variable-to-a-method-reference-failed-in-java-8
+http://stackoverflow.com/questions/41733353/assign-a-function-variable-to-a-method-reference-failed-in-java-
 
 http://stackoverflow.com/questions/41726286/map-alternative-for-primitive-values
 
-http://stackoverflow.com/questions/41747841/do-the-following-lines-of-code-both-create-the-same-type-of-array-in-java
 
 http://stackoverflow.com/questions/41745121/how-to-fix-nosuchelementexception-for-hashmap
 
@@ -104,8 +103,6 @@ http://stackoverflow.com/questions/41746303/how-to-check-if-a-bytes-bits-make-a-
 http://stackoverflow.com/questions/41746567/java-confusing-polymorphism
 
 http://stackoverflow.com/questions/41748941/accessing-java-method-details-from-another-class
-
-http://stackoverflow.com/questions/41734032/android-gives-html-code-when-printing-as-a-string
 
 http://stackoverflow.com/questions/41733487/java-magic-square-program-error
 
