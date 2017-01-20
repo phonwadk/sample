@@ -14,8 +14,6 @@ http://stackoverflow.com/questions/41746777/java-private-variables-acces-via-dot
 
 http://stackoverflow.com/questions/41701933/interface-instantiate
 
-http://stackoverflow.com/questions/41703706/return-the-strings
-
 http://stackoverflow.com/questions/41747841/do-the-following-lines-of-code-both-create-the-same-type-of-array-in-java
 
 http://stackoverflow.com/questions/41734032/android-gives-html-code-when-printing-as-a-string
