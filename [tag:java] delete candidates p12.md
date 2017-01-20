@@ -119,3 +119,4 @@ http://stackoverflow.com/questions/41733487/java-magic-square-program-error
 
 http://stackoverflow.com/questions/41749862/math-abs-unknown-symbol-java
 
+http://stackoverflow.com/questions/41753643/why-java-integer-min-value-divided-by-2-not-overflow-but-divided-by-1-cause-o
