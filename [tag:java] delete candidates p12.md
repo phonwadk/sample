@@ -132,3 +132,5 @@ http://stackoverflow.com/questions/41764326/whats-the-square-distance-of-a-point
 http://stackoverflow.com/questions/41767362/i-am-using-static-method-in-java-but-i-am-not-getting-the-proper-output-what-a
 
 http://stackoverflow.com/questions/41767135/control-variable-for-a-lambda-based-iteration
+
+http://stackoverflow.com/questions/41764561/printing-method-barcelona-goals-must-print-how-many-goals-players-shot-but-i
