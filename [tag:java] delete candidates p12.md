@@ -120,4 +120,6 @@ http://stackoverflow.com/questions/41755422/is-there-anything-wrong-with-this-co
 
 http://stackoverflow.com/questions/41755939/java-exception-errors
 
-http://stackoverflow.com/questions/41755970/nosuchelementexception-exception-at-scanner-nextint?noredirect=1
+http://stackoverflow.com/questions/41755970/nosuchelementexception-exception-at-scanner-nextint
+
+http://stackoverflow.com/questions/41763855/what-sorting-algorithm-does-java-8-use-and-what-is-its-space-complexity
