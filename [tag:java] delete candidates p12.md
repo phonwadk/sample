@@ -10,43 +10,29 @@ http://stackoverflow.com/questions/41712049/is-it-possible-to-suppress-warnings-
 
 http://stackoverflow.com/questions/41688886/how-to-split-up-a-string-containing-letters-and-numbers-in-java
 
-http://stackoverflow.com/questions/41686922/php-woocommerce-input-placeholder-issue
-
-http://stackoverflow.com/questions/41701206/why-generic-type-t-extends-comparable-interface-instead-of-implementing-it
-
 http://stackoverflow.com/questions/41746777/java-private-variables-access-via-dot-seperator
 
 http://stackoverflow.com/questions/41746777/java-private-variables-acces-via-dot
 
 http://stackoverflow.com/questions/41699892/filling-an-array-in-the-same-statement-as-its-initialization-using-a-loop
 
-http://stackoverflow.com/questions/41700338/multithreading-join-method
-
 http://stackoverflow.com/questions/41701933/interface-instantiate
-
-http://stackoverflow.com/questions/41700685/how-java-treat-method-declared-as-final-does-that-allow-to-inherit-those-final
-
-http://stackoverflow.com/questions/41706168/list-mylst-new-arraylist-what-is-it-why-it-compiles-and-how-different-f
 
 http://stackoverflow.com/questions/41753742/wait-servlet-when-value-is-not-ready
 
 http://stackoverflow.com/questions/41751616/exception-java-io-ioexception-is-never-thrown-in-body-of-corresponding-try-state
 
-http://stackoverflow.com/questions/41751115/how-are-instances-of-object-printed
-
-http://stackoverflow.com/questions/41709768/should-all-methods-and-variables-in-a-singleton-class-be-static
-
-http://stackoverflow.com/questions/41709547/do-getters-in-java-require-a-this-keyword
-
 http://stackoverflow.com/questions/41703706/return-the-strings
-
-http://stackoverflow.com/questions/41688775/learning-java-data-structures
 
 http://stackoverflow.com/questions/41747841/do-the-following-lines-of-code-both-create-the-same-type-of-array-in-java
 
 http://stackoverflow.com/questions/41734032/android-gives-html-code-when-printing-as-a-string
 
+http://stackoverflow.com/questions/41764224/please-anyone-help-me-to-resolve-this-error
+
 http://stackoverflow.com/questions/41754438/switch-statement-input-name-of-month-to-get-the-season
+
+http://stackoverflow.com/questions/41764393/joining-html-front-with-java-backend
 
 NOT YET
 =====
@@ -125,3 +111,7 @@ http://stackoverflow.com/questions/41755939/java-exception-errors
 http://stackoverflow.com/questions/41755970/nosuchelementexception-exception-at-scanner-nextint
 
 http://stackoverflow.com/questions/41763855/what-sorting-algorithm-does-java-8-use-and-what-is-its-space-complexity
+
+http://stackoverflow.com/questions/41763563/java-changing-attributes-of-objects-in-an-array
+
+http://stackoverflow.com/questions/41764326/whats-the-square-distance-of-a-point-to-a-rectangle
