@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/41765788/setting-superclass-instance-variable
+
 http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than-fdouble-x
 
 http://stackoverflow.com/questions/41683251/why-can-i-access-private-variable-of-superclass-withing-derived-class-constructo
