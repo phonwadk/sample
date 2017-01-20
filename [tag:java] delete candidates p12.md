@@ -36,6 +36,8 @@ http://stackoverflow.com/questions/41707601/is-this-singleton-in-spring-and-is-t
 
 http://stackoverflow.com/questions/41753742/wait-servlet-when-value-is-not-ready
 
+http://stackoverflow.com/questions/41732837/two-type-dates-variables-in-one
+
 NOT YET
 =====
 
@@ -87,8 +89,6 @@ http://stackoverflow.com/questions/41727299/method-with-extends-collectionsstrin
 
 http://stackoverflow.com/questions/41732392/is-volatile-needed-for-a-member-variable-of-a-singleton-created-this-way
 
-http://stackoverflow.com/questions/41732837/two-type-dates-variables-in-one
-
 http://stackoverflow.com/questions/41733353/assign-a-function-variable-to-a-method-reference-failed-in-java-8
 
 http://stackoverflow.com/questions/41726286/map-alternative-for-primitive-values
@@ -112,3 +112,8 @@ http://stackoverflow.com/questions/41746567/java-confusing-polymorphism
 http://stackoverflow.com/questions/41748941/accessing-java-method-details-from-another-class
 
 http://stackoverflow.com/questions/41734032/android-gives-html-code-when-printing-as-a-string
+
+http://stackoverflow.com/questions/41733487/java-magic-square-program-error
+
+http://stackoverflow.com/questions/41749862/math-abs-unknown-symbol-java
+
