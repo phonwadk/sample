@@ -48,6 +48,8 @@ http://stackoverflow.com/questions/41764158/upcasting-error-java
 
 http://stackoverflow.com/questions/41765917/probelm-in-parsing-json-in-java
 
+http://stackoverflow.com/questions/41767457/autowired-null-pointer-exception-spring-boot-appllication
+
 NOT YET
 =====
 
