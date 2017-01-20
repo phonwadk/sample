@@ -40,6 +40,14 @@ http://stackoverflow.com/questions/41765716/array-and-functions-issues
 
 http://stackoverflow.com/questions/41763022/why-is-there-an-error-when-declaring-an-variable-inside-a-statement-in-java
 
+http://stackoverflow.com/questions/41763146/string-index-out-of-range-with-substring-in-java
+
+http://stackoverflow.com/questions/41765917/probelm-in-parsing-json-in-java
+
+http://stackoverflow.com/questions/41764158/upcasting-error-java
+
+http://stackoverflow.com/questions/41765917/probelm-in-parsing-json-in-java
+
 NOT YET
 =====
 
@@ -122,3 +130,5 @@ http://stackoverflow.com/questions/41763563/java-changing-attributes-of-objects-
 http://stackoverflow.com/questions/41764326/whats-the-square-distance-of-a-point-to-a-rectangle
 
 http://stackoverflow.com/questions/41767362/i-am-using-static-method-in-java-but-i-am-not-getting-the-proper-output-what-a
+
+http://stackoverflow.com/questions/41767135/control-variable-for-a-lambda-based-iteration
