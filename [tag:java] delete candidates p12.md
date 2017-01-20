@@ -38,6 +38,8 @@ http://stackoverflow.com/questions/41753742/wait-servlet-when-value-is-not-ready
 
 http://stackoverflow.com/questions/41732837/two-type-dates-variables-in-one
 
+http://stackoverflow.com/questions/41751616/exception-java-io-ioexception-is-never-thrown-in-body-of-corresponding-try-state
+
 NOT YET
 =====
 
