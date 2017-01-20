@@ -110,3 +110,5 @@ http://stackoverflow.com/questions/41746303/how-to-check-if-a-bytes-bits-make-a-
 http://stackoverflow.com/questions/41746567/java-confusing-polymorphism
 
 http://stackoverflow.com/questions/41748941/accessing-java-method-details-from-another-class
+
+http://stackoverflow.com/questions/41734032/android-gives-html-code-when-printing-as-a-string
