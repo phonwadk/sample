@@ -26,13 +26,7 @@ http://stackoverflow.com/questions/41700685/how-java-treat-method-declared-as-fi
 
 http://stackoverflow.com/questions/41706168/list-mylst-new-arraylist-what-is-it-why-it-compiles-and-how-different-f
 
-http://stackoverflow.com/questions/41706264/can-not-construct-instance-of-edu-kit-tm-cm-bamsg-person-employee-no-suitable-c
-
-http://stackoverflow.com/questions/41707601/is-this-singleton-in-spring-and-is-this-going-to-be-garbage-collected
-
 http://stackoverflow.com/questions/41753742/wait-servlet-when-value-is-not-ready
-
-http://stackoverflow.com/questions/41732837/two-type-dates-variables-in-one
 
 http://stackoverflow.com/questions/41751616/exception-java-io-ioexception-is-never-thrown-in-body-of-corresponding-try-state
 
