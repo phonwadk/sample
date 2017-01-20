@@ -40,8 +40,6 @@ http://stackoverflow.com/questions/41703706/return-the-strings
 
 http://stackoverflow.com/questions/41688775/learning-java-data-structures
 
-http://stackoverflow.com/questions/41725744/java-choose-random-string-from-multiple-arrays-which-have-the-same-adress
-
 http://stackoverflow.com/questions/41747841/do-the-following-lines-of-code-both-create-the-same-type-of-array-in-java
 
 http://stackoverflow.com/questions/41734032/android-gives-html-code-when-printing-as-a-string
