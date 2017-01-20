@@ -134,3 +134,5 @@ http://stackoverflow.com/questions/41767362/i-am-using-static-method-in-java-but
 http://stackoverflow.com/questions/41767135/control-variable-for-a-lambda-based-iteration
 
 http://stackoverflow.com/questions/41764561/printing-method-barcelona-goals-must-print-how-many-goals-players-shot-but-i
+
+https://stackoverflow.com/questions/29912450/ocr-how-to-train-a-new-tesseract-model
