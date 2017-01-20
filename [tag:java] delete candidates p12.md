@@ -126,3 +126,5 @@ http://stackoverflow.com/questions/41750072/java-constructor-cannot-assign-a-val
 http://stackoverflow.com/questions/41754818/add-method-does-not-work-well-for-overflow-in-java-calender
 
 http://stackoverflow.com/questions/41755422/is-there-anything-wrong-with-this-code
+
+http://stackoverflow.com/questions/41755939/java-exception-errors
