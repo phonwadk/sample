@@ -34,6 +34,12 @@ http://stackoverflow.com/questions/41754438/switch-statement-input-name-of-month
 
 http://stackoverflow.com/questions/41764393/joining-html-front-with-java-backend
 
+http://stackoverflow.com/questions/41763371/if-i-was-declare-this-syntax-that-gives-casting-error-after-casting-it-will-thro
+
+http://stackoverflow.com/questions/41765716/array-and-functions-issues
+
+http://stackoverflow.com/questions/41763022/why-is-there-an-error-when-declaring-an-variable-inside-a-statement-in-java
+
 NOT YET
 =====
 
@@ -75,7 +81,6 @@ http://stackoverflow.com/questions/41733353/assign-a-function-variable-to-a-meth
 
 http://stackoverflow.com/questions/41726286/map-alternative-for-primitive-values
 
-
 http://stackoverflow.com/questions/41745121/how-to-fix-nosuchelementexception-for-hashmap
 
 http://stackoverflow.com/questions/41746211/return-type-incompatible-when-putting-a-subclass-as-a-generic-type-in-a-parentcl
@@ -115,3 +120,5 @@ http://stackoverflow.com/questions/41763855/what-sorting-algorithm-does-java-8-u
 http://stackoverflow.com/questions/41763563/java-changing-attributes-of-objects-in-an-array
 
 http://stackoverflow.com/questions/41764326/whats-the-square-distance-of-a-point-to-a-rectangle
+
+http://stackoverflow.com/questions/41767362/i-am-using-static-method-in-java-but-i-am-not-getting-the-proper-output-what-a
