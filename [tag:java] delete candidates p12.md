@@ -34,6 +34,8 @@ http://stackoverflow.com/questions/41706264/can-not-construct-instance-of-edu-ki
 
 http://stackoverflow.com/questions/41707601/is-this-singleton-in-spring-and-is-this-going-to-be-garbage-collected
 
+http://stackoverflow.com/questions/41753742/wait-servlet-when-value-is-not-ready
+
 NOT YET
 =====
 
