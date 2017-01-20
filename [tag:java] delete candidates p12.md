@@ -40,6 +40,8 @@ http://stackoverflow.com/questions/41732837/two-type-dates-variables-in-one
 
 http://stackoverflow.com/questions/41751616/exception-java-io-ioexception-is-never-thrown-in-body-of-corresponding-try-state
 
+http://stackoverflow.com/questions/41751115/how-are-instances-of-object-printed
+
 NOT YET
 =====
 
@@ -122,3 +124,6 @@ http://stackoverflow.com/questions/41749862/math-abs-unknown-symbol-java
 http://stackoverflow.com/questions/41753643/why-java-integer-min-value-divided-by-2-not-overflow-but-divided-by-1-cause-o
 
 http://stackoverflow.com/questions/41708875/does-garbage-collector-set-a-reference-to-null-to-collect-an-object
+
+http://stackoverflow.com/questions/41750072/java-constructor-cannot-assign-a-value-to-final-variable-this
+
