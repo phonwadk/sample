@@ -125,4 +125,15 @@ http://stackoverflow.com/questions/41767135/control-variable-for-a-lambda-based-
 
 http://stackoverflow.com/questions/41764561/printing-method-barcelona-goals-must-print-how-many-goals-players-shot-but-i
 
+http://stackoverflow.com/questions/41769755/is-it-possible-for-httpservletrequest-to-be-null-in-a-spring-httprequest-method
+
+http://stackoverflow.com/questions/41766944/how-to-implement-post-request-restful-service-java
+
 https://stackoverflow.com/questions/29912450/ocr-how-to-train-a-new-tesseract-model
+
+http://stackoverflow.com/questions/41773427/error-cannot-find-symbol-in-code
+
+http://stackoverflow.com/questions/41769894/java-forint-i-0i1000i-system-out-printi-just-prints-spaces-not-num
+
+http://stackoverflow.com/questions/41769767/int-out-of-try-catch
+
