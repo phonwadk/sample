@@ -48,9 +48,6 @@ http://stackoverflow.com/questions/41723107/is-it-possible-to-show-popup-window-
 
 http://stackoverflow.com/questions/41722027/calculating-maximum-depth-of-tree
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41727915/autowired-is-not-working-in-unit-test
 
 http://stackoverflow.com/questions/41725945/spring-bean-definition-inheritence-using-annotation
@@ -64,6 +61,10 @@ http://stackoverflow.com/questions/41597214/having-trouble-with-some-arraylists
 http://stackoverflow.com/questions/41701355/get-last-row-of-a-text-in-java
 
 http://stackoverflow.com/questions/41731817/sort-set-of-objects-based-on-a-field
+
+NOT YET
+=====
+
 
 http://stackoverflow.com/questions/41716341/classcastexception-java-lang-object-cannot-be-cast-to-float
 
