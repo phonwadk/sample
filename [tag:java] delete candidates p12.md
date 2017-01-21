@@ -64,6 +64,8 @@ http://stackoverflow.com/questions/41733353/assign-a-function-variable-to-a-meth
 
 http://stackoverflow.com/questions/41755939/java-exception-errors
 
+http://stackoverflow.com/questions/41775979/first-word-is-not-printed-using-scan-hasnext-and-nextline
+
 NOT YET
 =====
 
@@ -138,3 +140,5 @@ http://stackoverflow.com/questions/41775391/how-would-i-edit-my-method-to-ignore
 http://stackoverflow.com/questions/41776457/i-have-declared-public-variable-in-static-block-it-s-showing-error
 
 http://stackoverflow.com/questions/41776680/how-to-find-the-index-of-a-particular-item-in-the-arraylist
+
+http://stackoverflow.com/questions/41783962/exception-while-outputting-through-scanner
