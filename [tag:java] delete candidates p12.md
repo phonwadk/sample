@@ -130,3 +130,5 @@ http://stackoverflow.com/questions/41769894/java-forint-i-0i1000i-system-out-pri
 http://stackoverflow.com/questions/41769767/int-out-of-try-catch
 
 http://stackoverflow.com/questions/41430587/parsing-json-on-android-with-public-class-and-asynctask
+
+http://stackoverflow.com/questions/41781712/dynamic-generics-mechanism-vs-static-generics-mechanism
