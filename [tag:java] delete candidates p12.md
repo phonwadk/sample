@@ -12,8 +12,6 @@ http://stackoverflow.com/questions/41688886/how-to-split-up-a-string-containing-
 
 http://stackoverflow.com/questions/41746777/java-private-variables-acces-via-dot
 
-http://stackoverflow.com/questions/41701933/interface-instantiate
-
 http://stackoverflow.com/questions/41734032/android-gives-html-code-when-printing-as-a-string
 
 http://stackoverflow.com/questions/41754438/switch-statement-input-name-of-month-to-get-the-season
@@ -70,6 +68,8 @@ http://stackoverflow.com/questions/41732392/is-volatile-needed-for-a-member-vari
 
 http://stackoverflow.com/questions/41733353/assign-a-function-variable-to-a-method-reference-failed-in-java-
 
+http://stackoverflow.com/questions/41755939/java-exception-errors
+
 NOT YET
 =====
 
@@ -105,13 +105,9 @@ http://stackoverflow.com/questions/41754818/add-method-does-not-work-well-for-ov
 
 http://stackoverflow.com/questions/41755422/is-there-anything-wrong-with-this-code
 
-http://stackoverflow.com/questions/41755939/java-exception-errors
-
 http://stackoverflow.com/questions/41755970/nosuchelementexception-exception-at-scanner-nextint
 
 http://stackoverflow.com/questions/41763855/what-sorting-algorithm-does-java-8-use-and-what-is-its-space-complexity
-
-http://stackoverflow.com/questions/41763563/java-changing-attributes-of-objects-in-an-array
 
 http://stackoverflow.com/questions/41764326/whats-the-square-distance-of-a-point-to-a-rectangle
 
