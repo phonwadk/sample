@@ -71,6 +71,8 @@ http://stackoverflow.com/questions/41755939/java-exception-errors
 NOT YET
 =====
 
+http://stackoverflow.com/questions/41776298/round-double-to-2-decimals
+
 http://stackoverflow.com/questions/41726286/map-alternative-for-primitive-values
 
 http://stackoverflow.com/questions/41745121/how-to-fix-nosuchelementexception-for-hashmap
