@@ -62,10 +62,6 @@ http://stackoverflow.com/questions/41701355/get-last-row-of-a-text-in-java
 
 http://stackoverflow.com/questions/41731817/sort-set-of-objects-based-on-a-field
 
-NOT YET
-=====
-
-
 http://stackoverflow.com/questions/41716341/classcastexception-java-lang-object-cannot-be-cast-to-float
 
 http://stackoverflow.com/questions/41727299/method-with-extends-collectionsstring-is-not-applicable-for-setstring
@@ -73,6 +69,9 @@ http://stackoverflow.com/questions/41727299/method-with-extends-collectionsstrin
 http://stackoverflow.com/questions/41732392/is-volatile-needed-for-a-member-variable-of-a-singleton-created-this-way
 
 http://stackoverflow.com/questions/41733353/assign-a-function-variable-to-a-method-reference-failed-in-java-
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41726286/map-alternative-for-primitive-values
 
