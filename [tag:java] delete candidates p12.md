@@ -36,9 +36,6 @@ http://stackoverflow.com/questions/41765917/probelm-in-parsing-json-in-java
 
 http://stackoverflow.com/questions/41767457/autowired-null-pointer-exception-spring-boot-appllication
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41711369/java-string-touppercase-is-changing-special-characters
 
 http://stackoverflow.com/questions/41711709/how-to-take-an-arraylist-of-strings-and-split-it-up-between-letters-and-digits-i
@@ -51,7 +48,8 @@ http://stackoverflow.com/questions/41723107/is-it-possible-to-show-popup-window-
 
 http://stackoverflow.com/questions/41722027/calculating-maximum-depth-of-tree
 
-http://stackoverflow.com/questions/41724868/why-are-these-braces-allowed-after-an-if-statement
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41727915/autowired-is-not-working-in-unit-test
 
