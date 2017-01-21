@@ -134,3 +134,5 @@ http://stackoverflow.com/questions/41781712/dynamic-generics-mechanism-vs-static
 http://stackoverflow.com/questions/41775652/numerous-amount-of-thread-errors-idk-why
 
 http://stackoverflow.com/questions/41775391/how-would-i-edit-my-method-to-ignore-the-punctuation-marks-and-just-look-at-the
+
+http://stackoverflow.com/questions/41776457/i-have-declared-public-variable-in-static-block-it-s-showing-error
