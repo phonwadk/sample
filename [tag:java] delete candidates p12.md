@@ -1,3 +1,5 @@
+this got reopened but deserves to be closed as too broad: http://stackoverflow.com/questions/41781712/monomorphic-generics-mechanism-vs-polymorphic-generics-mechanism
+
 http://stackoverflow.com/questions/41793636/why-does-this-only-loop-twice-java
 
 http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than-fdouble-x
@@ -72,8 +74,6 @@ http://stackoverflow.com/questions/41773427/error-cannot-find-symbol-in-code
 http://stackoverflow.com/questions/41769767/int-out-of-try-catch
 
 http://stackoverflow.com/questions/41430587/parsing-json-on-android-with-public-class-and-asynctask
-
-http://stackoverflow.com/questions/41781712/dynamic-generics-mechanism-vs-static-generics-mechanism
 
 http://stackoverflow.com/questions/41775652/numerous-amount-of-thread-errors-idk-why
 
