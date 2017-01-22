@@ -1,38 +1,6 @@
-http://stackoverflow.com/questions/41755890/can-someone-help-me-fix-this
-
-http://stackoverflow.com/questions/41765788/setting-superclass-instance-variable
-
 http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than-fdouble-x
 
-http://stackoverflow.com/questions/41683251/why-can-i-access-private-variable-of-superclass-withing-derived-class-constructo
-
 http://stackoverflow.com/questions/41687351/reached-end-of-file-while-parsing-but-no
-
-http://stackoverflow.com/questions/41688886/how-to-split-up-a-string-containing-letters-and-numbers-in-java
-
-http://stackoverflow.com/questions/41754438/switch-statement-input-name-of-month-to-get-the-season
-
-http://stackoverflow.com/questions/41764393/joining-html-front-with-java-backend
-
-http://stackoverflow.com/questions/41763371/if-i-was-declare-this-syntax-that-gives-casting-error-after-casting-it-will-thro
-
-http://stackoverflow.com/questions/41765716/array-and-functions-issues
-
-http://stackoverflow.com/questions/41763022/why-is-there-an-error-when-declaring-an-variable-inside-a-statement-in-java
-
-http://stackoverflow.com/questions/41763146/string-index-out-of-range-with-substring-in-java
-
-http://stackoverflow.com/questions/41765917/probelm-in-parsing-json-in-java
-
-http://stackoverflow.com/questions/41764158/upcasting-error-java
-
-http://stackoverflow.com/questions/41765917/probelm-in-parsing-json-in-java
-
-http://stackoverflow.com/questions/41767457/autowired-null-pointer-exception-spring-boot-appllication
-
-http://stackoverflow.com/questions/41711369/java-string-touppercase-is-changing-special-characters
-
-http://stackoverflow.com/questions/41711709/how-to-take-an-arraylist-of-strings-and-split-it-up-between-letters-and-digits-i
 
 http://stackoverflow.com/questions/41712082/incompatible-types-void-cannot-be-converted-to-int
 
@@ -164,3 +132,5 @@ http://stackoverflow.com/questions/41786702/converting-a-for-loop-in-a-while-tru
 http://stackoverflow.com/questions/41787740/putting-close-method-in-bufferedreader-causing-i-o-exception
 
 http://stackoverflow.com/questions/41792342/computeifabsent-before-java-8
+
+http://stackoverflow.com/questions/41793033/random-quote-app-android-using-the-random-class-in-java
