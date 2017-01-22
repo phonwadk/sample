@@ -156,3 +156,7 @@ http://stackoverflow.com/questions/41786702/converting-a-for-loop-in-a-while-tru
 http://stackoverflow.com/questions/41787355/java-8-stream-interface-map-function-signature
 
 http://stackoverflow.com/questions/41792871/java-condition-obj-null-is-always-true-why
+
+http://stackoverflow.com/questions/41786702/converting-a-for-loop-in-a-while-true-loop-in-java-beginner
+
+http://stackoverflow.com/questions/41787740/putting-close-method-in-bufferedreader-causing-i-o-exception
