@@ -116,3 +116,5 @@ http://stackoverflow.com/questions/41792342/computeifabsent-before-java-8
 http://stackoverflow.com/questions/41793033/random-quote-app-android-using-the-random-class-in-java
 
 http://stackoverflow.com/questions/41793047/cant-split-a-string-with
+
+http://stackoverflow.com/questions/41793649/autowire-byname-jdbctemplate-spring
