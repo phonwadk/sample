@@ -120,3 +120,5 @@ http://stackoverflow.com/questions/41793047/cant-split-a-string-with
 http://stackoverflow.com/questions/41793649/autowire-byname-jdbctemplate-spring
 
 http://stackoverflow.com/questions/41788353/convert-string-character-to-equivalent-utf-8-values
+
+http://stackoverflow.com/questions/41794110/how-to-parse-a-string-representing-a-date-in-a-specific-locale-by-using-java-tim
