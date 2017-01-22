@@ -40,15 +40,11 @@ http://stackoverflow.com/questions/41722076/junit-assert-list-of-size-n
 
 http://stackoverflow.com/questions/41723107/is-it-possible-to-show-popup-window-in-ios
 
-http://stackoverflow.com/questions/41722027/calculating-maximum-depth-of-tree
-
 http://stackoverflow.com/questions/41727915/autowired-is-not-working-in-unit-test
 
 http://stackoverflow.com/questions/41725945/spring-bean-definition-inheritence-using-annotation
 
 http://stackoverflow.com/questions/41726604/narrowing-in-range-values-for-literals-and-method-parameters
-
-http://stackoverflow.com/questions/41706140/why-am-i-getting-an-error-in-java-when-trying-to-call-the-methods-in-the-movetwo
 
 http://stackoverflow.com/questions/41597214/having-trouble-with-some-arraylists
 
@@ -104,9 +100,6 @@ http://stackoverflow.com/questions/41750072/java-constructor-cannot-assign-a-val
 
 http://stackoverflow.com/questions/41754818/add-method-does-not-work-well-for-overflow-in-java-calender
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41755422/is-there-anything-wrong-with-this-code
 
 http://stackoverflow.com/questions/41755970/nosuchelementexception-exception-at-scanner-nextint
@@ -117,11 +110,14 @@ http://stackoverflow.com/questions/41764326/whats-the-square-distance-of-a-point
 
 http://stackoverflow.com/questions/41767362/i-am-using-static-method-in-java-but-i-am-not-getting-the-proper-output-what-a
 
+http://stackoverflow.com/questions/41766944/how-to-implement-post-request-restful-service-java
+
+NOT YET
+=====
+
 http://stackoverflow.com/questions/41767135/control-variable-for-a-lambda-based-iteration
 
 http://stackoverflow.com/questions/41769755/is-it-possible-for-httpservletrequest-to-be-null-in-a-spring-httprequest-method
-
-http://stackoverflow.com/questions/41766944/how-to-implement-post-request-restful-service-java
 
 https://stackoverflow.com/questions/29912450/ocr-how-to-train-a-new-tesseract-model
 
