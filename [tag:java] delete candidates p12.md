@@ -66,9 +66,6 @@ http://stackoverflow.com/questions/41755939/java-exception-errors
 
 http://stackoverflow.com/questions/41775979/first-word-is-not-printed-using-scan-hasnext-and-nextline
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41775236/how-do-i-run-n-number-of-loops-not-loop-running-n-number-of-times-with-n-numbe
 
 http://stackoverflow.com/questions/41776298/round-double-to-2-decimals
@@ -89,9 +86,16 @@ http://stackoverflow.com/questions/41746303/how-to-check-if-a-bytes-bits-make-a-
 
 http://stackoverflow.com/questions/41746567/java-confusing-polymorphism
 
-http://stackoverflow.com/questions/41748941/accessing-java-method-details-from-another-class
-
 http://stackoverflow.com/questions/41733487/java-magic-square-program-error
+
+http://stackoverflow.com/questions/41764561/printing-method-barcelona-goals-must-print-how-many-goals-players-shot-but-i
+
+http://stackoverflow.com/questions/41769894/java-forint-i-0i1000i-system-out-printi-just-prints-spaces-not-num
+
+NOT YET
+=====
+
+http://stackoverflow.com/questions/41748941/accessing-java-method-details-from-another-class
 
 http://stackoverflow.com/questions/41749862/math-abs-unknown-symbol-java
 
@@ -115,8 +119,6 @@ http://stackoverflow.com/questions/41767362/i-am-using-static-method-in-java-but
 
 http://stackoverflow.com/questions/41767135/control-variable-for-a-lambda-based-iteration
 
-http://stackoverflow.com/questions/41764561/printing-method-barcelona-goals-must-print-how-many-goals-players-shot-but-i
-
 http://stackoverflow.com/questions/41769755/is-it-possible-for-httpservletrequest-to-be-null-in-a-spring-httprequest-method
 
 http://stackoverflow.com/questions/41766944/how-to-implement-post-request-restful-service-java
@@ -124,8 +126,6 @@ http://stackoverflow.com/questions/41766944/how-to-implement-post-request-restfu
 https://stackoverflow.com/questions/29912450/ocr-how-to-train-a-new-tesseract-model
 
 http://stackoverflow.com/questions/41773427/error-cannot-find-symbol-in-code
-
-http://stackoverflow.com/questions/41769894/java-forint-i-0i1000i-system-out-printi-just-prints-spaces-not-num
 
 http://stackoverflow.com/questions/41769767/int-out-of-try-catch
 
