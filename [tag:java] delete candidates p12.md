@@ -162,3 +162,5 @@ http://stackoverflow.com/questions/41792871/java-condition-obj-null-is-always-tr
 http://stackoverflow.com/questions/41786702/converting-a-for-loop-in-a-while-true-loop-in-java-beginner
 
 http://stackoverflow.com/questions/41787740/putting-close-method-in-bufferedreader-causing-i-o-exception
+
+http://stackoverflow.com/questions/41792342/computeifabsent-before-java-8
