@@ -142,3 +142,16 @@ http://stackoverflow.com/questions/41776457/i-have-declared-public-variable-in-s
 http://stackoverflow.com/questions/41776680/how-to-find-the-index-of-a-particular-item-in-the-arraylist
 
 http://stackoverflow.com/questions/41783962/exception-while-outputting-through-scanner
+
+http://stackoverflow.com/questions/41786846/can-i-use-8-digits-in-double-data-type-in-java
+
+http://stackoverflow.com/questions/41786948/what-does-setdaemon-do-on-a-thread
+
+http://stackoverflow.com/questions/41786800/do-while-loop-logic-java
+
+http://stackoverflow.com/questions/41786648/spring-getter-method-is-not-able-to-call-in-java
+
+http://stackoverflow.com/questions/41786949/java-overloading-equals-and-tostring-methods
+
+http://stackoverflow.com/questions/41786580/difference-between-two-kinds-of-java-list-initialization
+
