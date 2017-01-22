@@ -154,3 +154,5 @@ http://stackoverflow.com/questions/41786580/difference-between-two-kinds-of-java
 http://stackoverflow.com/questions/41786702/converting-a-for-loop-in-a-while-true-loop-in-java-beginner
 
 http://stackoverflow.com/questions/41787355/java-8-stream-interface-map-function-signature
+
+http://stackoverflow.com/questions/41792871/java-condition-obj-null-is-always-true-why
