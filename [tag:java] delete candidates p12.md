@@ -156,3 +156,5 @@ http://stackoverflow.com/questions/41786949/java-overloading-equals-and-tostring
 http://stackoverflow.com/questions/41786580/difference-between-two-kinds-of-java-list-initialization
 
 http://stackoverflow.com/questions/41786702/converting-a-for-loop-in-a-while-true-loop-in-java-beginner
+
+http://stackoverflow.com/questions/41787355/java-8-stream-interface-map-function-signature
