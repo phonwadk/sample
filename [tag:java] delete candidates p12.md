@@ -124,3 +124,5 @@ http://stackoverflow.com/questions/41788353/convert-string-character-to-equivale
 http://stackoverflow.com/questions/41794110/how-to-parse-a-string-representing-a-date-in-a-specific-locale-by-using-java-tim
 
 http://stackoverflow.com/questions/41794158/changing-xml-based-configuration-to-annotation-based-for-multiple-registered-a-b
+
+http://stackoverflow.com/questions/41783988/how-to-end-a-while-loop
