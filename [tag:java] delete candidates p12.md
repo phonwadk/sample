@@ -64,6 +64,8 @@ http://stackoverflow.com/questions/41767135/control-variable-for-a-lambda-based-
 
 http://stackoverflow.com/questions/41781301/what-is-the-simple-method-in-java-to-round-7685-to-77
 
+http://stackoverflow.com/questions/41352696/my-method-doesnt-return-string-value
+
 NOT YET
 =====
 
