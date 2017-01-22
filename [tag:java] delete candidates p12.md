@@ -16,21 +16,9 @@ http://stackoverflow.com/questions/41726604/narrowing-in-range-values-for-litera
 
 http://stackoverflow.com/questions/41597214/having-trouble-with-some-arraylists
 
-http://stackoverflow.com/questions/41701355/get-last-row-of-a-text-in-java
-
-http://stackoverflow.com/questions/41731817/sort-set-of-objects-based-on-a-field
-
-http://stackoverflow.com/questions/41727299/method-with-extends-collectionsstring-is-not-applicable-for-setstring
-
 http://stackoverflow.com/questions/41732392/is-volatile-needed-for-a-member-variable-of-a-singleton-created-this-way
 
-http://stackoverflow.com/questions/41733353/assign-a-function-variable-to-a-method-reference-failed-in-java-
-
-http://stackoverflow.com/questions/41755939/java-exception-errors
-
 http://stackoverflow.com/questions/41775979/first-word-is-not-printed-using-scan-hasnext-and-nextline
-
-http://stackoverflow.com/questions/41775236/how-do-i-run-n-number-of-loops-not-loop-running-n-number-of-times-with-n-numbe
 
 http://stackoverflow.com/questions/41776298/round-double-to-2-decimals
 
@@ -79,8 +67,6 @@ http://stackoverflow.com/questions/41764326/whats-the-square-distance-of-a-point
 http://stackoverflow.com/questions/41767362/i-am-using-static-method-in-java-but-i-am-not-getting-the-proper-output-what-a
 
 http://stackoverflow.com/questions/41766944/how-to-implement-post-request-restful-service-java
-
-http://stackoverflow.com/questions/41792794/i-dont-know-what-is-going-on
 
 NOT YET
 =====
