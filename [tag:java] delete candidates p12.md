@@ -1,5 +1,7 @@
 this got reopened but deserves to be closed as too broad: http://stackoverflow.com/questions/41781712/monomorphic-generics-mechanism-vs-polymorphic-generics-mechanism
 
+http://stackoverflow.com/questions/41794487/how-do-you-remove-numbers-greater-than-300-from-an-arraylist
+
 http://stackoverflow.com/questions/41793636/why-does-this-only-loop-twice-java
 
 http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than-fdouble-x
