@@ -92,9 +92,6 @@ http://stackoverflow.com/questions/41764561/printing-method-barcelona-goals-must
 
 http://stackoverflow.com/questions/41769894/java-forint-i-0i1000i-system-out-printi-just-prints-spaces-not-num
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41748941/accessing-java-method-details-from-another-class
 
 http://stackoverflow.com/questions/41749862/math-abs-unknown-symbol-java
@@ -106,6 +103,9 @@ http://stackoverflow.com/questions/41708875/does-garbage-collector-set-a-referen
 http://stackoverflow.com/questions/41750072/java-constructor-cannot-assign-a-value-to-final-variable-this
 
 http://stackoverflow.com/questions/41754818/add-method-does-not-work-well-for-overflow-in-java-calender
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41755422/is-there-anything-wrong-with-this-code
 
