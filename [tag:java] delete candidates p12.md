@@ -62,6 +62,8 @@ http://stackoverflow.com/questions/41766944/how-to-implement-post-request-restfu
 
 http://stackoverflow.com/questions/41767135/control-variable-for-a-lambda-based-iteration
 
+http://stackoverflow.com/questions/41781301/what-is-the-simple-method-in-java-to-round-7685-to-77
+
 NOT YET
 =====
 
@@ -114,3 +116,5 @@ http://stackoverflow.com/questions/41793033/random-quote-app-android-using-the-r
 http://stackoverflow.com/questions/41793047/cant-split-a-string-with
 
 http://stackoverflow.com/questions/41793649/autowire-byname-jdbctemplate-spring
+
+http://stackoverflow.com/questions/41788353/convert-string-character-to-equivalent-utf-8-values
