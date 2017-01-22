@@ -68,10 +68,10 @@ http://stackoverflow.com/questions/41767362/i-am-using-static-method-in-java-but
 
 http://stackoverflow.com/questions/41766944/how-to-implement-post-request-restful-service-java
 
+http://stackoverflow.com/questions/41767135/control-variable-for-a-lambda-based-iteration
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/41767135/control-variable-for-a-lambda-based-iteration
 
 http://stackoverflow.com/questions/41769755/is-it-possible-for-httpservletrequest-to-be-null-in-a-spring-httprequest-method
 
@@ -120,3 +120,5 @@ http://stackoverflow.com/questions/41787740/putting-close-method-in-bufferedread
 http://stackoverflow.com/questions/41792342/computeifabsent-before-java-8
 
 http://stackoverflow.com/questions/41793033/random-quote-app-android-using-the-random-class-in-java
+
+http://stackoverflow.com/questions/41793047/cant-split-a-string-with
