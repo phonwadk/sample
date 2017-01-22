@@ -126,3 +126,5 @@ http://stackoverflow.com/questions/41794110/how-to-parse-a-string-representing-a
 http://stackoverflow.com/questions/41794158/changing-xml-based-configuration-to-annotation-based-for-multiple-registered-a-b
 
 http://stackoverflow.com/questions/41783988/how-to-end-a-while-loop
+
+http://stackoverflow.com/questions/41794515/java-lang-nullpointerexception-for-unclear-reason
