@@ -20,8 +20,6 @@ http://stackoverflow.com/questions/41597214/having-trouble-with-some-arraylists
 
 http://stackoverflow.com/questions/41732392/is-volatile-needed-for-a-member-variable-of-a-singleton-created-this-way
 
-http://stackoverflow.com/questions/41775979/first-word-is-not-printed-using-scan-hasnext-and-nextline
-
 http://stackoverflow.com/questions/41726286/map-alternative-for-primitive-values
 
 http://stackoverflow.com/questions/41751797/setting-a-string-as-index-0-in-a-arraylist-without-removing-the-current-index-0
