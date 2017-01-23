@@ -74,10 +74,11 @@ http://stackoverflow.com/questions/41352696/my-method-doesnt-return-string-value
 
 https://stackoverflow.com/questions/29912450/ocr-how-to-train-a-new-tesseract-model
 
+http://stackoverflow.com/questions/41769755/is-it-possible-for-httpservletrequest-to-be-null-in-a-spring-httprequest-method
+
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/41769755/is-it-possible-for-httpservletrequest-to-be-null-in-a-spring-httprequest-method
 
 http://stackoverflow.com/questions/41773427/error-cannot-find-symbol-in-code
 
