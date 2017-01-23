@@ -141,6 +141,8 @@ http://stackoverflow.com/questions/41795090/using-basethis-f-instead-of-super-f-
 
 http://stackoverflow.com/questions/41795246/java-string-only-printing-first-word
 
+http://stackoverflow.com/questions/41744132/java-exceptions
+
 http://stackoverflow.com/questions/41746114/how-to-fix-java-concurrentmodificationexception
 
 http://stackoverflow.com/questions/41744370/java-confusing-behaviour-during-static-initialization
