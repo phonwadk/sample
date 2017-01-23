@@ -61,6 +61,8 @@ http://stackoverflow.com/questions/41776457/i-have-declared-public-variable-in-s
 
 http://stackoverflow.com/questions/41776680/how-to-find-the-index-of-a-particular-item-in-the-arraylist
 
+http://stackoverflow.com/questions/41810200/java-beginner-any-feedback-appreiciated
+
 NOT YET
 =====
 
@@ -116,7 +118,7 @@ http://stackoverflow.com/questions/41744370/java-confusing-behaviour-during-stat
 
 http://stackoverflow.com/questions/41788601/nullpointerexception-to-an-already-created-object
 
-http://stackoverflow.com/questions/41791394/function-that-gets-integer-and-returns-string-does-not-have-the-expected-results
+http://stackoverflow.com/questions/41791394/appending-characters-to-a-string-does-not-produce-the-expected-results
 
 http://stackoverflow.com/questions/41750042/string-or-int-cannot-be-converted-to-string-or-int
 
@@ -131,3 +133,8 @@ http://stackoverflow.com/questions/41781712/monomorphic-generics-mechanism-vs-po
 http://stackoverflow.com/questions/41799983/else-if-condition-being-skipped
 
 http://stackoverflow.com/questions/41460586/comparator-consistent-with-equals-meaningful-example
+
+http://stackoverflow.com/questions/41812436/should-i-implement-an-array-into-this
+
+http://stackoverflow.com/questions/41811181/java-instantiation-of-bean-failed-nested-exception-is-java-lang-exceptioninin
+
