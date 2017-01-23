@@ -129,3 +129,5 @@ http://stackoverflow.com/questions/41798116/is-it-possible-to-write-a-wrapper-fo
 http://stackoverflow.com/questions/41781712/monomorphic-generics-mechanism-vs-polymorphic-generics-mechanism
 
 http://stackoverflow.com/questions/41799983/else-if-condition-being-skipped
+
+http://stackoverflow.com/questions/41460586/comparator-consistent-with-equals-meaningful-example
