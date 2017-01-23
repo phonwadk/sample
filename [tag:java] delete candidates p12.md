@@ -57,12 +57,12 @@ http://stackoverflow.com/questions/41786949/java-overloading-equals-and-tostring
 
 http://stackoverflow.com/questions/41786580/difference-between-two-kinds-of-java-list-initialization
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41776457/i-have-declared-public-variable-in-static-block-it-s-showing-error
 
 http://stackoverflow.com/questions/41776680/how-to-find-the-index-of-a-particular-item-in-the-arraylist
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41783962/exception-while-outputting-through-scanner
 
