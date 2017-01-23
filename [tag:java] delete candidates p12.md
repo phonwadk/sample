@@ -1,4 +1,3 @@
-this got reopened but deserves to be closed as too broad: http://stackoverflow.com/questions/41781712/monomorphic-generics-mechanism-vs-polymorphic-generics-mechanism
 
 http://stackoverflow.com/questions/41790720/java-indexof-clarification
 
@@ -126,3 +125,5 @@ http://stackoverflow.com/questions/41797568/error-displaying-buttons-in-swing
 http://stackoverflow.com/questions/41665433/spring-4-autowired-nosuchbeandefinitionexception
 
 http://stackoverflow.com/questions/41798116/is-it-possible-to-write-a-wrapper-for-double-that-gets-boxed-unboxed
+
+http://stackoverflow.com/questions/41781712/monomorphic-generics-mechanism-vs-polymorphic-generics-mechanism
