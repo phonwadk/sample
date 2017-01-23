@@ -2,8 +2,6 @@ this got reopened but deserves to be closed as too broad: http://stackoverflow.c
 
 http://stackoverflow.com/questions/41790720/java-indexof-clarification
 
-http://stackoverflow.com/questions/41796076/android-wait-command-dont-work
-
 http://stackoverflow.com/questions/41794487/how-do-you-remove-numbers-greater-than-300-from-an-arraylist
 
 http://stackoverflow.com/questions/41793636/why-does-this-only-loop-twice-java
