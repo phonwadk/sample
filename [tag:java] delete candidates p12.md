@@ -8,13 +8,9 @@ http://stackoverflow.com/questions/41793636/why-does-this-only-loop-twice-java
 
 http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than-fdouble-x
 
-http://stackoverflow.com/questions/41687351/reached-end-of-file-while-parsing-but-no
-
 http://stackoverflow.com/questions/41712082/incompatible-types-void-cannot-be-converted-to-int
 
 http://stackoverflow.com/questions/41722076/junit-assert-list-of-size-n
-
-http://stackoverflow.com/questions/41723107/is-it-possible-to-show-popup-window-in-ios
 
 http://stackoverflow.com/questions/41727915/autowired-is-not-working-in-unit-test
 
@@ -26,27 +22,15 @@ http://stackoverflow.com/questions/41597214/having-trouble-with-some-arraylists
 
 http://stackoverflow.com/questions/41732392/is-volatile-needed-for-a-member-variable-of-a-singleton-created-this-way
 
-http://stackoverflow.com/questions/41751797/setting-a-string-as-index-0-in-a-arraylist-without-removing-the-current-index-0
-
 http://stackoverflow.com/questions/41746303/how-to-check-if-a-bytes-bits-make-a-palindrome-in-java
 
 http://stackoverflow.com/questions/41746567/java-confusing-polymorphism
 
 http://stackoverflow.com/questions/41733487/java-magic-square-program-error
 
-http://stackoverflow.com/questions/41764561/printing-method-barcelona-goals-must-print-how-many-goals-players-shot-but-i
-
 http://stackoverflow.com/questions/41769894/java-forint-i-0i1000i-system-out-printi-just-prints-spaces-not-num
 
-http://stackoverflow.com/questions/41748941/accessing-java-method-details-from-another-class
-
-http://stackoverflow.com/questions/41749862/math-abs-unknown-symbol-java
-
 http://stackoverflow.com/questions/41753643/why-java-integer-min-value-divided-by-2-not-overflow-but-divided-by-1-cause-o
-
-http://stackoverflow.com/questions/41708875/does-garbage-collector-set-a-reference-to-null-to-collect-an-object
-
-http://stackoverflow.com/questions/41750072/java-constructor-cannot-assign-a-value-to-final-variable-this
 
 http://stackoverflow.com/questions/41754818/add-method-does-not-work-well-for-overflow-in-java-calender
 
@@ -56,23 +40,11 @@ http://stackoverflow.com/questions/41755970/nosuchelementexception-exception-at-
 
 http://stackoverflow.com/questions/41763855/what-sorting-algorithm-does-java-8-use-and-what-is-its-space-complexity
 
-http://stackoverflow.com/questions/41764326/whats-the-square-distance-of-a-point-to-a-rectangle
-
 http://stackoverflow.com/questions/41767362/i-am-using-static-method-in-java-but-i-am-not-getting-the-proper-output-what-a
 
 http://stackoverflow.com/questions/41766944/how-to-implement-post-request-restful-service-java
 
 http://stackoverflow.com/questions/41767135/control-variable-for-a-lambda-based-iteration
-
-http://stackoverflow.com/questions/41781301/what-is-the-simple-method-in-java-to-round-7685-to-77
-
-http://stackoverflow.com/questions/41352696/my-method-doesnt-return-string-value
-
-https://stackoverflow.com/questions/29912450/ocr-how-to-train-a-new-tesseract-model
-
-http://stackoverflow.com/questions/41769755/is-it-possible-for-httpservletrequest-to-be-null-in-a-spring-httprequest-method
-
-http://stackoverflow.com/questions/41773427/error-cannot-find-symbol-in-code
 
 http://stackoverflow.com/questions/41769767/int-out-of-try-catch
 
