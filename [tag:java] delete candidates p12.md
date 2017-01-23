@@ -151,3 +151,5 @@ http://stackoverflow.com/questions/41791394/function-that-gets-integer-and-retur
 http://stackoverflow.com/questions/41750042/string-or-int-cannot-be-converted-to-string-or-int
 
 http://stackoverflow.com/questions/41797568/error-displaying-buttons-in-swing
+
+http://stackoverflow.com/questions/41665433/spring-4-autowired-nosuchbeandefinitionexception
