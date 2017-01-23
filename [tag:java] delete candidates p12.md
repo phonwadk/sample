@@ -47,14 +47,18 @@ http://stackoverflow.com/questions/41767135/control-variable-for-a-lambda-based-
 
 http://stackoverflow.com/questions/41769767/int-out-of-try-catch
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41430587/parsing-json-on-android-with-public-class-and-asynctask
 
 http://stackoverflow.com/questions/41775652/numerous-amount-of-thread-errors-idk-why
 
 http://stackoverflow.com/questions/41775391/how-would-i-edit-my-method-to-ignore-the-punctuation-marks-and-just-look-at-the
+
+http://stackoverflow.com/questions/41786949/java-overloading-equals-and-tostring-methods
+
+http://stackoverflow.com/questions/41786580/difference-between-two-kinds-of-java-list-initialization
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41776457/i-have-declared-public-variable-in-static-block-it-s-showing-error
 
@@ -69,10 +73,6 @@ http://stackoverflow.com/questions/41786948/what-does-setdaemon-do-on-a-thread
 http://stackoverflow.com/questions/41786800/do-while-loop-logic-java
 
 http://stackoverflow.com/questions/41786648/spring-getter-method-is-not-able-to-call-in-java
-
-http://stackoverflow.com/questions/41786949/java-overloading-equals-and-tostring-methods
-
-http://stackoverflow.com/questions/41786580/difference-between-two-kinds-of-java-list-initialization
 
 http://stackoverflow.com/questions/41786702/converting-a-for-loop-in-a-while-true-loop-in-java-beginner
 
