@@ -72,13 +72,12 @@ https://stackoverflow.com/questions/29912450/ocr-how-to-train-a-new-tesseract-mo
 
 http://stackoverflow.com/questions/41769755/is-it-possible-for-httpservletrequest-to-be-null-in-a-spring-httprequest-method
 
-
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41773427/error-cannot-find-symbol-in-code
 
 http://stackoverflow.com/questions/41769767/int-out-of-try-catch
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41430587/parsing-json-on-android-with-public-class-and-asynctask
 
@@ -153,3 +152,5 @@ http://stackoverflow.com/questions/41750042/string-or-int-cannot-be-converted-to
 http://stackoverflow.com/questions/41797568/error-displaying-buttons-in-swing
 
 http://stackoverflow.com/questions/41665433/spring-4-autowired-nosuchbeandefinitionexception
+
+http://stackoverflow.com/questions/41798116/is-it-possible-to-write-a-wrapper-for-double-that-gets-boxed-unboxed
