@@ -153,3 +153,5 @@ http://stackoverflow.com/questions/41788601/nullpointerexception-to-an-already-c
 http://stackoverflow.com/questions/41791394/function-that-gets-integer-and-returns-string-does-not-have-the-expected-results
 
 http://stackoverflow.com/questions/41750042/string-or-int-cannot-be-converted-to-string-or-int
+
+http://stackoverflow.com/questions/41797568/error-displaying-buttons-in-swing
