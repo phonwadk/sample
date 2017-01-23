@@ -148,3 +148,5 @@ http://stackoverflow.com/questions/41746114/how-to-fix-java-concurrentmodificati
 http://stackoverflow.com/questions/41744370/java-confusing-behaviour-during-static-initialization
 
 http://stackoverflow.com/questions/41788601/nullpointerexception-to-an-already-created-object
+
+http://stackoverflow.com/questions/41791394/function-that-gets-integer-and-returns-string-does-not-have-the-expected-results
