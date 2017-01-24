@@ -4,29 +4,13 @@ http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than
 
 http://stackoverflow.com/questions/41712082/incompatible-types-void-cannot-be-converted-to-int
 
-http://stackoverflow.com/questions/41722076/junit-assert-list-of-size-n
-
 http://stackoverflow.com/questions/41725945/spring-bean-definition-inheritence-using-annotation
 
 http://stackoverflow.com/questions/41597214/having-trouble-with-some-arraylists
 
-http://stackoverflow.com/questions/41732392/is-volatile-needed-for-a-member-variable-of-a-singleton-created-this-way
-
 http://stackoverflow.com/questions/41733487/java-magic-square-program-error
 
-http://stackoverflow.com/questions/41769894/java-forint-i-0i1000i-system-out-printi-just-prints-spaces-not-num
-
-http://stackoverflow.com/questions/41775391/how-would-i-edit-my-method-to-ignore-the-punctuation-marks-and-just-look-at-the
-
-http://stackoverflow.com/questions/41786580/difference-between-two-kinds-of-java-list-initialization
-
 http://stackoverflow.com/questions/41776457/i-have-declared-public-variable-in-static-block-it-s-showing-error
-
-http://stackoverflow.com/questions/41776680/how-to-find-the-index-of-a-particular-item-in-the-arraylist
-
-http://stackoverflow.com/questions/41810200/java-beginner-any-feedback-appreiciated
-
-http://stackoverflow.com/questions/41783962/exception-while-outputting-through-scanner
 
 NOT YET
 =====
