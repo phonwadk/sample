@@ -128,3 +128,5 @@ http://stackoverflow.com/questions/41833280/wiring-static-reference-with-and-wit
 http://stackoverflow.com/questions/41833280/wiring-static-reference-with-setter-causing-no-npe
 
 http://stackoverflow.com/questions/41837417/scanner-nextint-not-recognized
+
+http://stackoverflow.com/questions/41800469/watch-a-directory-when-the-file-enters-into-it-then-notify-an-event-in-java
