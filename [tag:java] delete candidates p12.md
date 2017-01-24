@@ -16,10 +16,6 @@ http://stackoverflow.com/questions/41733487/java-magic-square-program-error
 
 http://stackoverflow.com/questions/41769894/java-forint-i-0i1000i-system-out-printi-just-prints-spaces-not-num
 
-http://stackoverflow.com/questions/41767362/i-am-using-static-method-in-java-but-i-am-not-getting-the-proper-output-what-a
-
-http://stackoverflow.com/questions/41766944/how-to-implement-post-request-restful-service-java
-
 http://stackoverflow.com/questions/41775391/how-would-i-edit-my-method-to-ignore-the-punctuation-marks-and-just-look-at-the
 
 http://stackoverflow.com/questions/41786580/difference-between-two-kinds-of-java-list-initialization
