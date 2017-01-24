@@ -6,25 +6,15 @@ http://stackoverflow.com/questions/41712082/incompatible-types-void-cannot-be-co
 
 http://stackoverflow.com/questions/41722076/junit-assert-list-of-size-n
 
-http://stackoverflow.com/questions/41727915/autowired-is-not-working-in-unit-test
-
 http://stackoverflow.com/questions/41725945/spring-bean-definition-inheritence-using-annotation
 
 http://stackoverflow.com/questions/41597214/having-trouble-with-some-arraylists
 
 http://stackoverflow.com/questions/41732392/is-volatile-needed-for-a-member-variable-of-a-singleton-created-this-way
 
-http://stackoverflow.com/questions/41746303/how-to-check-if-a-bytes-bits-make-a-palindrome-in-java
-
-http://stackoverflow.com/questions/41746567/java-confusing-polymorphism
-
 http://stackoverflow.com/questions/41733487/java-magic-square-program-error
 
 http://stackoverflow.com/questions/41769894/java-forint-i-0i1000i-system-out-printi-just-prints-spaces-not-num
-
-http://stackoverflow.com/questions/41753643/why-java-integer-min-value-divided-by-2-not-overflow-but-divided-by-1-cause-o
-
-http://stackoverflow.com/questions/41754818/add-method-does-not-work-well-for-overflow-in-java-calender
 
 http://stackoverflow.com/questions/41767362/i-am-using-static-method-in-java-but-i-am-not-getting-the-proper-output-what-a
 
