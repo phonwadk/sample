@@ -115,3 +115,4 @@ http://stackoverflow.com/questions/41829507/parse-nested-json-data-in-java
 
 http://stackoverflow.com/questions/41831955/variable-accessibility-in-inheritance-in-java
 
+http://stackoverflow.com/questions/41830507/static-variable-print-wrong-value
