@@ -40,6 +40,8 @@ http://stackoverflow.com/questions/41819898/why-is-a-java-subclass-not-an-object
 
 http://stackoverflow.com/questions/41830301/what-is-wrong-with-the-given-program-using-arraylist
 
+http://stackoverflow.com/questions/41813416/how-do-i-enable-that-a-command-line-argument-is-optional-in-java
+
 
 NOT YET
 =====
@@ -109,4 +111,8 @@ http://stackoverflow.com/questions/41820662/why-we-need-to-type-cast-object-we-g
 http://stackoverflow.com/questions/41818858/nested-loop-with-recount
 
 http://stackoverflow.com/questions/41829432/listaddress-only-stores-one-value-as-opposed-to-the-6-values-i-have-attempted
+
+http://stackoverflow.com/questions/41817113/the-output-of-this-java-array-is-58-but-why
+
+http://stackoverflow.com/questions/41829507/parse-nested-json-data-in-java
 
