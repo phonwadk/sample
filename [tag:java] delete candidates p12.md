@@ -12,9 +12,6 @@ http://stackoverflow.com/questions/41733487/java-magic-square-program-error
 
 http://stackoverflow.com/questions/41776457/i-have-declared-public-variable-in-static-block-it-s-showing-error
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41786846/can-i-use-8-digits-in-double-data-type-in-java
 
 http://stackoverflow.com/questions/41786948/what-does-setdaemon-do-on-a-thread
@@ -27,9 +24,16 @@ http://stackoverflow.com/questions/41786702/converting-a-for-loop-in-a-while-tru
 
 http://stackoverflow.com/questions/41787355/java-8-stream-interface-map-function-signature
 
-http://stackoverflow.com/questions/41792871/java-condition-obj-null-is-always-true-why
-
 http://stackoverflow.com/questions/41786702/converting-a-for-loop-in-a-while-true-loop-in-java-beginner
+
+http://stackoverflow.com/questions/41788353/convert-string-character-to-equivalent-utf-8-values
+
+http://stackoverflow.com/questions/41788601/nullpointerexception-to-an-already-created-object
+
+NOT YET
+=====
+
+http://stackoverflow.com/questions/41792871/java-condition-obj-null-is-always-true-why
 
 http://stackoverflow.com/questions/41787740/putting-close-method-in-bufferedreader-causing-i-o-exception
 
@@ -40,8 +44,6 @@ http://stackoverflow.com/questions/41793033/random-quote-app-android-using-the-r
 http://stackoverflow.com/questions/41793047/cant-split-a-string-with
 
 http://stackoverflow.com/questions/41793649/autowire-byname-jdbctemplate-spring
-
-http://stackoverflow.com/questions/41788353/convert-string-character-to-equivalent-utf-8-values
 
 http://stackoverflow.com/questions/41794110/how-to-parse-a-string-representing-a-date-in-a-specific-locale-by-using-java-tim
 
@@ -62,8 +64,6 @@ http://stackoverflow.com/questions/41744132/java-exceptions
 http://stackoverflow.com/questions/41746114/how-to-fix-java-concurrentmodificationexception
 
 http://stackoverflow.com/questions/41744370/java-confusing-behaviour-during-static-initialization
-
-http://stackoverflow.com/questions/41788601/nullpointerexception-to-an-already-created-object
 
 http://stackoverflow.com/questions/41791394/appending-characters-to-a-string-does-not-produce-the-expected-results
 
