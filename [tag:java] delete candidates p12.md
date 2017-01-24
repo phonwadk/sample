@@ -46,6 +46,8 @@ http://stackoverflow.com/questions/41792871/java-condition-obj-null-is-always-tr
 
 http://stackoverflow.com/questions/41819050/calling-a-constructor-from-a-constructor-in-a-different-class-java
 
+http://stackoverflow.com/questions/41829858/how-to-change-this-pseudocode-in-to-working-system
+
 NOT YET
 =====
 
