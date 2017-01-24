@@ -126,3 +126,5 @@ http://stackoverflow.com/questions/41830507/static-variable-print-wrong-value
 http://stackoverflow.com/questions/41833280/wiring-static-reference-with-and-without-setter
 
 http://stackoverflow.com/questions/41833280/wiring-static-reference-with-setter-causing-no-npe
+
+http://stackoverflow.com/questions/41837417/scanner-nextint-not-recognized
