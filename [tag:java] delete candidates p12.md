@@ -1,8 +1,3 @@
-
-http://stackoverflow.com/questions/41790720/java-indexof-clarification
-
-http://stackoverflow.com/questions/41794487/how-do-you-remove-numbers-greater-than-300-from-an-arraylist
-
 http://stackoverflow.com/questions/41793636/why-does-this-only-loop-twice-java
 
 http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than-fdouble-x
@@ -14,8 +9,6 @@ http://stackoverflow.com/questions/41722076/junit-assert-list-of-size-n
 http://stackoverflow.com/questions/41727915/autowired-is-not-working-in-unit-test
 
 http://stackoverflow.com/questions/41725945/spring-bean-definition-inheritence-using-annotation
-
-http://stackoverflow.com/questions/41726604/narrowing-in-range-values-for-literals-and-method-parameters
 
 http://stackoverflow.com/questions/41597214/having-trouble-with-some-arraylists
 
@@ -33,27 +26,11 @@ http://stackoverflow.com/questions/41753643/why-java-integer-min-value-divided-b
 
 http://stackoverflow.com/questions/41754818/add-method-does-not-work-well-for-overflow-in-java-calender
 
-http://stackoverflow.com/questions/41755422/is-there-anything-wrong-with-this-code
-
-http://stackoverflow.com/questions/41755970/nosuchelementexception-exception-at-scanner-nextint
-
-http://stackoverflow.com/questions/41763855/what-sorting-algorithm-does-java-8-use-and-what-is-its-space-complexity
-
 http://stackoverflow.com/questions/41767362/i-am-using-static-method-in-java-but-i-am-not-getting-the-proper-output-what-a
 
 http://stackoverflow.com/questions/41766944/how-to-implement-post-request-restful-service-java
 
-http://stackoverflow.com/questions/41767135/control-variable-for-a-lambda-based-iteration
-
-http://stackoverflow.com/questions/41769767/int-out-of-try-catch
-
-http://stackoverflow.com/questions/41430587/parsing-json-on-android-with-public-class-and-asynctask
-
-http://stackoverflow.com/questions/41775652/numerous-amount-of-thread-errors-idk-why
-
 http://stackoverflow.com/questions/41775391/how-would-i-edit-my-method-to-ignore-the-punctuation-marks-and-just-look-at-the
-
-http://stackoverflow.com/questions/41786949/java-overloading-equals-and-tostring-methods
 
 http://stackoverflow.com/questions/41786580/difference-between-two-kinds-of-java-list-initialization
 
@@ -63,10 +40,10 @@ http://stackoverflow.com/questions/41776680/how-to-find-the-index-of-a-particula
 
 http://stackoverflow.com/questions/41810200/java-beginner-any-feedback-appreiciated
 
+http://stackoverflow.com/questions/41783962/exception-while-outputting-through-scanner
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/41783962/exception-while-outputting-through-scanner
 
 http://stackoverflow.com/questions/41786846/can-i-use-8-digits-in-double-data-type-in-java
 
