@@ -34,19 +34,18 @@ http://stackoverflow.com/questions/41821179/how-to-update-text-color-of-a-single
 
 http://stackoverflow.com/questions/41821102/how-to-get-java-date-format-like-2017-01-24-000000
 
-http://stackoverflow.com/questions/41744132/java-exceptions
-
 http://stackoverflow.com/questions/41819898/why-is-a-java-subclass-not-an-object
 
 http://stackoverflow.com/questions/41830301/what-is-wrong-with-the-given-program-using-arraylist
 
 http://stackoverflow.com/questions/41813416/how-do-i-enable-that-a-command-line-argument-is-optional-in-java
 
+http://stackoverflow.com/questions/41744132/java-exceptions
+
+http://stackoverflow.com/questions/41792871/java-condition-obj-null-is-always-true-why
 
 NOT YET
 =====
-
-http://stackoverflow.com/questions/41792871/java-condition-obj-null-is-always-true-why
 
 http://stackoverflow.com/questions/41787740/putting-close-method-in-bufferedreader-causing-i-o-exception
 
@@ -71,8 +70,6 @@ http://stackoverflow.com/questions/41794515/java-lang-nullpointerexception-despi
 http://stackoverflow.com/questions/41795090/using-basethis-f-instead-of-super-f-in-derived-f-compiles-fine-but
 
 http://stackoverflow.com/questions/41795246/java-string-only-printing-first-word
-
-http://stackoverflow.com/questions/41744132/java-exceptions
 
 http://stackoverflow.com/questions/41746114/how-to-fix-java-concurrentmodificationexception
 
