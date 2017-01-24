@@ -60,6 +60,8 @@ http://stackoverflow.com/questions/41792342/computeifabsent-before-java-8
 
 http://stackoverflow.com/questions/41793033/random-quote-app-android-using-the-random-class-in-java
 
+http://stackoverflow.com/questions/41840816/why-returning-an-ambigious-value-to-me-after-for-loop-in-java
+
 NOT YET
 =====
 
@@ -130,3 +132,5 @@ http://stackoverflow.com/questions/41833280/wiring-static-reference-with-setter-
 http://stackoverflow.com/questions/41837417/scanner-nextint-not-recognized
 
 http://stackoverflow.com/questions/41800469/watch-a-directory-when-the-file-enters-into-it-then-notify-an-event-in-java
+
+http://stackoverflow.com/questions/41840484/java-prints-only-first-part-of-a-two-part-string
