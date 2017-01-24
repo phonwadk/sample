@@ -134,3 +134,5 @@ http://stackoverflow.com/questions/41837417/scanner-nextint-not-recognized
 http://stackoverflow.com/questions/41800469/watch-a-directory-when-the-file-enters-into-it-then-notify-an-event-in-java
 
 http://stackoverflow.com/questions/41840484/java-prints-only-first-part-of-a-two-part-string
+
+http://stackoverflow.com/questions/41840768/two-excluding-interfaces-in-java
