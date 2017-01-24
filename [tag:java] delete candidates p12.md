@@ -52,14 +52,16 @@ http://stackoverflow.com/questions/41819050/calling-a-constructor-from-a-constru
 
 http://stackoverflow.com/questions/41829858/how-to-change-this-pseudocode-in-to-working-system
 
-NOT YET
-=====
+http://stackoverflow.com/questions/41794515/java-lang-nullpointerexception-despite-the-fact-that-the-called-objects-are-not
 
 http://stackoverflow.com/questions/41787740/putting-close-method-in-bufferedreader-causing-i-o-exception
 
 http://stackoverflow.com/questions/41792342/computeifabsent-before-java-8
 
 http://stackoverflow.com/questions/41793033/random-quote-app-android-using-the-random-class-in-java
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41793047/cant-split-a-string-with
 
@@ -70,10 +72,6 @@ http://stackoverflow.com/questions/41794110/how-to-parse-a-string-representing-a
 http://stackoverflow.com/questions/41794158/changing-xml-based-configuration-to-annotation-based-for-multiple-registered-a-b
 
 http://stackoverflow.com/questions/41783988/how-to-end-a-while-loop
-
-http://stackoverflow.com/questions/41794515/java-lang-nullpointerexception-for-unclear-reason
-
-http://stackoverflow.com/questions/41794515/java-lang-nullpointerexception-despite-the-fact-that-the-called-objects-are-not
 
 http://stackoverflow.com/questions/41795090/using-basethis-f-instead-of-super-f-in-derived-f-compiles-fine-but
 
