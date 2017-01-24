@@ -116,3 +116,5 @@ http://stackoverflow.com/questions/41817113/the-output-of-this-java-array-is-58-
 
 http://stackoverflow.com/questions/41829507/parse-nested-json-data-in-java
 
+http://stackoverflow.com/questions/41831955/variable-accessibility-in-inheritance-in-java
+
