@@ -18,17 +18,9 @@ http://stackoverflow.com/questions/41776457/i-have-declared-public-variable-in-s
 
 http://stackoverflow.com/questions/41786846/can-i-use-8-digits-in-double-data-type-in-java
 
-http://stackoverflow.com/questions/41786948/what-does-setdaemon-do-on-a-thread
-
 http://stackoverflow.com/questions/41786800/do-while-loop-logic-java
 
 http://stackoverflow.com/questions/41786648/spring-getter-method-is-not-able-to-call-in-java
-
-http://stackoverflow.com/questions/41786702/converting-a-for-loop-in-a-while-true-loop-in-java-beginner
-
-http://stackoverflow.com/questions/41787355/java-8-stream-interface-map-function-signature
-
-http://stackoverflow.com/questions/41786702/converting-a-for-loop-in-a-while-true-loop-in-java-beginner
 
 http://stackoverflow.com/questions/41788353/convert-string-character-to-equivalent-utf-8-values
 
@@ -37,8 +29,6 @@ http://stackoverflow.com/questions/41788601/nullpointerexception-to-an-already-c
 http://stackoverflow.com/questions/41821179/how-to-update-text-color-of-a-single-string-variable-in-mainactivity-java
 
 http://stackoverflow.com/questions/41821102/how-to-get-java-date-format-like-2017-01-24-000000
-
-http://stackoverflow.com/questions/41819898/why-is-a-java-subclass-not-an-object
 
 http://stackoverflow.com/questions/41830301/what-is-wrong-with-the-given-program-using-arraylist
 
