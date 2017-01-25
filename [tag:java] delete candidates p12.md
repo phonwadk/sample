@@ -56,6 +56,10 @@ http://stackoverflow.com/questions/41727824/quickly-find-if-an-arraylist-of-maps
 
 http://stackoverflow.com/questions/41725945/spring-bean-definition-inheritence-using-annotation
 
+http://stackoverflow.com/questions/41723510/java-grouping-class-field
+
+http://stackoverflow.com/questions/41721803/sorting-characters-in-a-string-by-number-of-occurrences
+
 
 NOT YET
 =====
@@ -99,3 +103,5 @@ http://stackoverflow.com/questions/41840484/java-prints-only-first-part-of-a-two
 http://stackoverflow.com/questions/41840768/two-excluding-interfaces-in-java
 
 http://stackoverflow.com/questions/41853782/nullpointer-in-spring-cause-autowired-does-not-work
+
+http://stackoverflow.com/questions/41857014/java-sending-int-variables-to-a-constructor
