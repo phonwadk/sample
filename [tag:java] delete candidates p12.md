@@ -60,6 +60,7 @@ http://stackoverflow.com/questions/41723510/java-grouping-class-field
 
 http://stackoverflow.com/questions/41721803/sorting-characters-in-a-string-by-number-of-occurrences
 
+http://stackoverflow.com/questions/41861241/writing-a-program-that-gathers-inputs-and-calculates-them-into-prices
 
 NOT YET
 =====
