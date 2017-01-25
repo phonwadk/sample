@@ -2,6 +2,14 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
+These two duplicates of eachother from same user. First needs to go first:
+
+http://stackoverflow.com/questions/41727525/how-to-find-which-method-is-called-in-overring
+
+http://stackoverflow.com/questions/41721422/tricky-method-overloading-in-java
+
+===
+
 http://stackoverflow.com/questions/41799983/else-if-condition-being-skipped
 
 http://stackoverflow.com/questions/41818858/nested-loop-with-recount
@@ -9,6 +17,11 @@ http://stackoverflow.com/questions/41818858/nested-loop-with-recount
 http://stackoverflow.com/questions/41817113/the-output-of-this-java-array-is-58-but-why
 
 http://stackoverflow.com/questions/41812259/how-to-print-a-file-line-by-line
+
+http://stackoverflow.com/questions/41841573/java-error-else-without-if
+
+http://stackoverflow.com/questions/41836504/how-to-debug-a-java-lang-stringindexoutofboundsexception
+
 
 NOT YET
 =====
@@ -46,3 +59,5 @@ http://stackoverflow.com/questions/41800469/watch-a-directory-when-the-file-ente
 http://stackoverflow.com/questions/41840484/java-prints-only-first-part-of-a-two-part-string
 
 http://stackoverflow.com/questions/41840768/two-excluding-interfaces-in-java
+
+http://stackoverflow.com/questions/41853782/nullpointer-in-spring-cause-autowired-does-not-work
