@@ -62,6 +62,8 @@ http://stackoverflow.com/questions/41721803/sorting-characters-in-a-string-by-nu
 
 http://stackoverflow.com/questions/41861241/writing-a-program-that-gathers-inputs-and-calculates-them-into-prices
 
+http://stackoverflow.com/questions/41861645/how-do-you-concatenate-two-array-lists
+
 NOT YET
 =====
 
