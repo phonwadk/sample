@@ -110,3 +110,5 @@ http://stackoverflow.com/questions/41828445/is-there-a-java-type-repesenting-a-p
 http://stackoverflow.com/questions/41860938/java-scanner-error-cannot-find-symbol
 
 http://stackoverflow.com/questions/41862098/why-does-new-int3-getclass-getname-not-work-as-expected-on-arrays-in-j
+
+http://stackoverflow.com/questions/41862874/getting-an-java-lang-stackoverflowerror
