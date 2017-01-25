@@ -8,8 +8,6 @@ http://stackoverflow.com/questions/41721422/tricky-method-overloading-in-java
 
 http://stackoverflow.com/questions/41799983/else-if-condition-being-skipped
 
-http://stackoverflow.com/questions/41818858/nested-loop-with-recount
-
 http://stackoverflow.com/questions/41812259/how-to-print-a-file-line-by-line
 
 http://stackoverflow.com/questions/41836504/how-to-debug-a-java-lang-stringindexoutofboundsexception
