@@ -3,56 +3,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 ===
 
 
-http://stackoverflow.com/questions/41788353/convert-string-character-to-equivalent-utf-8-values
-
-http://stackoverflow.com/questions/41788601/nullpointerexception-to-an-already-created-object
-
-http://stackoverflow.com/questions/41821179/how-to-update-text-color-of-a-single-string-variable-in-mainactivity-java
-
-http://stackoverflow.com/questions/41821102/how-to-get-java-date-format-like-2017-01-24-000000
-
-http://stackoverflow.com/questions/41830301/what-is-wrong-with-the-given-program-using-arraylist
-
-http://stackoverflow.com/questions/41744132/java-exceptions
-
-http://stackoverflow.com/questions/41792871/java-condition-obj-null-is-always-true-why
-
-http://stackoverflow.com/questions/41819050/calling-a-constructor-from-a-constructor-in-a-different-class-java
-
-http://stackoverflow.com/questions/41829858/how-to-change-this-pseudocode-in-to-working-system
-
-http://stackoverflow.com/questions/41794515/java-lang-nullpointerexception-despite-the-fact-that-the-called-objects-are-not
-
-http://stackoverflow.com/questions/41787740/putting-close-method-in-bufferedreader-causing-i-o-exception
-
-http://stackoverflow.com/questions/41792342/computeifabsent-before-java-8
-
-http://stackoverflow.com/questions/41793033/random-quote-app-android-using-the-random-class-in-java
-
-http://stackoverflow.com/questions/41793047/cant-split-a-string-with
-
-http://stackoverflow.com/questions/41793649/autowire-byname-jdbctemplate-spring
-
-http://stackoverflow.com/questions/41794110/how-to-parse-a-string-representing-a-date-in-a-specific-locale-by-using-java-tim
-
-http://stackoverflow.com/questions/41794158/changing-xml-based-configuration-to-annotation-based-for-multiple-registered-a-b
-
-http://stackoverflow.com/questions/41783988/how-to-end-a-while-loop
-
-http://stackoverflow.com/questions/41795090/using-basethis-f-instead-of-super-f-in-derived-f-compiles-fine-but
-
-http://stackoverflow.com/questions/41795246/java-string-only-printing-first-word
-
-http://stackoverflow.com/questions/41746114/how-to-fix-java-concurrentmodificationexception
-
-http://stackoverflow.com/questions/41744370/java-confusing-behaviour-during-static-initialization
-
-http://stackoverflow.com/questions/41791394/appending-characters-to-a-string-does-not-produce-the-expected-results
-
-http://stackoverflow.com/questions/41750042/string-or-int-cannot-be-converted-to-string-or-int
-
-http://stackoverflow.com/questions/41797568/error-displaying-buttons-in-swing
-
 NOT YET
 =====
 
