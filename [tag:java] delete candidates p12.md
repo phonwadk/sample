@@ -12,8 +12,6 @@ http://stackoverflow.com/questions/41818858/nested-loop-with-recount
 
 http://stackoverflow.com/questions/41812259/how-to-print-a-file-line-by-line
 
-http://stackoverflow.com/questions/41841573/java-error-else-without-if
-
 http://stackoverflow.com/questions/41836504/how-to-debug-a-java-lang-stringindexoutofboundsexception
 
 http://stackoverflow.com/questions/41720980/i-have-a-homework-assignment-about-a-piece-of-code-im-supposed-to-simplify
