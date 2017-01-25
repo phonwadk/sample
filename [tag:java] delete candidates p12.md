@@ -2,17 +2,14 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
+http://stackoverflow.com/questions/41799983/else-if-condition-being-skipped
+
+http://stackoverflow.com/questions/41818858/nested-loop-with-recount
+
+http://stackoverflow.com/questions/41817113/the-output-of-this-java-array-is-58-but-why
 
 NOT YET
 =====
-
-http://stackoverflow.com/questions/41665433/spring-4-autowired-nosuchbeandefinitionexception
-
-http://stackoverflow.com/questions/41798116/is-it-possible-to-write-a-wrapper-for-double-that-gets-boxed-unboxed
-
-http://stackoverflow.com/questions/41781712/monomorphic-generics-mechanism-vs-polymorphic-generics-mechanism
-
-http://stackoverflow.com/questions/41799983/else-if-condition-being-skipped
 
 http://stackoverflow.com/questions/41460586/comparator-consistent-with-equals-meaningful-example
 
@@ -30,11 +27,7 @@ http://stackoverflow.com/questions/41831721/unexpected-type-error-simple-hangman
 
 http://stackoverflow.com/questions/41820662/why-we-need-to-type-cast-object-we-get-from-spring-bean-as-java-class-object
 
-http://stackoverflow.com/questions/41818858/nested-loop-with-recount
-
 http://stackoverflow.com/questions/41829432/listaddress-only-stores-one-value-as-opposed-to-the-6-values-i-have-attempted
-
-http://stackoverflow.com/questions/41817113/the-output-of-this-java-array-is-58-but-why
 
 http://stackoverflow.com/questions/41829507/parse-nested-json-data-in-java
 
