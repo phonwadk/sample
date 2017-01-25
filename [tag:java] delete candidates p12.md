@@ -2,25 +2,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/41793636/why-does-this-only-loop-twice-java
-
-http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than-fdouble-x
-
-http://stackoverflow.com/questions/41712082/incompatible-types-void-cannot-be-converted-to-int
-
-http://stackoverflow.com/questions/41725945/spring-bean-definition-inheritence-using-annotation
-
-http://stackoverflow.com/questions/41597214/having-trouble-with-some-arraylists
-
-http://stackoverflow.com/questions/41733487/java-magic-square-program-error
-
-http://stackoverflow.com/questions/41776457/i-have-declared-public-variable-in-static-block-it-s-showing-error
-
-http://stackoverflow.com/questions/41786846/can-i-use-8-digits-in-double-data-type-in-java
-
-http://stackoverflow.com/questions/41786800/do-while-loop-logic-java
-
-http://stackoverflow.com/questions/41786648/spring-getter-method-is-not-able-to-call-in-java
 
 http://stackoverflow.com/questions/41788353/convert-string-character-to-equivalent-utf-8-values
 
@@ -52,9 +33,6 @@ http://stackoverflow.com/questions/41793033/random-quote-app-android-using-the-r
 
 http://stackoverflow.com/questions/41840816/why-returning-an-ambigious-value-to-me-after-for-loop-in-java
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41793047/cant-split-a-string-with
 
 http://stackoverflow.com/questions/41793649/autowire-byname-jdbctemplate-spring
@@ -78,6 +56,9 @@ http://stackoverflow.com/questions/41791394/appending-characters-to-a-string-doe
 http://stackoverflow.com/questions/41750042/string-or-int-cannot-be-converted-to-string-or-int
 
 http://stackoverflow.com/questions/41797568/error-displaying-buttons-in-swing
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41665433/spring-4-autowired-nosuchbeandefinitionexception
 
