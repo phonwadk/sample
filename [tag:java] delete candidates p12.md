@@ -2,13 +2,7 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-These two duplicates of eachother from same user. First needs to go first:
-
-http://stackoverflow.com/questions/41727525/how-to-find-which-method-is-called-in-overring
-
 http://stackoverflow.com/questions/41721422/tricky-method-overloading-in-java
-
-===
 
 http://stackoverflow.com/questions/41799983/else-if-condition-being-skipped
 
@@ -22,6 +16,11 @@ http://stackoverflow.com/questions/41841573/java-error-else-without-if
 
 http://stackoverflow.com/questions/41836504/how-to-debug-a-java-lang-stringindexoutofboundsexception
 
+http://stackoverflow.com/questions/41720980/i-have-a-homework-assignment-about-a-piece-of-code-im-supposed-to-simplify
+
+http://stackoverflow.com/questions/41712082/incompatible-types-void-cannot-be-converted-to-int
+
+http://stackoverflow.com/questions/41697717/java-sleep-method-is-not-skipping-time-its-directly-showing-total-loop-outp
 
 NOT YET
 =====
