@@ -10,8 +10,6 @@ http://stackoverflow.com/questions/41799983/else-if-condition-being-skipped
 
 http://stackoverflow.com/questions/41818858/nested-loop-with-recount
 
-http://stackoverflow.com/questions/41817113/the-output-of-this-java-array-is-58-but-why
-
 http://stackoverflow.com/questions/41812259/how-to-print-a-file-line-by-line
 
 http://stackoverflow.com/questions/41841573/java-error-else-without-if
@@ -114,3 +112,5 @@ http://stackoverflow.com/questions/41857631/how-to-convert-java-inputstream-to-a
 http://stackoverflow.com/questions/41828445/is-there-a-java-type-repesenting-a-period-that-is-fixed-in-time
 
 http://stackoverflow.com/questions/41860938/java-scanner-error-cannot-find-symbol
+
+http://stackoverflow.com/questions/41862098/why-does-new-int3-getclass-getname-not-work-as-expected-on-arrays-in-j
