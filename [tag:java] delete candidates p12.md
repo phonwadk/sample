@@ -8,6 +8,8 @@ http://stackoverflow.com/questions/41818858/nested-loop-with-recount
 
 http://stackoverflow.com/questions/41817113/the-output-of-this-java-array-is-58-but-why
 
+http://stackoverflow.com/questions/41812259/how-to-print-a-file-line-by-line
+
 NOT YET
 =====
 
@@ -16,8 +18,6 @@ http://stackoverflow.com/questions/41460586/comparator-consistent-with-equals-me
 http://stackoverflow.com/questions/41812436/should-i-implement-an-array-into-this
 
 http://stackoverflow.com/questions/41811181/java-instantiation-of-bean-failed-nested-exception-is-java-lang-exceptioninin
-
-http://stackoverflow.com/questions/41812259/how-to-print-a-file-line-by-line
 
 http://stackoverflow.com/questions/41831734/java-code-with-array-error
 
