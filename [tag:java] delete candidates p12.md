@@ -107,3 +107,5 @@ http://stackoverflow.com/questions/41853782/nullpointer-in-spring-cause-autowire
 http://stackoverflow.com/questions/41857014/java-sending-int-variables-to-a-constructor
 
 http://stackoverflow.com/questions/41857631/how-to-convert-java-inputstream-to-a-bytearrayinputstream-or-to-a-string
+
+http://stackoverflow.com/questions/41828445/is-there-a-java-type-repesenting-a-period-that-is-fixed-in-time
