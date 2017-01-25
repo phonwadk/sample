@@ -13,8 +13,6 @@ http://stackoverflow.com/questions/41821102/how-to-get-java-date-format-like-201
 
 http://stackoverflow.com/questions/41830301/what-is-wrong-with-the-given-program-using-arraylist
 
-http://stackoverflow.com/questions/41813416/how-do-i-enable-that-a-command-line-argument-is-optional-in-java
-
 http://stackoverflow.com/questions/41744132/java-exceptions
 
 http://stackoverflow.com/questions/41792871/java-condition-obj-null-is-always-true-why
@@ -30,8 +28,6 @@ http://stackoverflow.com/questions/41787740/putting-close-method-in-bufferedread
 http://stackoverflow.com/questions/41792342/computeifabsent-before-java-8
 
 http://stackoverflow.com/questions/41793033/random-quote-app-android-using-the-random-class-in-java
-
-http://stackoverflow.com/questions/41840816/why-returning-an-ambigious-value-to-me-after-for-loop-in-java
 
 http://stackoverflow.com/questions/41793047/cant-split-a-string-with
 
