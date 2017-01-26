@@ -56,6 +56,8 @@ http://stackoverflow.com/questions/41829432/listaddress-only-stores-one-value-as
 
 http://stackoverflow.com/questions/41829507/parse-nested-json-data-in-java
 
+http://stackoverflow.com/questions/41878718/i-need-some-help-understaning-static-methods-variables-in-java
+
 NOT YET
 =====
 
