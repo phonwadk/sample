@@ -18,8 +18,6 @@ http://stackoverflow.com/questions/41782819/when-is-it-justified-to-throw-indexo
 
 http://stackoverflow.com/questions/41750817/sql-update-query-giving-bad-sql-grammar-error
 
-http://stackoverflow.com/questions/41729585/the-code-does-not-return-min-and-max-values
-
 http://stackoverflow.com/questions/41727824/quickly-find-if-an-arraylist-of-maps-contains-specified-key
 
 http://stackoverflow.com/questions/41723510/java-grouping-class-field
@@ -57,8 +55,6 @@ http://stackoverflow.com/questions/41829432/listaddress-only-stores-one-value-as
 http://stackoverflow.com/questions/41829507/parse-nested-json-data-in-java
 
 http://stackoverflow.com/questions/41878718/i-need-some-help-understaning-static-methods-variables-in-java
-
-http://stackoverflow.com/questions/41880070/double-to-int-not-simple-conversion
 
 NOT YET
 =====
