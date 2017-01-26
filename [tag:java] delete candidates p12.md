@@ -116,3 +116,4 @@ http://stackoverflow.com/questions/41862116/in-java-is-there-a-way-to-tell-from-
 
 http://stackoverflow.com/questions/41854640/why-does-boolean-int-0-work
 
+http://stackoverflow.com/questions/41836449/java-constructor-cannot-be-applied-to-given-type-inheritance
