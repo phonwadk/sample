@@ -123,3 +123,5 @@ http://stackoverflow.com/questions/41858666/assigning-integer-value-to-character
 http://stackoverflow.com/questions/41874323/java-loop-skip-over-oo
 
 http://stackoverflow.com/questions/41878399/java-how-to-remove-object-if-search-is-found-from-arraylist
+
+http://stackoverflow.com/questions/41857253/sonarqube-rule-comments
