@@ -48,6 +48,8 @@ http://stackoverflow.com/questions/41873965/i-am-trying-to-write-my-first-progra
 
 http://stackoverflow.com/questions/41875233/call-an-interface-method-from-anonymous-class-in-java
 
+http://stackoverflow.com/questions/41875948/how-to-generate-random-nextint-without-high-value
+
 NOT YET
 =====
 
