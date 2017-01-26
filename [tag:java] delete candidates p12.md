@@ -10,35 +10,23 @@ http://stackoverflow.com/questions/41799983/else-if-condition-being-skipped
 
 http://stackoverflow.com/questions/41812259/how-to-print-a-file-line-by-line
 
-http://stackoverflow.com/questions/41836504/how-to-debug-a-java-lang-stringindexoutofboundsexception
-
 http://stackoverflow.com/questions/41720980/i-have-a-homework-assignment-about-a-piece-of-code-im-supposed-to-simplify
 
 http://stackoverflow.com/questions/41782819/when-is-it-justified-to-throw-indexoutofboundexception
 
 http://stackoverflow.com/questions/41750817/sql-update-query-giving-bad-sql-grammar-error
 
-http://stackoverflow.com/questions/41727824/quickly-find-if-an-arraylist-of-maps-contains-specified-key
-
 http://stackoverflow.com/questions/41723510/java-grouping-class-field
 
 http://stackoverflow.com/questions/41721803/sorting-characters-in-a-string-by-number-of-occurrences
 
-http://stackoverflow.com/questions/41861645/how-do-you-concatenate-two-array-lists
-
 http://stackoverflow.com/questions/41460586/comparator-consistent-with-equals-meaningful-example
-
-http://stackoverflow.com/questions/41811181/java-instantiation-of-bean-failed-nested-exception-is-java-lang-exceptioninin
-
-http://stackoverflow.com/questions/41863821/what-are-the-bugs-in-the-following-method
 
 http://stackoverflow.com/questions/41829670/autowired-not-working-using-interface-with-generic-types
 
 http://stackoverflow.com/questions/41831721/unexpected-type-error-simple-hangman-code
 
 http://stackoverflow.com/questions/41831734/java-code-with-array-error
-
-http://stackoverflow.com/questions/41863821/what-are-the-bugs-in-the-following-method
 
 http://stackoverflow.com/questions/41873339/get-random-double-between-two-positive-and-negative-number-in-java
 
