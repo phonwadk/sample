@@ -20,8 +20,6 @@ http://stackoverflow.com/questions/41199699/java-util-scanner-nextint-gives-nosu
 
 http://stackoverflow.com/questions/41786846/can-i-use-8-digits-in-double-data-type-in-java
 
-http://stackoverflow.com/questions/41793636/why-does-this-only-loop-twice-java
-
 http://stackoverflow.com/questions/41787214/how-to-find-minimum-difference-between-two-prime-numbers
 
 http://stackoverflow.com/questions/41786648/spring-getter-method-is-not-able-to-call-in-java
@@ -101,7 +99,5 @@ http://stackoverflow.com/questions/41857631/how-to-convert-java-inputstream-to-a
 http://stackoverflow.com/questions/41828445/is-there-a-java-type-repesenting-a-period-that-is-fixed-in-time
 
 http://stackoverflow.com/questions/41860938/java-scanner-error-cannot-find-symbol
-
-http://stackoverflow.com/questions/41862098/why-does-new-int3-getclass-getname-not-work-as-expected-on-arrays-in-j
 
 http://stackoverflow.com/questions/41862874/getting-an-java-lang-stackoverflowerror
