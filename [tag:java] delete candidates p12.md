@@ -14,23 +14,7 @@ http://stackoverflow.com/questions/41836504/how-to-debug-a-java-lang-stringindex
 
 http://stackoverflow.com/questions/41720980/i-have-a-homework-assignment-about-a-piece-of-code-im-supposed-to-simplify
 
-http://stackoverflow.com/questions/41697717/java-sleep-method-is-not-skipping-time-its-directly-showing-total-loop-outp
-
-http://stackoverflow.com/questions/41199699/java-util-scanner-nextint-gives-nosuchelementexception-after-previous-scanner
-
-http://stackoverflow.com/questions/41786846/can-i-use-8-digits-in-double-data-type-in-java
-
-http://stackoverflow.com/questions/41787214/how-to-find-minimum-difference-between-two-prime-numbers
-
-http://stackoverflow.com/questions/41786648/spring-getter-method-is-not-able-to-call-in-java
-
 http://stackoverflow.com/questions/41782819/when-is-it-justified-to-throw-indexoutofboundexception
-
-http://stackoverflow.com/questions/41776457/i-have-declared-public-variable-in-static-block-it-s-showing-error
-
-http://stackoverflow.com/questions/41755621/the-basic-statements-of-my-if-statements-are-showing-up-many-missing-assignmen
-
-http://stackoverflow.com/questions/41755267/how-to-initialize-google-concurrentlinkedhashmap
 
 http://stackoverflow.com/questions/41750817/sql-update-query-giving-bad-sql-grammar-error
 
@@ -38,23 +22,15 @@ http://stackoverflow.com/questions/41729585/the-code-does-not-return-min-and-max
 
 http://stackoverflow.com/questions/41727824/quickly-find-if-an-arraylist-of-maps-contains-specified-key
 
-http://stackoverflow.com/questions/41725945/spring-bean-definition-inheritence-using-annotation
-
 http://stackoverflow.com/questions/41723510/java-grouping-class-field
 
 http://stackoverflow.com/questions/41721803/sorting-characters-in-a-string-by-number-of-occurrences
 
-http://stackoverflow.com/questions/41861241/writing-a-program-that-gathers-inputs-and-calculates-them-into-prices
-
 http://stackoverflow.com/questions/41861645/how-do-you-concatenate-two-array-lists
-
-http://stackoverflow.com/questions/41795081/how-to-call-java-function-in-code-jar-from-python-using-jpype
 
 http://stackoverflow.com/questions/41810412/how-to-add-url-of-requestmapping-at-class-level-to-each-method-in-that-class
 
 http://stackoverflow.com/questions/41460586/comparator-consistent-with-equals-meaningful-example
-
-http://stackoverflow.com/questions/41812436/should-i-implement-an-array-into-this
 
 http://stackoverflow.com/questions/41811181/java-instantiation-of-bean-failed-nested-exception-is-java-lang-exceptioninin
 
