@@ -40,6 +40,14 @@ http://stackoverflow.com/questions/41831721/unexpected-type-error-simple-hangman
 
 http://stackoverflow.com/questions/41831734/java-code-with-array-error
 
+http://stackoverflow.com/questions/41863821/what-are-the-bugs-in-the-following-method
+
+http://stackoverflow.com/questions/41873339/get-random-double-between-two-positive-and-negative-number-in-java
+
+http://stackoverflow.com/questions/41873965/i-am-trying-to-write-my-first-program-in-java-and-i-get-the-error-below
+
+http://stackoverflow.com/questions/41875233/call-an-interface-method-from-anonymous-class-in-java
+
 NOT YET
 =====
 
@@ -90,3 +98,16 @@ http://stackoverflow.com/questions/41862116/in-java-is-there-a-way-to-tell-from-
 http://stackoverflow.com/questions/41854640/why-does-boolean-int-0-work
 
 http://stackoverflow.com/questions/41836449/java-constructor-cannot-be-applied-to-given-type-inheritance
+
+http://stackoverflow.com/questions/41860772/how-to-parse-string-to-date-including-timezone
+
+http://stackoverflow.com/questions/41867457/what-is-the-difference-in-initializng-a-boolean-with-true-instead-of-leaving-it
+
+http://stackoverflow.com/questions/41861334/java-resolve-constructor-call
+
+http://stackoverflow.com/questions/41866617/format-date-yyyy-m-d-to-d-m-yyyy-of-date-type
+
+http://stackoverflow.com/questions/41873011/how-do-i-fix-this-cannot-resolve-symbol-scanner-issue
+
+http://stackoverflow.com/questions/41874521/how-to-trim-milliseconds-from-timestamp-with-java
+
