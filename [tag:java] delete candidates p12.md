@@ -135,3 +135,5 @@ http://stackoverflow.com/questions/41882263/why-would-somebody-use-this-to-assig
 http://stackoverflow.com/questions/41836249/why-spring-doesnt-wire-with-static-reference-variable
 
 http://stackoverflow.com/questions/41884073/what-is-the-difference-between-and
+
+http://stackoverflow.com/questions/41884406/inner-class-static-declarations-with-arrays
