@@ -56,6 +56,8 @@ http://stackoverflow.com/questions/41829507/parse-nested-json-data-in-java
 
 http://stackoverflow.com/questions/41878718/i-need-some-help-understaning-static-methods-variables-in-java
 
+http://stackoverflow.com/questions/41883273/how-to-convert-ternary-to-if-statement-guide
+
 NOT YET
 =====
 
