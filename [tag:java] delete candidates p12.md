@@ -112,3 +112,5 @@ http://stackoverflow.com/questions/41873011/how-do-i-fix-this-cannot-resolve-sym
 http://stackoverflow.com/questions/41874521/how-to-trim-milliseconds-from-timestamp-with-java
 
 http://stackoverflow.com/questions/41868943/double-checked-locking-over-hashmap-is-this-code-thread-safe
+
+http://stackoverflow.com/questions/41858666/assigning-integer-value-to-character
