@@ -125,3 +125,5 @@ http://stackoverflow.com/questions/41836249/why-spring-doesnt-wire-with-static-r
 http://stackoverflow.com/questions/41884073/what-is-the-difference-between-and
 
 http://stackoverflow.com/questions/41884406/inner-class-static-declarations-with-arrays
+
+http://stackoverflow.com/questions/41884518/constructor-for-object-class
