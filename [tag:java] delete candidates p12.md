@@ -127,3 +127,5 @@ http://stackoverflow.com/questions/41874323/java-loop-skip-over-oo
 http://stackoverflow.com/questions/41878399/java-how-to-remove-object-if-search-is-found-from-arraylist
 
 http://stackoverflow.com/questions/41857253/sonarqube-rule-comments
+
+http://stackoverflow.com/questions/41880438/why-do-java-lambdas-implement-autocloseable
