@@ -58,6 +58,8 @@ http://stackoverflow.com/questions/41812436/should-i-implement-an-array-into-thi
 
 http://stackoverflow.com/questions/41811181/java-instantiation-of-bean-failed-nested-exception-is-java-lang-exceptioninin
 
+http://stackoverflow.com/questions/41863821/what-are-the-bugs-in-the-following-method
+
 NOT YET
 =====
 
@@ -101,3 +103,16 @@ http://stackoverflow.com/questions/41828445/is-there-a-java-type-repesenting-a-p
 http://stackoverflow.com/questions/41860938/java-scanner-error-cannot-find-symbol
 
 http://stackoverflow.com/questions/41862874/getting-an-java-lang-stackoverflowerror
+
+http://stackoverflow.com/questions/41861527/return-type-for-the-method-is-missing-error
+
+http://stackoverflow.com/questions/41861702/java-virtual-functions-and-final-functions
+
+http://stackoverflow.com/questions/41862466/java-compare-arrays-with-different-size-error-in-loop
+
+http://stackoverflow.com/questions/41862874/getting-an-java-lang-stackoverflowerror
+
+http://stackoverflow.com/questions/41862116/in-java-is-there-a-way-to-tell-from-inside-a-class-when-it-is-eligible-for-ga
+
+http://stackoverflow.com/questions/41854640/why-does-boolean-int-0-work
+
