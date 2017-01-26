@@ -127,3 +127,5 @@ http://stackoverflow.com/questions/41884073/what-is-the-difference-between-and
 http://stackoverflow.com/questions/41884406/inner-class-static-declarations-with-arrays
 
 http://stackoverflow.com/questions/41884518/constructor-for-object-class
+
+http://stackoverflow.com/questions/41885035/error-when-attempting-to-remove-an-interface-from-a-list-of-interfaces-by-index
