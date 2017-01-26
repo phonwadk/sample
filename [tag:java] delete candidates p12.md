@@ -28,23 +28,20 @@ http://stackoverflow.com/questions/41721803/sorting-characters-in-a-string-by-nu
 
 http://stackoverflow.com/questions/41861645/how-do-you-concatenate-two-array-lists
 
-http://stackoverflow.com/questions/41810412/how-to-add-url-of-requestmapping-at-class-level-to-each-method-in-that-class
-
 http://stackoverflow.com/questions/41460586/comparator-consistent-with-equals-meaningful-example
 
 http://stackoverflow.com/questions/41811181/java-instantiation-of-bean-failed-nested-exception-is-java-lang-exceptioninin
 
 http://stackoverflow.com/questions/41863821/what-are-the-bugs-in-the-following-method
 
-NOT YET
-=====
-
-
-http://stackoverflow.com/questions/41831734/java-code-with-array-error
-
 http://stackoverflow.com/questions/41829670/autowired-not-working-using-interface-with-generic-types
 
 http://stackoverflow.com/questions/41831721/unexpected-type-error-simple-hangman-code
+
+http://stackoverflow.com/questions/41831734/java-code-with-array-error
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41820662/why-we-need-to-type-cast-object-we-get-from-spring-bean-as-java-class-object
 
