@@ -4,14 +4,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than-fdouble-x
 
-http://stackoverflow.com/questions/41829670/autowired-not-working-using-interface-with-generic-types
-
-http://stackoverflow.com/questions/41831721/unexpected-type-error-simple-hangman-code
-
-http://stackoverflow.com/questions/41831734/java-code-with-array-error
-
-http://stackoverflow.com/questions/41873339/get-random-double-between-two-positive-and-negative-number-in-java
-
 http://stackoverflow.com/questions/41873965/i-am-trying-to-write-my-first-program-in-java-and-i-get-the-error-below
 
 http://stackoverflow.com/questions/41875233/call-an-interface-method-from-anonymous-class-in-java
