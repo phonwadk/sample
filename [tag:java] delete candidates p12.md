@@ -108,3 +108,5 @@ http://stackoverflow.com/questions/41884518/constructor-for-object-class
 http://stackoverflow.com/questions/41885035/error-when-attempting-to-remove-an-interface-from-a-list-of-interfaces-by-index
 
 http://stackoverflow.com/questions/41881899/how-many-objects-will-exist-in-memory
+
+http://stackoverflow.com/questions/32619125/method-reference-cannot-make-a-static-reference-to-the-non-static-method
