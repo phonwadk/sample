@@ -107,4 +107,6 @@ http://stackoverflow.com/questions/41884518/constructor-for-object-class
 
 http://stackoverflow.com/questions/41881899/how-many-objects-will-exist-in-memory
 
-http://stackoverflow.com/questions/41885355/java-lambda-method-reference-runtime-error-when-tried-to-refer-to-an-instance?noredirect=1&lq=1
+http://stackoverflow.com/questions/41885355/java-lambda-method-reference-runtime-error-when-tried-to-refer-to-an-instance
+
+http://stackoverflow.com/questions/41881727/efficient-way-to-initialize-a-set-in-java-8
