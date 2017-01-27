@@ -72,3 +72,5 @@ http://stackoverflow.com/questions/41885682/how-can-i-arraylist-of-objects-by-a-
 http://stackoverflow.com/questions/41885681/rules-for-privilege-access-in-method-overriding
 
 http://stackoverflow.com/questions/41897035/best-way-to-replace-every-object-in-collection-in-java
+
+http://stackoverflow.com/questions/41898662/confusion-with-variables
