@@ -4,22 +4,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than-fdouble-x
 
-http://stackoverflow.com/questions/41721422/tricky-method-overloading-in-java
-
-http://stackoverflow.com/questions/41799983/else-if-condition-being-skipped
-
-http://stackoverflow.com/questions/41812259/how-to-print-a-file-line-by-line
-
-http://stackoverflow.com/questions/41782819/when-is-it-justified-to-throw-indexoutofboundexception
-
-http://stackoverflow.com/questions/41750817/sql-update-query-giving-bad-sql-grammar-error
-
-http://stackoverflow.com/questions/41723510/java-grouping-class-field
-
-http://stackoverflow.com/questions/41721803/sorting-characters-in-a-string-by-number-of-occurrences
-
-http://stackoverflow.com/questions/41460586/comparator-consistent-with-equals-meaningful-example
-
 http://stackoverflow.com/questions/41829670/autowired-not-working-using-interface-with-generic-types
 
 http://stackoverflow.com/questions/41831721/unexpected-type-error-simple-hangman-code
