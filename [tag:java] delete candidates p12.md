@@ -110,3 +110,5 @@ http://stackoverflow.com/questions/41881899/how-many-objects-will-exist-in-memor
 http://stackoverflow.com/questions/41885355/java-lambda-method-reference-runtime-error-when-tried-to-refer-to-an-instance
 
 http://stackoverflow.com/questions/41881727/efficient-way-to-initialize-a-set-in-java-8
+
+http://stackoverflow.com/questions/41578369/json-error-converting-jsonobject-java
