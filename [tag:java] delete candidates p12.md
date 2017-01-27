@@ -10,6 +10,9 @@ http://stackoverflow.com/questions/41875233/call-an-interface-method-from-anonym
 
 http://stackoverflow.com/questions/41878718/i-need-some-help-understaning-static-methods-variables-in-java
 
+http://stackoverflow.com/questions/41836249/why-spring-doesnt-wire-with-static-reference-variable
+
+
 NOT YET
 =====
 
@@ -54,8 +57,6 @@ http://stackoverflow.com/questions/41874323/java-loop-skip-over-oo
 http://stackoverflow.com/questions/41880438/why-do-java-lambdas-implement-autocloseable
 
 http://stackoverflow.com/questions/41882263/why-would-somebody-use-this-to-assign-a-value-to-a-local-variable-in-java
-
-http://stackoverflow.com/questions/41836249/why-spring-doesnt-wire-with-static-reference-variable
 
 http://stackoverflow.com/questions/41884406/inner-class-static-declarations-with-arrays
 
