@@ -8,14 +8,6 @@ http://stackoverflow.com/questions/41873965/i-am-trying-to-write-my-first-progra
 
 http://stackoverflow.com/questions/41875233/call-an-interface-method-from-anonymous-class-in-java
 
-http://stackoverflow.com/questions/41875948/how-to-generate-random-nextint-without-high-value
-
-http://stackoverflow.com/questions/41820662/why-we-need-to-type-cast-object-we-get-from-spring-bean-as-java-class-object
-
-http://stackoverflow.com/questions/41829432/listaddress-only-stores-one-value-as-opposed-to-the-6-values-i-have-attempted
-
-http://stackoverflow.com/questions/41829507/parse-nested-json-data-in-java
-
 http://stackoverflow.com/questions/41878718/i-need-some-help-understaning-static-methods-variables-in-java
 
 http://stackoverflow.com/questions/41883273/how-to-convert-ternary-to-if-statement-guide
