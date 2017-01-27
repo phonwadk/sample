@@ -10,8 +10,6 @@ http://stackoverflow.com/questions/41799983/else-if-condition-being-skipped
 
 http://stackoverflow.com/questions/41812259/how-to-print-a-file-line-by-line
 
-http://stackoverflow.com/questions/41720980/i-have-a-homework-assignment-about-a-piece-of-code-im-supposed-to-simplify
-
 http://stackoverflow.com/questions/41782819/when-is-it-justified-to-throw-indexoutofboundexception
 
 http://stackoverflow.com/questions/41750817/sql-update-query-giving-bad-sql-grammar-error
