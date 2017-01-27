@@ -116,3 +116,5 @@ http://stackoverflow.com/questions/41578369/json-error-converting-jsonobject-jav
 http://stackoverflow.com/questions/41885682/how-can-i-arraylist-of-objects-by-a-secondary-attribute-if-the-first-attributes
 
 http://stackoverflow.com/questions/41885681/rules-for-privilege-access-in-method-overriding
+
+http://stackoverflow.com/questions/41897035/best-way-to-replace-every-object-in-collection-in-java
