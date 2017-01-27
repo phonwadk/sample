@@ -51,6 +51,8 @@ http://stackoverflow.com/questions/41868943/double-checked-locking-over-hashmap-
 
 http://stackoverflow.com/questions/41858666/assigning-integer-value-to-character
 
+http://stackoverflow.com/questions/41879122/javas-way-to-handle-interfaces-with-same-methods-name
+
 http://stackoverflow.com/questions/41874323/java-loop-skip-over-oo
 
 http://stackoverflow.com/questions/41880438/why-do-java-lambdas-implement-autocloseable
