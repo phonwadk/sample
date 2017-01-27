@@ -10,6 +10,7 @@ http://stackoverflow.com/questions/41875233/call-an-interface-method-from-anonym
 
 http://stackoverflow.com/questions/41836249/why-spring-doesnt-wire-with-static-reference-variable
 
+http://stackoverflow.com/questions/41898062/array-not-returning-as-expected
 
 NOT YET
 =====
