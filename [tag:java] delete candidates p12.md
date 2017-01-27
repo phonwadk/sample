@@ -105,8 +105,6 @@ http://stackoverflow.com/questions/41884406/inner-class-static-declarations-with
 
 http://stackoverflow.com/questions/41884518/constructor-for-object-class
 
-http://stackoverflow.com/questions/41885035/error-when-attempting-to-remove-an-interface-from-a-list-of-interfaces-by-index
-
 http://stackoverflow.com/questions/41881899/how-many-objects-will-exist-in-memory
 
-http://stackoverflow.com/questions/32619125/method-reference-cannot-make-a-static-reference-to-the-non-static-method
+http://stackoverflow.com/questions/41885355/java-lambda-method-reference-runtime-error-when-tried-to-refer-to-an-instance?noredirect=1&lq=1
