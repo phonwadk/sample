@@ -74,3 +74,5 @@ http://stackoverflow.com/questions/41885681/rules-for-privilege-access-in-method
 http://stackoverflow.com/questions/41897035/best-way-to-replace-every-object-in-collection-in-java
 
 http://stackoverflow.com/questions/41898662/confusion-with-variables
+
+http://stackoverflow.com/questions/41901974/how-to-print-out-smallest-index-from-array-in-this-code
