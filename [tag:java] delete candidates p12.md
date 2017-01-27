@@ -48,6 +48,14 @@ http://stackoverflow.com/questions/41828445/is-there-a-java-type-repesenting-a-p
 
 http://stackoverflow.com/questions/41884073/what-is-the-difference-between-and
 
+http://stackoverflow.com/questions/41861527/return-type-for-the-method-is-missing-error
+
+http://stackoverflow.com/questions/41860772/how-to-parse-string-to-date-including-timezone
+
+http://stackoverflow.com/questions/41857253/sonarqube-rule-comments
+
+http://stackoverflow.com/questions/41881727/efficient-way-to-initialize-a-set-in-java-8
+
 NOT YET
 =====
 
@@ -61,8 +69,6 @@ http://stackoverflow.com/questions/41860938/java-scanner-error-cannot-find-symbo
 
 http://stackoverflow.com/questions/41862874/getting-an-java-lang-stackoverflowerror
 
-http://stackoverflow.com/questions/41861527/return-type-for-the-method-is-missing-error
-
 http://stackoverflow.com/questions/41861702/java-virtual-functions-and-final-functions
 
 http://stackoverflow.com/questions/41862466/java-compare-arrays-with-different-size-error-in-loop
@@ -74,8 +80,6 @@ http://stackoverflow.com/questions/41862116/in-java-is-there-a-way-to-tell-from-
 http://stackoverflow.com/questions/41854640/why-does-boolean-int-0-work
 
 http://stackoverflow.com/questions/41836449/java-constructor-cannot-be-applied-to-given-type-inheritance
-
-http://stackoverflow.com/questions/41860772/how-to-parse-string-to-date-including-timezone
 
 http://stackoverflow.com/questions/41867457/what-is-the-difference-in-initializng-a-boolean-with-true-instead-of-leaving-it
 
@@ -93,8 +97,6 @@ http://stackoverflow.com/questions/41858666/assigning-integer-value-to-character
 
 http://stackoverflow.com/questions/41874323/java-loop-skip-over-oo
 
-http://stackoverflow.com/questions/41857253/sonarqube-rule-comments
-
 http://stackoverflow.com/questions/41880438/why-do-java-lambdas-implement-autocloseable
 
 http://stackoverflow.com/questions/41882263/why-would-somebody-use-this-to-assign-a-value-to-a-local-variable-in-java
@@ -108,8 +110,6 @@ http://stackoverflow.com/questions/41884518/constructor-for-object-class
 http://stackoverflow.com/questions/41881899/how-many-objects-will-exist-in-memory
 
 http://stackoverflow.com/questions/41885355/java-lambda-method-reference-runtime-error-when-tried-to-refer-to-an-instance
-
-http://stackoverflow.com/questions/41881727/efficient-way-to-initialize-a-set-in-java-8
 
 http://stackoverflow.com/questions/41578369/json-error-converting-jsonobject-java
 
