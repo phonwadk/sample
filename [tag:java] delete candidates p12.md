@@ -12,14 +12,14 @@ http://stackoverflow.com/questions/41836249/why-spring-doesnt-wire-with-static-r
 
 http://stackoverflow.com/questions/41898062/array-not-returning-as-expected
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41853782/nullpointer-in-spring-cause-autowired-does-not-work
 
 http://stackoverflow.com/questions/41857014/java-sending-int-variables-to-a-constructor
 
 http://stackoverflow.com/questions/41857631/how-to-convert-java-inputstream-to-a-bytearrayinputstream-or-to-a-string
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41860938/java-scanner-error-cannot-find-symbol
 
