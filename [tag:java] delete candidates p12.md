@@ -10,36 +10,6 @@ http://stackoverflow.com/questions/41875233/call-an-interface-method-from-anonym
 
 http://stackoverflow.com/questions/41878718/i-need-some-help-understaning-static-methods-variables-in-java
 
-http://stackoverflow.com/questions/41883273/how-to-convert-ternary-to-if-statement-guide
-
-http://stackoverflow.com/questions/41875443/why-there-is-servlet-versions-after-3-1
-
-http://stackoverflow.com/questions/41831955/variable-accessibility-in-inheritance-in-java
-
-http://stackoverflow.com/questions/41830507/static-variable-print-wrong-value
-
-http://stackoverflow.com/questions/41833280/wiring-static-reference-with-setter-causing-no-npe
-
-http://stackoverflow.com/questions/41837417/scanner-nextint-not-recognized
-
-http://stackoverflow.com/questions/41800469/watch-a-directory-when-the-file-enters-into-it-then-notify-an-event-in-java
-
-http://stackoverflow.com/questions/41840484/java-prints-only-first-part-of-a-two-part-string
-
-http://stackoverflow.com/questions/41840768/two-excluding-interfaces-in-java
-
-http://stackoverflow.com/questions/41828445/is-there-a-java-type-repesenting-a-period-that-is-fixed-in-time
-
-http://stackoverflow.com/questions/41884073/what-is-the-difference-between-and
-
-http://stackoverflow.com/questions/41861527/return-type-for-the-method-is-missing-error
-
-http://stackoverflow.com/questions/41860772/how-to-parse-string-to-date-including-timezone
-
-http://stackoverflow.com/questions/41857253/sonarqube-rule-comments
-
-http://stackoverflow.com/questions/41881727/efficient-way-to-initialize-a-set-in-java-8
-
 NOT YET
 =====
 
