@@ -114,3 +114,5 @@ http://stackoverflow.com/questions/41881727/efficient-way-to-initialize-a-set-in
 http://stackoverflow.com/questions/41578369/json-error-converting-jsonobject-java
 
 http://stackoverflow.com/questions/41885682/how-can-i-arraylist-of-objects-by-a-secondary-attribute-if-the-first-attributes
+
+http://stackoverflow.com/questions/41885681/rules-for-privilege-access-in-method-overriding
