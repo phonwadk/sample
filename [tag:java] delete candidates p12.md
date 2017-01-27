@@ -29,8 +29,6 @@ http://stackoverflow.com/questions/41861702/java-virtual-functions-and-final-fun
 
 http://stackoverflow.com/questions/41862466/java-compare-arrays-with-different-size-error-in-loop
 
-http://stackoverflow.com/questions/41862874/getting-an-java-lang-stackoverflowerror
-
 http://stackoverflow.com/questions/41862116/in-java-is-there-a-way-to-tell-from-inside-a-class-when-it-is-eligible-for-ga
 
 http://stackoverflow.com/questions/41854640/why-does-boolean-int-0-work
