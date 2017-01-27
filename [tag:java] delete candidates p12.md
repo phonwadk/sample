@@ -46,15 +46,9 @@ http://stackoverflow.com/questions/41883273/how-to-convert-ternary-to-if-stateme
 
 http://stackoverflow.com/questions/41875443/why-there-is-servlet-versions-after-3-1
 
-NOT YET
-=====
-
-
 http://stackoverflow.com/questions/41831955/variable-accessibility-in-inheritance-in-java
 
 http://stackoverflow.com/questions/41830507/static-variable-print-wrong-value
-
-http://stackoverflow.com/questions/41833280/wiring-static-reference-with-and-without-setter
 
 http://stackoverflow.com/questions/41833280/wiring-static-reference-with-setter-causing-no-npe
 
@@ -66,13 +60,16 @@ http://stackoverflow.com/questions/41840484/java-prints-only-first-part-of-a-two
 
 http://stackoverflow.com/questions/41840768/two-excluding-interfaces-in-java
 
+http://stackoverflow.com/questions/41828445/is-there-a-java-type-repesenting-a-period-that-is-fixed-in-time
+
+NOT YET
+=====
+
 http://stackoverflow.com/questions/41853782/nullpointer-in-spring-cause-autowired-does-not-work
 
 http://stackoverflow.com/questions/41857014/java-sending-int-variables-to-a-constructor
 
 http://stackoverflow.com/questions/41857631/how-to-convert-java-inputstream-to-a-bytearrayinputstream-or-to-a-string
-
-http://stackoverflow.com/questions/41828445/is-there-a-java-type-repesenting-a-period-that-is-fixed-in-time
 
 http://stackoverflow.com/questions/41860938/java-scanner-error-cannot-find-symbol
 
@@ -109,8 +106,6 @@ http://stackoverflow.com/questions/41868943/double-checked-locking-over-hashmap-
 http://stackoverflow.com/questions/41858666/assigning-integer-value-to-character
 
 http://stackoverflow.com/questions/41874323/java-loop-skip-over-oo
-
-http://stackoverflow.com/questions/41878399/java-how-to-remove-object-if-search-is-found-from-arraylist
 
 http://stackoverflow.com/questions/41857253/sonarqube-rule-comments
 
