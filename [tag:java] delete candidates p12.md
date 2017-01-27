@@ -112,3 +112,5 @@ http://stackoverflow.com/questions/41885355/java-lambda-method-reference-runtime
 http://stackoverflow.com/questions/41881727/efficient-way-to-initialize-a-set-in-java-8
 
 http://stackoverflow.com/questions/41578369/json-error-converting-jsonobject-java
+
+http://stackoverflow.com/questions/41885682/how-can-i-arraylist-of-objects-by-a-secondary-attribute-if-the-first-attributes
