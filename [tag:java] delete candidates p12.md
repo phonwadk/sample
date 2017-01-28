@@ -38,6 +38,9 @@ http://stackoverflow.com/questions/41882263/why-would-somebody-use-this-to-assig
 
 http://stackoverflow.com/questions/41913972/java-scanner-next
 
+http://stackoverflow.com/questions/41909227/search-for-a-string-followed-by-any-number-in-java
+
+
 NOT YET
 =====
 
@@ -70,8 +73,6 @@ http://stackoverflow.com/questions/41904436/java-unknown-syntax-after-while-loop
 
 http://stackoverflow.com/questions/41908184/treemap-with-keys-ordered-by-objects-physical-address-as-no-other-comparison-c
 
-http://stackoverflow.com/questions/41909227/search-for-a-string-followed-by-any-number-in-java
-
 http://stackoverflow.com/questions/41910574/error-expected-identifier-in-line-10-and-11-and-illegal-start-of-type-error-in
 
 http://stackoverflow.com/questions/41911321/taking-whole-line-input-using-scanner-in-java
@@ -81,3 +82,5 @@ http://stackoverflow.com/questions/41910005/access-to-java-class-metadata
 http://stackoverflow.com/questions/41908616/how-to-transfer-a-modified-array-to-the-source-one-from-a-void-method-a-method
 
 http://stackoverflow.com/questions/41912829/how-can-i-get-this-test-of-generics-methods-to-work
+
+http://stackoverflow.com/questions/41914208/how-do-i-convert-arraylistinteger-to-string-with-space-between-the-numbers
