@@ -84,3 +84,5 @@ http://stackoverflow.com/questions/41908616/how-to-transfer-a-modified-array-to-
 http://stackoverflow.com/questions/41912829/how-can-i-get-this-test-of-generics-methods-to-work
 
 http://stackoverflow.com/questions/41914208/how-do-i-convert-arraylistinteger-to-string-with-space-between-the-numbers
+
+http://stackoverflow.com/questions/41915800/local-value-of-local-variable-not-used
