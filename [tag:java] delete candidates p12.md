@@ -14,17 +14,11 @@ http://stackoverflow.com/questions/41857014/java-sending-int-variables-to-a-cons
 
 http://stackoverflow.com/questions/41857631/how-to-convert-java-inputstream-to-a-bytearrayinputstream-or-to-a-string
 
-http://stackoverflow.com/questions/41836449/java-constructor-cannot-be-applied-to-given-type-inheritance
-
-http://stackoverflow.com/questions/41861334/java-resolve-constructor-call
-
 http://stackoverflow.com/questions/41866617/format-date-yyyy-m-d-to-d-m-yyyy-of-date-type
 
 http://stackoverflow.com/questions/41873011/how-do-i-fix-this-cannot-resolve-symbol-scanner-issue
 
 http://stackoverflow.com/questions/41874521/how-to-trim-milliseconds-from-timestamp-with-java
-
-http://stackoverflow.com/questions/41868943/double-checked-locking-over-hashmap-is-this-code-thread-safe
 
 http://stackoverflow.com/questions/41858666/assigning-integer-value-to-character
 
@@ -36,14 +30,17 @@ http://stackoverflow.com/questions/41874323/java-replace-all-occurrences-of-sing
 
 http://stackoverflow.com/questions/41913071/java-output-doesnt-acknowledge-identical-objects-as-equal-and-doesnt-copy-prop
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41879122/javas-way-to-handle-interfaces-with-same-methods-name
 
 http://stackoverflow.com/questions/41880438/why-do-java-lambdas-implement-autocloseable
 
 http://stackoverflow.com/questions/41882263/why-would-somebody-use-this-to-assign-a-value-to-a-local-variable-in-java
+
+http://stackoverflow.com/questions/41913972/java-scanner-next
+
+NOT YET
+=====
+
 
 http://stackoverflow.com/questions/41884406/inner-class-static-declarations-with-arrays
 
