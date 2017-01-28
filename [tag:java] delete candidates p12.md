@@ -81,6 +81,8 @@ http://stackoverflow.com/questions/41905314/i-need-help-printing-variable-in-one
 
 http://stackoverflow.com/questions/41907947/my-program-throwing-numberformatexception-how-to-fix-it
 
+http://stackoverflow.com/questions/41904436/java-unknown-syntax-after-while-loop
+
 http://stackoverflow.com/questions/41908184/treemap-with-keys-ordered-by-objects-physical-address-as-no-other-comparison-c
 
 http://stackoverflow.com/questions/41909227/search-for-a-string-followed-by-any-number-in-java
