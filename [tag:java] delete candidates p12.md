@@ -14,15 +14,7 @@ http://stackoverflow.com/questions/41857014/java-sending-int-variables-to-a-cons
 
 http://stackoverflow.com/questions/41857631/how-to-convert-java-inputstream-to-a-bytearrayinputstream-or-to-a-string
 
-http://stackoverflow.com/questions/41862874/getting-an-java-lang-stackoverflowerror
-
-http://stackoverflow.com/questions/41861702/java-virtual-functions-and-final-functions
-
-http://stackoverflow.com/questions/41862466/java-compare-arrays-with-different-size-error-in-loop
-
 http://stackoverflow.com/questions/41836449/java-constructor-cannot-be-applied-to-given-type-inheritance
-
-http://stackoverflow.com/questions/41867457/what-is-the-difference-in-initializng-a-boolean-with-true-instead-of-leaving-it
 
 http://stackoverflow.com/questions/41861334/java-resolve-constructor-call
 
@@ -35,10 +27,6 @@ http://stackoverflow.com/questions/41874521/how-to-trim-milliseconds-from-timest
 http://stackoverflow.com/questions/41868943/double-checked-locking-over-hashmap-is-this-code-thread-safe
 
 http://stackoverflow.com/questions/41858666/assigning-integer-value-to-character
-
-http://stackoverflow.com/questions/41862116/in-java-is-there-a-way-to-tell-from-inside-a-class-when-it-is-eligible-for-ga
-
-http://stackoverflow.com/questions/41905210/non-static-method-returnlinewithcommentat-cannot-be-referenced-from-a-static-c
 
 http://stackoverflow.com/questions/41908557/list1-list2-return-same-value
 
