@@ -40,6 +40,7 @@ http://stackoverflow.com/questions/41862116/in-java-is-there-a-way-to-tell-from-
 
 http://stackoverflow.com/questions/41905210/non-static-method-returnlinewithcommentat-cannot-be-referenced-from-a-static-c
 
+http://stackoverflow.com/questions/41908557/list1-list2-return-same-value
 
 NOT YET
 =====
@@ -75,3 +76,7 @@ http://stackoverflow.com/questions/41898662/confusion-with-variables
 http://stackoverflow.com/questions/41901974/how-to-print-out-smallest-index-from-array-in-this-code
 
 http://stackoverflow.com/questions/41905314/i-need-help-printing-variable-in-one-method-but-the-variables-are-in-a-different
+
+http://stackoverflow.com/questions/41907947/my-program-throwing-numberformatexception-how-to-fix-it
+
+http://stackoverflow.com/questions/41908184/treemap-with-keys-ordered-by-objects-physical-address-as-no-other-comparison-c
