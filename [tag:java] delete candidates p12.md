@@ -8,8 +8,6 @@ http://stackoverflow.com/questions/41873965/i-am-trying-to-write-my-first-progra
 
 http://stackoverflow.com/questions/41875233/call-an-interface-method-from-anonymous-class-in-java
 
-http://stackoverflow.com/questions/41836249/why-spring-doesnt-wire-with-static-reference-variable
-
 http://stackoverflow.com/questions/41898062/array-not-returning-as-expected
 
 http://stackoverflow.com/questions/41853782/nullpointer-in-spring-cause-autowired-does-not-work
@@ -20,8 +18,6 @@ http://stackoverflow.com/questions/41857631/how-to-convert-java-inputstream-to-a
 
 NOT YET
 =====
-
-http://stackoverflow.com/questions/41860938/java-scanner-error-cannot-find-symbol
 
 http://stackoverflow.com/questions/41862874/getting-an-java-lang-stackoverflowerror
 
