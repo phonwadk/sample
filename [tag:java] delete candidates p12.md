@@ -16,14 +16,14 @@ http://stackoverflow.com/questions/41857014/java-sending-int-variables-to-a-cons
 
 http://stackoverflow.com/questions/41857631/how-to-convert-java-inputstream-to-a-bytearrayinputstream-or-to-a-string
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41862874/getting-an-java-lang-stackoverflowerror
 
 http://stackoverflow.com/questions/41861702/java-virtual-functions-and-final-functions
 
 http://stackoverflow.com/questions/41862466/java-compare-arrays-with-different-size-error-in-loop
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41862116/in-java-is-there-a-way-to-tell-from-inside-a-class-when-it-is-eligible-for-ga
 
@@ -72,3 +72,5 @@ http://stackoverflow.com/questions/41897035/best-way-to-replace-every-object-in-
 http://stackoverflow.com/questions/41898662/confusion-with-variables
 
 http://stackoverflow.com/questions/41901974/how-to-print-out-smallest-index-from-array-in-this-code
+
+http://stackoverflow.com/questions/41905210/non-static-method-returnlinewithcommentat-cannot-be-referenced-from-a-static-c
