@@ -42,6 +42,8 @@ http://stackoverflow.com/questions/41905210/non-static-method-returnlinewithcomm
 
 http://stackoverflow.com/questions/41908557/list1-list2-return-same-value
 
+http://stackoverflow.com/questions/41909741/how-to-use-pairk-v-in-java
+
 NOT YET
 =====
 
@@ -80,3 +82,10 @@ http://stackoverflow.com/questions/41905314/i-need-help-printing-variable-in-one
 http://stackoverflow.com/questions/41907947/my-program-throwing-numberformatexception-how-to-fix-it
 
 http://stackoverflow.com/questions/41908184/treemap-with-keys-ordered-by-objects-physical-address-as-no-other-comparison-c
+
+http://stackoverflow.com/questions/41909227/search-for-a-string-followed-by-any-number-in-java
+
+http://stackoverflow.com/questions/41910574/error-expected-identifier-in-line-10-and-11-and-illegal-start-of-type-error-in
+
+http://stackoverflow.com/questions/41911321/taking-whole-line-input-using-scanner-in-java
+
