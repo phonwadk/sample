@@ -91,3 +91,6 @@ http://stackoverflow.com/questions/41910574/error-expected-identifier-in-line-10
 
 http://stackoverflow.com/questions/41911321/taking-whole-line-input-using-scanner-in-java
 
+http://stackoverflow.com/questions/41910005/access-to-java-class-metadata
+
+http://stackoverflow.com/questions/41908616/how-to-transfer-a-modified-array-to-the-source-one-from-a-void-method-a-method
