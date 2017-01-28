@@ -44,14 +44,14 @@ http://stackoverflow.com/questions/41908557/list1-list2-return-same-value
 
 http://stackoverflow.com/questions/41909741/how-to-use-pairk-v-in-java
 
+http://stackoverflow.com/questions/41874323/java-replace-all-occurrences-of-single-char-not-preceded-followed-by-same-char
+
 NOT YET
 =====
 
 http://stackoverflow.com/questions/41854640/why-does-boolean-int-0-work
 
 http://stackoverflow.com/questions/41879122/javas-way-to-handle-interfaces-with-same-methods-name
-
-http://stackoverflow.com/questions/41874323/java-loop-skip-over-oo
 
 http://stackoverflow.com/questions/41880438/why-do-java-lambdas-implement-autocloseable
 
