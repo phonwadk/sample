@@ -6,8 +6,6 @@ http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than
 
 http://stackoverflow.com/questions/41873965/i-am-trying-to-write-my-first-program-in-java-and-i-get-the-error-below
 
-http://stackoverflow.com/questions/41875233/call-an-interface-method-from-anonymous-class-in-java
-
 http://stackoverflow.com/questions/41898062/array-not-returning-as-expected
 
 http://stackoverflow.com/questions/41853782/nullpointer-in-spring-cause-autowired-does-not-work
@@ -21,13 +19,6 @@ http://stackoverflow.com/questions/41862874/getting-an-java-lang-stackoverflower
 http://stackoverflow.com/questions/41861702/java-virtual-functions-and-final-functions
 
 http://stackoverflow.com/questions/41862466/java-compare-arrays-with-different-size-error-in-loop
-
-NOT YET
-=====
-
-http://stackoverflow.com/questions/41862116/in-java-is-there-a-way-to-tell-from-inside-a-class-when-it-is-eligible-for-ga
-
-http://stackoverflow.com/questions/41854640/why-does-boolean-int-0-work
 
 http://stackoverflow.com/questions/41836449/java-constructor-cannot-be-applied-to-given-type-inheritance
 
@@ -44,6 +35,13 @@ http://stackoverflow.com/questions/41874521/how-to-trim-milliseconds-from-timest
 http://stackoverflow.com/questions/41868943/double-checked-locking-over-hashmap-is-this-code-thread-safe
 
 http://stackoverflow.com/questions/41858666/assigning-integer-value-to-character
+
+http://stackoverflow.com/questions/41862116/in-java-is-there-a-way-to-tell-from-inside-a-class-when-it-is-eligible-for-ga
+
+NOT YET
+=====
+
+http://stackoverflow.com/questions/41854640/why-does-boolean-int-0-work
 
 http://stackoverflow.com/questions/41879122/javas-way-to-handle-interfaces-with-same-methods-name
 
