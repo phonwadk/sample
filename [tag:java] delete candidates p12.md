@@ -92,3 +92,5 @@ http://stackoverflow.com/questions/41911321/taking-whole-line-input-using-scanne
 http://stackoverflow.com/questions/41910005/access-to-java-class-metadata
 
 http://stackoverflow.com/questions/41908616/how-to-transfer-a-modified-array-to-the-source-one-from-a-void-method-a-method
+
+http://stackoverflow.com/questions/41912829/how-can-i-get-this-test-of-generics-methods-to-work
