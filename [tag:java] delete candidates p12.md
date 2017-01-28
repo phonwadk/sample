@@ -38,6 +38,9 @@ http://stackoverflow.com/questions/41858666/assigning-integer-value-to-character
 
 http://stackoverflow.com/questions/41862116/in-java-is-there-a-way-to-tell-from-inside-a-class-when-it-is-eligible-for-ga
 
+http://stackoverflow.com/questions/41905210/non-static-method-returnlinewithcommentat-cannot-be-referenced-from-a-static-c
+
+
 NOT YET
 =====
 
@@ -70,7 +73,5 @@ http://stackoverflow.com/questions/41897035/best-way-to-replace-every-object-in-
 http://stackoverflow.com/questions/41898662/confusion-with-variables
 
 http://stackoverflow.com/questions/41901974/how-to-print-out-smallest-index-from-array-in-this-code
-
-http://stackoverflow.com/questions/41905210/non-static-method-returnlinewithcommentat-cannot-be-referenced-from-a-static-c
 
 http://stackoverflow.com/questions/41905314/i-need-help-printing-variable-in-one-method-but-the-variables-are-in-a-different
