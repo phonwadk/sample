@@ -34,6 +34,8 @@ http://stackoverflow.com/questions/41909741/how-to-use-pairk-v-in-java
 
 http://stackoverflow.com/questions/41874323/java-replace-all-occurrences-of-single-char-not-preceded-followed-by-same-char
 
+http://stackoverflow.com/questions/41913071/java-output-doesnt-acknowledge-identical-objects-as-equal-and-doesnt-copy-prop
+
 NOT YET
 =====
 
