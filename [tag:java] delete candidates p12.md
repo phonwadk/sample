@@ -74,3 +74,5 @@ http://stackoverflow.com/questions/41898662/confusion-with-variables
 http://stackoverflow.com/questions/41901974/how-to-print-out-smallest-index-from-array-in-this-code
 
 http://stackoverflow.com/questions/41905210/non-static-method-returnlinewithcommentat-cannot-be-referenced-from-a-static-c
+
+http://stackoverflow.com/questions/41905314/i-need-help-printing-variable-in-one-method-but-the-variables-are-in-a-different
