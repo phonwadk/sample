@@ -49,8 +49,6 @@ http://stackoverflow.com/questions/41874323/java-replace-all-occurrences-of-sing
 NOT YET
 =====
 
-http://stackoverflow.com/questions/41854640/why-does-boolean-int-0-work
-
 http://stackoverflow.com/questions/41879122/javas-way-to-handle-interfaces-with-same-methods-name
 
 http://stackoverflow.com/questions/41880438/why-do-java-lambdas-implement-autocloseable
