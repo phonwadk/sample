@@ -8,13 +8,9 @@ http://stackoverflow.com/questions/41873965/i-am-trying-to-write-my-first-progra
 
 http://stackoverflow.com/questions/41898062/array-not-returning-as-expected
 
-http://stackoverflow.com/questions/41853782/nullpointer-in-spring-cause-autowired-does-not-work
-
 http://stackoverflow.com/questions/41857014/java-sending-int-variables-to-a-constructor
 
 http://stackoverflow.com/questions/41857631/how-to-convert-java-inputstream-to-a-bytearrayinputstream-or-to-a-string
-
-http://stackoverflow.com/questions/41866617/format-date-yyyy-m-d-to-d-m-yyyy-of-date-type
 
 http://stackoverflow.com/questions/41873011/how-do-i-fix-this-cannot-resolve-symbol-scanner-issue
 
@@ -34,21 +30,13 @@ http://stackoverflow.com/questions/41879122/javas-way-to-handle-interfaces-with-
 
 http://stackoverflow.com/questions/41880438/why-do-java-lambdas-implement-autocloseable
 
-http://stackoverflow.com/questions/41882263/why-would-somebody-use-this-to-assign-a-value-to-a-local-variable-in-java
-
 http://stackoverflow.com/questions/41913972/java-scanner-next
-
-http://stackoverflow.com/questions/41909227/search-for-a-string-followed-by-any-number-in-java
 
 http://stackoverflow.com/questions/41912501/ignoring-constructor-from-parent-class-in-java
 
 http://stackoverflow.com/questions/41916504/how-to-use-the-foreach-sentence
 
 http://stackoverflow.com/questions/41916557/what-does-the-brackets-mean
-
-NOT YET
-=====
-
 
 http://stackoverflow.com/questions/41884406/inner-class-static-declarations-with-arrays
 
@@ -59,6 +47,9 @@ http://stackoverflow.com/questions/41881899/how-many-objects-will-exist-in-memor
 http://stackoverflow.com/questions/41885355/java-lambda-method-reference-runtime-error-when-tried-to-refer-to-an-instance
 
 http://stackoverflow.com/questions/41578369/json-error-converting-jsonobject-java
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41885682/how-can-i-arraylist-of-objects-by-a-secondary-attribute-if-the-first-attributes
 
