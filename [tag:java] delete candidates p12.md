@@ -59,3 +59,4 @@ http://stackoverflow.com/questions/41919290/why-do-i-have-to-omit-access-modifie
 
 http://stackoverflow.com/questions/41924033/generic-interface-confusion
 
+http://stackoverflow.com/questions/41924447/why-cant-we-assign-a-sub-class-reference-to-a-object-of-same-class-saved-in-arr
