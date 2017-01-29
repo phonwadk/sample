@@ -40,6 +40,7 @@ http://stackoverflow.com/questions/41913972/java-scanner-next
 
 http://stackoverflow.com/questions/41909227/search-for-a-string-followed-by-any-number-in-java
 
+http://stackoverflow.com/questions/41912501/ignoring-constructor-from-parent-class-in-java
 
 NOT YET
 =====
@@ -86,3 +87,4 @@ http://stackoverflow.com/questions/41912829/how-can-i-get-this-test-of-generics-
 http://stackoverflow.com/questions/41914208/how-do-i-convert-arraylistinteger-to-string-with-space-between-the-numbers
 
 http://stackoverflow.com/questions/41915800/local-value-of-local-variable-not-used
+
