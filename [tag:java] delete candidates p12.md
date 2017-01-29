@@ -20,6 +20,8 @@ http://stackoverflow.com/questions/41834123/invocationhandler-invoke-not-called-
 
 http://stackoverflow.com/questions/41814684/how-to-upgrade-spring
 
+http://stackoverflow.com/questions/2983511/data-structure-book-recommendation
+
 http://stackoverflow.com/questions/41923761/function-to-find-the-most-frequent-number-in-an-array-in-java
 
 duplicate of ^^ http://stackoverflow.com/questions/41923869/issue-with-java-function-used-to-count-most-frequent-number-in-an-array#41923869
@@ -50,3 +52,4 @@ http://stackoverflow.com/questions/41909626/how-to-bind-a-form-field-with-a-dash
 http://stackoverflow.com/questions/41919290/why-do-i-have-to-omit-access-modifiers-if-i-am-writing-all-classes-in-the-same-f
 
 http://stackoverflow.com/questions/41924033/generic-interface-confusion
+
