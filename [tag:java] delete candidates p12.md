@@ -42,6 +42,8 @@ http://stackoverflow.com/questions/41909227/search-for-a-string-followed-by-any-
 
 http://stackoverflow.com/questions/41912501/ignoring-constructor-from-parent-class-in-java
 
+http://stackoverflow.com/questions/41916504/how-to-use-the-foreach-sentence
+
 NOT YET
 =====
 
