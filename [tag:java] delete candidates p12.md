@@ -18,6 +18,8 @@ http://stackoverflow.com/questions/41875499/nullpointerexception-using-autowired
 
 http://stackoverflow.com/questions/41834123/invocationhandler-invoke-not-called-if-method-is-called-from-inside-proxy
 
+http://stackoverflow.com/questions/41861713/why-cant-autoboxing-match-1-1-with-integer-int
+
 http://stackoverflow.com/questions/41814684/how-to-upgrade-spring
 
 http://stackoverflow.com/questions/2983511/data-structure-book-recommendation
