@@ -4,8 +4,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than-fdouble-x
 
-http://stackoverflow.com/questions/41911321/taking-whole-line-input-using-scanner-in-java
-
 http://stackoverflow.com/questions/41904436/java-unknown-syntax-after-while-loop
 
 http://stackoverflow.com/questions/41898662/confusion-with-variables
