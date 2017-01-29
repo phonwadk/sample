@@ -16,10 +16,10 @@ http://stackoverflow.com/questions/41897035/best-way-to-replace-every-object-in-
 
 http://stackoverflow.com/questions/41912829/how-can-i-get-this-test-of-generics-methods-to-work
 
+http://stackoverflow.com/questions/41897035/best-way-to-replace-every-object-in-collection-in-java
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/41897035/best-way-to-replace-every-object-in-collection-in-java
 
 http://stackoverflow.com/questions/41901974/how-to-print-out-smallest-index-from-array-in-this-code
 
