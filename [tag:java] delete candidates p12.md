@@ -12,8 +12,6 @@ http://stackoverflow.com/questions/41898662/confusion-with-variables
 
 http://stackoverflow.com/questions/41897035/best-way-to-replace-every-object-in-collection-in-java
 
-http://stackoverflow.com/questions/41912829/how-can-i-get-this-test-of-generics-methods-to-work
-
 http://stackoverflow.com/questions/41897035/best-way-to-replace-every-object-in-collection-in-java
 
 http://stackoverflow.com/questions/41875499/nullpointerexception-using-autowired-notation-with-thread-class
