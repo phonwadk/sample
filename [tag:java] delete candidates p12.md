@@ -24,14 +24,14 @@ http://stackoverflow.com/questions/41924565/remainder-operator-in-java-has-me-co
 
 http://stackoverflow.com/questions/41903744/how-to-synchronise-two-runnables-ran-by-scheduledexecutorservice-at-the-same-tim
 
+http://stackoverflow.com/questions/41901974/how-to-print-out-smallest-index-from-array-in-this-code
+
 http://stackoverflow.com/questions/41923761/function-to-find-the-most-frequent-number-in-an-array-in-java
 
 duplicate of ^^ http://stackoverflow.com/questions/41923869/issue-with-java-function-used-to-count-most-frequent-number-in-an-array#41923869
 
 NOT YET
 =====
-
-http://stackoverflow.com/questions/41901974/how-to-print-out-smallest-index-from-array-in-this-code
 
 http://stackoverflow.com/questions/41905314/i-need-help-printing-variable-in-one-method-but-the-variables-are-in-a-different
 
