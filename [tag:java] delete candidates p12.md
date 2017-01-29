@@ -16,6 +16,10 @@ http://stackoverflow.com/questions/41912829/how-can-i-get-this-test-of-generics-
 
 http://stackoverflow.com/questions/41897035/best-way-to-replace-every-object-in-collection-in-java
 
+http://stackoverflow.com/questions/41923761/function-to-find-the-most-frequent-number-in-an-array-in-java
+
+duplicate of ^^ http://stackoverflow.com/questions/41923869/issue-with-java-function-used-to-count-most-frequent-number-in-an-array#41923869
+
 NOT YET
 =====
 
