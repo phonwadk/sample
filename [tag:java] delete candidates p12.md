@@ -44,6 +44,8 @@ http://stackoverflow.com/questions/41912501/ignoring-constructor-from-parent-cla
 
 http://stackoverflow.com/questions/41916504/how-to-use-the-foreach-sentence
 
+http://stackoverflow.com/questions/41916557/what-does-the-brackets-mean
+
 NOT YET
 =====
 
