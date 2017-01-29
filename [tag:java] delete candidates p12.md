@@ -48,3 +48,5 @@ http://stackoverflow.com/questions/41909032/tictactoe-program
 http://stackoverflow.com/questions/41909626/how-to-bind-a-form-field-with-a-dash-in-the-name-to-a-form-bean
 
 http://stackoverflow.com/questions/41919290/why-do-i-have-to-omit-access-modifiers-if-i-am-writing-all-classes-in-the-same-f
+
+http://stackoverflow.com/questions/41924033/generic-interface-confusion
