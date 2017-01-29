@@ -22,6 +22,8 @@ http://stackoverflow.com/questions/2983511/data-structure-book-recommendation
 
 http://stackoverflow.com/questions/41924565/remainder-operator-in-java-has-me-confused
 
+http://stackoverflow.com/questions/41903744/how-to-synchronise-two-runnables-ran-by-scheduledexecutorservice-at-the-same-tim
+
 http://stackoverflow.com/questions/41923761/function-to-find-the-most-frequent-number-in-an-array-in-java
 
 duplicate of ^^ http://stackoverflow.com/questions/41923869/issue-with-java-function-used-to-count-most-frequent-number-in-an-array#41923869
@@ -44,8 +46,6 @@ http://stackoverflow.com/questions/41908616/how-to-transfer-a-modified-array-to-
 http://stackoverflow.com/questions/41914208/how-do-i-convert-arraylistinteger-to-string-with-space-between-the-numbers
 
 http://stackoverflow.com/questions/41915800/local-value-of-local-variable-not-used
-
-http://stackoverflow.com/questions/41903744/how-to-synchronise-two-runnables-ran-by-scheduledexecutorservice-at-the-same-tim
 
 http://stackoverflow.com/questions/41909032/tictactoe-program
 
