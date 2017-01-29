@@ -6,8 +6,6 @@ http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than
 
 http://stackoverflow.com/questions/41911321/taking-whole-line-input-using-scanner-in-java
 
-http://stackoverflow.com/questions/41910574/error-expected-identifier-in-line-10-and-11-and-illegal-start-of-type-error-in
-
 http://stackoverflow.com/questions/41904436/java-unknown-syntax-after-while-loop
 
 http://stackoverflow.com/questions/41898662/confusion-with-variables
