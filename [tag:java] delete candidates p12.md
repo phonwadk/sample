@@ -26,8 +26,6 @@ http://stackoverflow.com/questions/41901974/how-to-print-out-smallest-index-from
 
 http://stackoverflow.com/questions/41927346/local-variables-referenced-from-a-lambda-expression-must-be-final-or-effectively
 
-http://stackoverflow.com/questions/41905314/i-need-help-printing-variable-in-one-method-but-the-variables-are-in-a-different
-
 http://stackoverflow.com/questions/41924447/why-cant-we-assign-a-sub-class-reference-to-a-object-of-same-class-saved-in-arr
 
 http://stackoverflow.com/questions/41923761/function-to-find-the-most-frequent-number-in-an-array-in-java
