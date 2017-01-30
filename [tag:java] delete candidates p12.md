@@ -4,17 +4,11 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than-fdouble-x
 
-http://stackoverflow.com/questions/41904436/java-unknown-syntax-after-while-loop
-
-http://stackoverflow.com/questions/41898662/confusion-with-variables
-
 http://stackoverflow.com/questions/41897035/best-way-to-replace-every-object-in-collection-in-java
 
 http://stackoverflow.com/questions/41861713/why-cant-autoboxing-match-1-1-with-integer-int
 
 http://stackoverflow.com/questions/41927346/local-variables-referenced-from-a-lambda-expression-must-be-final-or-effectively
-
-http://stackoverflow.com/questions/41924447/why-cant-we-assign-a-sub-class-reference-to-a-object-of-same-class-saved-in-arr
 
 http://stackoverflow.com/questions/41937159/private-class-not-visible
 
