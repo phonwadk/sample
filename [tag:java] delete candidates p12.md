@@ -68,3 +68,5 @@ http://stackoverflow.com/questions/41926585/what-is-wrong-this-code
 http://stackoverflow.com/questions/41927926/how-to-get-specific-datetime-format-using-java-8-instant-solved
 
 http://stackoverflow.com/questions/41939016/combination-of-digits
+
+http://stackoverflow.com/questions/41936991/utf-8-in-spring-mvc
