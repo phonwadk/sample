@@ -76,3 +76,5 @@ http://stackoverflow.com/questions/41927926/how-to-get-specific-datetime-format-
 http://stackoverflow.com/questions/41939016/combination-of-digits
 
 http://stackoverflow.com/questions/41936991/utf-8-in-spring-mvc
+
+http://stackoverflow.com/questions/41939183/object-this-variable-vs-variable
