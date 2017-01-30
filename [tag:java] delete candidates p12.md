@@ -79,3 +79,6 @@ http://stackoverflow.com/questions/41942095/why-isnt-the-superclass-method-calle
 http://stackoverflow.com/questions/41943332/even-though-i-know-how-and-where-is-the-error-but-please-help-to-resolve-this-ar
 
 http://stackoverflow.com/questions/41936817/what-is-the-equivalent-in-java-for-the-python-request-line
+
+http://stackoverflow.com/questions/41945626/java-trying-to-add-instead-of-concatenate
+
