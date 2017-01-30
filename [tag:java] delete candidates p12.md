@@ -58,3 +58,7 @@ http://stackoverflow.com/questions/41924033/generic-interface-confusion
 http://stackoverflow.com/questions/41924447/why-cant-we-assign-a-sub-class-reference-to-a-object-of-same-class-saved-in-arr
 
 http://stackoverflow.com/questions/41927036/java-how-to-add-elements-as-a-list-to-a-list
+
+http://stackoverflow.com/questions/41928395/linkedhashmap-when-using-put-methods-why-the-map-changed-after-the-value-cha
+
+http://stackoverflow.com/questions/41926585/what-is-wrong-this-code
