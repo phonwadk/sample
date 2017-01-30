@@ -34,6 +34,8 @@ http://stackoverflow.com/questions/41929936/java-8-count-characters-in-a-string
 
 http://stackoverflow.com/questions/41929543/hashmap-in-multithreaded-enviroment
 
+http://stackoverflow.com/questions/41938723/how-can-i-get-length-in-type-input
+
 http://stackoverflow.com/questions/41923761/function-to-find-the-most-frequent-number-in-an-array-in-java
 
 duplicate of ^^ http://stackoverflow.com/questions/41923869/issue-with-java-function-used-to-count-most-frequent-number-in-an-array#41923869
