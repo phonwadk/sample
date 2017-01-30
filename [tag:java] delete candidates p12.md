@@ -35,6 +35,8 @@ duplicate of ^^ http://stackoverflow.com/questions/41923869/issue-with-java-func
 NOT YET
 =====
 
+http://stackoverflow.com/questions/41897047/what-is-the-correct-way-to-initialize-a-list-of-double-in-java-8
+
 http://stackoverflow.com/questions/41907947/my-program-throwing-numberformatexception-how-to-fix-it
 
 http://stackoverflow.com/questions/41908184/treemap-with-keys-ordered-by-objects-physical-address-as-no-other-comparison-c
