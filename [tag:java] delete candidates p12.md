@@ -10,19 +10,7 @@ http://stackoverflow.com/questions/41898662/confusion-with-variables
 
 http://stackoverflow.com/questions/41897035/best-way-to-replace-every-object-in-collection-in-java
 
-http://stackoverflow.com/questions/41875499/nullpointerexception-using-autowired-notation-with-thread-class
-
-http://stackoverflow.com/questions/41834123/invocationhandler-invoke-not-called-if-method-is-called-from-inside-proxy
-
 http://stackoverflow.com/questions/41861713/why-cant-autoboxing-match-1-1-with-integer-int
-
-http://stackoverflow.com/questions/41814684/how-to-upgrade-spring
-
-http://stackoverflow.com/questions/41924565/remainder-operator-in-java-has-me-confused
-
-http://stackoverflow.com/questions/41903744/how-to-synchronise-two-runnables-ran-by-scheduledexecutorservice-at-the-same-tim
-
-http://stackoverflow.com/questions/41901974/how-to-print-out-smallest-index-from-array-in-this-code
 
 http://stackoverflow.com/questions/41927346/local-variables-referenced-from-a-lambda-expression-must-be-final-or-effectively
 
