@@ -80,3 +80,5 @@ http://stackoverflow.com/questions/41963608/compiling-multiple-files-from-the-sa
 http://stackoverflow.com/questions/41964085/java-console-output-formatting
 
 http://stackoverflow.com/questions/41965061/try-catch-multiple-input-values-inputmismatch
+
+http://stackoverflow.com/questions/41965117/java-arrays-have-a-look-at-the-following-codeblock
