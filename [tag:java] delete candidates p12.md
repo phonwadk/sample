@@ -82,3 +82,5 @@ http://stackoverflow.com/questions/41964085/java-console-output-formatting
 http://stackoverflow.com/questions/41965061/try-catch-multiple-input-values-inputmismatch
 
 http://stackoverflow.com/questions/41965117/java-arrays-have-a-look-at-the-following-codeblock
+
+http://stackoverflow.com/questions/41966040/what-is-the-difference-between-controller-and-restcontroller
