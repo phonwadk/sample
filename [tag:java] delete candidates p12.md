@@ -34,6 +34,8 @@ http://stackoverflow.com/questions/41962723/json-parsing-detailed-explanation
 
 http://stackoverflow.com/questions/41964650/get-values-from-object-in-an-arraylist
 
+http://stackoverflow.com/questions/41965169/javabeginner-program-that-guesses-your-number-in-7-tries-when-you-say-too-hi
+
 NOT YET
 =====
 
