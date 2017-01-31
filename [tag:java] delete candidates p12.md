@@ -66,3 +66,5 @@ http://stackoverflow.com/questions/41948917/jackson-array-parsing
 http://stackoverflow.com/questions/41950209/defining-and-using-empty-int-values
 
 http://stackoverflow.com/questions/41930402/how-to-append-string-to-attribute-of-element-in-xml-file-using-ant
+
+http://stackoverflow.com/questions/41948107/type-mismatch-using-java-generics-with-external-or-legacy-code
