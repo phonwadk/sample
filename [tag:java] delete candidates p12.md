@@ -30,6 +30,8 @@ http://stackoverflow.com/questions/41929845/equivalent-of-java-arrays-aslistarra
 
 http://stackoverflow.com/questions/41947503/new-to-java-keep-getting-array-out-of-bounds-error-for-my-method
 
+http://stackoverflow.com/questions/41962723/json-parsing-detailed-explanation
+
 NOT YET
 =====
 
@@ -72,3 +74,4 @@ http://stackoverflow.com/questions/41948107/type-mismatch-using-java-generics-wi
 http://stackoverflow.com/questions/41947126/why-does-java-char-array-update-original
 
 http://stackoverflow.com/questions/41962500/java-exception-in-thread-main-java-util-inputmismatchexception
+
