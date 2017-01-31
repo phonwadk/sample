@@ -30,8 +30,6 @@ http://stackoverflow.com/questions/41929845/equivalent-of-java-arrays-aslistarra
 
 http://stackoverflow.com/questions/41947503/new-to-java-keep-getting-array-out-of-bounds-error-for-my-method
 
-http://stackoverflow.com/questions/41948917/jackson-array-parsing
-
 NOT YET
 =====
 
@@ -62,6 +60,8 @@ http://stackoverflow.com/questions/41943332/even-though-i-know-how-and-where-is-
 http://stackoverflow.com/questions/41936817/what-is-the-equivalent-in-java-for-the-python-request-line
 
 http://stackoverflow.com/questions/41945626/java-trying-to-add-instead-of-concatenate
+
+http://stackoverflow.com/questions/41948917/jackson-array-parsing
 
 http://stackoverflow.com/questions/41950209/defining-and-using-empty-int-values
 
