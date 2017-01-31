@@ -78,3 +78,5 @@ http://stackoverflow.com/questions/41947126/why-does-java-char-array-update-orig
 http://stackoverflow.com/questions/41963608/compiling-multiple-files-from-the-same-java-package-in-linux-terminal
 
 http://stackoverflow.com/questions/41964085/java-console-output-formatting
+
+http://stackoverflow.com/questions/41965061/try-catch-multiple-input-values-inputmismatch
