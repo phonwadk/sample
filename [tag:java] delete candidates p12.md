@@ -38,12 +38,12 @@ http://stackoverflow.com/questions/41965169/javabeginner-program-that-guesses-yo
 
 http://stackoverflow.com/questions/41966442/initializing-a-java-double-to-avoid-null-pointer-exceptions
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41919290/why-do-i-have-to-omit-access-modifiers-if-i-am-writing-all-classes-in-the-same-f
 
 http://stackoverflow.com/questions/41924033/generic-interface-confusion
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41927036/java-how-to-add-elements-as-a-list-to-a-list
 
