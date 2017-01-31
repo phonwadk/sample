@@ -64,3 +64,5 @@ http://stackoverflow.com/questions/41936817/what-is-the-equivalent-in-java-for-t
 http://stackoverflow.com/questions/41945626/java-trying-to-add-instead-of-concatenate
 
 http://stackoverflow.com/questions/41950209/defining-and-using-empty-int-values
+
+http://stackoverflow.com/questions/41930402/how-to-append-string-to-attribute-of-element-in-xml-file-using-ant
