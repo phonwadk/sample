@@ -39,10 +39,6 @@ http://stackoverflow.com/questions/41909626/how-to-bind-a-form-field-with-a-dash
 
 http://stackoverflow.com/questions/38560913/what-is-in-java-8
 
-http://stackoverflow.com/questions/41947232/do-unused-local-variables-in-a-method-break-anyting
-
-http://stackoverflow.com/questions/41945786/how-does-the-diamond-interface-works-in-java
-
 http://stackoverflow.com/questions/41914208/how-do-i-convert-arraylistinteger-to-string-with-space-between-the-numbers
 
 http://stackoverflow.com/questions/41915800/local-value-of-local-variable-not-used
