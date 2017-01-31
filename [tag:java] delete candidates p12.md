@@ -36,6 +36,8 @@ http://stackoverflow.com/questions/41964650/get-values-from-object-in-an-arrayli
 
 http://stackoverflow.com/questions/41965169/javabeginner-program-that-guesses-your-number-in-7-tries-when-you-say-too-hi
 
+http://stackoverflow.com/questions/41966442/initializing-a-java-double-to-avoid-null-pointer-exceptions
+
 NOT YET
 =====
 
