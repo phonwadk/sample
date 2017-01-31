@@ -74,3 +74,5 @@ http://stackoverflow.com/questions/41948107/type-mismatch-using-java-generics-wi
 http://stackoverflow.com/questions/41947126/why-does-java-char-array-update-original
 
 http://stackoverflow.com/questions/41963608/compiling-multiple-files-from-the-same-java-package-in-linux-terminal
+
+http://stackoverflow.com/questions/41964085/java-console-output-formatting
