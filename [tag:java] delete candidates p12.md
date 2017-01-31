@@ -45,6 +45,9 @@ http://stackoverflow.com/questions/41915800/local-value-of-local-variable-not-us
 
 http://stackoverflow.com/questions/41929845/equivalent-of-java-arrays-aslistarrayvar-to-c-sharp-and-initializing-it-while
 
+http://stackoverflow.com/questions/41947503/new-to-java-keep-getting-array-out-of-bounds-error-for-my-method
+
+
 NOT YET
 =====
 
