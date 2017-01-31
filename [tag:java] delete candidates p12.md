@@ -47,6 +47,7 @@ http://stackoverflow.com/questions/41929845/equivalent-of-java-arrays-aslistarra
 
 http://stackoverflow.com/questions/41947503/new-to-java-keep-getting-array-out-of-bounds-error-for-my-method
 
+http://stackoverflow.com/questions/41948917/jackson-array-parsing
 
 NOT YET
 =====
