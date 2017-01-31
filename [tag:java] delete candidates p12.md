@@ -49,6 +49,8 @@ http://stackoverflow.com/questions/41947503/new-to-java-keep-getting-array-out-o
 
 http://stackoverflow.com/questions/41948917/jackson-array-parsing
 
+http://stackoverflow.com/questions/41948298/is-there-a-java-package-full-of-names
+
 NOT YET
 =====
 
