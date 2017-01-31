@@ -75,3 +75,4 @@ http://stackoverflow.com/questions/41947126/why-does-java-char-array-update-orig
 
 http://stackoverflow.com/questions/41962500/java-exception-in-thread-main-java-util-inputmismatchexception
 
+http://stackoverflow.com/questions/41963608/compiling-multiple-files-from-the-same-java-package-in-linux-terminal
