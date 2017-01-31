@@ -70,3 +70,5 @@ http://stackoverflow.com/questions/41930402/how-to-append-string-to-attribute-of
 http://stackoverflow.com/questions/41948107/type-mismatch-using-java-generics-with-external-or-legacy-code
 
 http://stackoverflow.com/questions/41947126/why-does-java-char-array-update-original
+
+http://stackoverflow.com/questions/41962500/java-exception-in-thread-main-java-util-inputmismatchexception
