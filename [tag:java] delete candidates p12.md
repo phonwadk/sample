@@ -16,40 +16,21 @@ http://stackoverflow.com/questions/41929936/java-8-count-characters-in-a-string
 
 http://stackoverflow.com/questions/41929543/hashmap-in-multithreaded-enviroment
 
-http://stackoverflow.com/questions/41938723/how-can-i-get-length-in-type-input
-
 http://stackoverflow.com/questions/41897047/what-is-the-correct-way-to-initialize-a-list-of-double-in-java-8
-
-http://stackoverflow.com/questions/41907947/my-program-throwing-numberformatexception-how-to-fix-it
 
 http://stackoverflow.com/questions/41923761/function-to-find-the-most-frequent-number-in-an-array-in-java
 
 duplicate of ^^ http://stackoverflow.com/questions/41923869/issue-with-java-function-used-to-count-most-frequent-number-in-an-array#41923869
 
-
 http://stackoverflow.com/questions/41908184/treemap-with-keys-ordered-by-objects-physical-address-as-no-other-comparison-c
 
-http://stackoverflow.com/questions/41910005/access-to-java-class-metadata
-
-http://stackoverflow.com/questions/41908616/how-to-transfer-a-modified-array-to-the-source-one-from-a-void-method-a-metho
-
-http://stackoverflow.com/questions/41909032/tictactoe-program
-
-http://stackoverflow.com/questions/41909626/how-to-bind-a-form-field-with-a-dash-in-the-name-to-a-form-bean
-
-http://stackoverflow.com/questions/38560913/what-is-in-java-8
-
 http://stackoverflow.com/questions/41914208/how-do-i-convert-arraylistinteger-to-string-with-space-between-the-numbers
-
-http://stackoverflow.com/questions/41915800/local-value-of-local-variable-not-used
 
 http://stackoverflow.com/questions/41929845/equivalent-of-java-arrays-aslistarrayvar-to-c-sharp-and-initializing-it-while
 
 http://stackoverflow.com/questions/41947503/new-to-java-keep-getting-array-out-of-bounds-error-for-my-method
 
 http://stackoverflow.com/questions/41948917/jackson-array-parsing
-
-http://stackoverflow.com/questions/41948298/is-there-a-java-package-full-of-names
 
 NOT YET
 =====
