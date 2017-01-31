@@ -32,6 +32,8 @@ http://stackoverflow.com/questions/41947503/new-to-java-keep-getting-array-out-o
 
 http://stackoverflow.com/questions/41962723/json-parsing-detailed-explanation
 
+http://stackoverflow.com/questions/41964650/get-values-from-object-in-an-arraylist
+
 NOT YET
 =====
 
