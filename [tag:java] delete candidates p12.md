@@ -14,9 +14,6 @@ http://stackoverflow.com/questions/41923761/function-to-find-the-most-frequent-n
 
 http://stackoverflow.com/questions/41908184/treemap-with-keys-ordered-by-objects-physical-address-as-no-other-comparison-c
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41927926/how-to-get-specific-datetime-format-using-java-8-instant-solved
 
 http://stackoverflow.com/questions/41939016/combination-of-digits
@@ -26,6 +23,9 @@ http://stackoverflow.com/questions/41936991/utf-8-in-spring-mvc
 http://stackoverflow.com/questions/41939183/object-this-variable-vs-variable
 
 http://stackoverflow.com/questions/41905736/java-unable-to-reference-array-from-another-class-array-is-initialized-with-g
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41942095/why-isnt-the-superclass-method-called
 
