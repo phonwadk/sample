@@ -32,14 +32,14 @@ http://stackoverflow.com/questions/41919290/why-do-i-have-to-omit-access-modifie
 
 http://stackoverflow.com/questions/41924033/generic-interface-confusion
 
+http://stackoverflow.com/questions/41927036/java-how-to-add-elements-as-a-list-to-a-list
+
+http://stackoverflow.com/questions/41926585/what-is-wrong-this-code
+
 NOT YET
 =====
 
-http://stackoverflow.com/questions/41927036/java-how-to-add-elements-as-a-list-to-a-list
-
 http://stackoverflow.com/questions/41928395/linkedhashmap-when-using-put-methods-why-the-map-changed-after-the-value-cha
-
-http://stackoverflow.com/questions/41926585/what-is-wrong-this-code
 
 http://stackoverflow.com/questions/41927926/how-to-get-specific-datetime-format-using-java-8-instant-solved
 
