@@ -54,3 +54,5 @@ http://stackoverflow.com/questions/41982880/date-time-conversion-in-java
 http://stackoverflow.com/questions/41961807/injecting-spring-class-from-rest-client-not-working
 
 http://stackoverflow.com/questions/41983928/local-variable-defined-in-an-enclosing-scope-must-be-final-or-effectively-final
+
+http://stackoverflow.com/questions/41971797/how-to-correct-an-inputmismatchexception-in-a-console-application
