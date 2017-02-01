@@ -26,6 +26,8 @@ http://stackoverflow.com/questions/41905736/java-unable-to-reference-array-from-
 
 http://stackoverflow.com/questions/41942095/why-isnt-the-superclass-method-called
 
+http://stackoverflow.com/questions/41983516/cannot-find-symbol-variable-array
+
 NOT YET
 =====
 
@@ -58,3 +60,4 @@ http://stackoverflow.com/questions/41983928/local-variable-defined-in-an-enclosi
 http://stackoverflow.com/questions/41971797/how-to-correct-an-inputmismatchexception-in-a-console-application
 
 http://stackoverflow.com/questions/41983977/class-members-value-is-changed-for-no-obvious-reason-java
+
