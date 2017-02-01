@@ -30,6 +30,8 @@ http://stackoverflow.com/questions/41983516/cannot-find-symbol-variable-array
 
 http://stackoverflow.com/questions/41986417/converting-listclassa-to-list-classb-when-classb-is-not-inherits-from-classa
 
+http://stackoverflow.com/questions/41987289/logical-operations-in-java
+
 NOT YET
 =====
 
