@@ -48,3 +48,9 @@ http://stackoverflow.com/questions/41947126/why-does-java-char-array-update-orig
 http://stackoverflow.com/questions/41963608/compiling-multiple-files-from-the-same-java-package-in-linux-terminal
 
 http://stackoverflow.com/questions/41965061/try-catch-multiple-input-values-inputmismatch
+
+http://stackoverflow.com/questions/41982880/date-time-conversion-in-java
+
+http://stackoverflow.com/questions/41961807/injecting-spring-class-from-rest-client-not-working
+
+http://stackoverflow.com/questions/41983928/local-variable-defined-in-an-enclosing-scope-must-be-final-or-effectively-final
