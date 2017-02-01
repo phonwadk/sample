@@ -18,30 +18,24 @@ http://stackoverflow.com/questions/41897047/what-is-the-correct-way-to-initializ
 
 http://stackoverflow.com/questions/41923761/function-to-find-the-most-frequent-number-in-an-array-in-java
 
-duplicate of ^^ http://stackoverflow.com/questions/41923869/issue-with-java-function-used-to-count-most-frequent-number-in-an-array#41923869
-
 http://stackoverflow.com/questions/41908184/treemap-with-keys-ordered-by-objects-physical-address-as-no-other-comparison-c
 
 http://stackoverflow.com/questions/41964650/get-values-from-object-in-an-arraylist
 
 http://stackoverflow.com/questions/41965169/javabeginner-program-that-guesses-your-number-in-7-tries-when-you-say-too-hi
 
-http://stackoverflow.com/questions/41966442/initializing-a-java-double-to-avoid-null-pointer-exceptions
-
 http://stackoverflow.com/questions/41919290/why-do-i-have-to-omit-access-modifiers-if-i-am-writing-all-classes-in-the-same-f
 
 http://stackoverflow.com/questions/41924033/generic-interface-confusion
-
-http://stackoverflow.com/questions/41927036/java-how-to-add-elements-as-a-list-to-a-list
 
 http://stackoverflow.com/questions/41926585/what-is-wrong-this-code
 
 http://stackoverflow.com/questions/41971509/what-is-meaning-of-util-in-java-util-scanner
 
+http://stackoverflow.com/questions/41928395/linkedhashmap-when-using-put-methods-why-the-map-changed-after-the-value-cha
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/41928395/linkedhashmap-when-using-put-methods-why-the-map-changed-after-the-value-cha
 
 http://stackoverflow.com/questions/41927926/how-to-get-specific-datetime-format-using-java-8-instant-solved
 
