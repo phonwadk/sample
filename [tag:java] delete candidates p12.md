@@ -24,13 +24,6 @@ http://stackoverflow.com/questions/41939183/object-this-variable-vs-variable
 
 http://stackoverflow.com/questions/41905736/java-unable-to-reference-array-from-another-class-array-is-initialized-with-g
 
-http://stackoverflow.com/questions/41964085/java-console-output-formatting
-
-http://stackoverflow.com/questions/41965117/java-arrays-have-a-look-at-the-following-codeblock
-
-http://stackoverflow.com/questions/41966040/what-is-the-difference-between-controller-and-restcontroller
-
-
 NOT YET
 =====
 
