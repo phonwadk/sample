@@ -10,8 +10,6 @@ http://stackoverflow.com/questions/41861713/why-cant-autoboxing-match-1-1-with-i
 
 http://stackoverflow.com/questions/41927346/local-variables-referenced-from-a-lambda-expression-must-be-final-or-effectively
 
-http://stackoverflow.com/questions/41937159/private-class-not-visible
-
 http://stackoverflow.com/questions/41929936/java-8-count-characters-in-a-string
 
 http://stackoverflow.com/questions/41929543/hashmap-in-multithreaded-enviroment
@@ -23,14 +21,6 @@ http://stackoverflow.com/questions/41923761/function-to-find-the-most-frequent-n
 duplicate of ^^ http://stackoverflow.com/questions/41923869/issue-with-java-function-used-to-count-most-frequent-number-in-an-array#41923869
 
 http://stackoverflow.com/questions/41908184/treemap-with-keys-ordered-by-objects-physical-address-as-no-other-comparison-c
-
-http://stackoverflow.com/questions/41914208/how-do-i-convert-arraylistinteger-to-string-with-space-between-the-numbers
-
-http://stackoverflow.com/questions/41929845/equivalent-of-java-arrays-aslistarrayvar-to-c-sharp-and-initializing-it-while
-
-http://stackoverflow.com/questions/41947503/new-to-java-keep-getting-array-out-of-bounds-error-for-my-method
-
-http://stackoverflow.com/questions/41962723/json-parsing-detailed-explanation
 
 http://stackoverflow.com/questions/41964650/get-values-from-object-in-an-arraylist
 
