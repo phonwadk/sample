@@ -32,10 +32,11 @@ http://stackoverflow.com/questions/41986417/converting-listclassa-to-list-classb
 
 http://stackoverflow.com/questions/41987289/logical-operations-in-java
 
+http://stackoverflow.com/questions/41943332/even-though-i-know-how-and-where-is-the-error-but-please-help-to-resolve-this-ar
+
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/41943332/even-though-i-know-how-and-where-is-the-error-but-please-help-to-resolve-this-ar
 
 http://stackoverflow.com/questions/41936817/what-is-the-equivalent-in-java-for-the-python-request-line
 
