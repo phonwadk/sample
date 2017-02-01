@@ -36,6 +36,8 @@ http://stackoverflow.com/questions/41927036/java-how-to-add-elements-as-a-list-t
 
 http://stackoverflow.com/questions/41926585/what-is-wrong-this-code
 
+http://stackoverflow.com/questions/41971509/what-is-meaning-of-util-in-java-util-scanner
+
 NOT YET
 =====
 
