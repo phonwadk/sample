@@ -28,6 +28,8 @@ http://stackoverflow.com/questions/41942095/why-isnt-the-superclass-method-calle
 
 http://stackoverflow.com/questions/41983516/cannot-find-symbol-variable-array
 
+http://stackoverflow.com/questions/41986417/converting-listclassa-to-list-classb-when-classb-is-not-inherits-from-classa
+
 NOT YET
 =====
 
