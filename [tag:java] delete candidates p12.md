@@ -40,6 +40,8 @@ http://stackoverflow.com/questions/41936817/what-is-the-equivalent-in-java-for-t
 
 http://stackoverflow.com/questions/41945626/java-trying-to-add-instead-of-concatenate
 
+http://stackoverflow.com/questions/41990261/java-interface-assistance
+
 NOT YET
 =====
 
