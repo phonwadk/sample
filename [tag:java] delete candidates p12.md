@@ -10,8 +10,6 @@ http://stackoverflow.com/questions/41929543/hashmap-in-multithreaded-enviroment
 
 http://stackoverflow.com/questions/41897047/what-is-the-correct-way-to-initialize-a-list-of-double-in-java-8
 
-http://stackoverflow.com/questions/41923761/function-to-find-the-most-frequent-number-in-an-array-in-java
-
 http://stackoverflow.com/questions/41908184/treemap-with-keys-ordered-by-objects-physical-address-as-no-other-comparison-c
 
 http://stackoverflow.com/questions/41927926/how-to-get-specific-datetime-format-using-java-8-instant-solved
