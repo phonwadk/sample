@@ -64,3 +64,5 @@ http://stackoverflow.com/questions/41971797/how-to-correct-an-inputmismatchexcep
 http://stackoverflow.com/questions/41983977/class-members-value-is-changed-for-no-obvious-reason-java
 
 http://stackoverflow.com/questions/41985763/should-i-instantiate-variables-outside-of-methods-or-inside
+
+http://stackoverflow.com/questions/41987131/issue-with-accepting-user-input-java
