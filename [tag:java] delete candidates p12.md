@@ -40,6 +40,8 @@ http://stackoverflow.com/questions/41990506/when-designing-interfaces-is-it-best
 
 http://stackoverflow.com/questions/41961807/injecting-spring-class-from-rest-client-not-working
 
+http://stackoverflow.com/questions/41993543/rawquery-error-while-compiling
+
 NOT YET
 =====
 
