@@ -94,3 +94,5 @@ http://stackoverflow.com/questions/42007140/replace-double-quotes-by-antislash-d
 http://stackoverflow.com/questions/41996200/no-compilation-error-when-i-add-a-string-to-an-arraylist-of-type-date
 
 http://stackoverflow.com/questions/41995219/boolean-to-json-array-is-wrong
+
+http://stackoverflow.com/questions/42007902/java-error-while-executing-from-terminal
