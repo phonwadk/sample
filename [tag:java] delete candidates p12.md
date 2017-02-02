@@ -82,3 +82,5 @@ http://stackoverflow.com/questions/41995529/how-do-i-sort-a-mapstring-object-bas
 http://stackoverflow.com/questions/41956625/listener-contextinitialized-method-does-not-work-and-throws-nullpointerexception
 
 http://stackoverflow.com/questions/42007140/replace-double-quotes-by-antislash-double-quotes
+
+http://stackoverflow.com/questions/41996200/no-compilation-error-when-i-add-a-string-to-an-arraylist-of-type-date
