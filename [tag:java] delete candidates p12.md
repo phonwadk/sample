@@ -46,6 +46,8 @@ http://stackoverflow.com/questions/41950209/defining-and-using-empty-int-values
 
 http://stackoverflow.com/questions/41930402/how-to-append-string-to-attribute-of-element-in-xml-file-using-ant
 
+http://stackoverflow.com/questions/41995505/java-object-by-reference-pass-null-object
+
 NOT YET
 =====
 
