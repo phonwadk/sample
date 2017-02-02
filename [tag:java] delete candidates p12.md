@@ -54,6 +54,8 @@ http://stackoverflow.com/questions/41947126/why-does-java-char-array-update-orig
 
 http://stackoverflow.com/questions/1330429/merge-sort-comparison-count
 
+http://stackoverflow.com/questions/41993897/class-name-return-type-with-array-as-input
+
 NOT YET
 =====
 
