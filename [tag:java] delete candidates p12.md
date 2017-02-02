@@ -96,3 +96,5 @@ http://stackoverflow.com/questions/41996200/no-compilation-error-when-i-add-a-st
 http://stackoverflow.com/questions/41995219/boolean-to-json-array-is-wrong
 
 http://stackoverflow.com/questions/42007902/java-error-while-executing-from-terminal
+
+http://stackoverflow.com/questions/42005447/is-this-second-inner-class-why-does-eclipse-allow-to-create-two-classes-in
