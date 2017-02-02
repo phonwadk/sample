@@ -12,11 +12,7 @@ http://stackoverflow.com/questions/41897047/what-is-the-correct-way-to-initializ
 
 http://stackoverflow.com/questions/41908184/treemap-with-keys-ordered-by-objects-physical-address-as-no-other-comparison-c
 
-http://stackoverflow.com/questions/41927926/how-to-get-specific-datetime-format-using-java-8-instant-solved
-
 http://stackoverflow.com/questions/41939016/combination-of-digits
-
-http://stackoverflow.com/questions/41936991/utf-8-in-spring-mvc
 
 http://stackoverflow.com/questions/41939183/object-this-variable-vs-variable
 
@@ -47,8 +43,6 @@ http://stackoverflow.com/questions/41950209/defining-and-using-empty-int-values
 http://stackoverflow.com/questions/41930402/how-to-append-string-to-attribute-of-element-in-xml-file-using-ant
 
 http://stackoverflow.com/questions/41995505/java-object-by-reference-pass-null-object
-
-http://stackoverflow.com/questions/41995705/how-to-create-arrays-based-on-integer-value
 
 NOT YET
 =====
