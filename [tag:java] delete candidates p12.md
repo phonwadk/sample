@@ -80,3 +80,5 @@ http://stackoverflow.com/questions/41983725/final-and-private-combination-addes-
 http://stackoverflow.com/questions/41991954/how-to-access-a-global-variable-within-a-local-class-in-java
 
 http://stackoverflow.com/questions/41992460/compareto-method-without-an-abstract-class
+
+http://stackoverflow.com/questions/41993206/redirecting-system-out-println-output-to-a-file
