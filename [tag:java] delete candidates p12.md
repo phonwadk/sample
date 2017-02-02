@@ -88,3 +88,5 @@ http://stackoverflow.com/questions/42007902/java-error-while-executing-from-term
 http://stackoverflow.com/questions/42005447/is-this-second-inner-class-why-does-eclipse-allow-to-create-two-classes-in
 
 http://stackoverflow.com/questions/42010791/overriding-the-equals-method-in-java-with-specifications
+
+http://stackoverflow.com/questions/42011203/how-to-append-multiple-arrays-into-hashmap-in-java
