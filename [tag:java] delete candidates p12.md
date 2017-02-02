@@ -76,3 +76,5 @@ http://stackoverflow.com/questions/41992460/compareto-method-without-an-abstract
 http://stackoverflow.com/questions/41994316/how-to-use-elements-of-an-array-i-just-instantiated
 
 http://stackoverflow.com/questions/42005534/what-does-the-following-program-print-and-why
+
+http://stackoverflow.com/questions/41956625/listener-contextinitialized-method-does-not-work-and-throws-nullpointerexception
