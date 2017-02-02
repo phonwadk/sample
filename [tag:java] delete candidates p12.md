@@ -8,23 +8,13 @@ http://stackoverflow.com/questions/41861713/why-cant-autoboxing-match-1-1-with-i
 
 http://stackoverflow.com/questions/41929543/hashmap-in-multithreaded-enviroment
 
-http://stackoverflow.com/questions/41897047/what-is-the-correct-way-to-initialize-a-list-of-double-in-java-8
-
-http://stackoverflow.com/questions/41908184/treemap-with-keys-ordered-by-objects-physical-address-as-no-other-comparison-c
-
-http://stackoverflow.com/questions/41939016/combination-of-digits
-
 http://stackoverflow.com/questions/41939183/object-this-variable-vs-variable
 
 http://stackoverflow.com/questions/41905736/java-unable-to-reference-array-from-another-class-array-is-initialized-with-g
 
 http://stackoverflow.com/questions/41983516/cannot-find-symbol-variable-array
 
-http://stackoverflow.com/questions/41943332/even-though-i-know-how-and-where-is-the-error-but-please-help-to-resolve-this-ar
-
 http://stackoverflow.com/questions/41989871/why-is-a-subclass-updating-an-object-created-with-another-subclass
-
-http://stackoverflow.com/questions/41936817/what-is-the-equivalent-in-java-for-the-python-request-line
 
 http://stackoverflow.com/questions/41945626/java-trying-to-add-instead-of-concatenate
 
@@ -33,8 +23,6 @@ http://stackoverflow.com/questions/41961807/injecting-spring-class-from-rest-cli
 http://stackoverflow.com/questions/41993543/rawquery-error-while-compiling
 
 http://stackoverflow.com/questions/41993206/redirecting-system-out-println-output-to-a-file
-
-http://stackoverflow.com/questions/41948917/jackson-array-parsing
 
 http://stackoverflow.com/questions/41950209/defining-and-using-empty-int-values
 
