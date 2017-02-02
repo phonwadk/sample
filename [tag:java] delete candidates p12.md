@@ -22,8 +22,6 @@ http://stackoverflow.com/questions/41939183/object-this-variable-vs-variable
 
 http://stackoverflow.com/questions/41905736/java-unable-to-reference-array-from-another-class-array-is-initialized-with-g
 
-http://stackoverflow.com/questions/41942095/why-isnt-the-superclass-method-called
-
 http://stackoverflow.com/questions/41983516/cannot-find-symbol-variable-array
 
 http://stackoverflow.com/questions/41986417/converting-listclassa-to-list-classb-when-classb-is-not-inherits-from-classa
@@ -35,8 +33,6 @@ http://stackoverflow.com/questions/41989871/why-is-a-subclass-updating-an-object
 http://stackoverflow.com/questions/41936817/what-is-the-equivalent-in-java-for-the-python-request-line
 
 http://stackoverflow.com/questions/41945626/java-trying-to-add-instead-of-concatenate
-
-http://stackoverflow.com/questions/41990506/when-designing-interfaces-is-it-best-to-stay-clear-of-using-abstract-or-concrete
 
 http://stackoverflow.com/questions/41961807/injecting-spring-class-from-rest-client-not-working
 
