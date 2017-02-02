@@ -79,3 +79,4 @@ http://stackoverflow.com/questions/41992460/compareto-method-without-an-abstract
 
 http://stackoverflow.com/questions/41993206/redirecting-system-out-println-output-to-a-file
 
+http://stackoverflow.com/questions/41994316/how-to-use-elements-of-an-array-i-just-instantiated
