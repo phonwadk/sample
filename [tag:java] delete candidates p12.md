@@ -44,12 +44,12 @@ http://stackoverflow.com/questions/41993897/class-name-return-type-with-array-as
 
 http://stackoverflow.com/questions/41994698/detect-how-many-characters-are-in-a-string
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41963608/compiling-multiple-files-from-the-same-java-package-in-linux-terminal
 
 http://stackoverflow.com/questions/41965061/try-catch-multiple-input-values-inputmismatch
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41983928/local-variable-defined-in-an-enclosing-scope-must-be-final-or-effectively-final
 
