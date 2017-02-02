@@ -38,14 +38,16 @@ http://stackoverflow.com/questions/41961807/injecting-spring-class-from-rest-cli
 
 http://stackoverflow.com/questions/41993543/rawquery-error-while-compiling
 
-NOT YET
-=====
+http://stackoverflow.com/questions/41993206/redirecting-system-out-println-output-to-a-file
 
 http://stackoverflow.com/questions/41948917/jackson-array-parsing
 
 http://stackoverflow.com/questions/41950209/defining-and-using-empty-int-values
 
 http://stackoverflow.com/questions/41930402/how-to-append-string-to-attribute-of-element-in-xml-file-using-ant
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41948107/type-mismatch-using-java-generics-with-external-or-legacy-code
 
@@ -72,7 +74,5 @@ http://stackoverflow.com/questions/41983725/final-and-private-combination-addes-
 http://stackoverflow.com/questions/41991954/how-to-access-a-global-variable-within-a-local-class-in-java
 
 http://stackoverflow.com/questions/41992460/compareto-method-without-an-abstract-class
-
-http://stackoverflow.com/questions/41993206/redirecting-system-out-println-output-to-a-file
 
 http://stackoverflow.com/questions/41994316/how-to-use-elements-of-an-array-i-just-instantiated
