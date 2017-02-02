@@ -88,3 +88,5 @@ http://stackoverflow.com/questions/41956625/listener-contextinitialized-method-d
 http://stackoverflow.com/questions/42007140/replace-double-quotes-by-antislash-double-quotes
 
 http://stackoverflow.com/questions/41996200/no-compilation-error-when-i-add-a-string-to-an-arraylist-of-type-date
+
+http://stackoverflow.com/questions/41995219/boolean-to-json-array-is-wrong
