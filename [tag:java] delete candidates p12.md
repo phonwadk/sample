@@ -46,16 +46,14 @@ http://stackoverflow.com/questions/41995505/java-object-by-reference-pass-null-o
 
 http://stackoverflow.com/questions/41995565/reading-specific-parts-of-files-in-java
 
-http://stackoverflow.com/questions/41995554/static-reference-error-when-using-async-task
-
 http://stackoverflow.com/questions/41995321/how-does-method-object-chaining-work-in-java
-
-NOT YET
-=====
 
 http://stackoverflow.com/questions/41948107/type-mismatch-using-java-generics-with-external-or-legacy-code
 
 http://stackoverflow.com/questions/41947126/why-does-java-char-array-update-original
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/41963608/compiling-multiple-files-from-the-same-java-package-in-linux-terminal
 
