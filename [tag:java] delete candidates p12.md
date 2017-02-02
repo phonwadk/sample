@@ -72,3 +72,5 @@ http://stackoverflow.com/questions/42010791/overriding-the-equals-method-in-java
 http://stackoverflow.com/questions/42011203/how-to-append-multiple-arrays-into-hashmap-in-java
 
 http://stackoverflow.com/questions/42014119/return-statment-not-working-returning-null
+
+http://stackoverflow.com/questions/42012721/using-twice-new-in-the-same-line-new-base-new-subclass
