@@ -44,6 +44,12 @@ http://stackoverflow.com/questions/41930402/how-to-append-string-to-attribute-of
 
 http://stackoverflow.com/questions/41995505/java-object-by-reference-pass-null-object
 
+http://stackoverflow.com/questions/41995565/reading-specific-parts-of-files-in-java
+
+http://stackoverflow.com/questions/41995554/static-reference-error-when-using-async-task
+
+http://stackoverflow.com/questions/41995321/how-does-method-object-chaining-work-in-java
+
 NOT YET
 =====
 
