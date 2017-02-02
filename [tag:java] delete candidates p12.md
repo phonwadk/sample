@@ -8,27 +8,11 @@ http://stackoverflow.com/questions/41861713/why-cant-autoboxing-match-1-1-with-i
 
 http://stackoverflow.com/questions/41929543/hashmap-in-multithreaded-enviroment
 
-http://stackoverflow.com/questions/41939183/object-this-variable-vs-variable
-
-http://stackoverflow.com/questions/41905736/java-unable-to-reference-array-from-another-class-array-is-initialized-with-g
-
-http://stackoverflow.com/questions/41983516/cannot-find-symbol-variable-array
-
-http://stackoverflow.com/questions/41989871/why-is-a-subclass-updating-an-object-created-with-another-subclass
-
 http://stackoverflow.com/questions/41945626/java-trying-to-add-instead-of-concatenate
-
-http://stackoverflow.com/questions/41961807/injecting-spring-class-from-rest-client-not-working
-
-http://stackoverflow.com/questions/41993543/rawquery-error-while-compiling
-
-http://stackoverflow.com/questions/41993206/redirecting-system-out-println-output-to-a-file
 
 http://stackoverflow.com/questions/41950209/defining-and-using-empty-int-values
 
 http://stackoverflow.com/questions/41930402/how-to-append-string-to-attribute-of-element-in-xml-file-using-ant
-
-http://stackoverflow.com/questions/41995505/java-object-by-reference-pass-null-object
 
 http://stackoverflow.com/questions/41995565/reading-specific-parts-of-files-in-java
 
@@ -39,10 +23,6 @@ http://stackoverflow.com/questions/41948107/type-mismatch-using-java-generics-wi
 http://stackoverflow.com/questions/41947126/why-does-java-char-array-update-original
 
 http://stackoverflow.com/questions/1330429/merge-sort-comparison-count
-
-http://stackoverflow.com/questions/41993897/class-name-return-type-with-array-as-input
-
-http://stackoverflow.com/questions/41994698/detect-how-many-characters-are-in-a-string
 
 http://stackoverflow.com/questions/41963608/compiling-multiple-files-from-the-same-java-package-in-linux-terminal
 
