@@ -20,8 +20,6 @@ http://stackoverflow.com/questions/41905736/java-unable-to-reference-array-from-
 
 http://stackoverflow.com/questions/41983516/cannot-find-symbol-variable-array
 
-http://stackoverflow.com/questions/41986417/converting-listclassa-to-list-classb-when-classb-is-not-inherits-from-classa
-
 http://stackoverflow.com/questions/41943332/even-though-i-know-how-and-where-is-the-error-but-please-help-to-resolve-this-ar
 
 http://stackoverflow.com/questions/41989871/why-is-a-subclass-updating-an-object-created-with-another-subclass
