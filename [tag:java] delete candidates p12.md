@@ -74,3 +74,5 @@ http://stackoverflow.com/questions/41991954/how-to-access-a-global-variable-with
 http://stackoverflow.com/questions/41992460/compareto-method-without-an-abstract-class
 
 http://stackoverflow.com/questions/41994316/how-to-use-elements-of-an-array-i-just-instantiated
+
+http://stackoverflow.com/questions/42005534/what-does-the-following-program-print-and-why
