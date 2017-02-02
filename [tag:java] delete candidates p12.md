@@ -78,3 +78,5 @@ http://stackoverflow.com/questions/41985282/iterating-over-two-lists-within-one-
 http://stackoverflow.com/questions/41983725/final-and-private-combination-addes-visibility-guaranties
 
 http://stackoverflow.com/questions/41991954/how-to-access-a-global-variable-within-a-local-class-in-java
+
+http://stackoverflow.com/questions/41992460/compareto-method-without-an-abstract-class
