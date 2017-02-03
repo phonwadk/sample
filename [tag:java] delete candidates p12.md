@@ -65,6 +65,10 @@ http://stackoverflow.com/questions/42012721/using-twice-new-in-the-same-line-new
 
 http://stackoverflow.com/questions/41992535/getting-java-lang-illegalargumentexception-when-using-request-body-in-mockmvc
 
+http://stackoverflow.com/questions/41991174/is-date-a-variable-type
+
 http://stackoverflow.com/questions/42017594/throws-parent-exception
 
 http://stackoverflow.com/questions/42012732/org-xml-sax-saxparseexception-linenumber-8-columnnumber-69-cvc-elt-1-canno
+
+http://stackoverflow.com/questions/41987411/java-invoked-method-public-abstract-boolean-java-util-set-addjava-lang-object?noredirect=1
