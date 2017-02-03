@@ -2,10 +2,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42026349/variable-in-java-with-persistent-value
-
-http://stackoverflow.com/questions/41983928/local-variable-defined-in-an-enclosing-scope-must-be-final-or-effectively-final
-
 http://stackoverflow.com/questions/41971797/how-to-correct-an-inputmismatchexception-in-a-console-application
 
 http://stackoverflow.com/questions/41983977/class-members-value-is-changed-for-no-obvious-reason-java
