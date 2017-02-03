@@ -4,32 +4,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than-fdouble-x
 
-http://stackoverflow.com/questions/41861713/why-cant-autoboxing-match-1-1-with-integer-int
-
-http://stackoverflow.com/questions/41929543/hashmap-in-multithreaded-enviroment
-
-http://stackoverflow.com/questions/41945626/java-trying-to-add-instead-of-concatenate
-
-http://stackoverflow.com/questions/41950209/defining-and-using-empty-int-values
-
-http://stackoverflow.com/questions/41930402/how-to-append-string-to-attribute-of-element-in-xml-file-using-ant
-
-http://stackoverflow.com/questions/41995565/reading-specific-parts-of-files-in-java
-
-http://stackoverflow.com/questions/41995321/how-does-method-object-chaining-work-in-java
-
-http://stackoverflow.com/questions/41948107/type-mismatch-using-java-generics-with-external-or-legacy-code
-
-http://stackoverflow.com/questions/41947126/why-does-java-char-array-update-original
-
-http://stackoverflow.com/questions/1330429/merge-sort-comparison-count
-
-http://stackoverflow.com/questions/41963608/compiling-multiple-files-from-the-same-java-package-in-linux-terminal
-
-http://stackoverflow.com/questions/41965061/try-catch-multiple-input-values-inputmismatch
-
-http://stackoverflow.com/questions/42015270/method-getall-is-undefined-with-type-arraylist-string
-
 NOT YET
 =====
 
