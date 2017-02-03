@@ -6,6 +6,10 @@ http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than
 
 http://stackoverflow.com/questions/42017572/why-am-i-gettiing-arrayindexoutofbuondexception
 
+http://stackoverflow.com/questions/42026349/variable-in-java-with-persistent-value
+
+http://stackoverflow.com/questions/42017619/need-fixed-magic-squares-please
+
 NOT YET
 =====
 
@@ -54,3 +58,7 @@ http://stackoverflow.com/questions/42014119/return-statment-not-working-returnin
 http://stackoverflow.com/questions/42012721/using-twice-new-in-the-same-line-new-base-new-subclass
 
 http://stackoverflow.com/questions/42017056/java-cannot-find-symbol-error-problems
+
+http://stackoverflow.com/questions/42017594/throws-parent-exception
+
+http://stackoverflow.com/questions/42012732/org-xml-sax-saxparseexception-linenumber-8-columnnumber-69-cvc-elt-1-canno
