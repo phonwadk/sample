@@ -2,18 +2,9 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42017572/why-am-i-gettiing-arrayindexoutofbuondexception
-
 http://stackoverflow.com/questions/42026349/variable-in-java-with-persistent-value
 
-http://stackoverflow.com/questions/42017619/need-fixed-magic-squares-please
-
-http://stackoverflow.com/questions/42026355/java-generics-set-a-property-which-has-generic-type-to-reference-an-instance-of
-
 http://stackoverflow.com/questions/41983928/local-variable-defined-in-an-enclosing-scope-must-be-final-or-effectively-final
-
-NOT YET
-=====
 
 http://stackoverflow.com/questions/41971797/how-to-correct-an-inputmismatchexception-in-a-console-application
 
@@ -24,6 +15,10 @@ http://stackoverflow.com/questions/41985763/should-i-instantiate-variables-outsi
 http://stackoverflow.com/questions/41987131/issue-with-accepting-user-input-java
 
 http://stackoverflow.com/questions/41985282/iterating-over-two-lists-within-one-stream
+
+NOT YET
+=====
+
 
 http://stackoverflow.com/questions/41983725/final-and-private-combination-addes-visibility-guaranties
 
