@@ -12,11 +12,10 @@ http://stackoverflow.com/questions/42026355/java-generics-set-a-property-which-h
 
 http://stackoverflow.com/questions/41983928/local-variable-defined-in-an-enclosing-scope-must-be-final-or-effectively-final
 
-http://stackoverflow.com/questions/41971797/how-to-correct-an-inputmismatchexception-in-a-console-application
-
 NOT YET
 =====
 
+http://stackoverflow.com/questions/41971797/how-to-correct-an-inputmismatchexception-in-a-console-application
 
 http://stackoverflow.com/questions/41983977/class-members-value-is-changed-for-no-obvious-reason-java
 
