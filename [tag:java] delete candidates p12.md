@@ -10,6 +10,8 @@ http://stackoverflow.com/questions/42026349/variable-in-java-with-persistent-val
 
 http://stackoverflow.com/questions/42017619/need-fixed-magic-squares-please
 
+http://stackoverflow.com/questions/42026355/java-generics-set-a-property-which-has-generic-type-to-reference-an-instance-of
+
 NOT YET
 =====
 
