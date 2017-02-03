@@ -28,6 +28,8 @@ http://stackoverflow.com/questions/41963608/compiling-multiple-files-from-the-sa
 
 http://stackoverflow.com/questions/41965061/try-catch-multiple-input-values-inputmismatch
 
+http://stackoverflow.com/questions/42015270/method-getall-is-undefined-with-type-arraylist-string
+
 NOT YET
 =====
 
