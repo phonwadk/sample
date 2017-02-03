@@ -14,6 +14,8 @@ http://stackoverflow.com/questions/42026355/java-generics-set-a-property-which-h
 
 http://stackoverflow.com/questions/42017056/java-cannot-find-symbol-error-problems
 
+http://stackoverflow.com/questions/42026903/eclipse-and-java-annotations-override
+
 NOT YET
 =====
 
