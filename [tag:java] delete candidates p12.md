@@ -2,8 +2,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than-fdouble-x
-
 http://stackoverflow.com/questions/42017572/why-am-i-gettiing-arrayindexoutofbuondexception
 
 http://stackoverflow.com/questions/42026349/variable-in-java-with-persistent-value
@@ -12,15 +10,13 @@ http://stackoverflow.com/questions/42017619/need-fixed-magic-squares-please
 
 http://stackoverflow.com/questions/42026355/java-generics-set-a-property-which-has-generic-type-to-reference-an-instance-of
 
-http://stackoverflow.com/questions/42017056/java-cannot-find-symbol-error-problems
-
 http://stackoverflow.com/questions/41983928/local-variable-defined-in-an-enclosing-scope-must-be-final-or-effectively-final
 
+http://stackoverflow.com/questions/41971797/how-to-correct-an-inputmismatchexception-in-a-console-application
 
 NOT YET
 =====
 
-http://stackoverflow.com/questions/41971797/how-to-correct-an-inputmismatchexception-in-a-console-application
 
 http://stackoverflow.com/questions/41983977/class-members-value-is-changed-for-no-obvious-reason-java
 
