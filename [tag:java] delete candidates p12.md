@@ -71,4 +71,6 @@ http://stackoverflow.com/questions/42017594/throws-parent-exception
 
 http://stackoverflow.com/questions/42012732/org-xml-sax-saxparseexception-linenumber-8-columnnumber-69-cvc-elt-1-canno
 
-http://stackoverflow.com/questions/41987411/java-invoked-method-public-abstract-boolean-java-util-set-addjava-lang-object?noredirect=1
+http://stackoverflow.com/questions/41987411/java-invoked-method-public-abstract-boolean-java-util-set-addjava-lang-object
+
+http://stackoverflow.com/questions/42015169/exception-in-thread-main-java-text-parseexception
