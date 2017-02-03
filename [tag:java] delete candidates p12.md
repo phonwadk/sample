@@ -4,6 +4,8 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 http://stackoverflow.com/questions/41652947/why-is-fdouble-x-a-better-match-than-fdouble-x
 
+http://stackoverflow.com/questions/42017572/why-am-i-gettiing-arrayindexoutofbuondexception
+
 NOT YET
 =====
 
