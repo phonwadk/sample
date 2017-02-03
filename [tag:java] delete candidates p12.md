@@ -67,3 +67,6 @@ http://stackoverflow.com/questions/41987411/java-invoked-method-public-abstract-
 http://stackoverflow.com/questions/42015169/exception-in-thread-main-java-text-parseexception
 
 http://stackoverflow.com/questions/41587925/operating-on-a-recursive-method
+
+http://stackoverflow.com/questions/42033351/string-and-integer-concatenation-in-java
+
