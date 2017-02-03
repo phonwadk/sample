@@ -76,3 +76,5 @@ http://stackoverflow.com/questions/42011203/how-to-append-multiple-arrays-into-h
 http://stackoverflow.com/questions/42014119/return-statment-not-working-returning-null
 
 http://stackoverflow.com/questions/42012721/using-twice-new-in-the-same-line-new-base-new-subclass
+
+http://stackoverflow.com/questions/42017056/java-cannot-find-symbol-error-problems
