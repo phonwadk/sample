@@ -12,6 +12,8 @@ http://stackoverflow.com/questions/42017619/need-fixed-magic-squares-please
 
 http://stackoverflow.com/questions/42026355/java-generics-set-a-property-which-has-generic-type-to-reference-an-instance-of
 
+http://stackoverflow.com/questions/42017056/java-cannot-find-symbol-error-problems
+
 NOT YET
 =====
 
@@ -58,8 +60,6 @@ http://stackoverflow.com/questions/42011203/how-to-append-multiple-arrays-into-h
 http://stackoverflow.com/questions/42014119/return-statment-not-working-returning-null
 
 http://stackoverflow.com/questions/42012721/using-twice-new-in-the-same-line-new-base-new-subclass
-
-http://stackoverflow.com/questions/42017056/java-cannot-find-symbol-error-problems
 
 http://stackoverflow.com/questions/42017594/throws-parent-exception
 
