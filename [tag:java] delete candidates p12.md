@@ -24,6 +24,9 @@ http://stackoverflow.com/questions/42007902/java-error-while-executing-from-term
 
 http://stackoverflow.com/questions/42005447/is-this-second-inner-class-why-does-eclipse-allow-to-create-two-classes-in
 
+http://stackoverflow.com/questions/41992535/getting-java-lang-illegalargumentexception-when-using-request-body-in-mockmvc
+
+
 NOT YET
 =====
 
@@ -32,17 +35,11 @@ http://stackoverflow.com/questions/41983725/final-and-private-combination-addes-
 
 http://stackoverflow.com/questions/42010791/overriding-the-equals-method-in-java-with-specifications
 
-http://stackoverflow.com/questions/41992193/spring-scheduled-methods-execute-asynchronously
-
 http://stackoverflow.com/questions/42011203/how-to-append-multiple-arrays-into-hashmap-in-java
 
 http://stackoverflow.com/questions/42014119/return-statment-not-working-returning-null
 
 http://stackoverflow.com/questions/42012721/using-twice-new-in-the-same-line-new-base-new-subclass
-
-http://stackoverflow.com/questions/41992535/getting-java-lang-illegalargumentexception-when-using-request-body-in-mockmvc
-
-http://stackoverflow.com/questions/41991174/is-date-a-variable-type
 
 http://stackoverflow.com/questions/42017594/throws-parent-exception
 
