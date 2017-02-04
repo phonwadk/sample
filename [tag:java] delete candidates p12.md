@@ -2,23 +2,9 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/41971797/how-to-correct-an-inputmismatchexception-in-a-console-application
-
-http://stackoverflow.com/questions/41985763/should-i-instantiate-variables-outside-of-methods-or-inside
-
-http://stackoverflow.com/questions/41987131/issue-with-accepting-user-input-java
-
-http://stackoverflow.com/questions/41985282/iterating-over-two-lists-within-one-stream
-
 http://stackoverflow.com/questions/41991954/how-to-access-a-global-variable-within-a-local-class-in-java
 
 http://stackoverflow.com/questions/41992460/compareto-method-without-an-abstract-class
-
-NOT YET
-=====
-
-
-http://stackoverflow.com/questions/41983725/final-and-private-combination-addes-visibility-guaranties
 
 http://stackoverflow.com/questions/41994316/how-to-use-elements-of-an-array-i-just-instantiated
 
@@ -37,6 +23,12 @@ http://stackoverflow.com/questions/41995219/boolean-to-json-array-is-wrong
 http://stackoverflow.com/questions/42007902/java-error-while-executing-from-terminal
 
 http://stackoverflow.com/questions/42005447/is-this-second-inner-class-why-does-eclipse-allow-to-create-two-classes-in
+
+NOT YET
+=====
+
+
+http://stackoverflow.com/questions/41983725/final-and-private-combination-addes-visibility-guaranties
 
 http://stackoverflow.com/questions/42010791/overriding-the-equals-method-in-java-with-specifications
 
