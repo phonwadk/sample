@@ -1,6 +1,7 @@
 Tushar graciously wrote a user script to make going through the list easier. You can get it [here](https://github.com/tusharjadhav219/Userscript-for-delete-candidates).
 
 ===
+Need cv for this terrible question, please: http://stackoverflow.com/questions/42042931/can-anyone-explain-this-program-as-why-is-the-output-coming-so
 
 http://stackoverflow.com/questions/41991954/how-to-access-a-global-variable-within-a-local-class-in-java
 
