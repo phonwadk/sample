@@ -35,6 +35,8 @@ http://stackoverflow.com/questions/42042719/java-hashmap-put-bug
 
 http://stackoverflow.com/questions/42038856/does-java-generics-type-erasure-really-exist
 
+http://stackoverflow.com/questions/42045146/fastest-method-to-concate-a-string-n-number-of-times
+
 NOT YET
 =====
 
