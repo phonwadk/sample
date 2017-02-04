@@ -67,3 +67,5 @@ http://stackoverflow.com/questions/41587925/operating-on-a-recursive-method
 http://stackoverflow.com/questions/42033351/string-and-integer-concatenation-in-java
 
 http://stackoverflow.com/questions/42035551/when-equals-always-returns-true-and-hashcode-always-returns-0-why-map-size-is-2
+
+http://stackoverflow.com/questions/42035534/multiple-classes-inside-one-class-java
