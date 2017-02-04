@@ -26,6 +26,13 @@ http://stackoverflow.com/questions/42005447/is-this-second-inner-class-why-does-
 
 http://stackoverflow.com/questions/41992535/getting-java-lang-illegalargumentexception-when-using-request-body-in-mockmvc
 
+http://stackoverflow.com/questions/42043553/error-arrayindexoutofboundsexception
+
+http://stackoverflow.com/questions/42043204/printing-objects-in-java
+
+http://stackoverflow.com/questions/42042719/java-hashmap-put-bug
+
+http://stackoverflow.com/questions/42038856/does-java-generics-type-erasure-really-exist
 
 NOT YET
 =====
@@ -56,3 +63,7 @@ http://stackoverflow.com/questions/42033351/string-and-integer-concatenation-in-
 http://stackoverflow.com/questions/42035551/when-equals-always-returns-true-and-hashcode-always-returns-0-why-map-size-is-2
 
 http://stackoverflow.com/questions/42035534/multiple-classes-inside-one-class-java
+
+http://stackoverflow.com/questions/42042115/cannot-be-resolved-or-is-not-a-field-error
+
+http://stackoverflow.com/questions/42036105/cannot-access-bean-or-context-outside-of-base-class
