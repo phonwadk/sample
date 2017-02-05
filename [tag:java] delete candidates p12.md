@@ -13,7 +13,7 @@ http://stackoverflow.com/questions/42005534/what-does-the-following-program-prin
 
 http://stackoverflow.com/questions/41995529/how-do-i-sort-a-mapstring-object-based-on-an-objects-attribute
 
-http://stackoverflow.com/questions/41956625/listener-contextinitialized-method-does-not-work-and-throws-nullpointerexception
+http://stackoverflow.com/questions/41956625/listener-contextinitialized-method-does-not-work
 
 http://stackoverflow.com/questions/42007140/replace-double-quotes-by-antislash-double-quotes
 
@@ -52,6 +52,10 @@ http://stackoverflow.com/questions/42017594/throws-parent-exception
 http://stackoverflow.com/questions/42012732/org-xml-sax-saxparseexception-linenumber-8-columnnumber-69-cvc-elt-1-canno
 
 http://stackoverflow.com/questions/41987411/java-invoked-method-public-abstract-boolean-java-util-set-addjava-lang-object
+
+http://stackoverflow.com/questions/42046772/how-do-i-invoke-a-method-with-int-array-parameter-into-a-different-class
+
+http://stackoverflow.com/questions/42048166/scope-and-using-printwriter-in-try-catch
 
 NOT YET
 =====
