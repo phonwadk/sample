@@ -89,3 +89,5 @@ http://stackoverflow.com/questions/42052932/sort-list-of-objects-based-on-object
 http://stackoverflow.com/questions/42054111/how-to-work-with-double-in-java
 
 http://stackoverflow.com/questions/42054271/how-to-remove-an-object-player-from-arraylist-when-the-attribute-score-of-th
+
+http://stackoverflow.com/questions/42054885/cast-arraylist-into-another-arraylist
