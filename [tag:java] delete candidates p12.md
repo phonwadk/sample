@@ -61,6 +61,8 @@ http://stackoverflow.com/questions/41587925/operating-on-a-recursive-method
 
 http://stackoverflow.com/questions/42055189/big-o-notations-for-short-algorithms
 
+http://stackoverflow.com/questions/42055447/java-int-cannot-be-dereferenced
+
 NOT YET
 =====
 
@@ -91,7 +93,5 @@ http://stackoverflow.com/questions/42054111/how-to-work-with-double-in-java
 http://stackoverflow.com/questions/42054271/how-to-remove-an-object-player-from-arraylist-when-the-attribute-score-of-th
 
 http://stackoverflow.com/questions/42054885/cast-arraylist-into-another-arraylist
-
-http://stackoverflow.com/questions/42055447/java-int-cannot-be-dereferenced
 
 http://stackoverflow.com/questions/42054478/calling-string-intern-before-first-literal-occurence
