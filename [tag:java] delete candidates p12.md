@@ -85,3 +85,5 @@ http://stackoverflow.com/questions/42053656/how-to-generate-all-possible-combina
 http://stackoverflow.com/questions/42053688/cannot-convert-from-integer-to-integer
 
 http://stackoverflow.com/questions/42052932/sort-list-of-objects-based-on-objects-variable-frequency-in-descending-order
+
+http://stackoverflow.com/questions/42054111/how-to-work-with-double-in-java
