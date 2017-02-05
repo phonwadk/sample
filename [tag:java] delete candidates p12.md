@@ -59,6 +59,8 @@ http://stackoverflow.com/questions/42015169/exception-in-thread-main-java-text-p
 
 http://stackoverflow.com/questions/41587925/operating-on-a-recursive-method
 
+http://stackoverflow.com/questions/42055189/big-o-notations-for-short-algorithms
+
 NOT YET
 =====
 
