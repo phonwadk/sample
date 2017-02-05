@@ -97,3 +97,5 @@ http://stackoverflow.com/questions/42054885/cast-arraylist-into-another-arraylis
 http://stackoverflow.com/questions/42054478/calling-string-intern-before-first-literal-occurence
 
 http://stackoverflow.com/questions/42047631/spring-mvc-controlleradvice-doesnt-work
+
+http://stackoverflow.com/questions/42057806/java-cannot-find-symbol-type-java-util-collectio
