@@ -35,15 +35,7 @@ http://stackoverflow.com/questions/42042719/java-hashmap-put-bug
 
 http://stackoverflow.com/questions/42038856/does-java-generics-type-erasure-really-exist
 
-http://stackoverflow.com/questions/42045146/fastest-method-to-concate-a-string-n-number-of-times
-
 http://stackoverflow.com/questions/42047390/in-java-oop-why-do-you-override-the-tostring-in-the-class
-
-NOT YET
-=====
-
-
-http://stackoverflow.com/questions/41983725/final-and-private-combination-addes-visibility-guaranties
 
 http://stackoverflow.com/questions/42010791/overriding-the-equals-method-in-java-with-specifications
 
@@ -52,6 +44,11 @@ http://stackoverflow.com/questions/42011203/how-to-append-multiple-arrays-into-h
 http://stackoverflow.com/questions/42014119/return-statment-not-working-returning-null
 
 http://stackoverflow.com/questions/42012721/using-twice-new-in-the-same-line-new-base-new-subclass
+
+NOT YET
+=====
+
+http://stackoverflow.com/questions/41983725/final-and-private-combination-addes-visibility-guaranties
 
 http://stackoverflow.com/questions/42017594/throws-parent-exception
 
