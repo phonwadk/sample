@@ -95,3 +95,5 @@ http://stackoverflow.com/questions/42054271/how-to-remove-an-object-player-from-
 http://stackoverflow.com/questions/42054885/cast-arraylist-into-another-arraylist
 
 http://stackoverflow.com/questions/42054478/calling-string-intern-before-first-literal-occurence
+
+http://stackoverflow.com/questions/42047631/spring-mvc-controlleradvice-doesnt-work
