@@ -37,6 +37,8 @@ http://stackoverflow.com/questions/42038856/does-java-generics-type-erasure-real
 
 http://stackoverflow.com/questions/42045146/fastest-method-to-concate-a-string-n-number-of-times
 
+http://stackoverflow.com/questions/42047390/in-java-oop-why-do-you-override-the-tostring-in-the-class
+
 NOT YET
 =====
 
