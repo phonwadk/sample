@@ -55,12 +55,12 @@ http://stackoverflow.com/questions/42046772/how-do-i-invoke-a-method-with-int-ar
 
 http://stackoverflow.com/questions/42048166/scope-and-using-printwriter-in-try-catch
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/42015169/exception-in-thread-main-java-text-parseexception
 
 http://stackoverflow.com/questions/41587925/operating-on-a-recursive-method
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42033351/string-and-integer-concatenation-in-java
 
