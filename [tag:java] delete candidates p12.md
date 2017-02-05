@@ -99,3 +99,5 @@ http://stackoverflow.com/questions/42054478/calling-string-intern-before-first-l
 http://stackoverflow.com/questions/42047631/spring-mvc-controlleradvice-doesnt-work
 
 http://stackoverflow.com/questions/42057806/java-cannot-find-symbol-type-java-util-collectio
+
+http://stackoverflow.com/questions/42048411/why-afterpropertiesset-has-not-called
