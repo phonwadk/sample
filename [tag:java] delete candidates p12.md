@@ -81,3 +81,5 @@ http://stackoverflow.com/questions/42047465/java-invoking-method-by-reflection-a
 http://stackoverflow.com/questions/42048151/is-memory-allocated-when-array-of-size-zero-is-created
 
 http://stackoverflow.com/questions/42053656/how-to-generate-all-possible-combinations-of-words
+
+http://stackoverflow.com/questions/42053688/cannot-convert-from-integer-to-integer
