@@ -45,9 +45,6 @@ http://stackoverflow.com/questions/42014119/return-statment-not-working-returnin
 
 http://stackoverflow.com/questions/42012721/using-twice-new-in-the-same-line-new-base-new-subclass
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/41983725/final-and-private-combination-addes-visibility-guaranties
 
 http://stackoverflow.com/questions/42017594/throws-parent-exception
@@ -55,6 +52,9 @@ http://stackoverflow.com/questions/42017594/throws-parent-exception
 http://stackoverflow.com/questions/42012732/org-xml-sax-saxparseexception-linenumber-8-columnnumber-69-cvc-elt-1-canno
 
 http://stackoverflow.com/questions/41987411/java-invoked-method-public-abstract-boolean-java-util-set-addjava-lang-object
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42015169/exception-in-thread-main-java-text-parseexception
 
@@ -75,3 +75,5 @@ http://stackoverflow.com/questions/42043954/pass-by-reference-not-working-when-a
 http://stackoverflow.com/questions/42047465/java-invoking-method-by-reflection-and-exceptions
 
 http://stackoverflow.com/questions/42048151/is-memory-allocated-when-array-of-size-zero-is-created
+
+http://stackoverflow.com/questions/42053656/how-to-generate-all-possible-combinations-of-words
