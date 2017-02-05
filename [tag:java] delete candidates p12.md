@@ -74,3 +74,5 @@ http://stackoverflow.com/questions/42042115/cannot-be-resolved-or-is-not-a-field
 http://stackoverflow.com/questions/42036105/cannot-access-bean-or-context-outside-of-base-class
 
 http://stackoverflow.com/questions/42043954/pass-by-reference-not-working-when-argument-is-a-wrapper-reference
+
+http://stackoverflow.com/questions/42047465/java-invoking-method-by-reflection-and-exceptions
