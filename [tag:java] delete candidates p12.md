@@ -23,8 +23,6 @@ http://stackoverflow.com/questions/41995219/boolean-to-json-array-is-wrong
 
 http://stackoverflow.com/questions/42007902/java-error-while-executing-from-terminal
 
-http://stackoverflow.com/questions/42005447/is-this-second-inner-class-why-does-eclipse-allow-to-create-two-classes-in
-
 http://stackoverflow.com/questions/41992535/getting-java-lang-illegalargumentexception-when-using-request-body-in-mockmvc
 
 http://stackoverflow.com/questions/42043553/error-arrayindexoutofboundsexception
