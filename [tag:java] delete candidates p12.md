@@ -83,3 +83,5 @@ http://stackoverflow.com/questions/42048151/is-memory-allocated-when-array-of-si
 http://stackoverflow.com/questions/42053656/how-to-generate-all-possible-combinations-of-words
 
 http://stackoverflow.com/questions/42053688/cannot-convert-from-integer-to-integer
+
+http://stackoverflow.com/questions/42052932/sort-list-of-objects-based-on-objects-variable-frequency-in-descending-order
