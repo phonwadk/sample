@@ -64,3 +64,5 @@ http://stackoverflow.com/questions/42047631/spring-mvc-controlleradvice-doesnt-w
 http://stackoverflow.com/questions/42057806/java-cannot-find-symbol-type-java-util-collectio
 
 http://stackoverflow.com/questions/42048411/why-afterpropertiesset-has-not-called
+
+http://stackoverflow.com/questions/42059408/error-illegal-argument-expectation
