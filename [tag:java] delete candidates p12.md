@@ -40,3 +40,5 @@ http://stackoverflow.com/questions/42048411/why-afterpropertiesset-has-not-calle
 http://stackoverflow.com/questions/42060432/how-to-differentiate-between-instances-when-changing-instances-variables
 
 http://stackoverflow.com/questions/42061215/catching-multiple-type-of-exceptions
+
+http://stackoverflow.com/questions/42070078/how-to-represent-floating-point-to-hexa-like-1-0x3f-0x80-0x00-0x00-in-java
