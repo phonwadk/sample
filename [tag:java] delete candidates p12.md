@@ -2,9 +2,9 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42015169/exception-in-thread-main-java-text-parseexception
-
 http://stackoverflow.com/questions/42035443/is-this-array-declaration-valid-in-processing
+
+http://stackoverflow.com/questions/42061227/getjsonarray-parsing-error-on-android
 
 NOT YET
 =====
