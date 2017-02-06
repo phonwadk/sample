@@ -22,6 +22,8 @@ http://stackoverflow.com/questions/42054885/cast-arraylist-into-another-arraylis
 
 http://stackoverflow.com/questions/42059408/error-illegal-argument-expectation
 
+http://stackoverflow.com/questions/42035443/is-this-array-declaration-valid-in-processing
+
 NOT YET
 =====
 
