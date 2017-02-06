@@ -48,3 +48,5 @@ http://stackoverflow.com/questions/42061057/what-can-polymorphism-do-that-inheri
 http://stackoverflow.com/questions/42061400/is-it-good-to-declare-an-array-and-create-an-new-object-in-different-lines
 
 http://stackoverflow.com/questions/42071919/cannot-predict-simpledateformat-parsing
+
+http://stackoverflow.com/questions/42071823/why-is-it-not-gcd
