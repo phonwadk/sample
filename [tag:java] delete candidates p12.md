@@ -44,3 +44,5 @@ http://stackoverflow.com/questions/42061215/catching-multiple-type-of-exceptions
 http://stackoverflow.com/questions/42070078/how-to-represent-floating-point-to-hexa-like-1-0x3f-0x80-0x00-0x00-in-java
 
 http://stackoverflow.com/questions/42061057/what-can-polymorphism-do-that-inheritance-cant
+
+http://stackoverflow.com/questions/42061400/is-it-good-to-declare-an-array-and-create-an-new-object-in-different-lines
