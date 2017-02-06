@@ -45,8 +45,6 @@ http://stackoverflow.com/questions/42012721/using-twice-new-in-the-same-line-new
 
 http://stackoverflow.com/questions/41983725/final-and-private-combination-addes-visibility-guaranties
 
-http://stackoverflow.com/questions/42017594/throws-parent-exception
-
 http://stackoverflow.com/questions/42012732/org-xml-sax-saxparseexception-linenumber-8-columnnumber-69-cvc-elt-1-canno
 
 http://stackoverflow.com/questions/41987411/java-invoked-method-public-abstract-boolean-java-util-set-addjava-lang-object
