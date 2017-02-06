@@ -16,6 +16,11 @@ http://stackoverflow.com/questions/42035551/when-equals-always-returns-true-and-
 
 http://stackoverflow.com/questions/42035534/multiple-classes-inside-one-class-java
 
+http://stackoverflow.com/questions/42053688/cannot-convert-from-integer-to-integer
+
+http://stackoverflow.com/questions/42054885/cast-arraylist-into-another-arraylist
+
+
 NOT YET
 =====
 
@@ -31,15 +36,11 @@ http://stackoverflow.com/questions/42048151/is-memory-allocated-when-array-of-si
 
 http://stackoverflow.com/questions/42053656/how-to-generate-all-possible-combinations-of-words
 
-http://stackoverflow.com/questions/42053688/cannot-convert-from-integer-to-integer
-
 http://stackoverflow.com/questions/42052932/sort-list-of-objects-based-on-objects-variable-frequency-in-descending-order
 
 http://stackoverflow.com/questions/42054111/how-to-work-with-double-in-java
 
 http://stackoverflow.com/questions/42054271/how-to-remove-an-object-player-from-arraylist-when-the-attribute-score-of-th
-
-http://stackoverflow.com/questions/42054885/cast-arraylist-into-another-arraylist
 
 http://stackoverflow.com/questions/42054478/calling-string-intern-before-first-literal-occurence
 
