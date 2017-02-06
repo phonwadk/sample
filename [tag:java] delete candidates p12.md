@@ -38,3 +38,5 @@ http://stackoverflow.com/questions/42048411/why-afterpropertiesset-has-not-calle
 http://stackoverflow.com/questions/42060432/how-to-differentiate-between-instances-when-changing-instances-variables
 
 http://stackoverflow.com/questions/42060835/java-what-does-lock-acquire-a-lock-on-does-await-release-lock
+
+http://stackoverflow.com/questions/42061215/catching-multiple-type-of-exceptions
