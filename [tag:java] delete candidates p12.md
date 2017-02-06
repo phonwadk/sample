@@ -28,6 +28,8 @@ http://stackoverflow.com/questions/42055447/java-int-cannot-be-dereferenced
 
 http://stackoverflow.com/questions/42033351/string-and-integer-concatenation-in-java
 
+http://stackoverflow.com/questions/42060194/for-loop-while-loop-giving-an-extra-value-from-string-length-counting-from-0
+
 NOT YET
 =====
 
