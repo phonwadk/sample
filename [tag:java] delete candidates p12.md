@@ -53,3 +53,5 @@ http://stackoverflow.com/questions/42061400/is-it-good-to-declare-an-array-and-c
 http://stackoverflow.com/questions/42071919/cannot-predict-simpledateformat-parsing
 
 http://stackoverflow.com/questions/42072680/bring-to-live-order-for-static-parts-in-java
+
+http://stackoverflow.com/questions/42073056/size-of-hashmap-in-java-because-size-giving-me-an-error
