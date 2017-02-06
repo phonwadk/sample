@@ -24,14 +24,12 @@ http://stackoverflow.com/questions/42015169/exception-in-thread-main-java-text-p
 
 http://stackoverflow.com/questions/41587925/operating-on-a-recursive-method
 
-http://stackoverflow.com/questions/42055189/big-o-notations-for-short-algorithms
-
 http://stackoverflow.com/questions/42055447/java-int-cannot-be-dereferenced
+
+http://stackoverflow.com/questions/42033351/string-and-integer-concatenation-in-java
 
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42033351/string-and-integer-concatenation-in-java
 
 http://stackoverflow.com/questions/42035551/when-equals-always-returns-true-and-hashcode-always-returns-0-why-map-size-is-2
 
