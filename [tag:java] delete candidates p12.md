@@ -2,24 +2,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/41991954/how-to-access-a-global-variable-within-a-local-class-in-java
-
-http://stackoverflow.com/questions/42005534/what-does-the-following-program-print-and-why
-
-http://stackoverflow.com/questions/41995529/how-do-i-sort-a-mapstring-object-based-on-an-objects-attribute
-
-http://stackoverflow.com/questions/42007140/replace-double-quotes-by-antislash-double-quotes
-
-http://stackoverflow.com/questions/41996200/no-compilation-error-when-i-add-a-string-to-an-arraylist-of-type-date
-
-http://stackoverflow.com/questions/42007902/java-error-while-executing-from-terminal
-
-http://stackoverflow.com/questions/41992535/getting-java-lang-illegalargumentexception-when-using-request-body-in-mockmvc
-
-http://stackoverflow.com/questions/42043204/printing-objects-in-java
-
-http://stackoverflow.com/questions/42038856/does-java-generics-type-erasure-really-exist
-
 http://stackoverflow.com/questions/42015169/exception-in-thread-main-java-text-parseexception
 
 http://stackoverflow.com/questions/41587925/operating-on-a-recursive-method
@@ -30,12 +12,12 @@ http://stackoverflow.com/questions/42033351/string-and-integer-concatenation-in-
 
 http://stackoverflow.com/questions/42060194/for-loop-while-loop-giving-an-extra-value-from-string-length-counting-from-0
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/42035551/when-equals-always-returns-true-and-hashcode-always-returns-0-why-map-size-is-2
 
 http://stackoverflow.com/questions/42035534/multiple-classes-inside-one-class-java
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42042115/cannot-be-resolved-or-is-not-a-field-error
 
