@@ -6,19 +6,16 @@ http://stackoverflow.com/questions/42035443/is-this-array-declaration-valid-in-p
 
 http://stackoverflow.com/questions/42061227/getjsonarray-parsing-error-on-android
 
-http://stackoverflow.com/questions/42061613/spring-retry-framwork-with-specific-message-on-exception
-
 http://stackoverflow.com/questions/42042115/cannot-be-resolved-or-is-not-a-field-error
 
 http://stackoverflow.com/questions/42071823/why-is-it-not-gcd
 
-
-NOT YET
-=====
-
 http://stackoverflow.com/questions/42036105/cannot-access-bean-or-context-outside-of-base-class
 
 http://stackoverflow.com/questions/42043954/pass-by-reference-not-working-when-argument-is-a-wrapper-reference
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42047465/java-invoking-method-by-reflection-and-exceptions
 
@@ -53,3 +50,5 @@ http://stackoverflow.com/questions/42061400/is-it-good-to-declare-an-array-and-c
 http://stackoverflow.com/questions/42071919/cannot-predict-simpledateformat-parsing
 
 http://stackoverflow.com/questions/42072680/bring-to-live-order-for-static-parts-in-java
+
+http://stackoverflow.com/questions/42061613/spring-retry-framwork-with-specific-message-on-exception
