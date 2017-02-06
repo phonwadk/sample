@@ -4,24 +4,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 http://stackoverflow.com/questions/42015169/exception-in-thread-main-java-text-parseexception
 
-http://stackoverflow.com/questions/41587925/operating-on-a-recursive-method
-
-http://stackoverflow.com/questions/42055447/java-int-cannot-be-dereferenced
-
-http://stackoverflow.com/questions/42033351/string-and-integer-concatenation-in-java
-
-http://stackoverflow.com/questions/42060194/for-loop-while-loop-giving-an-extra-value-from-string-length-counting-from-0
-
-http://stackoverflow.com/questions/42035551/when-equals-always-returns-true-and-hashcode-always-returns-0-why-map-size-is-2
-
-http://stackoverflow.com/questions/42035534/multiple-classes-inside-one-class-java
-
-http://stackoverflow.com/questions/42053688/cannot-convert-from-integer-to-integer
-
-http://stackoverflow.com/questions/42054885/cast-arraylist-into-another-arraylist
-
-http://stackoverflow.com/questions/42059408/error-illegal-argument-expectation
-
 http://stackoverflow.com/questions/42035443/is-this-array-declaration-valid-in-processing
 
 NOT YET
