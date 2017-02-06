@@ -66,3 +66,5 @@ http://stackoverflow.com/questions/42057806/java-cannot-find-symbol-type-java-ut
 http://stackoverflow.com/questions/42048411/why-afterpropertiesset-has-not-called
 
 http://stackoverflow.com/questions/42059408/error-illegal-argument-expectation
+
+http://stackoverflow.com/questions/42060432/how-to-differentiate-between-instances-when-changing-instances-variables
