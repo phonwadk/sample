@@ -6,6 +6,8 @@ http://stackoverflow.com/questions/42035443/is-this-array-declaration-valid-in-p
 
 http://stackoverflow.com/questions/42061227/getjsonarray-parsing-error-on-android
 
+http://stackoverflow.com/questions/42061613/spring-retry-framwork-with-specific-message-on-exception
+
 NOT YET
 =====
 
