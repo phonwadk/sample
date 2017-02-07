@@ -31,10 +31,13 @@ http://stackoverflow.com/questions/41878399/java-how-to-remove-object-if-search-
 
 http://stackoverflow.com/questions/42053656/how-to-generate-all-possible-combinations-of-words
 
-NOT YET
-=====
+http://stackoverflow.com/questions/42071780/java-string-next-line
 
 http://stackoverflow.com/questions/42052932/sort-list-of-objects-based-on-objects-variable-frequency-in-descending-order
+
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42054111/how-to-work-with-double-in-java
 
