@@ -37,12 +37,13 @@ http://stackoverflow.com/questions/42052932/sort-list-of-objects-based-on-object
 
 garbage http://stackoverflow.com/questions/42094518/how-do-boolean-values-work-when-they-are-assigned-to-themselves
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/42054111/how-to-work-with-double-in-java
 
 http://stackoverflow.com/questions/42054271/how-to-remove-an-object-player-from-arraylist-when-the-attribute-score-of-th
+
+NOT YET
+=====
+
 
 http://stackoverflow.com/questions/42054478/calling-string-intern-before-first-literal-occurence
 
