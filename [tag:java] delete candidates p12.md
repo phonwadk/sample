@@ -74,3 +74,5 @@ http://stackoverflow.com/questions/42073847/inputmismatchexception-cannot-be-res
 http://stackoverflow.com/questions/42093535/how-to-access-an-array-within-an-object
 
 http://stackoverflow.com/questions/42072726/how-to-write-non-blocking-methods-of-concurrentstack
+
+http://stackoverflow.com/questions/42072871/java-generic-cancel-type-erasure
