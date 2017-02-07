@@ -5,6 +5,31 @@ http://stackoverflow.com/questions/42047465/java-invoking-method-by-reflection-a
 
 http://stackoverflow.com/questions/42070078/how-to-represent-floating-point-to-hexa-like-1-0x3f-0x80-0x00-0x00-in-java
 
+http://stackoverflow.com/questions/41995556/404-the-requested-resource-is-not-available
+
+http://stackoverflow.com/questions/41984291/how-to-parse-multiple-date-formats-with-single-formatter-instance-using-java8-ti
+
+http://stackoverflow.com/questions/41969903/java-spring-mvc-requestbody-concatening-two-ints-why
+
+http://stackoverflow.com/questions/41964293/how-to-write-a-java-8-lambda-that-returns-an-unchanged-argument
+
+http://stackoverflow.com/questions/41948213/why-does-jvm-garbage-collect-object-thats-not-dereferenced
+
+http://stackoverflow.com/questions/41944252/java-basics-about-getting-out-of-the-while-loop
+
+http://stackoverflow.com/questions/41941014/vbscript-to-check-folder-and-print-the-file-names-in-a-folder
+
+http://stackoverflow.com/questions/41942243/generic-class-with-generic-methods
+
+http://stackoverflow.com/questions/41928717/how-classpath-works-when-loading-a-properties-file-through-spring-mvc-applicati
+
+http://stackoverflow.com/questions/41883062/stream-filter-doesnt-work-as-intended
+
+http://stackoverflow.com/questions/41880730/cannot-find-the-declaration-of-element-beans-servlet-init-for-servlet-x-thr
+
+http://stackoverflow.com/questions/41878399/java-how-to-remove-object-if-search-is-found-from-arraylist
+
+
 NOT YET
 =====
 
