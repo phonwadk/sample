@@ -78,3 +78,11 @@ http://stackoverflow.com/questions/42093535/how-to-access-an-array-within-an-obj
 http://stackoverflow.com/questions/42072726/how-to-write-non-blocking-methods-of-concurrentstack
 
 http://stackoverflow.com/questions/42072871/java-generic-cancel-type-erasure
+
+http://stackoverflow.com/questions/42095183/why-does-this-work-in-case-for-type-erasure
+
+http://stackoverflow.com/questions/42096076/how-to-throws-parent-exception-in-a-child-class
+
+http://stackoverflow.com/questions/42097021/isfile-returns-false-but-getclass-returns-file
+
+http://stackoverflow.com/questions/42099849/how-can-i-access-fields-added-through-custom-java-annotations
