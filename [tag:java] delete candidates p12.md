@@ -3,8 +3,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 ===
 http://stackoverflow.com/questions/42047465/java-invoking-method-by-reflection-and-exceptions
 
-http://stackoverflow.com/questions/42070078/how-to-represent-floating-point-to-hexa-like-1-0x3f-0x80-0x00-0x00-in-java
-
 http://stackoverflow.com/questions/41995556/404-the-requested-resource-is-not-available
 
 http://stackoverflow.com/questions/41984291/how-to-parse-multiple-date-formats-with-single-formatter-instance-using-java8-ti
