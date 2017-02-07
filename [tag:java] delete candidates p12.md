@@ -1,23 +1,11 @@
 Tushar graciously wrote a user script to make going through the list easier. You can get it [here](https://github.com/tusharjadhav219/Userscript-for-delete-candidates).
 
 ===
-
-http://stackoverflow.com/questions/42035443/is-this-array-declaration-valid-in-processing
-
-http://stackoverflow.com/questions/42061227/getjsonarray-parsing-error-on-android
-
-http://stackoverflow.com/questions/42042115/cannot-be-resolved-or-is-not-a-field-error
-
-http://stackoverflow.com/questions/42071823/why-is-it-not-gcd
-
-http://stackoverflow.com/questions/42036105/cannot-access-bean-or-context-outside-of-base-class
-
-http://stackoverflow.com/questions/42043954/pass-by-reference-not-working-when-argument-is-a-wrapper-reference
+http://stackoverflow.com/questions/42047465/java-invoking-method-by-reflection-and-exceptions
 
 NOT YET
 =====
 
-http://stackoverflow.com/questions/42047465/java-invoking-method-by-reflection-and-exceptions
 
 http://stackoverflow.com/questions/42048151/is-memory-allocated-when-array-of-size-zero-is-created
 
