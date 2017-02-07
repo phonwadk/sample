@@ -42,3 +42,5 @@ http://stackoverflow.com/questions/42072680/bring-to-live-order-for-static-parts
 http://stackoverflow.com/questions/42061613/spring-retry-framwork-with-specific-message-on-exception
 
 http://stackoverflow.com/questions/42080372/if-statement-with-curly-brackets
+
+http://stackoverflow.com/questions/42093156/getting-strings-from-json
