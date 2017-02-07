@@ -35,6 +35,7 @@ http://stackoverflow.com/questions/42071780/java-string-next-line
 
 http://stackoverflow.com/questions/42052932/sort-list-of-objects-based-on-objects-variable-frequency-in-descending-order
 
+garbage http://stackoverflow.com/questions/42094518/how-do-boolean-values-work-when-they-are-assigned-to-themselves
 
 NOT YET
 =====
