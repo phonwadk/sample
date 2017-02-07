@@ -3,11 +3,10 @@ Tushar graciously wrote a user script to make going through the list easier. You
 ===
 http://stackoverflow.com/questions/42047465/java-invoking-method-by-reflection-and-exceptions
 
+http://stackoverflow.com/questions/42070078/how-to-represent-floating-point-to-hexa-like-1-0x3f-0x80-0x00-0x00-in-java
+
 NOT YET
 =====
-
-
-http://stackoverflow.com/questions/42048151/is-memory-allocated-when-array-of-size-zero-is-created
 
 http://stackoverflow.com/questions/42053656/how-to-generate-all-possible-combinations-of-words
 
@@ -28,8 +27,6 @@ http://stackoverflow.com/questions/42048411/why-afterpropertiesset-has-not-calle
 http://stackoverflow.com/questions/42060432/how-to-differentiate-between-instances-when-changing-instances-variables
 
 http://stackoverflow.com/questions/42061215/catching-multiple-type-of-exceptions
-
-http://stackoverflow.com/questions/42070078/how-to-represent-floating-point-to-hexa-like-1-0x3f-0x80-0x00-0x00-in-java
 
 http://stackoverflow.com/questions/42061057/what-can-polymorphism-do-that-inheritance-cant
 
