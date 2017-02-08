@@ -74,3 +74,4 @@ http://stackoverflow.com/questions/42104702/constructor-is-not-defined-when-it-i
 
 http://stackoverflow.com/questions/42097409/multithreading-in-java
 
+http://stackoverflow.com/questions/42115618/why-does-my-while-loop-not-exit-unless-theres-a-system-out-line-present
