@@ -47,6 +47,12 @@ http://stackoverflow.com/questions/42057806/java-cannot-find-symbol-type-java-ut
 
 http://stackoverflow.com/questions/42048411/why-afterpropertiesset-has-not-called
 
+http://stackoverflow.com/questions/42071919/cannot-predict-simpledateformat-parsing
+
+http://stackoverflow.com/questions/42073847/inputmismatchexception-cannot-be-resolved-to-a-type
+
+http://stackoverflow.com/questions/42097021/isfile-returns-false-but-getclass-returns-file
+
 NOT YET
 =====
 
@@ -58,8 +64,6 @@ http://stackoverflow.com/questions/42061057/what-can-polymorphism-do-that-inheri
 
 http://stackoverflow.com/questions/42061400/is-it-good-to-declare-an-array-and-create-an-new-object-in-different-lines
 
-http://stackoverflow.com/questions/42071919/cannot-predict-simpledateformat-parsing
-
 http://stackoverflow.com/questions/42072680/bring-to-live-order-for-static-parts-in-java
 
 http://stackoverflow.com/questions/42061613/spring-retry-framwork-with-specific-message-on-exception
@@ -67,8 +71,6 @@ http://stackoverflow.com/questions/42061613/spring-retry-framwork-with-specific-
 http://stackoverflow.com/questions/42080372/if-statement-with-curly-brackets
 
 http://stackoverflow.com/questions/42093156/getting-strings-from-json
-
-http://stackoverflow.com/questions/42073847/inputmismatchexception-cannot-be-resolved-to-a-type
 
 http://stackoverflow.com/questions/42093535/how-to-access-an-array-within-an-object
 
@@ -79,8 +81,6 @@ http://stackoverflow.com/questions/42072871/java-generic-cancel-type-erasure
 http://stackoverflow.com/questions/42095183/why-does-this-work-in-case-for-type-erasure
 
 http://stackoverflow.com/questions/42096076/how-to-throws-parent-exception-in-a-child-class
-
-http://stackoverflow.com/questions/42097021/isfile-returns-false-but-getclass-returns-file
 
 http://stackoverflow.com/questions/42099849/how-can-i-access-fields-added-through-custom-java-annotations
 
