@@ -47,6 +47,8 @@ http://stackoverflow.com/questions/42061057/what-can-polymorphism-do-that-inheri
 
 http://stackoverflow.com/questions/42061400/is-it-good-to-declare-an-array-and-create-an-new-object-in-different-lines
 
+http://stackoverflow.com/questions/42058757/incompatible-type-list-cannot-be-converted-to-float
+
 NOT YET
 =====
 
