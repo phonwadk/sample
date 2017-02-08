@@ -1,6 +1,11 @@
 Tushar graciously wrote a user script to make going through the list easier. You can get it [here](https://github.com/tusharjadhav219/Userscript-for-delete-candidates).
 
 ===
+
+`cv-pls` as too broad: http://stackoverflow.com/questions/42119232/where-to-create-resttemplate-in-spring
+
+===
+
 http://stackoverflow.com/questions/42047465/java-invoking-method-by-reflection-and-exceptions
 
 http://stackoverflow.com/questions/41995556/404-the-requested-resource-is-not-available
