@@ -6,47 +6,17 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42047465/java-invoking-method-by-reflection-and-exceptions
-
-http://stackoverflow.com/questions/41995556/404-the-requested-resource-is-not-available
-
-http://stackoverflow.com/questions/41984291/how-to-parse-multiple-date-formats-with-single-formatter-instance-using-java8-ti
-
 http://stackoverflow.com/questions/41969903/java-spring-mvc-requestbody-concatening-two-ints-why
-
-http://stackoverflow.com/questions/41964293/how-to-write-a-java-8-lambda-that-returns-an-unchanged-argument
-
-http://stackoverflow.com/questions/41948213/why-does-jvm-garbage-collect-object-thats-not-dereferenced
-
-http://stackoverflow.com/questions/41942243/generic-class-with-generic-methods
 
 http://stackoverflow.com/questions/41928717/how-classpath-works-when-loading-a-properties-file-through-spring-mvc-applicati
 
-http://stackoverflow.com/questions/41883062/stream-filter-doesnt-work-as-intended
-
-http://stackoverflow.com/questions/41880730/cannot-find-the-declaration-of-element-beans-servlet-init-for-servlet-x-thr
-
-http://stackoverflow.com/questions/41878399/java-how-to-remove-object-if-search-is-found-from-arraylist
-
-http://stackoverflow.com/questions/42053656/how-to-generate-all-possible-combinations-of-words
-
-http://stackoverflow.com/questions/42052932/sort-list-of-objects-based-on-objects-variable-frequency-in-descending-order
-
 garbage http://stackoverflow.com/questions/42094518/how-do-boolean-values-work-when-they-are-assigned-to-themselves
 
-http://stackoverflow.com/questions/42071919/cannot-predict-simpledateformat-parsing
-
 http://stackoverflow.com/questions/42073847/inputmismatchexception-cannot-be-resolved-to-a-type
-
-http://stackoverflow.com/questions/42097021/isfile-returns-false-but-getclass-returns-file
-
-http://stackoverflow.com/questions/42060432/how-to-differentiate-between-instances-when-changing-instances-variables
 
 http://stackoverflow.com/questions/42114254/is-there-any-way-to-convert-user-input-to-number-of-variables
 
 http://stackoverflow.com/questions/42105332/java-8-u112-version-issue
-
-http://stackoverflow.com/questions/42061215/catching-multiple-type-of-exceptions
 
 http://stackoverflow.com/questions/42061057/what-can-polymorphism-do-that-inheritance-cant
 
@@ -56,14 +26,12 @@ http://stackoverflow.com/questions/42058757/incompatible-type-list-cannot-be-con
 
 http://stackoverflow.com/questions/42118915/does-java-optimize-and-expressions
 
-http://stackoverflow.com/questions/42118583/sorting-array-without-arrays-sort
+http://stackoverflow.com/questions/42072680/bring-to-live-order-for-static-parts-in-java
 
-http://stackoverflow.com/questions/42118246/java-enhanced-loop-accumulating-product
+http://stackoverflow.com/questions/42118583/sorting-array-without-arrays-sort
 
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42072680/bring-to-live-order-for-static-parts-in-java
 
 http://stackoverflow.com/questions/42080372/if-statement-with-curly-brackets
 
