@@ -83,3 +83,5 @@ http://stackoverflow.com/questions/42115618/why-does-my-while-loop-not-exit-unle
 http://stackoverflow.com/questions/42115191/java-array-initialized-in-try-catch-may-not-be-initialized
 
 http://stackoverflow.com/questions/42105458/what-is-difference-between-mvp-and-mvc-and-mvvm-in-android-development
+
+http://stackoverflow.com/questions/42104837/in-a-project-using-idiomatic-spring-what-classes-should-be-managed-by-spring
