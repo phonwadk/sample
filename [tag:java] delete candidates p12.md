@@ -18,8 +18,6 @@ http://stackoverflow.com/questions/42114254/is-there-any-way-to-convert-user-inp
 
 http://stackoverflow.com/questions/42105332/java-8-u112-version-issue
 
-http://stackoverflow.com/questions/42061215/catching-multiple-type-of-exceptions
-
 http://stackoverflow.com/questions/42061057/what-can-polymorphism-do-that-inheritance-cant
 
 http://stackoverflow.com/questions/42061400/is-it-good-to-declare-an-array-and-create-an-new-object-in-different-lines
@@ -28,10 +26,10 @@ http://stackoverflow.com/questions/42058757/incompatible-type-list-cannot-be-con
 
 http://stackoverflow.com/questions/42118915/does-java-optimize-and-expressions
 
+http://stackoverflow.com/questions/42072680/bring-to-live-order-for-static-parts-in-java
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42072680/bring-to-live-order-for-static-parts-in-java
 
 http://stackoverflow.com/questions/42080372/if-statement-with-curly-brackets
 
