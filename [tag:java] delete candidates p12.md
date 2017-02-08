@@ -24,6 +24,8 @@ http://stackoverflow.com/questions/42119436/loop-through-jsonobjects-within-a-js
 
 http://stackoverflow.com/questions/42072726/how-to-write-non-blocking-methods-of-concurrentstack
 
+http://stackoverflow.com/questions/42125660/why-a-private-field-in-an-enum-is-accessible-in-a-class-that-does-not-contain-it
+
 NOT YET
 =====
 
