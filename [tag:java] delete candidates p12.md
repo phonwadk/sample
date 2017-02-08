@@ -81,3 +81,5 @@ http://stackoverflow.com/questions/42097409/multithreading-in-java
 http://stackoverflow.com/questions/42115618/why-does-my-while-loop-not-exit-unless-theres-a-system-out-line-present
 
 http://stackoverflow.com/questions/42115191/java-array-initialized-in-try-catch-may-not-be-initialized
+
+http://stackoverflow.com/questions/42105458/what-is-difference-between-mvp-and-mvc-and-mvvm-in-android-development
