@@ -85,3 +85,5 @@ http://stackoverflow.com/questions/42115191/java-array-initialized-in-try-catch-
 http://stackoverflow.com/questions/42105458/what-is-difference-between-mvp-and-mvc-and-mvvm-in-android-development
 
 http://stackoverflow.com/questions/42104837/in-a-project-using-idiomatic-spring-what-classes-should-be-managed-by-spring
+
+http://stackoverflow.com/questions/42115217/create-java-generic-array-with-multiple-type-parameters-and-upperbound
