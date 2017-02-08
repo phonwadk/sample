@@ -72,3 +72,5 @@ http://stackoverflow.com/questions/42115217/create-java-generic-array-with-multi
 http://stackoverflow.com/questions/42118014/is-there-a-reason-why-the-functions-executed-beforeclass-and-afterclass-are-st
 
 http://stackoverflow.com/questions/42118333/java-why-does-collections-sort-not-work
+
+http://stackoverflow.com/questions/42118316/simpledateformat-to-string-issue
