@@ -10,16 +10,6 @@ http://stackoverflow.com/questions/41969903/java-spring-mvc-requestbody-concaten
 
 http://stackoverflow.com/questions/41928717/how-classpath-works-when-loading-a-properties-file-through-spring-mvc-applicati
 
-http://stackoverflow.com/questions/41883062/stream-filter-doesnt-work-as-intended
-
-http://stackoverflow.com/questions/41880730/cannot-find-the-declaration-of-element-beans-servlet-init-for-servlet-x-thr
-
-http://stackoverflow.com/questions/41878399/java-how-to-remove-object-if-search-is-found-from-arraylist
-
-http://stackoverflow.com/questions/42053656/how-to-generate-all-possible-combinations-of-words
-
-http://stackoverflow.com/questions/42052932/sort-list-of-objects-based-on-objects-variable-frequency-in-descending-order
-
 garbage http://stackoverflow.com/questions/42094518/how-do-boolean-values-work-when-they-are-assigned-to-themselves
 
 http://stackoverflow.com/questions/42071919/cannot-predict-simpledateformat-parsing
