@@ -13,10 +13,6 @@ http://stackoverflow.com/questions/41964293/how-to-write-a-java-8-lambda-that-re
 
 http://stackoverflow.com/questions/41948213/why-does-jvm-garbage-collect-object-thats-not-dereferenced
 
-http://stackoverflow.com/questions/41944252/java-basics-about-getting-out-of-the-while-loop
-
-http://stackoverflow.com/questions/41941014/vbscript-to-check-folder-and-print-the-file-names-in-a-folder
-
 http://stackoverflow.com/questions/41942243/generic-class-with-generic-methods
 
 http://stackoverflow.com/questions/41928717/how-classpath-works-when-loading-a-properties-file-through-spring-mvc-applicati
@@ -34,18 +30,6 @@ http://stackoverflow.com/questions/42071780/java-string-next-line
 http://stackoverflow.com/questions/42052932/sort-list-of-objects-based-on-objects-variable-frequency-in-descending-order
 
 garbage http://stackoverflow.com/questions/42094518/how-do-boolean-values-work-when-they-are-assigned-to-themselves
-
-http://stackoverflow.com/questions/42054111/how-to-work-with-double-in-java
-
-http://stackoverflow.com/questions/42054271/how-to-remove-an-object-player-from-arraylist-when-the-attribute-score-of-th
-
-http://stackoverflow.com/questions/42054478/calling-string-intern-before-first-literal-occurence
-
-http://stackoverflow.com/questions/42047631/spring-mvc-controlleradvice-doesnt-work
-
-http://stackoverflow.com/questions/42057806/java-cannot-find-symbol-type-java-util-collectio
-
-http://stackoverflow.com/questions/42048411/why-afterpropertiesset-has-not-called
 
 http://stackoverflow.com/questions/42071919/cannot-predict-simpledateformat-parsing
 
