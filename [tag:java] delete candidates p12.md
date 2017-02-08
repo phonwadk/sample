@@ -2,10 +2,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-`cv-pls` as too broad: http://stackoverflow.com/questions/42119232/where-to-create-resttemplate-in-spring
-
-===
-
 http://stackoverflow.com/questions/41969903/java-spring-mvc-requestbody-concatening-two-ints-why
 
 http://stackoverflow.com/questions/41928717/how-classpath-works-when-loading-a-properties-file-through-spring-mvc-applicati
@@ -16,13 +12,7 @@ http://stackoverflow.com/questions/42073847/inputmismatchexception-cannot-be-res
 
 http://stackoverflow.com/questions/42114254/is-there-any-way-to-convert-user-input-to-number-of-variables
 
-http://stackoverflow.com/questions/42105332/java-8-u112-version-issue
-
 http://stackoverflow.com/questions/42061057/what-can-polymorphism-do-that-inheritance-cant
-
-http://stackoverflow.com/questions/42061400/is-it-good-to-declare-an-array-and-create-an-new-object-in-different-lines
-
-http://stackoverflow.com/questions/42058757/incompatible-type-list-cannot-be-converted-to-float
 
 http://stackoverflow.com/questions/42118915/does-java-optimize-and-expressions
 
@@ -32,6 +22,8 @@ http://stackoverflow.com/questions/42118583/sorting-array-without-arrays-sort
 
 http://stackoverflow.com/questions/42119436/loop-through-jsonobjects-within-a-jsonobject
 
+http://stackoverflow.com/questions/42072726/how-to-write-non-blocking-methods-of-concurrentstack
+
 NOT YET
 =====
 
@@ -40,8 +32,6 @@ http://stackoverflow.com/questions/42080372/if-statement-with-curly-brackets
 http://stackoverflow.com/questions/42093156/getting-strings-from-json
 
 http://stackoverflow.com/questions/42093535/how-to-access-an-array-within-an-object
-
-http://stackoverflow.com/questions/42072726/how-to-write-non-blocking-methods-of-concurrentstack
 
 http://stackoverflow.com/questions/42072871/java-generic-cancel-type-erasure
 
@@ -54,8 +44,6 @@ http://stackoverflow.com/questions/42099849/how-can-i-access-fields-added-throug
 http://stackoverflow.com/questions/42102666/stackoverflow-error-in-constructor
 
 http://stackoverflow.com/questions/42102478/how-to-sort-strings-of-words-stored-in-an-arrayliststring-in-non-decreasing-or
-
-http://stackoverflow.com/questions/42104702/constructor-is-not-defined-when-it-is-defined
 
 http://stackoverflow.com/questions/42097409/multithreading-in-java
 
