@@ -84,3 +84,5 @@ http://stackoverflow.com/questions/42096076/how-to-throws-parent-exception-in-a-
 http://stackoverflow.com/questions/42097021/isfile-returns-false-but-getclass-returns-file
 
 http://stackoverflow.com/questions/42099849/how-can-i-access-fields-added-through-custom-java-annotations
+
+http://stackoverflow.com/questions/42102666/stackoverflow-error-in-constructor
