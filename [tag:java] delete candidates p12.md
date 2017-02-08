@@ -37,6 +37,8 @@ http://stackoverflow.com/questions/42097021/isfile-returns-false-but-getclass-re
 
 http://stackoverflow.com/questions/42060432/how-to-differentiate-between-instances-when-changing-instances-variables
 
+http://stackoverflow.com/questions/42114254/is-there-any-way-to-convert-user-input-to-number-of-variables
+
 NOT YET
 =====
 
