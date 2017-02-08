@@ -68,3 +68,5 @@ http://stackoverflow.com/questions/42104837/in-a-project-using-idiomatic-spring-
 http://stackoverflow.com/questions/42115217/create-java-generic-array-with-multiple-type-parameters-and-upperbound
 
 http://stackoverflow.com/questions/42118014/is-there-a-reason-why-the-functions-executed-beforeclass-and-afterclass-are-st
+
+http://stackoverflow.com/questions/42118333/java-why-does-collections-sort-not-work
