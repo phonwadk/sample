@@ -54,6 +54,8 @@ http://stackoverflow.com/questions/42061400/is-it-good-to-declare-an-array-and-c
 
 http://stackoverflow.com/questions/42058757/incompatible-type-list-cannot-be-converted-to-float
 
+http://stackoverflow.com/questions/42118915/does-java-optimize-and-expressions
+
 NOT YET
 =====
 
