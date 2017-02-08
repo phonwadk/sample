@@ -62,3 +62,5 @@ http://stackoverflow.com/questions/42118014/is-there-a-reason-why-the-functions-
 http://stackoverflow.com/questions/42118333/java-why-does-collections-sort-not-work
 
 http://stackoverflow.com/questions/42118316/simpledateformat-to-string-issue
+
+http://stackoverflow.com/questions/42124330/do-while-loop-not-breaking-when-conditions-are-met
