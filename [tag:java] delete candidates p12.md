@@ -12,13 +12,7 @@ http://stackoverflow.com/questions/41928717/how-classpath-works-when-loading-a-p
 
 garbage http://stackoverflow.com/questions/42094518/how-do-boolean-values-work-when-they-are-assigned-to-themselves
 
-http://stackoverflow.com/questions/42071919/cannot-predict-simpledateformat-parsing
-
 http://stackoverflow.com/questions/42073847/inputmismatchexception-cannot-be-resolved-to-a-type
-
-http://stackoverflow.com/questions/42097021/isfile-returns-false-but-getclass-returns-file
-
-http://stackoverflow.com/questions/42060432/how-to-differentiate-between-instances-when-changing-instances-variables
 
 http://stackoverflow.com/questions/42114254/is-there-any-way-to-convert-user-input-to-number-of-variables
 
