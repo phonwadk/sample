@@ -30,6 +30,8 @@ http://stackoverflow.com/questions/42072680/bring-to-live-order-for-static-parts
 
 http://stackoverflow.com/questions/42118583/sorting-array-without-arrays-sort
 
+http://stackoverflow.com/questions/42119436/loop-through-jsonobjects-within-a-jsonobject
+
 NOT YET
 =====
 
