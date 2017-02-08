@@ -25,8 +25,6 @@ http://stackoverflow.com/questions/41878399/java-how-to-remove-object-if-search-
 
 http://stackoverflow.com/questions/42053656/how-to-generate-all-possible-combinations-of-words
 
-http://stackoverflow.com/questions/42071780/java-string-next-line
-
 http://stackoverflow.com/questions/42052932/sort-list-of-objects-based-on-objects-variable-frequency-in-descending-order
 
 garbage http://stackoverflow.com/questions/42094518/how-do-boolean-values-work-when-they-are-assigned-to-themselves
@@ -37,10 +35,10 @@ http://stackoverflow.com/questions/42073847/inputmismatchexception-cannot-be-res
 
 http://stackoverflow.com/questions/42097021/isfile-returns-false-but-getclass-returns-file
 
+http://stackoverflow.com/questions/42060432/how-to-differentiate-between-instances-when-changing-instances-variables
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42060432/how-to-differentiate-between-instances-when-changing-instances-variables
 
 http://stackoverflow.com/questions/42061215/catching-multiple-type-of-exceptions
 
@@ -75,3 +73,4 @@ http://stackoverflow.com/questions/42102478/how-to-sort-strings-of-words-stored-
 http://stackoverflow.com/questions/42104702/constructor-is-not-defined-when-it-is-defined
 
 http://stackoverflow.com/questions/42097409/multithreading-in-java
+
