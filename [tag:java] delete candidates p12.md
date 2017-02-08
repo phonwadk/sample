@@ -39,10 +39,6 @@ http://stackoverflow.com/questions/42054111/how-to-work-with-double-in-java
 
 http://stackoverflow.com/questions/42054271/how-to-remove-an-object-player-from-arraylist-when-the-attribute-score-of-th
 
-NOT YET
-=====
-
-
 http://stackoverflow.com/questions/42054478/calling-string-intern-before-first-literal-occurence
 
 http://stackoverflow.com/questions/42047631/spring-mvc-controlleradvice-doesnt-work
@@ -50,6 +46,9 @@ http://stackoverflow.com/questions/42047631/spring-mvc-controlleradvice-doesnt-w
 http://stackoverflow.com/questions/42057806/java-cannot-find-symbol-type-java-util-collectio
 
 http://stackoverflow.com/questions/42048411/why-afterpropertiesset-has-not-called
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42060432/how-to-differentiate-between-instances-when-changing-instances-variables
 
