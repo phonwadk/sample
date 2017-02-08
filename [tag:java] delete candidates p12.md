@@ -39,6 +39,8 @@ http://stackoverflow.com/questions/42060432/how-to-differentiate-between-instanc
 
 http://stackoverflow.com/questions/42114254/is-there-any-way-to-convert-user-input-to-number-of-variables
 
+http://stackoverflow.com/questions/42105332/java-8-u112-version-issue
+
 NOT YET
 =====
 
