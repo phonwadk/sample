@@ -6,19 +6,7 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42047465/java-invoking-method-by-reflection-and-exceptions
-
-http://stackoverflow.com/questions/41995556/404-the-requested-resource-is-not-available
-
-http://stackoverflow.com/questions/41984291/how-to-parse-multiple-date-formats-with-single-formatter-instance-using-java8-ti
-
 http://stackoverflow.com/questions/41969903/java-spring-mvc-requestbody-concatening-two-ints-why
-
-http://stackoverflow.com/questions/41964293/how-to-write-a-java-8-lambda-that-returns-an-unchanged-argument
-
-http://stackoverflow.com/questions/41948213/why-does-jvm-garbage-collect-object-thats-not-dereferenced
-
-http://stackoverflow.com/questions/41942243/generic-class-with-generic-methods
 
 http://stackoverflow.com/questions/41928717/how-classpath-works-when-loading-a-properties-file-through-spring-mvc-applicati
 
