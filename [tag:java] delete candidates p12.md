@@ -8,11 +8,7 @@ http://stackoverflow.com/questions/41928717/how-classpath-works-when-loading-a-p
 
 garbage http://stackoverflow.com/questions/42094518/how-do-boolean-values-work-when-they-are-assigned-to-themselves
 
-http://stackoverflow.com/questions/42073847/inputmismatchexception-cannot-be-resolved-to-a-type
-
 http://stackoverflow.com/questions/42114254/is-there-any-way-to-convert-user-input-to-number-of-variables
-
-http://stackoverflow.com/questions/42061057/what-can-polymorphism-do-that-inheritance-cant
 
 http://stackoverflow.com/questions/42118915/does-java-optimize-and-expressions
 
@@ -24,7 +20,7 @@ http://stackoverflow.com/questions/42119436/loop-through-jsonobjects-within-a-js
 
 http://stackoverflow.com/questions/42072726/how-to-write-non-blocking-methods-of-concurrentstack
 
-http://stackoverflow.com/questions/42125660/why-a-private-field-in-an-enum-is-accessible-in-a-class-that-does-not-contain-it
+http://stackoverflow.com/questions/42072871/java-generic-cancel-type-erasure
 
 NOT YET
 =====
@@ -34,8 +30,6 @@ http://stackoverflow.com/questions/42080372/if-statement-with-curly-brackets
 http://stackoverflow.com/questions/42093156/getting-strings-from-json
 
 http://stackoverflow.com/questions/42093535/how-to-access-an-array-within-an-object
-
-http://stackoverflow.com/questions/42072871/java-generic-cancel-type-erasure
 
 http://stackoverflow.com/questions/42095183/why-does-this-work-in-case-for-type-erasure
 
