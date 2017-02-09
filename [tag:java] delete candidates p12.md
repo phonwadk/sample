@@ -26,6 +26,7 @@ http://stackoverflow.com/questions/42057907/why-this-simply-method-doesnt-work-p
 
 http://stackoverflow.com/questions/42096076/how-to-throws-parent-exception-in-a-child-class
 
+http://stackoverflow.com/questions/42145640/runtimeexception-using-void
 
 NOT YET
 =====
