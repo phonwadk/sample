@@ -50,3 +50,5 @@ http://stackoverflow.com/questions/42124330/do-while-loop-not-breaking-when-cond
 http://stackoverflow.com/questions/42123922/int-array-and-it-not-working-when-two-arrays-with-0-length
 
 http://stackoverflow.com/questions/42126224/how-can-i-prove-myself-that-the-finally-block-will-be-executed-when-return-state
+
+http://stackoverflow.com/questions/42139503/for-string-data-data-method
