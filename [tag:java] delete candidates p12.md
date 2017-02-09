@@ -8,24 +8,10 @@ http://stackoverflow.com/questions/41928717/how-classpath-works-when-loading-a-p
 
 garbage http://stackoverflow.com/questions/42094518/how-do-boolean-values-work-when-they-are-assigned-to-themselves
 
-http://stackoverflow.com/questions/42114254/is-there-any-way-to-convert-user-input-to-number-of-variables
-
 http://stackoverflow.com/questions/42118915/does-java-optimize-and-expressions
-
-http://stackoverflow.com/questions/42072680/bring-to-live-order-for-static-parts-in-java
-
-http://stackoverflow.com/questions/42118583/sorting-array-without-arrays-sort
-
-http://stackoverflow.com/questions/42119436/loop-through-jsonobjects-within-a-jsonobject
-
-http://stackoverflow.com/questions/42072726/how-to-write-non-blocking-methods-of-concurrentstack
-
-http://stackoverflow.com/questions/42072871/java-generic-cancel-type-erasure
 
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42080372/if-statement-with-curly-brackets
 
 http://stackoverflow.com/questions/42093156/getting-strings-from-json
 
