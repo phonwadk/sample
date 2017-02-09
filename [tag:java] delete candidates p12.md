@@ -6,7 +6,7 @@ http://stackoverflow.com/questions/41969903/java-spring-mvc-requestbody-concaten
 
 http://stackoverflow.com/questions/41928717/how-classpath-works-when-loading-a-properties-file-through-spring-mvc-applicati
 
-garbage http://stackoverflow.com/questions/42094518/how-do-boolean-values-work-when-they-are-assigned-to-themselves
+http://stackoverflow.com/questions/42094518/how-do-boolean-values-work-when-they-are-assigned-to-themselves
 
 http://stackoverflow.com/questions/42118915/does-java-optimize-and-expressions
 
@@ -24,11 +24,11 @@ http://stackoverflow.com/questions/42060915/method-is-never-used-java
 
 http://stackoverflow.com/questions/42057907/why-this-simply-method-doesnt-work-properly
 
+http://stackoverflow.com/questions/42096076/how-to-throws-parent-exception-in-a-child-class
+
+
 NOT YET
 =====
-
-
-http://stackoverflow.com/questions/42096076/how-to-throws-parent-exception-in-a-child-class
 
 http://stackoverflow.com/questions/42099849/how-can-i-access-fields-added-through-custom-java-annotations
 
