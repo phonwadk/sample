@@ -59,3 +59,6 @@ http://stackoverflow.com/questions/42126496/if-statements-and-java
 
 http://stackoverflow.com/questions/42129958/what-is-the-exact-meaning-of-hash-function-in-hashmap-in-java
 
+http://stackoverflow.com/questions/42141106/still-issue-with-the-system-outprintln
+
+http://stackoverflow.com/questions/42141106/still-issue-with-the-system-outprintln
