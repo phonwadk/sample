@@ -14,6 +14,8 @@ http://stackoverflow.com/questions/42093156/getting-strings-from-json
 
 http://stackoverflow.com/questions/42093535/how-to-access-an-array-within-an-object
 
+http://stackoverflow.com/questions/42141346/how-is-a-generic-list-type-erased-when-i-try-it-myself-it-gives-an-error
+
 NOT YET
 =====
 
@@ -56,3 +58,4 @@ http://stackoverflow.com/questions/42139503/for-string-data-data-method
 http://stackoverflow.com/questions/42126496/if-statements-and-java
 
 http://stackoverflow.com/questions/42129958/what-is-the-exact-meaning-of-hash-function-in-hashmap-in-java
+
