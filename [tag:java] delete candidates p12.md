@@ -73,3 +73,5 @@ http://stackoverflow.com/questions/42141106/still-issue-with-the-system-outprint
 http://stackoverflow.com/questions/42145014/string-builder-setcharat-int-to-char
 
 http://stackoverflow.com/questions/42144623/how-to-take-year-month-and-day-from-user-and-pass-them-in-localdate-of
+
+http://stackoverflow.com/questions/42146931/gson-implementation-of-non-alpha-key
