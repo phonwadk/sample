@@ -16,10 +16,12 @@ http://stackoverflow.com/questions/42093535/how-to-access-an-array-within-an-obj
 
 http://stackoverflow.com/questions/42141346/how-is-a-generic-list-type-erased-when-i-try-it-myself-it-gives-an-error
 
+http://stackoverflow.com/questions/42095183/why-does-this-work-in-case-for-type-erasure
+
+
 NOT YET
 =====
 
-http://stackoverflow.com/questions/42095183/why-does-this-work-in-case-for-type-erasure
 
 http://stackoverflow.com/questions/42096076/how-to-throws-parent-exception-in-a-child-class
 
@@ -58,7 +60,5 @@ http://stackoverflow.com/questions/42139503/for-string-data-data-method
 http://stackoverflow.com/questions/42126496/if-statements-and-java
 
 http://stackoverflow.com/questions/42129958/what-is-the-exact-meaning-of-hash-function-in-hashmap-in-java
-
-http://stackoverflow.com/questions/42141106/still-issue-with-the-system-outprintln
 
 http://stackoverflow.com/questions/42141106/still-issue-with-the-system-outprintln
