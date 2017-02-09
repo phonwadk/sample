@@ -10,12 +10,12 @@ garbage http://stackoverflow.com/questions/42094518/how-do-boolean-values-work-w
 
 http://stackoverflow.com/questions/42118915/does-java-optimize-and-expressions
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/42093156/getting-strings-from-json
 
 http://stackoverflow.com/questions/42093535/how-to-access-an-array-within-an-object
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42095183/why-does-this-work-in-case-for-type-erasure
 
