@@ -54,3 +54,5 @@ http://stackoverflow.com/questions/42126224/how-can-i-prove-myself-that-the-fina
 http://stackoverflow.com/questions/42139503/for-string-data-data-method
 
 http://stackoverflow.com/questions/42126496/if-statements-and-java
+
+http://stackoverflow.com/questions/42129958/what-is-the-exact-meaning-of-hash-function-in-hashmap-in-java
