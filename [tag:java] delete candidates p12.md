@@ -52,3 +52,5 @@ http://stackoverflow.com/questions/42123922/int-array-and-it-not-working-when-tw
 http://stackoverflow.com/questions/42126224/how-can-i-prove-myself-that-the-finally-block-will-be-executed-when-return-state
 
 http://stackoverflow.com/questions/42139503/for-string-data-data-method
+
+http://stackoverflow.com/questions/42126496/if-statements-and-java
