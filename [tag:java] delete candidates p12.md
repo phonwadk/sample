@@ -20,6 +20,10 @@ http://stackoverflow.com/questions/42095183/why-does-this-work-in-case-for-type-
 
 http://stackoverflow.com/questions/42059435/reference-time-in-the-future-for-system-nanotime
 
+http://stackoverflow.com/questions/42060915/method-is-never-used-java
+
+http://stackoverflow.com/questions/42057907/why-this-simply-method-doesnt-work-properly
+
 NOT YET
 =====
 
