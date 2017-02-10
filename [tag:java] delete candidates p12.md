@@ -32,17 +32,14 @@ http://stackoverflow.com/questions/42152345/java-output-for-code
 
 http://stackoverflow.com/questions/42163160/what-is-the-correct-and-efficient-way-to-reassign-new-arraylist
 
-http://stackoverflow.com/questions/42164361/confusion-in-escape-character-in-java
-
-NOT YET
-=====
-
-
 http://stackoverflow.com/questions/42099849/how-can-i-access-fields-added-through-custom-java-annotations
 
 http://stackoverflow.com/questions/42118014/is-there-a-reason-why-the-functions-executed-beforeclass-and-afterclass-are-st
 
 http://stackoverflow.com/questions/42118333/java-why-does-collections-sort-not-work
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42118316/simpledateformat-to-string-issue
 
