@@ -18,6 +18,14 @@ http://stackoverflow.com/questions/42146134/how-to-convert-byte-to-byte-and-reve
 
 http://stackoverflow.com/questions/42145915/method-not-returning-int-error
 
+http://stackoverflow.com/questions/42099552/java-generic-classes-passing-parameterized-class-object
+
+http://stackoverflow.com/questions/42096328/java-data-structure-for-set-with-duplicates
+
+http://stackoverflow.com/questions/42080385/sping-autowired
+
+http://stackoverflow.com/questions/41913947/why-does-a-hashmap-hash-the-key-instead-the-value
+
 NOT YET
 =====
 
@@ -75,3 +83,5 @@ http://stackoverflow.com/questions/42147898/illegal-start-of-expression-printf
 http://stackoverflow.com/questions/42147739/given-two-strings-write-a-method-to-decide-if-one-is-a-permutation-of-the-other
 
 http://stackoverflow.com/questions/42144533/java-simpledateformatter-adding-milliseconds-how-to-remove
+
+http://stackoverflow.com/questions/42110483/what-does-it-mean-guardedbythis
