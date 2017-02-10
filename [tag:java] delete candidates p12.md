@@ -26,6 +26,8 @@ http://stackoverflow.com/questions/42080385/sping-autowired
 
 http://stackoverflow.com/questions/41913947/why-does-a-hashmap-hash-the-key-instead-the-value
 
+http://stackoverflow.com/questions/42144796/trying-to-replace-specific-element-in-arraylist
+
 NOT YET
 =====
 
