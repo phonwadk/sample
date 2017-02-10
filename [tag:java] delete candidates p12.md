@@ -16,6 +16,8 @@ http://stackoverflow.com/questions/42102478/how-to-sort-strings-of-words-stored-
 
 http://stackoverflow.com/questions/42146134/how-to-convert-byte-to-byte-and-reverse
 
+http://stackoverflow.com/questions/42145915/method-not-returning-int-error
+
 NOT YET
 =====
 
@@ -72,3 +74,4 @@ http://stackoverflow.com/questions/42147898/illegal-start-of-expression-printf
 
 http://stackoverflow.com/questions/42147739/given-two-strings-write-a-method-to-decide-if-one-is-a-permutation-of-the-other
 
+http://stackoverflow.com/questions/42144533/java-simpledateformatter-adding-milliseconds-how-to-remove
