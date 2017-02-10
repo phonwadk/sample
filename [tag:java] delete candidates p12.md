@@ -28,6 +28,8 @@ http://stackoverflow.com/questions/42104837/in-a-project-using-idiomatic-spring-
 
 http://stackoverflow.com/questions/42115217/create-java-generic-array-with-multiple-type-parameters-and-upperbound
 
+http://stackoverflow.com/questions/42152345/java-output-for-code
+
 NOT YET
 =====
 
@@ -75,3 +77,7 @@ http://stackoverflow.com/questions/42147739/given-two-strings-write-a-method-to-
 http://stackoverflow.com/questions/42144533/java-simpledateformatter-adding-milliseconds-how-to-remove
 
 http://stackoverflow.com/questions/42110483/what-does-it-mean-guardedbythis
+
+http://stackoverflow.com/questions/42161895/why-biconsumer-interface-can-take-the-method-reference-of-stringbuilder-append-m
+
+http://stackoverflow.com/questions/42152064/autowired-gives-me-null-object
