@@ -2,10 +2,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/41969903/java-spring-mvc-requestbody-concatening-two-ints-why
-
-http://stackoverflow.com/questions/41928717/how-classpath-works-when-loading-a-properties-file-through-spring-mvc-applicati
-
 http://stackoverflow.com/questions/42094518/how-do-boolean-values-work-when-they-are-assigned-to-themselves
 
 http://stackoverflow.com/questions/42118915/does-java-optimize-and-expressions
