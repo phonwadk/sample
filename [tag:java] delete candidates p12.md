@@ -75,3 +75,5 @@ http://stackoverflow.com/questions/42145014/string-builder-setcharat-int-to-char
 http://stackoverflow.com/questions/42144623/how-to-take-year-month-and-day-from-user-and-pass-them-in-localdate-of
 
 http://stackoverflow.com/questions/42146931/gson-implementation-of-non-alpha-key
+
+http://stackoverflow.com/questions/42149358/incompatible-types-error-in-java-when-i-tried-to-print-a-string-even-though-i
