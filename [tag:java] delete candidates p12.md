@@ -28,6 +28,8 @@ http://stackoverflow.com/questions/41913947/why-does-a-hashmap-hash-the-key-inst
 
 http://stackoverflow.com/questions/42144796/trying-to-replace-specific-element-in-arraylist
 
+http://stackoverflow.com/questions/42151791/sort-arraylist-objecthow-can-i-sort-objects-from-arraylist-i-read-the-file-from
+
 NOT YET
 =====
 
