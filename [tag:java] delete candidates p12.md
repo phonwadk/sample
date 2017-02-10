@@ -2,18 +2,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42094518/how-do-boolean-values-work-when-they-are-assigned-to-themselves
-
-http://stackoverflow.com/questions/42095183/why-does-this-work-in-case-for-type-erasure
-
-http://stackoverflow.com/questions/42059435/reference-time-in-the-future-for-system-nanotime
-
-http://stackoverflow.com/questions/42096076/how-to-throws-parent-exception-in-a-child-class
-
-http://stackoverflow.com/questions/42102666/stackoverflow-error-in-constructor
-
-http://stackoverflow.com/questions/42102478/how-to-sort-strings-of-words-stored-in-an-arrayliststring-in-non-decreasing-or
-
 http://stackoverflow.com/questions/42146134/how-to-convert-byte-to-byte-and-reverse
 
 http://stackoverflow.com/questions/42145915/method-not-returning-int-error
@@ -25,8 +13,6 @@ http://stackoverflow.com/questions/42096328/java-data-structure-for-set-with-dup
 http://stackoverflow.com/questions/42080385/sping-autowired
 
 http://stackoverflow.com/questions/41913947/why-does-a-hashmap-hash-the-key-instead-the-value
-
-http://stackoverflow.com/questions/42144796/trying-to-replace-specific-element-in-arraylist
 
 http://stackoverflow.com/questions/42151791/sort-arraylist-objecthow-can-i-sort-objects-from-arraylist-i-read-the-file-from
 
