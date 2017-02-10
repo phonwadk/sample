@@ -77,3 +77,5 @@ http://stackoverflow.com/questions/42149358/incompatible-types-error-in-java-whe
 http://stackoverflow.com/questions/42148228/java-programming-private-variables-in-a-class-and-inheritance
 
 http://stackoverflow.com/questions/42140657/java-8-anymatch
+
+http://stackoverflow.com/questions/42147906/type-safety-unchecked-cast-from-object-to-arrayliststring
