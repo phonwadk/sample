@@ -86,3 +86,5 @@ http://stackoverflow.com/questions/42152064/autowired-gives-me-null-object
 http://stackoverflow.com/questions/42163153/variable-might-not-have-been-initialized-dumb-compiler
 
 http://stackoverflow.com/questions/42160568/lambda-expression-method-reference
+
+http://stackoverflow.com/questions/42165113/return-statement-with-two-semicolon-return-something
