@@ -84,3 +84,5 @@ http://stackoverflow.com/questions/42161895/why-biconsumer-interface-can-take-th
 http://stackoverflow.com/questions/42152064/autowired-gives-me-null-object
 
 http://stackoverflow.com/questions/42163153/variable-might-not-have-been-initialized-dumb-compiler
+
+http://stackoverflow.com/questions/42160568/lambda-expression-method-reference
