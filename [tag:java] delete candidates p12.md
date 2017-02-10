@@ -16,12 +16,6 @@ http://stackoverflow.com/questions/41913947/why-does-a-hashmap-hash-the-key-inst
 
 http://stackoverflow.com/questions/42151791/sort-arraylist-objecthow-can-i-sort-objects-from-arraylist-i-read-the-file-from
 
-NOT YET
-=====
-
-
-http://stackoverflow.com/questions/42099849/how-can-i-access-fields-added-through-custom-java-annotations
-
 http://stackoverflow.com/questions/42097409/multithreading-in-java
 
 http://stackoverflow.com/questions/42115618/why-does-my-while-loop-not-exit-unless-theres-a-system-out-line-present
@@ -33,6 +27,12 @@ http://stackoverflow.com/questions/42105458/what-is-difference-between-mvp-and-m
 http://stackoverflow.com/questions/42104837/in-a-project-using-idiomatic-spring-what-classes-should-be-managed-by-spring
 
 http://stackoverflow.com/questions/42115217/create-java-generic-array-with-multiple-type-parameters-and-upperbound
+
+NOT YET
+=====
+
+
+http://stackoverflow.com/questions/42099849/how-can-i-access-fields-added-through-custom-java-annotations
 
 http://stackoverflow.com/questions/42118014/is-there-a-reason-why-the-functions-executed-beforeclass-and-afterclass-are-st
 
