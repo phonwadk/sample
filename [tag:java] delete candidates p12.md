@@ -75,3 +75,5 @@ http://stackoverflow.com/questions/42146931/gson-implementation-of-non-alpha-key
 http://stackoverflow.com/questions/42149358/incompatible-types-error-in-java-when-i-tried-to-print-a-string-even-though-i
 
 http://stackoverflow.com/questions/42148228/java-programming-private-variables-in-a-class-and-inheritance
+
+http://stackoverflow.com/questions/42140657/java-8-anymatch
