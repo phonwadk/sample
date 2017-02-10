@@ -10,8 +10,6 @@ http://stackoverflow.com/questions/42093156/getting-strings-from-json
 
 http://stackoverflow.com/questions/42093535/how-to-access-an-array-within-an-object
 
-http://stackoverflow.com/questions/42141346/how-is-a-generic-list-type-erased-when-i-try-it-myself-it-gives-an-error
-
 http://stackoverflow.com/questions/42095183/why-does-this-work-in-case-for-type-erasure
 
 http://stackoverflow.com/questions/42059435/reference-time-in-the-future-for-system-nanotime
@@ -79,3 +77,9 @@ http://stackoverflow.com/questions/42148228/java-programming-private-variables-i
 http://stackoverflow.com/questions/42140657/java-8-anymatch
 
 http://stackoverflow.com/questions/42147906/type-safety-unchecked-cast-from-object-to-arrayliststring
+
+http://stackoverflow.com/questions/42147898/illegal-start-of-expression-printf
+
+http://stackoverflow.com/questions/42147739/given-two-strings-write-a-method-to-decide-if-one-is-a-permutation-of-the-other
+
+http://stackoverflow.com/questions/42146134/how-to-convert-byte-to-byte-and-reverse
