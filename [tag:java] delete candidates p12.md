@@ -4,23 +4,11 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 http://stackoverflow.com/questions/42094518/how-do-boolean-values-work-when-they-are-assigned-to-themselves
 
-http://stackoverflow.com/questions/42118915/does-java-optimize-and-expressions
-
-http://stackoverflow.com/questions/42093156/getting-strings-from-json
-
-http://stackoverflow.com/questions/42093535/how-to-access-an-array-within-an-object
-
 http://stackoverflow.com/questions/42095183/why-does-this-work-in-case-for-type-erasure
 
 http://stackoverflow.com/questions/42059435/reference-time-in-the-future-for-system-nanotime
 
-http://stackoverflow.com/questions/42060915/method-is-never-used-java
-
-http://stackoverflow.com/questions/42057907/why-this-simply-method-doesnt-work-properly
-
 http://stackoverflow.com/questions/42096076/how-to-throws-parent-exception-in-a-child-class
-
-http://stackoverflow.com/questions/42145640/runtimeexception-using-void
 
 http://stackoverflow.com/questions/42102666/stackoverflow-error-in-constructor
 
