@@ -38,9 +38,6 @@ http://stackoverflow.com/questions/42118333/java-why-does-collections-sort-not-w
 
 http://stackoverflow.com/questions/42166489/day-of-the-week-in-feb-2017
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/42118316/simpledateformat-to-string-issue
 
 http://stackoverflow.com/questions/42124330/do-while-loop-not-breaking-when-conditions-are-met
@@ -48,6 +45,10 @@ http://stackoverflow.com/questions/42124330/do-while-loop-not-breaking-when-cond
 http://stackoverflow.com/questions/42123922/int-array-and-it-not-working-when-two-arrays-with-0-length
 
 http://stackoverflow.com/questions/42126224/how-can-i-prove-myself-that-the-finally-block-will-be-executed-when-return-state
+
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42139503/for-string-data-data-method
 
