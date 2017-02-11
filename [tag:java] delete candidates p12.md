@@ -60,6 +60,8 @@ http://stackoverflow.com/questions/42144623/how-to-take-year-month-and-day-from-
 
 http://stackoverflow.com/questions/42145014/string-builder-setcharat-int-to-char
 
+http://stackoverflow.com/questions/42069796/why-i-cant-deploy-this-war-application-on-a-tomcat-server-error-deploying-web
+
 NOT YET
 =====
 
