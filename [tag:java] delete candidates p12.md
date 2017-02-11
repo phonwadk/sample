@@ -30,13 +30,13 @@ http://stackoverflow.com/questions/42115217/create-java-generic-array-with-multi
 
 http://stackoverflow.com/questions/42152345/java-output-for-code
 
-http://stackoverflow.com/questions/42163160/what-is-the-correct-and-efficient-way-to-reassign-new-arraylist
-
 http://stackoverflow.com/questions/42099849/how-can-i-access-fields-added-through-custom-java-annotations
 
 http://stackoverflow.com/questions/42118014/is-there-a-reason-why-the-functions-executed-beforeclass-and-afterclass-are-st
 
 http://stackoverflow.com/questions/42118333/java-why-does-collections-sort-not-work
+
+http://stackoverflow.com/questions/42166489/day-of-the-week-in-feb-2017
 
 NOT YET
 =====
@@ -88,3 +88,9 @@ http://stackoverflow.com/questions/42163153/variable-might-not-have-been-initial
 http://stackoverflow.com/questions/42160568/lambda-expression-method-reference
 
 http://stackoverflow.com/questions/42165113/return-statement-with-two-semicolon-return-something
+
+http://stackoverflow.com/questions/42171433/finding-average-in-an-array
+
+http://stackoverflow.com/questions/42168709/returning-the-min-max-element-of-an-array
+
+http://stackoverflow.com/questions/42168403/creating-integer-arrays-from-character-strings-in-java
