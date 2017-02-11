@@ -99,4 +99,4 @@ http://stackoverflow.com/questions/42178009/how-to-declare-an-enum-type-that-imp
 
 http://stackoverflow.com/questions/42179394/difficulty-of-understanding-classcastexception
 
-http://stackoverflow.com/questions/42180246/difference-between-public-static-and-private-static-for-storing-simple-data
+http://stackoverflow.com/questions/42180454/why-is-my-code-reading-incompatible-type
