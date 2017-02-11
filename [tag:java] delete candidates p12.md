@@ -102,3 +102,5 @@ http://stackoverflow.com/questions/42178009/how-to-declare-an-enum-type-that-imp
 http://stackoverflow.com/questions/42179394/difficulty-of-understanding-classcastexception
 
 http://stackoverflow.com/questions/42180910/why-does-filereader-read-not-return-the-buffer
+
+http://stackoverflow.com/questions/42181010/ternary-operator-in-set-method-throws-a-null-reference-exception
