@@ -63,8 +63,6 @@ http://stackoverflow.com/questions/42145014/string-builder-setcharat-int-to-char
 NOT YET
 =====
 
-http://stackoverflow.com/questions/42144623/how-to-take-year-month-and-day-from-user-and-pass-them-in-localdate-of
-
 http://stackoverflow.com/questions/42146931/gson-implementation-of-non-alpha-key
 
 http://stackoverflow.com/questions/42149358/incompatible-types-error-in-java-when-i-tried-to-print-a-string-even-though-i
@@ -78,8 +76,6 @@ http://stackoverflow.com/questions/42147906/type-safety-unchecked-cast-from-obje
 http://stackoverflow.com/questions/42147898/illegal-start-of-expression-printf
 
 http://stackoverflow.com/questions/42147739/given-two-strings-write-a-method-to-decide-if-one-is-a-permutation-of-the-other
-
-http://stackoverflow.com/questions/42144533/java-simpledateformatter-adding-milliseconds-how-to-remove
 
 http://stackoverflow.com/questions/42110483/what-does-it-mean-guardedbythis
 
