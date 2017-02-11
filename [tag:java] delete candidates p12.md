@@ -94,3 +94,5 @@ http://stackoverflow.com/questions/42168709/returning-the-min-max-element-of-an-
 http://stackoverflow.com/questions/42168403/creating-integer-arrays-from-character-strings-in-java
 
 http://stackoverflow.com/questions/42171833/json-array-inside-json-array
+
+http://stackoverflow.com/questions/42178009/how-to-declare-an-enum-type-that-implements-an-interface
