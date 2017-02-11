@@ -12,8 +12,6 @@ http://stackoverflow.com/questions/42096328/java-data-structure-for-set-with-dup
 
 http://stackoverflow.com/questions/42080385/sping-autowired
 
-http://stackoverflow.com/questions/41913947/why-does-a-hashmap-hash-the-key-instead-the-value
-
 http://stackoverflow.com/questions/42151791/sort-arraylist-objecthow-can-i-sort-objects-from-arraylist-i-read-the-file-from
 
 http://stackoverflow.com/questions/42097409/multithreading-in-java
@@ -29,8 +27,6 @@ http://stackoverflow.com/questions/42104837/in-a-project-using-idiomatic-spring-
 http://stackoverflow.com/questions/42115217/create-java-generic-array-with-multiple-type-parameters-and-upperbound
 
 http://stackoverflow.com/questions/42152345/java-output-for-code
-
-http://stackoverflow.com/questions/42099849/how-can-i-access-fields-added-through-custom-java-annotations
 
 http://stackoverflow.com/questions/42118014/is-there-a-reason-why-the-functions-executed-beforeclass-and-afterclass-are-st
 
@@ -48,14 +44,14 @@ http://stackoverflow.com/questions/42126224/how-can-i-prove-myself-that-the-fina
 
 http://stackoverflow.com/questions/42166192/understanding-what-happens-when-i-allocate-an-array-of-objects
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/42139503/for-string-data-data-method
 
 http://stackoverflow.com/questions/42126496/if-statements-and-java
 
 http://stackoverflow.com/questions/42129958/what-is-the-exact-meaning-of-hash-function-in-hashmap-in-java
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42141106/still-issue-with-the-system-outprintln
 
