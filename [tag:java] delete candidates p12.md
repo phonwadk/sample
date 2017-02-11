@@ -98,3 +98,5 @@ http://stackoverflow.com/questions/42171833/json-array-inside-json-array
 http://stackoverflow.com/questions/42178009/how-to-declare-an-enum-type-that-implements-an-interface
 
 http://stackoverflow.com/questions/42179394/difficulty-of-understanding-classcastexception
+
+http://stackoverflow.com/questions/42180246/difference-between-public-static-and-private-static-for-storing-simple-data
