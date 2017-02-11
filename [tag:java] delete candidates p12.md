@@ -52,10 +52,16 @@ http://stackoverflow.com/questions/42129958/what-is-the-exact-meaning-of-hash-fu
 
 http://stackoverflow.com/questions/42141106/still-issue-with-the-system-outprintln
 
-NOT YET
-=====
+http://stackoverflow.com/questions/42180454/why-is-my-code-reading-incompatible-type
+
+http://stackoverflow.com/questions/42144533/java-simpledateformatter-adding-milliseconds-how-to-remove
+
+http://stackoverflow.com/questions/42144623/how-to-take-year-month-and-day-from-user-and-pass-them-in-localdate-of
 
 http://stackoverflow.com/questions/42145014/string-builder-setcharat-int-to-char
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42144623/how-to-take-year-month-and-day-from-user-and-pass-them-in-localdate-of
 
@@ -98,7 +104,5 @@ http://stackoverflow.com/questions/42171833/json-array-inside-json-array
 http://stackoverflow.com/questions/42178009/how-to-declare-an-enum-type-that-implements-an-interface
 
 http://stackoverflow.com/questions/42179394/difficulty-of-understanding-classcastexception
-
-http://stackoverflow.com/questions/42180454/why-is-my-code-reading-incompatible-type
 
 http://stackoverflow.com/questions/42180910/why-does-filereader-read-not-return-the-buffer
