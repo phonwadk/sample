@@ -88,3 +88,5 @@ http://stackoverflow.com/questions/42181010/ternary-operator-in-set-method-throw
 http://stackoverflow.com/questions/42179840/why-should-we-always-autowire-on-interface-than-on-class
 
 http://stackoverflow.com/questions/42189446/if-subclasses-cant-access-private-variables-how-can-this-program-work
+
+http://stackoverflow.com/questions/42188518/null-pointer-exception-not-throwing-for-array-datatype
