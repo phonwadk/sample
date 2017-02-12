@@ -100,3 +100,5 @@ http://stackoverflow.com/questions/42189154/how-many-objects-are-created-and-how
 http://stackoverflow.com/questions/42192717/why-cant-i-create-a-function-that-uses-user-input-later
 
 http://stackoverflow.com/questions/42193635/arrays-binarysearchobject-key-returning-wrong-value
+
+http://stackoverflow.com/questions/42194371/java-8-removeif-blocks
