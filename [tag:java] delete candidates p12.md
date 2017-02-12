@@ -40,9 +40,6 @@ http://stackoverflow.com/questions/42145014/string-builder-setcharat-int-to-char
 
 http://stackoverflow.com/questions/42069796/why-i-cant-deploy-this-war-application-on-a-tomcat-server-error-deploying-web
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/42146931/gson-implementation-of-non-alpha-key
 
 http://stackoverflow.com/questions/42149358/incompatible-types-error-in-java-when-i-tried-to-print-a-string-even-though-i
@@ -64,6 +61,9 @@ http://stackoverflow.com/questions/42161895/why-biconsumer-interface-can-take-th
 http://stackoverflow.com/questions/42152064/autowired-gives-me-null-object
 
 http://stackoverflow.com/questions/42163153/variable-might-not-have-been-initialized-dumb-compiler
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42160568/lambda-expression-method-reference
 
