@@ -108,3 +108,5 @@ http://stackoverflow.com/questions/42180910/why-does-filereader-read-not-return-
 http://stackoverflow.com/questions/42181010/ternary-operator-in-set-method-throws-a-null-reference-exception
 
 http://stackoverflow.com/questions/42179840/why-should-we-always-autowire-on-interface-than-on-class
+
+http://stackoverflow.com/questions/42189446/if-subclasses-cant-access-private-variables-how-can-this-program-work
