@@ -98,3 +98,5 @@ http://stackoverflow.com/questions/42183382/does-the-str-tochararray-in-forchar-
 http://stackoverflow.com/questions/42182767/boolean-variable-not-correctly-returning
 
 http://stackoverflow.com/questions/42181646/why-is-try-catch-finally-block-execution-order-in-java-not-determined
+
+http://stackoverflow.com/questions/42188636/runtime-exception-in-android-org-json-jsonexception-value-br-of-type-java-lang
