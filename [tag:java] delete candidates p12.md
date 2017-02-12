@@ -108,3 +108,5 @@ http://stackoverflow.com/questions/42181351/how-to-collect-sets-in-to-sets-using
 http://stackoverflow.com/questions/42190072/making-an-arraylist-out-of-an-array
 
 http://stackoverflow.com/questions/42190468/using-boolean-in-oop
+
+http://stackoverflow.com/questions/42189446/if-subclasses-cant-access-private-variables-how-can-this-program-work
