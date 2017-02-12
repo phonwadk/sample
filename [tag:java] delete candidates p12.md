@@ -2,8 +2,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42099552/java-generic-classes-passing-parameterized-class-object
-
 http://stackoverflow.com/questions/42097409/multithreading-in-java
 
 http://stackoverflow.com/questions/42115618/why-does-my-while-loop-not-exit-unless-theres-a-system-out-line-present
