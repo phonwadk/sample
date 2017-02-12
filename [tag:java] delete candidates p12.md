@@ -68,6 +68,8 @@ http://stackoverflow.com/questions/42165113/return-statement-with-two-semicolon-
 
 http://stackoverflow.com/questions/42167980/how-to-update-data-in-oracle-using-java
 
+http://stackoverflow.com/questions/42191970/how-to-change-object-name-using-for-loop
+
 NOT YET
 =====
 
@@ -112,3 +114,4 @@ http://stackoverflow.com/questions/42189446/if-subclasses-cant-access-private-va
 http://stackoverflow.com/questions/42191293/double-became-a-string
 
 http://stackoverflow.com/questions/42189154/how-many-objects-are-created-and-how-many-are-accessible-for-gargabe-collector
+
