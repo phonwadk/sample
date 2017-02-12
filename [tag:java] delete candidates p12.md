@@ -108,3 +108,5 @@ http://stackoverflow.com/questions/42190468/using-boolean-in-oop
 http://stackoverflow.com/questions/42189446/if-subclasses-cant-access-private-variables-how-can-this-program-work
 
 http://stackoverflow.com/questions/42191293/double-became-a-string
+
+http://stackoverflow.com/questions/42189154/how-many-objects-are-created-and-how-many-are-accessible-for-gargabe-collector
