@@ -70,6 +70,8 @@ http://stackoverflow.com/questions/42167980/how-to-update-data-in-oracle-using-j
 
 http://stackoverflow.com/questions/42191970/how-to-change-object-name-using-for-loop
 
+http://stackoverflow.com/questions/42176779/dynamic-loop-and-bubble-sort-in-java
+
 NOT YET
 =====
 
