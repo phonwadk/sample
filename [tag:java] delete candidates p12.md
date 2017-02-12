@@ -116,3 +116,5 @@ http://stackoverflow.com/questions/42191293/double-became-a-string
 http://stackoverflow.com/questions/42189154/how-many-objects-are-created-and-how-many-are-accessible-for-gargabe-collector
 
 http://stackoverflow.com/questions/42192717/why-cant-i-create-a-function-that-uses-user-input-later
+
+http://stackoverflow.com/questions/42193635/arrays-binarysearchobject-key-returning-wrong-value
