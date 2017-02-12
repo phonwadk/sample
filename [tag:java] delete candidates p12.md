@@ -102,3 +102,5 @@ http://stackoverflow.com/questions/42181646/why-is-try-catch-finally-block-execu
 http://stackoverflow.com/questions/42188636/runtime-exception-in-android-org-json-jsonexception-value-br-of-type-java-lang
 
 http://stackoverflow.com/questions/42181351/how-to-collect-sets-in-to-sets-using-java-8-streams
+
+http://stackoverflow.com/questions/42190072/making-an-arraylist-out-of-an-array
