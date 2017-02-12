@@ -2,19 +2,11 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42097409/multithreading-in-java
-
 http://stackoverflow.com/questions/42115618/why-does-my-while-loop-not-exit-unless-theres-a-system-out-line-present
 
 http://stackoverflow.com/questions/42115191/java-array-initialized-in-try-catch-may-not-be-initialized
 
 http://stackoverflow.com/questions/42115217/create-java-generic-array-with-multiple-type-parameters-and-upperbound
-
-http://stackoverflow.com/questions/42118333/java-why-does-collections-sort-not-work
-
-http://stackoverflow.com/questions/42166489/day-of-the-week-in-feb-2017
-
-http://stackoverflow.com/questions/42118316/simpledateformat-to-string-issue
 
 http://stackoverflow.com/questions/42124330/do-while-loop-not-breaking-when-conditions-are-met
 
@@ -32,10 +24,6 @@ http://stackoverflow.com/questions/42129958/what-is-the-exact-meaning-of-hash-fu
 
 http://stackoverflow.com/questions/42141106/still-issue-with-the-system-outprintln
 
-http://stackoverflow.com/questions/42144623/how-to-take-year-month-and-day-from-user-and-pass-them-in-localdate-of
-
-http://stackoverflow.com/questions/42145014/string-builder-setcharat-int-to-char
-
 http://stackoverflow.com/questions/42069796/why-i-cant-deploy-this-war-application-on-a-tomcat-server-error-deploying-web
 
 http://stackoverflow.com/questions/42146931/gson-implementation-of-non-alpha-key
@@ -43,8 +31,6 @@ http://stackoverflow.com/questions/42146931/gson-implementation-of-non-alpha-key
 http://stackoverflow.com/questions/42149358/incompatible-types-error-in-java-when-i-tried-to-print-a-string-even-though-i
 
 http://stackoverflow.com/questions/42148228/java-programming-private-variables-in-a-class-and-inheritance
-
-http://stackoverflow.com/questions/42140657/java-8-anymatch
 
 http://stackoverflow.com/questions/42147906/type-safety-unchecked-cast-from-object-to-arrayliststring
 
@@ -56,8 +42,6 @@ http://stackoverflow.com/questions/42110483/what-does-it-mean-guardedbythis
 
 http://stackoverflow.com/questions/42161895/why-biconsumer-interface-can-take-the-method-reference-of-stringbuilder-append-m
 
-http://stackoverflow.com/questions/42152064/autowired-gives-me-null-object
-
 http://stackoverflow.com/questions/42052412/append-two-linkedlist-in-java
 
 http://stackoverflow.com/questions/42160568/lambda-expression-method-reference
@@ -68,9 +52,7 @@ http://stackoverflow.com/questions/42167980/how-to-update-data-in-oracle-using-j
 
 http://stackoverflow.com/questions/42191970/how-to-change-object-name-using-for-loop
 
-http://stackoverflow.com/questions/42176779/dynamic-loop-and-bubble-sort-in-java
-
-http://stackoverflow.com/questions/42193180/first-java-assignment-unused-local-variables-warnings
+http://stackoverflow.com/questions/42194134/why-are-the-methods-of-the-objectmapper-class-not-static-jackson-api
 
 NOT YET
 =====
