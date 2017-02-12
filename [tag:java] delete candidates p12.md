@@ -60,18 +60,14 @@ http://stackoverflow.com/questions/42161895/why-biconsumer-interface-can-take-th
 
 http://stackoverflow.com/questions/42152064/autowired-gives-me-null-object
 
-http://stackoverflow.com/questions/42163153/variable-might-not-have-been-initialized-dumb-compiler
-
 http://stackoverflow.com/questions/42052412/append-two-linkedlist-in-java
-
-http://stackoverflow.com/questions/42190191/complexity-of-compare-method
-
-NOT YET
-=====
 
 http://stackoverflow.com/questions/42160568/lambda-expression-method-reference
 
 http://stackoverflow.com/questions/42165113/return-statement-with-two-semicolon-return-something
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42171433/finding-average-in-an-array
 
