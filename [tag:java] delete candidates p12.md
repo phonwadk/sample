@@ -106,3 +106,5 @@ http://stackoverflow.com/questions/42188636/runtime-exception-in-android-org-jso
 http://stackoverflow.com/questions/42181351/how-to-collect-sets-in-to-sets-using-java-8-streams
 
 http://stackoverflow.com/questions/42190072/making-an-arraylist-out-of-an-array
+
+http://stackoverflow.com/questions/42190468/using-boolean-in-oop
