@@ -2,17 +2,7 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42146134/how-to-convert-byte-to-byte-and-reverse
-
-http://stackoverflow.com/questions/42145915/method-not-returning-int-error
-
 http://stackoverflow.com/questions/42099552/java-generic-classes-passing-parameterized-class-object
-
-http://stackoverflow.com/questions/42096328/java-data-structure-for-set-with-duplicates
-
-http://stackoverflow.com/questions/42080385/sping-autowired
-
-http://stackoverflow.com/questions/42151791/sort-arraylist-objecthow-can-i-sort-objects-from-arraylist-i-read-the-file-from
 
 http://stackoverflow.com/questions/42097409/multithreading-in-java
 
@@ -20,15 +10,7 @@ http://stackoverflow.com/questions/42115618/why-does-my-while-loop-not-exit-unle
 
 http://stackoverflow.com/questions/42115191/java-array-initialized-in-try-catch-may-not-be-initialized
 
-http://stackoverflow.com/questions/42105458/what-is-difference-between-mvp-and-mvc-and-mvvm-in-android-development
-
-http://stackoverflow.com/questions/42104837/in-a-project-using-idiomatic-spring-what-classes-should-be-managed-by-spring
-
 http://stackoverflow.com/questions/42115217/create-java-generic-array-with-multiple-type-parameters-and-upperbound
-
-http://stackoverflow.com/questions/42152345/java-output-for-code
-
-http://stackoverflow.com/questions/42118014/is-there-a-reason-why-the-functions-executed-beforeclass-and-afterclass-are-st
 
 http://stackoverflow.com/questions/42118333/java-why-does-collections-sort-not-work
 
@@ -51,10 +33,6 @@ http://stackoverflow.com/questions/42126496/if-statements-and-java
 http://stackoverflow.com/questions/42129958/what-is-the-exact-meaning-of-hash-function-in-hashmap-in-java
 
 http://stackoverflow.com/questions/42141106/still-issue-with-the-system-outprintln
-
-http://stackoverflow.com/questions/42180454/why-is-my-code-reading-incompatible-type
-
-http://stackoverflow.com/questions/42144533/java-simpledateformatter-adding-milliseconds-how-to-remove
 
 http://stackoverflow.com/questions/42144623/how-to-take-year-month-and-day-from-user-and-pass-them-in-localdate-of
 
