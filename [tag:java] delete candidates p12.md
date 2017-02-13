@@ -8,13 +8,13 @@ http://stackoverflow.com/questions/42118246/java-enhanced-loop-accumulating-prod
 
 http://stackoverflow.com/questions/42176202/firefox-firebug-layout-has-changed
 
-NOT YET
-=====
-http://stackoverflow.com/questions/42180554/java-sort-listliststring
-
 http://stackoverflow.com/questions/42178009/how-to-declare-an-enum-type-that-implements-an-interface
 
 http://stackoverflow.com/questions/42179394/difficulty-of-understanding-classcastexception
+
+NOT YET
+=====
+http://stackoverflow.com/questions/42180554/java-sort-listliststring
 
 http://stackoverflow.com/questions/42180910/why-does-filereader-read-not-return-the-buffer
 
