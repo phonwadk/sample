@@ -52,3 +52,5 @@ http://stackoverflow.com/questions/42194153/cant-put-the-reference-of-an-arrayli
 http://stackoverflow.com/questions/42206290/why-is-there-an-error-on-the-first-one-and-not-in-the-secondwritten-in-java
 
 http://stackoverflow.com/questions/42206815/java-arraylist-duplicate-strange-behavior
+
+http://stackoverflow.com/questions/42191455/spring-mvc-nullpointerexception
