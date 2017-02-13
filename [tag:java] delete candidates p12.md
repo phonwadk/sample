@@ -12,15 +12,16 @@ http://stackoverflow.com/questions/42178009/how-to-declare-an-enum-type-that-imp
 
 http://stackoverflow.com/questions/42179394/difficulty-of-understanding-classcastexception
 
-NOT YET
-=====
-http://stackoverflow.com/questions/42180554/java-sort-listliststring
-
 http://stackoverflow.com/questions/42180910/why-does-filereader-read-not-return-the-buffer
 
 http://stackoverflow.com/questions/42181010/ternary-operator-in-set-method-throws-a-null-reference-exception
 
 http://stackoverflow.com/questions/42179840/why-should-we-always-autowire-on-interface-than-on-class
+
+NOT YET
+=====
+
+http://stackoverflow.com/questions/42180554/java-sort-listliststring
 
 http://stackoverflow.com/questions/42189446/if-subclasses-cant-access-private-variables-how-can-this-program-work
 
