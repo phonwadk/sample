@@ -18,6 +18,10 @@ http://stackoverflow.com/questions/42181010/ternary-operator-in-set-method-throw
 
 http://stackoverflow.com/questions/42179840/why-should-we-always-autowire-on-interface-than-on-class
 
+http://stackoverflow.com/questions/42213665/ask-user-for-input-of-y-for-yes-or-n-for-no-in-java
+
+string equals dupe http://stackoverflow.com/questions/42213227/if-else-block-and-or-java-util-scanner-error
+
 NOT YET
 =====
 
