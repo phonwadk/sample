@@ -54,3 +54,5 @@ http://stackoverflow.com/questions/42206290/why-is-there-an-error-on-the-first-o
 http://stackoverflow.com/questions/42206815/java-arraylist-duplicate-strange-behavior
 
 http://stackoverflow.com/questions/42191455/spring-mvc-nullpointerexception
+
+http://stackoverflow.com/questions/42206127/arraylist-within-arraylist-java
