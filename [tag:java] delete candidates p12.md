@@ -50,8 +50,6 @@ http://stackoverflow.com/questions/42165113/return-statement-with-two-semicolon-
 
 http://stackoverflow.com/questions/42167980/how-to-update-data-in-oracle-using-java
 
-http://stackoverflow.com/questions/42191970/how-to-change-object-name-using-for-loop
-
 http://stackoverflow.com/questions/42194134/why-are-the-methods-of-the-objectmapper-class-not-static-jackson-api
 
 http://stackoverflow.com/questions/42194556/how-to-check-if-an-arraylist-contains-an-object-with-a-specified-enum-constant-i
