@@ -104,3 +104,5 @@ http://stackoverflow.com/questions/42192717/why-cant-i-create-a-function-that-us
 http://stackoverflow.com/questions/42193635/arrays-binarysearchobject-key-returning-wrong-value
 
 http://stackoverflow.com/questions/42194371/java-8-removeif-blocks
+
+http://stackoverflow.com/questions/42194623/multiply-2-arrays-to-find-all-possible-combinations-using-java
