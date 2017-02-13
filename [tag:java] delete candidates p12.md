@@ -61,3 +61,5 @@ http://stackoverflow.com/questions/42206815/java-arraylist-duplicate-strange-beh
 http://stackoverflow.com/questions/42191455/spring-mvc-nullpointerexception
 
 http://stackoverflow.com/questions/42206127/arraylist-within-arraylist-java
+
+http://stackoverflow.com/questions/42208608/how-to-add-boolean-obj-to-listinteger-in-java
