@@ -48,3 +48,5 @@ http://stackoverflow.com/questions/42194371/java-8-removeif-blocks
 http://stackoverflow.com/questions/42194623/multiply-2-arrays-to-find-all-possible-combinations-using-java
 
 http://stackoverflow.com/questions/42194153/cant-put-the-reference-of-an-arraylist-in-list-object
+
+http://stackoverflow.com/questions/42206290/why-is-there-an-error-on-the-first-one-and-not-in-the-secondwritten-in-java
