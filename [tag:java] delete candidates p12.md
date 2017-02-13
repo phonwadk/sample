@@ -2,10 +2,15 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
+http://stackoverflow.com/questions/42171833/json-array-inside-json-array
+
+http://stackoverflow.com/questions/42118246/java-enhanced-loop-accumulating-product
+
+http://stackoverflow.com/questions/42176202/firefox-firebug-layout-has-changed
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42171833/json-array-inside-json-array
+http://stackoverflow.com/questions/42180554/java-sort-listliststring
 
 http://stackoverflow.com/questions/42178009/how-to-declare-an-enum-type-that-implements-an-interface
 
