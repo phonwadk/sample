@@ -74,3 +74,5 @@ http://stackoverflow.com/questions/42194371/java-8-removeif-blocks
 http://stackoverflow.com/questions/42194623/multiply-2-arrays-to-find-all-possible-combinations-using-java
 
 http://stackoverflow.com/questions/42194153/cant-put-the-reference-of-an-arraylist-in-list-object
+
+http://stackoverflow.com/questions/42196010/java-if-loop-doesnt-work
