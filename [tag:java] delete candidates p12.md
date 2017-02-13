@@ -2,34 +2,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42115618/why-does-my-while-loop-not-exit-unless-theres-a-system-out-line-present
-
-http://stackoverflow.com/questions/42115191/java-array-initialized-in-try-catch-may-not-be-initialized
-
-http://stackoverflow.com/questions/42115217/create-java-generic-array-with-multiple-type-parameters-and-upperbound
-
-http://stackoverflow.com/questions/42139503/for-string-data-data-method
-
-http://stackoverflow.com/questions/42146931/gson-implementation-of-non-alpha-key
-
-http://stackoverflow.com/questions/42149358/incompatible-types-error-in-java-when-i-tried-to-print-a-string-even-though-i
-
-http://stackoverflow.com/questions/42110483/what-does-it-mean-guardedbythis
-
-http://stackoverflow.com/questions/42160568/lambda-expression-method-reference
-
-http://stackoverflow.com/questions/42194134/why-are-the-methods-of-the-objectmapper-class-not-static-jackson-api
-
-http://stackoverflow.com/questions/42194556/how-to-check-if-an-arraylist-contains-an-object-with-a-specified-enum-constant-i
-
-http://stackoverflow.com/questions/42171433/finding-average-in-an-array
-
-http://stackoverflow.com/questions/42168709/returning-the-min-max-element-of-an-array
-
-http://stackoverflow.com/questions/42168403/creating-integer-arrays-from-character-strings-in-java
-
-http://stackoverflow.com/questions/42196010/java-if-loop-doesnt-work
-
 NOT YET
 =====
 
