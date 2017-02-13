@@ -8,21 +8,13 @@ http://stackoverflow.com/questions/42115191/java-array-initialized-in-try-catch-
 
 http://stackoverflow.com/questions/42115217/create-java-generic-array-with-multiple-type-parameters-and-upperbound
 
-http://stackoverflow.com/questions/42126224/how-can-i-prove-myself-that-the-finally-block-will-be-executed-when-return-state
-
 http://stackoverflow.com/questions/42139503/for-string-data-data-method
 
 http://stackoverflow.com/questions/42146931/gson-implementation-of-non-alpha-key
 
 http://stackoverflow.com/questions/42149358/incompatible-types-error-in-java-when-i-tried-to-print-a-string-even-though-i
 
-http://stackoverflow.com/questions/42147906/type-safety-unchecked-cast-from-object-to-arrayliststring
-
 http://stackoverflow.com/questions/42110483/what-does-it-mean-guardedbythis
-
-http://stackoverflow.com/questions/42161895/why-biconsumer-interface-can-take-the-method-reference-of-stringbuilder-append-m
-
-http://stackoverflow.com/questions/42052412/append-two-linkedlist-in-java
 
 http://stackoverflow.com/questions/42160568/lambda-expression-method-reference
 
