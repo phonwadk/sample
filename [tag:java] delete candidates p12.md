@@ -10,8 +10,6 @@ http://stackoverflow.com/questions/42115217/create-java-generic-array-with-multi
 
 http://stackoverflow.com/questions/42126224/how-can-i-prove-myself-that-the-finally-block-will-be-executed-when-return-state
 
-http://stackoverflow.com/questions/42166192/understanding-what-happens-when-i-allocate-an-array-of-objects
-
 http://stackoverflow.com/questions/42139503/for-string-data-data-method
 
 http://stackoverflow.com/questions/42146931/gson-implementation-of-non-alpha-key
