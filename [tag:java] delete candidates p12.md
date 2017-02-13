@@ -54,6 +54,8 @@ http://stackoverflow.com/questions/42191970/how-to-change-object-name-using-for-
 
 http://stackoverflow.com/questions/42194134/why-are-the-methods-of-the-objectmapper-class-not-static-jackson-api
 
+http://stackoverflow.com/questions/42194556/how-to-check-if-an-arraylist-contains-an-object-with-a-specified-enum-constant-i
+
 NOT YET
 =====
 
