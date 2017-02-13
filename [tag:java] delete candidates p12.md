@@ -71,3 +71,5 @@ http://stackoverflow.com/questions/42206127/arraylist-within-arraylist-java
 http://stackoverflow.com/questions/42208608/how-to-add-boolean-obj-to-listinteger-in-java
 
 http://stackoverflow.com/questions/42208585/how-to-pass-a-generic-array-as-parameter
+
+http://stackoverflow.com/questions/42215059/why-does-compiler-not-complain-about-rethrown-undeclared-exception
