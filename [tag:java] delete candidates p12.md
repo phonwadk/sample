@@ -32,14 +32,14 @@ http://stackoverflow.com/questions/42194134/why-are-the-methods-of-the-objectmap
 
 http://stackoverflow.com/questions/42194556/how-to-check-if-an-arraylist-contains-an-object-with-a-specified-enum-constant-i
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/42171433/finding-average-in-an-array
 
 http://stackoverflow.com/questions/42168709/returning-the-min-max-element-of-an-array
 
 http://stackoverflow.com/questions/42168403/creating-integer-arrays-from-character-strings-in-java
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42171833/json-array-inside-json-array
 
