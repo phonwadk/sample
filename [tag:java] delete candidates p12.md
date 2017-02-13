@@ -8,35 +8,17 @@ http://stackoverflow.com/questions/42115191/java-array-initialized-in-try-catch-
 
 http://stackoverflow.com/questions/42115217/create-java-generic-array-with-multiple-type-parameters-and-upperbound
 
-http://stackoverflow.com/questions/42124330/do-while-loop-not-breaking-when-conditions-are-met
-
-http://stackoverflow.com/questions/42123922/int-array-and-it-not-working-when-two-arrays-with-0-length
-
 http://stackoverflow.com/questions/42126224/how-can-i-prove-myself-that-the-finally-block-will-be-executed-when-return-state
 
 http://stackoverflow.com/questions/42166192/understanding-what-happens-when-i-allocate-an-array-of-objects
 
 http://stackoverflow.com/questions/42139503/for-string-data-data-method
 
-http://stackoverflow.com/questions/42126496/if-statements-and-java
-
-http://stackoverflow.com/questions/42129958/what-is-the-exact-meaning-of-hash-function-in-hashmap-in-java
-
-http://stackoverflow.com/questions/42141106/still-issue-with-the-system-outprintln
-
-http://stackoverflow.com/questions/42069796/why-i-cant-deploy-this-war-application-on-a-tomcat-server-error-deploying-web
-
 http://stackoverflow.com/questions/42146931/gson-implementation-of-non-alpha-key
 
 http://stackoverflow.com/questions/42149358/incompatible-types-error-in-java-when-i-tried-to-print-a-string-even-though-i
 
-http://stackoverflow.com/questions/42148228/java-programming-private-variables-in-a-class-and-inheritance
-
 http://stackoverflow.com/questions/42147906/type-safety-unchecked-cast-from-object-to-arrayliststring
-
-http://stackoverflow.com/questions/42147898/illegal-start-of-expression-printf
-
-http://stackoverflow.com/questions/42147739/given-two-strings-write-a-method-to-decide-if-one-is-a-permutation-of-the-other
 
 http://stackoverflow.com/questions/42110483/what-does-it-mean-guardedbythis
 
@@ -45,10 +27,6 @@ http://stackoverflow.com/questions/42161895/why-biconsumer-interface-can-take-th
 http://stackoverflow.com/questions/42052412/append-two-linkedlist-in-java
 
 http://stackoverflow.com/questions/42160568/lambda-expression-method-reference
-
-http://stackoverflow.com/questions/42165113/return-statement-with-two-semicolon-return-something
-
-http://stackoverflow.com/questions/42167980/how-to-update-data-in-oracle-using-java
 
 http://stackoverflow.com/questions/42194134/why-are-the-methods-of-the-objectmapper-class-not-static-jackson-api
 
