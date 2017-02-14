@@ -2,6 +2,9 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
+this is too broad, lets get it closed please http://stackoverflow.com/questions/2532729/daylight-saving-time-and-time-zone-best-practices
+===
+
 string equals dupe http://stackoverflow.com/questions/42213227/if-else-block-and-or-java-util-scanner-error
 
 string equals dupe http://stackoverflow.com/questions/42230856/input-is-not-being-read-correctly
