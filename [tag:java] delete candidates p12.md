@@ -72,3 +72,5 @@ http://stackoverflow.com/questions/42230007/how-am-i-able-to-access-this-private
 http://stackoverflow.com/questions/42232607/why-does-the-swap-not-work-with-integer
 
 http://stackoverflow.com/questions/42233156/create-object-with-array-of-objects-java
+
+http://stackoverflow.com/questions/42235271/can-someone-tell-me-what-this-type-of-code-is-called
