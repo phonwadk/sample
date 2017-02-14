@@ -11,6 +11,8 @@ http://stackoverflow.com/questions/42181646/why-is-try-catch-finally-block-execu
 
 http://stackoverflow.com/questions/42182767/boolean-variable-not-correctly-returning
 
+http://stackoverflow.com/questions/42217039/how-to-print-out-every-individual-character-from-a-string
+
 NOT YET
 =====
 
