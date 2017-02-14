@@ -6,6 +6,10 @@ string equals dupe http://stackoverflow.com/questions/42213227/if-else-block-and
 
 http://stackoverflow.com/questions/42180554/java-sort-listliststring
 
+http://stackoverflow.com/questions/42217999/bigger-than-biginteger-in-c-sharp
+
+http://stackoverflow.com/questions/42194623/multiply-2-arrays-to-find-all-possible-combinations-using-java
+
 NOT YET
 =====
 
@@ -32,8 +36,6 @@ http://stackoverflow.com/questions/42192717/why-cant-i-create-a-function-that-us
 http://stackoverflow.com/questions/42193635/arrays-binarysearchobject-key-returning-wrong-value
 
 http://stackoverflow.com/questions/42194371/java-8-removeif-blocks
-
-http://stackoverflow.com/questions/42194623/multiply-2-arrays-to-find-all-possible-combinations-using-java
 
 http://stackoverflow.com/questions/42194153/cant-put-the-reference-of-an-arraylist-in-list-object
 
