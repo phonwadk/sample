@@ -4,6 +4,8 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 string equals dupe http://stackoverflow.com/questions/42213227/if-else-block-and-or-java-util-scanner-error
 
+string equals dupe http://stackoverflow.com/questions/42230856/input-is-not-being-read-correctly
+
 http://stackoverflow.com/questions/42180554/java-sort-listliststring
 
 http://stackoverflow.com/questions/42217999/bigger-than-biginteger-in-c-sharp
