@@ -70,3 +70,5 @@ http://stackoverflow.com/questions/42217727/hi-please-tell-why-this-code-is-not-
 http://stackoverflow.com/questions/42230007/how-am-i-able-to-access-this-private-method-from-outside-its-class
 
 http://stackoverflow.com/questions/42232607/why-does-the-swap-not-work-with-integer
+
+http://stackoverflow.com/questions/42233156/create-object-with-array-of-objects-java
