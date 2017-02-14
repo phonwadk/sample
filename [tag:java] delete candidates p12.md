@@ -12,8 +12,6 @@ string equals dupe http://stackoverflow.com/questions/42230856/input-is-not-bein
 
 http://stackoverflow.com/questions/42180554/java-sort-listliststring
 
-http://stackoverflow.com/questions/42217999/bigger-than-biginteger-in-c-sharp
-
 http://stackoverflow.com/questions/42194623/multiply-2-arrays-to-find-all-possible-combinations-using-java
 
 http://stackoverflow.com/questions/42230485/java-check-the-value-using-if-else
@@ -30,14 +28,10 @@ http://stackoverflow.com/questions/42189446/if-subclasses-cant-access-private-va
 
 http://stackoverflow.com/questions/42190468/using-boolean-in-oop
 
-http://stackoverflow.com/questions/42191293/double-became-a-string
-
 http://stackoverflow.com/questions/42189154/how-many-objects-are-created-and-how-many-are-accessible-for-gargabe-collector
 
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42192717/why-cant-i-create-a-function-that-uses-user-input-later
 
 http://stackoverflow.com/questions/42193635/arrays-binarysearchobject-key-returning-wrong-value
 
