@@ -22,14 +22,14 @@ http://stackoverflow.com/questions/42188518/null-pointer-exception-not-throwing-
 
 http://stackoverflow.com/questions/42183382/does-the-str-tochararray-in-forchar-c-str-tochararray-being-executed-ever
 
+http://stackoverflow.com/questions/42188636/runtime-exception-in-android-org-json-jsonexception-value-br-of-type-java-lang
+
+http://stackoverflow.com/questions/42181351/how-to-collect-sets-in-to-sets-using-java-8-streams
+
 NOT YET
 =====
 
 http://stackoverflow.com/questions/42189446/if-subclasses-cant-access-private-variables-how-can-this-program-work
-
-http://stackoverflow.com/questions/42188636/runtime-exception-in-android-org-json-jsonexception-value-br-of-type-java-lang
-
-http://stackoverflow.com/questions/42181351/how-to-collect-sets-in-to-sets-using-java-8-streams
 
 http://stackoverflow.com/questions/42190468/using-boolean-in-oop
 
