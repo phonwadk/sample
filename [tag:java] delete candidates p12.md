@@ -9,6 +9,7 @@ string equals dupe http://stackoverflow.com/questions/42213227/if-else-block-and
 
 http://stackoverflow.com/questions/42181646/why-is-try-catch-finally-block-execution-order-in-java-not-determined
 
+http://stackoverflow.com/questions/42182767/boolean-variable-not-correctly-returning
 
 NOT YET
 =====
@@ -20,8 +21,6 @@ http://stackoverflow.com/questions/42189446/if-subclasses-cant-access-private-va
 http://stackoverflow.com/questions/42188518/null-pointer-exception-not-throwing-for-array-datatype
 
 http://stackoverflow.com/questions/42183382/does-the-str-tochararray-in-forchar-c-str-tochararray-being-executed-ever
-
-http://stackoverflow.com/questions/42182767/boolean-variable-not-correctly-returning
 
 http://stackoverflow.com/questions/42188636/runtime-exception-in-android-org-json-jsonexception-value-br-of-type-java-lang
 
