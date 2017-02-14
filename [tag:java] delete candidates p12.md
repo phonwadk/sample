@@ -59,3 +59,5 @@ http://stackoverflow.com/questions/42208585/how-to-pass-a-generic-array-as-param
 http://stackoverflow.com/questions/42215059/why-does-compiler-not-complain-about-rethrown-undeclared-exception
 
 http://stackoverflow.com/questions/42216317/how-to-solve-this-errorscanner-cannot-be-resolved-to-a-type
+
+http://stackoverflow.com/questions/42217137/my-array-wont-print-the-information-contained-in-it
