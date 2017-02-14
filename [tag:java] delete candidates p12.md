@@ -2,19 +2,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42171833/json-array-inside-json-array
-
-http://stackoverflow.com/questions/42118246/java-enhanced-loop-accumulating-product
-
-http://stackoverflow.com/questions/42176202/firefox-firebug-layout-has-changed
-
-http://stackoverflow.com/questions/42178009/how-to-declare-an-enum-type-that-implements-an-interface
-
-http://stackoverflow.com/questions/42179394/difficulty-of-understanding-classcastexception
-
-http://stackoverflow.com/questions/42180910/why-does-filereader-read-not-return-the-buffer
-
-http://stackoverflow.com/questions/42181010/ternary-operator-in-set-method-throws-a-null-reference-exception
 
 http://stackoverflow.com/questions/42213665/ask-user-for-input-of-y-for-yes-or-n-for-no-in-java
 
