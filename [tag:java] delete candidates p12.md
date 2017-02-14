@@ -2,23 +2,12 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-
-http://stackoverflow.com/questions/42213665/ask-user-for-input-of-y-for-yes-or-n-for-no-in-java
-
 string equals dupe http://stackoverflow.com/questions/42213227/if-else-block-and-or-java-util-scanner-error
 
-http://stackoverflow.com/questions/42181646/why-is-try-catch-finally-block-execution-order-in-java-not-determined
-
-http://stackoverflow.com/questions/42182767/boolean-variable-not-correctly-returning
-
-http://stackoverflow.com/questions/42217039/how-to-print-out-every-individual-character-from-a-string
-
-http://stackoverflow.com/questions/42217363/private-arraylist-compile-error
+http://stackoverflow.com/questions/42180554/java-sort-listliststring
 
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42180554/java-sort-listliststring
 
 http://stackoverflow.com/questions/42189446/if-subclasses-cant-access-private-variables-how-can-this-program-work
 
