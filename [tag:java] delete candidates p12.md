@@ -67,3 +67,5 @@ http://stackoverflow.com/questions/42216317/how-to-solve-this-errorscanner-canno
 http://stackoverflow.com/questions/42217137/my-array-wont-print-the-information-contained-in-it
 
 http://stackoverflow.com/questions/42184318/assign-data-to-class-with-no-methods-in-java
+
+http://stackoverflow.com/questions/42217727/hi-please-tell-why-this-code-is-not-running-after-system-out-printlnenter-i
