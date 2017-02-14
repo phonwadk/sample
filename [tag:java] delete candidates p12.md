@@ -13,6 +13,8 @@ http://stackoverflow.com/questions/42182767/boolean-variable-not-correctly-retur
 
 http://stackoverflow.com/questions/42217039/how-to-print-out-every-individual-character-from-a-string
 
+http://stackoverflow.com/questions/42217363/private-arraylist-compile-error
+
 NOT YET
 =====
 
