@@ -65,3 +65,5 @@ http://stackoverflow.com/questions/42215059/why-does-compiler-not-complain-about
 http://stackoverflow.com/questions/42216317/how-to-solve-this-errorscanner-cannot-be-resolved-to-a-type
 
 http://stackoverflow.com/questions/42217137/my-array-wont-print-the-information-contained-in-it
+
+http://stackoverflow.com/questions/42184318/assign-data-to-class-with-no-methods-in-java
