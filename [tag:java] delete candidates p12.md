@@ -30,12 +30,12 @@ http://stackoverflow.com/questions/42189446/if-subclasses-cant-access-private-va
 
 http://stackoverflow.com/questions/42190468/using-boolean-in-oop
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/42191293/double-became-a-string
 
 http://stackoverflow.com/questions/42189154/how-many-objects-are-created-and-how-many-are-accessible-for-gargabe-collector
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42192717/why-cant-i-create-a-function-that-uses-user-input-later
 
