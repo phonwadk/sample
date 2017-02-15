@@ -67,3 +67,5 @@ http://stackoverflow.com/questions/42241878/java-compare-using-directly-in-syste
 http://stackoverflow.com/questions/42255804/how-should-i-name-my-repositories-class-or-interfaces-in-java-using-domain-drive
 
 http://stackoverflow.com/questions/42256232/what-difference-does-this-make-in-object-instantiation-in-java
+
+http://stackoverflow.com/questions/42257517/java-could-not-find-or-load-main-class
