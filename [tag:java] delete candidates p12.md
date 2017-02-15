@@ -28,8 +28,6 @@ http://stackoverflow.com/questions/42189446/if-subclasses-cant-access-private-va
 
 http://stackoverflow.com/questions/42190468/using-boolean-in-oop
 
-http://stackoverflow.com/questions/42189154/how-many-objects-are-created-and-how-many-are-accessible-for-gargabe-collector
-
 http://stackoverflow.com/questions/42193635/arrays-binarysearchobject-key-returning-wrong-value
 
 http://stackoverflow.com/questions/42194371/java-8-removeif-blocks
