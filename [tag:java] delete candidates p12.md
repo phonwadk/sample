@@ -33,6 +33,8 @@ http://stackoverflow.com/questions/42208608/how-to-add-boolean-obj-to-listintege
 
 http://stackoverflow.com/questions/42208585/how-to-pass-a-generic-array-as-parameter
 
+http://stackoverflow.com/questions/42235765/method-not-applicable-for-the-arguments-string
+
 NOT YET
 =====
 
