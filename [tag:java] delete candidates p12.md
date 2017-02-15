@@ -13,8 +13,6 @@ string equals dupe http://stackoverflow.com/questions/42213227/if-else-block-and
 
 string equals dupe http://stackoverflow.com/questions/42230856/input-is-not-being-read-correctly
 
-http://stackoverflow.com/questions/42230485/java-check-the-value-using-if-else
-
 http://stackoverflow.com/questions/42241728/date-parse-exception-in-android
 
 http://stackoverflow.com/questions/42232886/non-static-method-and-static-context
@@ -38,6 +36,8 @@ http://stackoverflow.com/questions/42208585/how-to-pass-a-generic-array-as-param
 http://stackoverflow.com/questions/42235765/method-not-applicable-for-the-arguments-string
 
 http://stackoverflow.com/questions/42191331/convert-timestamp-in-string-to-date
+
+http://stackoverflow.com/questions/42257380/why-fileinputstream-read-method-is-able-to-read-txt-file-properly-but-not-a
 
 NOT YET
 =====
@@ -72,4 +72,3 @@ http://stackoverflow.com/questions/42256232/what-difference-does-this-make-in-ob
 
 http://stackoverflow.com/questions/42257517/java-could-not-find-or-load-main-class
 
-http://stackoverflow.com/questions/42257380/why-fileinputstream-read-method-is-able-to-read-txt-file-properly-but-not-a
