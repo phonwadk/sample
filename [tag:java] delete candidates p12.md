@@ -68,3 +68,5 @@ http://stackoverflow.com/questions/42232607/why-does-the-swap-not-work-with-inte
 http://stackoverflow.com/questions/42233156/create-object-with-array-of-objects-java
 
 http://stackoverflow.com/questions/42235271/can-someone-tell-me-what-this-type-of-code-is-called
+
+http://stackoverflow.com/questions/42240761/why-force-me-to-use-try-catch-in-java-eclipse
