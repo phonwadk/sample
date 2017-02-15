@@ -19,8 +19,7 @@ http://stackoverflow.com/questions/42232886/non-static-method-and-static-context
 
 http://stackoverflow.com/questions/42253691/why-are-random-digits-printed-instead-of-chars-in-this-program
 
-NOT YET
-=====
+http://stackoverflow.com/questions/40922205/the-method-setcharatint-char-in-the-type-stringbuffer-is-not-applicable-for-t
 
 http://stackoverflow.com/questions/42206290/why-is-there-an-error-on-the-first-one-and-not-in-the-secondwritten-in-java
 
@@ -33,6 +32,9 @@ http://stackoverflow.com/questions/42206127/arraylist-within-arraylist-java
 http://stackoverflow.com/questions/42208608/how-to-add-boolean-obj-to-listinteger-in-java
 
 http://stackoverflow.com/questions/42208585/how-to-pass-a-generic-array-as-parameter
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42215059/why-does-compiler-not-complain-about-rethrown-undeclared-exception
 
