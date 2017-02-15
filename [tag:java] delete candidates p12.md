@@ -4,6 +4,8 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 this is too broad, lets get it closed please http://stackoverflow.com/questions/2532729/daylight-saving-time-and-time-zone-best-practices
 
+typo, poor duplicate, help vampire, http://stackoverflow.com/questions/42257517/java-could-not-find-or-load-main-class
+
 ===
 string equals dupe http://stackoverflow.com/questions/42255667/java-calculator-not-working
 
