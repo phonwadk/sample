@@ -5,6 +5,7 @@ Tushar graciously wrote a user script to make going through the list easier. You
 this is too broad, lets get it closed please http://stackoverflow.com/questions/2532729/daylight-saving-time-and-time-zone-best-practices
 
 ===
+string equals dupe http://stackoverflow.com/questions/42255667/java-calculator-not-working
 
 string equals dupe http://stackoverflow.com/questions/42213227/if-else-block-and-or-java-util-scanner-error
 
@@ -33,6 +34,12 @@ http://stackoverflow.com/questions/42193635/arrays-binarysearchobject-key-return
 http://stackoverflow.com/questions/42194371/java-8-removeif-blocks
 
 http://stackoverflow.com/questions/42194153/cant-put-the-reference-of-an-arraylist-in-list-object
+
+http://stackoverflow.com/questions/42241728/date-parse-exception-in-android
+
+http://stackoverflow.com/questions/42232886/non-static-method-and-static-context
+
+http://stackoverflow.com/questions/42253691/why-are-random-digits-printed-instead-of-chars-in-this-program
 
 NOT YET
 =====
@@ -68,3 +75,9 @@ http://stackoverflow.com/questions/42233156/create-object-with-array-of-objects-
 http://stackoverflow.com/questions/42235271/can-someone-tell-me-what-this-type-of-code-is-called
 
 http://stackoverflow.com/questions/42240761/why-force-me-to-use-try-catch-in-java-eclipse
+
+http://stackoverflow.com/questions/42241593/why-cant-convert-primitive-integer-array-into-object-array-while-we-can-convert
+
+http://stackoverflow.com/questions/42241878/java-compare-using-directly-in-system-out-println
+
+http://stackoverflow.com/questions/42255804/how-to-namming-my-repositories-class-or-interfaces-in-java-using-domain-driven-d
