@@ -69,3 +69,5 @@ http://stackoverflow.com/questions/42255804/how-should-i-name-my-repositories-cl
 http://stackoverflow.com/questions/42256232/what-difference-does-this-make-in-object-instantiation-in-java
 
 http://stackoverflow.com/questions/42257517/java-could-not-find-or-load-main-class
+
+http://stackoverflow.com/questions/42257380/why-fileinputstream-read-method-is-able-to-read-txt-file-properly-but-not-a
