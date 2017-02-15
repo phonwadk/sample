@@ -17,24 +17,6 @@ http://stackoverflow.com/questions/42194623/multiply-2-arrays-to-find-all-possib
 
 http://stackoverflow.com/questions/42230485/java-check-the-value-using-if-else
 
-http://stackoverflow.com/questions/42188518/null-pointer-exception-not-throwing-for-array-datatype
-
-http://stackoverflow.com/questions/42183382/does-the-str-tochararray-in-forchar-c-str-tochararray-being-executed-ever
-
-http://stackoverflow.com/questions/42188636/runtime-exception-in-android-org-json-jsonexception-value-br-of-type-java-lang
-
-http://stackoverflow.com/questions/42181351/how-to-collect-sets-in-to-sets-using-java-8-streams
-
-http://stackoverflow.com/questions/42189446/if-subclasses-cant-access-private-variables-how-can-this-program-work
-
-http://stackoverflow.com/questions/42190468/using-boolean-in-oop
-
-http://stackoverflow.com/questions/42193635/arrays-binarysearchobject-key-returning-wrong-value
-
-http://stackoverflow.com/questions/42194371/java-8-removeif-blocks
-
-http://stackoverflow.com/questions/42194153/cant-put-the-reference-of-an-arraylist-in-list-object
-
 http://stackoverflow.com/questions/42241728/date-parse-exception-in-android
 
 http://stackoverflow.com/questions/42232886/non-static-method-and-static-context
