@@ -11,10 +11,6 @@ string equals dupe http://stackoverflow.com/questions/42213227/if-else-block-and
 
 string equals dupe http://stackoverflow.com/questions/42230856/input-is-not-being-read-correctly
 
-http://stackoverflow.com/questions/42180554/java-sort-listliststring
-
-http://stackoverflow.com/questions/42194623/multiply-2-arrays-to-find-all-possible-combinations-using-java
-
 http://stackoverflow.com/questions/42230485/java-check-the-value-using-if-else
 
 http://stackoverflow.com/questions/42241728/date-parse-exception-in-android
@@ -61,7 +57,5 @@ http://stackoverflow.com/questions/42240761/why-force-me-to-use-try-catch-in-jav
 http://stackoverflow.com/questions/42241593/why-cant-convert-primitive-integer-array-into-object-array-while-we-can-convert
 
 http://stackoverflow.com/questions/42241878/java-compare-using-directly-in-system-out-println
-
-http://stackoverflow.com/questions/42255804/how-to-namming-my-repositories-class-or-interfaces-in-java-using-domain-driven-d
 
 http://stackoverflow.com/questions/42255804/how-should-i-name-my-repositories-class-or-interfaces-in-java-using-domain-drive
