@@ -63,3 +63,5 @@ http://stackoverflow.com/questions/42241593/why-cant-convert-primitive-integer-a
 http://stackoverflow.com/questions/42241878/java-compare-using-directly-in-system-out-println
 
 http://stackoverflow.com/questions/42255804/how-to-namming-my-repositories-class-or-interfaces-in-java-using-domain-driven-d
+
+http://stackoverflow.com/questions/42255804/how-should-i-name-my-repositories-class-or-interfaces-in-java-using-domain-drive
