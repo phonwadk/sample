@@ -30,14 +30,14 @@ http://stackoverflow.com/questions/42190468/using-boolean-in-oop
 
 http://stackoverflow.com/questions/42189154/how-many-objects-are-created-and-how-many-are-accessible-for-gargabe-collector
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/42193635/arrays-binarysearchobject-key-returning-wrong-value
 
 http://stackoverflow.com/questions/42194371/java-8-removeif-blocks
 
 http://stackoverflow.com/questions/42194153/cant-put-the-reference-of-an-arraylist-in-list-object
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42206290/why-is-there-an-error-on-the-first-one-and-not-in-the-secondwritten-in-java
 
