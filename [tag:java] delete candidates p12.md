@@ -74,3 +74,5 @@ http://stackoverflow.com/questions/42276657/calling-private-variables-in-a-stati
 http://stackoverflow.com/questions/42278518/using-scanner-input-to-produce-spaces
 
 http://stackoverflow.com/questions/42282859/why-illegalargumentexception-doesnt-need-to-be-handled
+
+http://stackoverflow.com/questions/42268280/why-does-this-non-daemon-thread-not-prevent-the-jvm-from-exiting
