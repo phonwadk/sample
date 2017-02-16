@@ -8,8 +8,6 @@ too localized, won't be of help to anyone else http://stackoverflow.com/question
 
 ===
 
-http://stackoverflow.com/questions/42277204/additional-features-in-java-9
-
 http://stackoverflow.com/questions/42276185/java-override1
 
 http://stackoverflow.com/questions/42266480/why-superclass-reference-can-hold-subclass-object-but-char-cant-hold-large-int
@@ -23,8 +21,6 @@ http://stackoverflow.com/questions/42260444/why-is-the-super-reference-and-not-t
 http://stackoverflow.com/questions/42230007/how-am-i-able-to-access-this-private-method-from-outside-its-class
 
 http://stackoverflow.com/questions/42260589/polymorphism-and-inheritance-java
-
-http://stackoverflow.com/questions/42283082/java-list-remove-function
 
 NOT YET
 =====
