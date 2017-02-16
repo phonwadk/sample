@@ -11,8 +11,6 @@ string equals dupe http://stackoverflow.com/questions/42255667/java-calculator-n
 
 string equals dupe http://stackoverflow.com/questions/42230856/input-is-not-being-read-correctly
 
-http://stackoverflow.com/questions/42232886/non-static-method-and-static-context
-
 http://stackoverflow.com/questions/42206127/arraylist-within-arraylist-java
 
 http://stackoverflow.com/questions/42257380/why-fileinputstream-read-method-is-able-to-read-txt-file-properly-but-not-a
