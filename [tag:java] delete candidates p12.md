@@ -21,24 +21,22 @@ http://stackoverflow.com/questions/42257517/java-could-not-find-or-load-main-cla
 
 http://stackoverflow.com/questions/42216317/how-to-solve-this-errorscanner-cannot-be-resolved-to-a-type
 
-
-NOT YET
-=====
-
-
 http://stackoverflow.com/questions/42217137/my-array-wont-print-the-information-contained-in-it
 
 http://stackoverflow.com/questions/42184318/assign-data-to-class-with-no-methods-in-java
 
 http://stackoverflow.com/questions/42217727/hi-please-tell-why-this-code-is-not-running-after-system-out-printlnenter-i
 
-http://stackoverflow.com/questions/42230007/how-am-i-able-to-access-this-private-method-from-outside-its-class
-
 http://stackoverflow.com/questions/42232607/why-does-the-swap-not-work-with-integer
 
 http://stackoverflow.com/questions/42233156/create-object-with-array-of-objects-java
 
 http://stackoverflow.com/questions/42235271/can-someone-tell-me-what-this-type-of-code-is-called
+
+NOT YET
+=====
+
+http://stackoverflow.com/questions/42230007/how-am-i-able-to-access-this-private-method-from-outside-its-class
 
 http://stackoverflow.com/questions/42240761/why-force-me-to-use-try-catch-in-java-eclipse
 
