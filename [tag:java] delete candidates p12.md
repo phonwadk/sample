@@ -25,6 +25,14 @@ http://stackoverflow.com/questions/42235271/can-someone-tell-me-what-this-type-o
 
 http://stackoverflow.com/questions/42255804/how-should-i-name-my-repositories-class-or-interfaces-in-java-using-domain-drive
 
+http://stackoverflow.com/questions/42277204/additional-features-in-java-9
+
+http://stackoverflow.com/questions/42276185/java-override1
+
+http://stackoverflow.com/questions/42266480/why-superclass-reference-can-hold-subclass-object-but-char-cant-hold-large-int
+
+http://stackoverflow.com/questions/42265302/why-do-i-keep-getting-errors-in-this-code
+
 NOT YET
 =====
 
@@ -41,3 +49,9 @@ http://stackoverflow.com/questions/42256232/what-difference-does-this-make-in-ob
 http://stackoverflow.com/questions/42262002/how-does-autowired-really-work
 
 http://stackoverflow.com/questions/42262827/package-issues-in-linux-java
+
+http://stackoverflow.com/questions/42276555/arraylist-storing-subclasses-cant-find-symbol-with-getint
+
+http://stackoverflow.com/questions/42266525/junit-showing-error-initializationerror
+
+http://stackoverflow.com/questions/42266523/exception-in-thread-main-java-lang-arrayindexoutofboundsexception-0
