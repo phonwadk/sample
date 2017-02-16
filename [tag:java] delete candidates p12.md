@@ -70,3 +70,5 @@ http://stackoverflow.com/questions/42260688/java-generics-error-unable-to-figure
 http://stackoverflow.com/questions/42253776/how-threadpool-understand-when-to-reuse-thread
 
 http://stackoverflow.com/questions/42276657/calling-private-variables-in-a-static-method
+
+http://stackoverflow.com/questions/42278518/using-scanner-input-to-produce-spaces
