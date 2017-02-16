@@ -9,11 +9,7 @@ typo, poor duplicate, help vampire, http://stackoverflow.com/questions/42257517/
 ===
 string equals dupe http://stackoverflow.com/questions/42255667/java-calculator-not-working
 
-string equals dupe http://stackoverflow.com/questions/42213227/if-else-block-and-or-java-util-scanner-error
-
 string equals dupe http://stackoverflow.com/questions/42230856/input-is-not-being-read-correctly
-
-http://stackoverflow.com/questions/42241728/date-parse-exception-in-android
 
 http://stackoverflow.com/questions/42232886/non-static-method-and-static-context
 
@@ -21,10 +17,11 @@ http://stackoverflow.com/questions/42206127/arraylist-within-arraylist-java
 
 http://stackoverflow.com/questions/42257380/why-fileinputstream-read-method-is-able-to-read-txt-file-properly-but-not-a
 
+http://stackoverflow.com/questions/42215059/why-does-compiler-not-complain-about-rethrown-undeclared-exception
+
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42215059/why-does-compiler-not-complain-about-rethrown-undeclared-exception
 
 http://stackoverflow.com/questions/42216317/how-to-solve-this-errorscanner-cannot-be-resolved-to-a-type
 
