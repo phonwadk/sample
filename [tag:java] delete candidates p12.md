@@ -17,6 +17,7 @@ http://stackoverflow.com/questions/42257380/why-fileinputstream-read-method-is-a
 
 http://stackoverflow.com/questions/42215059/why-does-compiler-not-complain-about-rethrown-undeclared-exception
 
+http://stackoverflow.com/questions/42257517/java-could-not-find-or-load-main-class
 
 NOT YET
 =====
@@ -46,8 +47,6 @@ http://stackoverflow.com/questions/42241878/java-compare-using-directly-in-syste
 http://stackoverflow.com/questions/42255804/how-should-i-name-my-repositories-class-or-interfaces-in-java-using-domain-drive
 
 http://stackoverflow.com/questions/42256232/what-difference-does-this-make-in-object-instantiation-in-java
-
-http://stackoverflow.com/questions/42257517/java-could-not-find-or-load-main-class
 
 http://stackoverflow.com/questions/42262002/how-does-autowired-really-work
 
