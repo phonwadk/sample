@@ -7,23 +7,6 @@ this is too broad, lets get it closed please http://stackoverflow.com/questions/
 too localized, won't be of help to anyone else http://stackoverflow.com/questions/42254269/what-is-wrong-in-my-logic-with-this-simple-if
 
 ===
-string equals dupe http://stackoverflow.com/questions/42255667/java-calculator-not-working
-
-string equals dupe http://stackoverflow.com/questions/42230856/input-is-not-being-read-correctly
-
-http://stackoverflow.com/questions/42206127/arraylist-within-arraylist-java
-
-http://stackoverflow.com/questions/42257380/why-fileinputstream-read-method-is-able-to-read-txt-file-properly-but-not-a
-
-http://stackoverflow.com/questions/42257517/java-could-not-find-or-load-main-class
-
-http://stackoverflow.com/questions/42232607/why-does-the-swap-not-work-with-integer
-
-http://stackoverflow.com/questions/42233156/create-object-with-array-of-objects-java
-
-http://stackoverflow.com/questions/42235271/can-someone-tell-me-what-this-type-of-code-is-called
-
-http://stackoverflow.com/questions/42255804/how-should-i-name-my-repositories-class-or-interfaces-in-java-using-domain-drive
 
 http://stackoverflow.com/questions/42277204/additional-features-in-java-9
 
@@ -34,8 +17,6 @@ http://stackoverflow.com/questions/42266480/why-superclass-reference-can-hold-su
 http://stackoverflow.com/questions/42265302/why-do-i-keep-getting-errors-in-this-code
 
 http://stackoverflow.com/questions/42260444/why-is-the-super-reference-and-not-the-child-reference-used-here-java
-
-http://stackoverflow.com/questions/42257517/java-could-not-find-or-load-main-class
 
 http://stackoverflow.com/questions/42260444/why-is-the-super-reference-and-not-the-child-reference-used-here-java
 
