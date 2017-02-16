@@ -15,17 +15,7 @@ http://stackoverflow.com/questions/42206127/arraylist-within-arraylist-java
 
 http://stackoverflow.com/questions/42257380/why-fileinputstream-read-method-is-able-to-read-txt-file-properly-but-not-a
 
-http://stackoverflow.com/questions/42215059/why-does-compiler-not-complain-about-rethrown-undeclared-exception
-
 http://stackoverflow.com/questions/42257517/java-could-not-find-or-load-main-class
-
-http://stackoverflow.com/questions/42216317/how-to-solve-this-errorscanner-cannot-be-resolved-to-a-type
-
-http://stackoverflow.com/questions/42217137/my-array-wont-print-the-information-contained-in-it
-
-http://stackoverflow.com/questions/42184318/assign-data-to-class-with-no-methods-in-java
-
-http://stackoverflow.com/questions/42217727/hi-please-tell-why-this-code-is-not-running-after-system-out-printlnenter-i
 
 http://stackoverflow.com/questions/42232607/why-does-the-swap-not-work-with-integer
 
