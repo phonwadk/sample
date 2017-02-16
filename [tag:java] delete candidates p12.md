@@ -64,3 +64,5 @@ http://stackoverflow.com/questions/42258161/array-out-of-bounds-when-reversing-e
 http://stackoverflow.com/questions/42266523/exception-in-thread-main-java-lang-arrayindexoutofboundsexception-0
 
 http://stackoverflow.com/questions/42260688/java-generics-error-unable-to-figure-out
+
+http://stackoverflow.com/questions/42253776/how-threadpool-understand-when-to-reuse-thread
