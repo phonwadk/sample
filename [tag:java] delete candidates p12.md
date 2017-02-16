@@ -33,6 +33,8 @@ http://stackoverflow.com/questions/42266480/why-superclass-reference-can-hold-su
 
 http://stackoverflow.com/questions/42265302/why-do-i-keep-getting-errors-in-this-code
 
+http://stackoverflow.com/questions/42260444/why-is-the-super-reference-and-not-the-child-reference-used-here-java
+
 NOT YET
 =====
 
@@ -54,4 +56,8 @@ http://stackoverflow.com/questions/42276555/arraylist-storing-subclasses-cant-fi
 
 http://stackoverflow.com/questions/42266525/junit-showing-error-initializationerror
 
+http://stackoverflow.com/questions/42258161/array-out-of-bounds-when-reversing-existing-array-to-create-a-new-one
+
 http://stackoverflow.com/questions/42266523/exception-in-thread-main-java-lang-arrayindexoutofboundsexception-0
+
+http://stackoverflow.com/questions/42260688/java-generics-error-unable-to-figure-out
