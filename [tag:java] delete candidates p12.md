@@ -33,6 +33,8 @@ http://stackoverflow.com/questions/42233156/create-object-with-array-of-objects-
 
 http://stackoverflow.com/questions/42235271/can-someone-tell-me-what-this-type-of-code-is-called
 
+http://stackoverflow.com/questions/42255804/how-should-i-name-my-repositories-class-or-interfaces-in-java-using-domain-drive
+
 NOT YET
 =====
 
@@ -43,8 +45,6 @@ http://stackoverflow.com/questions/42240761/why-force-me-to-use-try-catch-in-jav
 http://stackoverflow.com/questions/42241593/why-cant-convert-primitive-integer-array-into-object-array-while-we-can-convert
 
 http://stackoverflow.com/questions/42241878/java-compare-using-directly-in-system-out-println
-
-http://stackoverflow.com/questions/42255804/how-should-i-name-my-repositories-class-or-interfaces-in-java-using-domain-drive
 
 http://stackoverflow.com/questions/42256232/what-difference-does-this-make-in-object-instantiation-in-java
 
