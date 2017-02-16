@@ -4,7 +4,7 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 this is too broad, lets get it closed please http://stackoverflow.com/questions/2532729/daylight-saving-time-and-time-zone-best-practices
 
-typo, poor duplicate, help vampire, http://stackoverflow.com/questions/42257517/java-could-not-find-or-load-main-class
+too localized, won't be of help to anyone else http://stackoverflow.com/questions/42254269/what-is-wrong-in-my-logic-with-this-simple-if
 
 ===
 string equals dupe http://stackoverflow.com/questions/42255667/java-calculator-not-working
@@ -35,6 +35,9 @@ http://stackoverflow.com/questions/42265302/why-do-i-keep-getting-errors-in-this
 
 http://stackoverflow.com/questions/42260444/why-is-the-super-reference-and-not-the-child-reference-used-here-java
 
+http://stackoverflow.com/questions/42257517/java-could-not-find-or-load-main-class
+ 
+ 
 NOT YET
 =====
 
