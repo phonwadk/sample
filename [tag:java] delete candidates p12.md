@@ -62,3 +62,5 @@ http://stackoverflow.com/questions/42282859/why-illegalargumentexception-doesnt-
 http://stackoverflow.com/questions/42268280/why-does-this-non-daemon-thread-not-prevent-the-jvm-from-exiting
 
 http://stackoverflow.com/questions/42283416/java-exception-in-thread-main-java-util-inputmismatchexception
+
+http://stackoverflow.com/questions/42280955/how-to-sort-list-of-objects-by-inner-object-field
