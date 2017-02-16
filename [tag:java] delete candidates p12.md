@@ -38,11 +38,11 @@ http://stackoverflow.com/questions/42260444/why-is-the-super-reference-and-not-t
 http://stackoverflow.com/questions/42257517/java-could-not-find-or-load-main-class
 
 http://stackoverflow.com/questions/42260444/why-is-the-super-reference-and-not-the-child-reference-used-here-java
- 
-NOT YET
-=====
 
 http://stackoverflow.com/questions/42230007/how-am-i-able-to-access-this-private-method-from-outside-its-class
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42240761/why-force-me-to-use-try-catch-in-java-eclipse
 
@@ -67,3 +67,5 @@ http://stackoverflow.com/questions/42266523/exception-in-thread-main-java-lang-a
 http://stackoverflow.com/questions/42260688/java-generics-error-unable-to-figure-out
 
 http://stackoverflow.com/questions/42253776/how-threadpool-understand-when-to-reuse-thread
+
+http://stackoverflow.com/questions/42276657/calling-private-variables-in-a-static-method
