@@ -14,6 +14,7 @@ http://stackoverflow.com/questions/42288250/trying-to-learn-calling-methods
 
 http://stackoverflow.com/questions/42241593/why-cant-convert-primitive-integer-array-into-object-array-while-we-can-convert
 
+http://stackoverflow.com/questions/42300100/is-switch-statement-on-integers-much-faster-than-switch-case-on-strings
 
 NOT YET
 =====
