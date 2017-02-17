@@ -51,3 +51,5 @@ http://stackoverflow.com/questions/42254269/what-is-wrong-in-my-logic-with-this-
 http://stackoverflow.com/questions/42300740/hand-over-parameter-variable-does-not-change-its-value
 
 http://stackoverflow.com/questions/42291822/access-field-of-subclass-which-does-not-appear-in-superclass-within-collection-o
+
+http://stackoverflow.com/questions/42293699/calling-an-array-method-while-passing-no-arguments-but-an-arrays-length
