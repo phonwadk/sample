@@ -41,3 +41,5 @@ http://stackoverflow.com/questions/42280955/how-to-sort-list-of-objects-by-inner
 http://stackoverflow.com/questions/42254269/what-is-wrong-in-my-logic-with-this-simple-if
 
 http://stackoverflow.com/questions/42300740/hand-over-parameter-variable-does-not-change-its-value
+
+http://stackoverflow.com/questions/42291822/access-field-of-subclass-which-does-not-appear-in-superclass-within-collection-o
