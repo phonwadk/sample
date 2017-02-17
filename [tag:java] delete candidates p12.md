@@ -2,6 +2,12 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
+`cv-pls` typo http://stackoverflow.com/questions/42300090/what-is-wrong-with-my-mutator-method
+
+`cv-pls` typo, forgot to assign variable http://stackoverflow.com/questions/42284192/update-array-data-being-returned-as-null
+
+===
+
 
 string compare http://stackoverflow.com/questions/42300783/why-i-cant-compare-strings-in-java
 
