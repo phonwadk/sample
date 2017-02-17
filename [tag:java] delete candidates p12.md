@@ -13,6 +13,8 @@ http://stackoverflow.com/questions/42241593/why-cant-convert-primitive-integer-a
 
 http://stackoverflow.com/questions/42300100/is-switch-statement-on-integers-much-faster-than-switch-case-on-strings
 
+http://stackoverflow.com/questions/42192717/why-cant-i-create-a-function-that-uses-user-input-later
+
 NOT YET
 =====
 
