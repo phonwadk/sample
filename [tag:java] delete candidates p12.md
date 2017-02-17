@@ -8,11 +8,15 @@ too localized, won't be of help to anyone else http://stackoverflow.com/question
 
 ===
 
-http://stackoverflow.com/questions/42265302/why-do-i-keep-getting-errors-in-this-code
+http://stackoverflow.com/questions/42240761/why-force-me-to-use-try-catch-in-java-eclipse
 
-http://stackoverflow.com/questions/42260444/why-is-the-super-reference-and-not-the-child-reference-used-here-java
+http://stackoverflow.com/questions/42241878/java-compare-using-directly-in-system-out-println
 
-http://stackoverflow.com/questions/42260444/why-is-the-super-reference-and-not-the-child-reference-used-here-java
+http://stackoverflow.com/questions/42266525/junit-showing-error-initializationerror
+
+http://stackoverflow.com/questions/42258161/array-out-of-bounds-when-reversing-existing-array-to-create-a-new-one
+
+http://stackoverflow.com/questions/42266523/exception-in-thread-main-java-lang-arrayindexoutofboundsexception-0
 
 NOT YET
 =====
