@@ -21,10 +21,13 @@ http://stackoverflow.com/questions/42300100/is-switch-statement-on-integers-much
 
 http://stackoverflow.com/questions/42192717/why-cant-i-create-a-function-that-uses-user-input-later
 
+http://stackoverflow.com/questions/42256232/what-difference-does-this-make-in-object-instantiation-in-java
+
+http://stackoverflow.com/questions/42253776/how-threadpool-understand-when-to-reuse-thread
+
 NOT YET
 =====
 
-http://stackoverflow.com/questions/42256232/what-difference-does-this-make-in-object-instantiation-in-java
 
 http://stackoverflow.com/questions/42262002/how-does-autowired-really-work
 
@@ -33,8 +36,6 @@ http://stackoverflow.com/questions/42262827/package-issues-in-linux-java
 http://stackoverflow.com/questions/42276555/arraylist-storing-subclasses-cant-find-symbol-with-getint
 
 http://stackoverflow.com/questions/42260688/java-generics-error-unable-to-figure-out
-
-http://stackoverflow.com/questions/42253776/how-threadpool-understand-when-to-reuse-thread
 
 http://stackoverflow.com/questions/42276657/calling-private-variables-in-a-static-method
 
@@ -53,5 +54,3 @@ http://stackoverflow.com/questions/42300740/hand-over-parameter-variable-does-no
 http://stackoverflow.com/questions/42291822/access-field-of-subclass-which-does-not-appear-in-superclass-within-collection-o
 
 http://stackoverflow.com/questions/42293699/calling-an-array-method-while-passing-no-arguments-but-an-arrays-length
-
-http://stackoverflow.com/questions/42303748/change-color-of-text-inside-jtextfield
