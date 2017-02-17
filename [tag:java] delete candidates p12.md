@@ -21,11 +21,7 @@ http://stackoverflow.com/questions/42266523/exception-in-thread-main-java-lang-a
 NOT YET
 =====
 
-http://stackoverflow.com/questions/42240761/why-force-me-to-use-try-catch-in-java-eclipse
-
 http://stackoverflow.com/questions/42241593/why-cant-convert-primitive-integer-array-into-object-array-while-we-can-convert
-
-http://stackoverflow.com/questions/42241878/java-compare-using-directly-in-system-out-println
 
 http://stackoverflow.com/questions/42256232/what-difference-does-this-make-in-object-instantiation-in-java
 
@@ -34,12 +30,6 @@ http://stackoverflow.com/questions/42262002/how-does-autowired-really-work
 http://stackoverflow.com/questions/42262827/package-issues-in-linux-java
 
 http://stackoverflow.com/questions/42276555/arraylist-storing-subclasses-cant-find-symbol-with-getint
-
-http://stackoverflow.com/questions/42266525/junit-showing-error-initializationerror
-
-http://stackoverflow.com/questions/42258161/array-out-of-bounds-when-reversing-existing-array-to-create-a-new-one
-
-http://stackoverflow.com/questions/42266523/exception-in-thread-main-java-lang-arrayindexoutofboundsexception-0
 
 http://stackoverflow.com/questions/42260688/java-generics-error-unable-to-figure-out
 
