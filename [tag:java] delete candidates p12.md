@@ -25,6 +25,8 @@ http://stackoverflow.com/questions/42256232/what-difference-does-this-make-in-ob
 
 http://stackoverflow.com/questions/42253776/how-threadpool-understand-when-to-reuse-thread
 
+http://stackoverflow.com/questions/42308990/error-method-must-return-boolean
+
 NOT YET
 =====
 
