@@ -6,6 +6,8 @@ this is too broad, lets get it closed please http://stackoverflow.com/questions/
 
 ===
 
+string compare http://stackoverflow.com/questions/42300783/why-i-cant-compare-strings-in-java
+
 http://stackoverflow.com/questions/42240761/why-force-me-to-use-try-catch-in-java-eclipse
 
 http://stackoverflow.com/questions/42241878/java-compare-using-directly-in-system-out-println
