@@ -4,8 +4,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 this is too broad, lets get it closed please http://stackoverflow.com/questions/2532729/daylight-saving-time-and-time-zone-best-practices
 
-too localized, won't be of help to anyone else http://stackoverflow.com/questions/42254269/what-is-wrong-in-my-logic-with-this-simple-if
-
 ===
 
 http://stackoverflow.com/questions/42240761/why-force-me-to-use-try-catch-in-java-eclipse
@@ -46,3 +44,5 @@ http://stackoverflow.com/questions/42268280/why-does-this-non-daemon-thread-not-
 http://stackoverflow.com/questions/42283416/java-exception-in-thread-main-java-util-inputmismatchexception
 
 http://stackoverflow.com/questions/42280955/how-to-sort-list-of-objects-by-inner-object-field
+
+http://stackoverflow.com/questions/42254269/what-is-wrong-in-my-logic-with-this-simple-if
