@@ -2,9 +2,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-this is too broad, lets get it closed please http://stackoverflow.com/questions/2532729/daylight-saving-time-and-time-zone-best-practices
-
-===
 
 string compare http://stackoverflow.com/questions/42300783/why-i-cant-compare-strings-in-java
 
