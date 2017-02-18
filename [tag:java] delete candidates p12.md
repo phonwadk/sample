@@ -9,17 +9,7 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 string compare http://stackoverflow.com/questions/42300783/why-i-cant-compare-strings-in-java
 
-http://stackoverflow.com/questions/42288250/trying-to-learn-calling-methods
-
-http://stackoverflow.com/questions/42241593/why-cant-convert-primitive-integer-array-into-object-array-while-we-can-convert
-
-http://stackoverflow.com/questions/42256232/what-difference-does-this-make-in-object-instantiation-in-java
-
-http://stackoverflow.com/questions/42253776/how-threadpool-understand-when-to-reuse-thread
-
 http://stackoverflow.com/questions/42308990/error-method-must-return-boolean
-
-http://stackoverflow.com/questions/42300090/what-is-wrong-with-my-mutator-method
 
 http://stackoverflow.com/questions/42262002/how-does-autowired-really-work
 
