@@ -2,8 +2,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-`cv-pls` typo, forgot to assign variable http://stackoverflow.com/questions/42284192/update-array-data-being-returned-as-null
-
 ===
 
 
@@ -29,6 +27,8 @@ http://stackoverflow.com/questions/42283416/java-exception-in-thread-main-java-u
 
 http://stackoverflow.com/questions/42280955/how-to-sort-list-of-objects-by-inner-object-field
 
+http://stackoverflow.com/questions/42284192/update-array-data-being-returned-as-null
+
 NOT YET
 =====
 
@@ -47,3 +47,5 @@ http://stackoverflow.com/questions/42317514/how-do-you-put-a-constructor-array-i
 http://stackoverflow.com/questions/42317963/wrong-second-argument-type-needs-to-be-in-list-string-not-string
 
 http://stackoverflow.com/questions/42320314/assign-variables-when-created-or-in-the-constructor-java-programming-style
+
+http://stackoverflow.com/questions/42320862/why-do-i-get-an-unused-variable-warning-in-java-eclipse-even-though-i-use-the-v
