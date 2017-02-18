@@ -43,3 +43,5 @@ http://stackoverflow.com/questions/42293699/calling-an-array-method-while-passin
 http://stackoverflow.com/questions/42308390/should-i-put-my-return-inside-of-an-else-or-at-the-end-of-the-method
 
 http://stackoverflow.com/questions/42317514/how-do-you-put-a-constructor-array-into-main-method
+
+http://stackoverflow.com/questions/42317963/wrong-second-argument-type-needs-to-be-in-list-string-not-string
