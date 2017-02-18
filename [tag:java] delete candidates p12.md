@@ -2,8 +2,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-`cv-pls` typo http://stackoverflow.com/questions/42300090/what-is-wrong-with-my-mutator-method
-
 `cv-pls` typo, forgot to assign variable http://stackoverflow.com/questions/42284192/update-array-data-being-returned-as-null
 
 ===
@@ -27,11 +25,13 @@ http://stackoverflow.com/questions/42253776/how-threadpool-understand-when-to-re
 
 http://stackoverflow.com/questions/42308990/error-method-must-return-boolean
 
-NOT YET
-=====
-
+http://stackoverflow.com/questions/42300090/what-is-wrong-with-my-mutator-method
 
 http://stackoverflow.com/questions/42262002/how-does-autowired-really-work
+
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42262827/package-issues-in-linux-java
 
