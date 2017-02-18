@@ -17,8 +17,6 @@ http://stackoverflow.com/questions/42262827/package-issues-in-linux-java
 
 http://stackoverflow.com/questions/42276555/arraylist-storing-subclasses-cant-find-symbol-with-getint
 
-http://stackoverflow.com/questions/42260688/java-generics-error-unable-to-figure-out
-
 http://stackoverflow.com/questions/42276657/calling-private-variables-in-a-static-method
 
 http://stackoverflow.com/questions/42317537/syntax-error-on-tokens-misplaced-constructs-java
