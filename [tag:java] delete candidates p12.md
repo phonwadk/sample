@@ -9,15 +9,9 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 string compare http://stackoverflow.com/questions/42300783/why-i-cant-compare-strings-in-java
 
-http://stackoverflow.com/questions/42241878/java-compare-using-directly-in-system-out-println
-
 http://stackoverflow.com/questions/42288250/trying-to-learn-calling-methods
 
 http://stackoverflow.com/questions/42241593/why-cant-convert-primitive-integer-array-into-object-array-while-we-can-convert
-
-http://stackoverflow.com/questions/42300100/is-switch-statement-on-integers-much-faster-than-switch-case-on-strings
-
-http://stackoverflow.com/questions/42192717/why-cant-i-create-a-function-that-uses-user-input-later
 
 http://stackoverflow.com/questions/42256232/what-difference-does-this-make-in-object-instantiation-in-java
 
