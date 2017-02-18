@@ -45,3 +45,5 @@ http://stackoverflow.com/questions/42308390/should-i-put-my-return-inside-of-an-
 http://stackoverflow.com/questions/42317514/how-do-you-put-a-constructor-array-into-main-method
 
 http://stackoverflow.com/questions/42317963/wrong-second-argument-type-needs-to-be-in-list-string-not-string
+
+http://stackoverflow.com/questions/42320314/assign-variables-when-created-or-in-the-constructor-java-programming-style
