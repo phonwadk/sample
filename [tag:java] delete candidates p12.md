@@ -21,9 +21,6 @@ http://stackoverflow.com/questions/42276657/calling-private-variables-in-a-stati
 
 http://stackoverflow.com/questions/42317537/syntax-error-on-tokens-misplaced-constructs-java
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/42282859/why-illegalargumentexception-doesnt-need-to-be-handled
 
 http://stackoverflow.com/questions/42268280/why-does-this-non-daemon-thread-not-prevent-the-jvm-from-exiting
@@ -31,6 +28,9 @@ http://stackoverflow.com/questions/42268280/why-does-this-non-daemon-thread-not-
 http://stackoverflow.com/questions/42283416/java-exception-in-thread-main-java-util-inputmismatchexception
 
 http://stackoverflow.com/questions/42280955/how-to-sort-list-of-objects-by-inner-object-field
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42254269/what-is-wrong-in-my-logic-with-this-simple-if
 
