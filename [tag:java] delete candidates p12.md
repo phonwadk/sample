@@ -42,3 +42,5 @@ http://stackoverflow.com/questions/42291822/access-field-of-subclass-which-does-
 http://stackoverflow.com/questions/42293699/calling-an-array-method-while-passing-no-arguments-but-an-arrays-length
 
 http://stackoverflow.com/questions/42308390/should-i-put-my-return-inside-of-an-else-or-at-the-end-of-the-method
+
+http://stackoverflow.com/questions/42317514/how-do-you-put-a-constructor-array-into-main-method
