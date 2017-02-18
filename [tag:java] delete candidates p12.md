@@ -49,3 +49,5 @@ http://stackoverflow.com/questions/42317963/wrong-second-argument-type-needs-to-
 http://stackoverflow.com/questions/42320314/assign-variables-when-created-or-in-the-constructor-java-programming-style
 
 http://stackoverflow.com/questions/42320862/why-do-i-get-an-unused-variable-warning-in-java-eclipse-even-though-i-use-the-v
+
+http://stackoverflow.com/questions/42303227/baseclass-derived-class-in-java
