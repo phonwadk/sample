@@ -18,6 +18,8 @@ http://stackoverflow.com/questions/42291822/access-field-of-subclass-which-does-
 
 http://stackoverflow.com/questions/42293699/calling-an-array-method-while-passing-no-arguments-but-an-arrays-length
 
+http://stackoverflow.com/questions/42320768/why-static-block-does-not-have-name
+
 NOT YET
 =====
 
