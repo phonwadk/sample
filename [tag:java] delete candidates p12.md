@@ -6,10 +6,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 http://stackoverflow.com/questions/42300783/why-i-cant-compare-strings-in-java
 
-http://stackoverflow.com/questions/42308990/error-method-must-return-boolean
-
-http://stackoverflow.com/questions/42262002/how-does-autowired-really-work
-
 http://stackoverflow.com/questions/42262827/package-issues-in-linux-java
 
 http://stackoverflow.com/questions/42268280/why-does-this-non-daemon-thread-not-prevent-the-jvm-from-exiting
