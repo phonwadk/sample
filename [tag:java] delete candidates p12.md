@@ -20,6 +20,8 @@ http://stackoverflow.com/questions/42293699/calling-an-array-method-while-passin
 
 http://stackoverflow.com/questions/42320768/why-static-block-does-not-have-name
 
+http://stackoverflow.com/questions/42253986/configure-a-web-application-without-the-use-of-a-web-xml-in-spring-mvc
+
 NOT YET
 =====
 
