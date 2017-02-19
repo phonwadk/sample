@@ -18,8 +18,6 @@ http://stackoverflow.com/questions/42300740/hand-over-parameter-variable-does-no
 
 http://stackoverflow.com/questions/42291822/access-field-of-subclass-which-does-not-appear-in-superclass-within-collection-o
 
-http://stackoverflow.com/questions/42329270/main-method-putting-style-in-java
-
 NOT YET
 =====
 
