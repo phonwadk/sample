@@ -18,6 +18,8 @@ http://stackoverflow.com/questions/42300740/hand-over-parameter-variable-does-no
 
 http://stackoverflow.com/questions/42291822/access-field-of-subclass-which-does-not-appear-in-superclass-within-collection-o
 
+http://stackoverflow.com/questions/42329270/main-method-putting-style-in-java
+
 NOT YET
 =====
 
@@ -32,3 +34,5 @@ http://stackoverflow.com/questions/42317963/wrong-second-argument-type-needs-to-
 http://stackoverflow.com/questions/42320314/assign-variables-when-created-or-in-the-constructor-java-programming-style
 
 http://stackoverflow.com/questions/42320862/why-do-i-get-an-unused-variable-warning-in-java-eclipse-even-though-i-use-the-v
+
+http://stackoverflow.com/questions/42323452/what-is-the-difference-between-these-two-declarations-in-java
