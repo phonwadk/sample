@@ -22,6 +22,10 @@ http://stackoverflow.com/questions/42320768/why-static-block-does-not-have-name
 
 http://stackoverflow.com/questions/42253986/configure-a-web-application-without-the-use-of-a-web-xml-in-spring-mvc
 
+http://stackoverflow.com/questions/42283081/the-exact-meaning-of-sequential-streams
+
+http://stackoverflow.com/questions/42283911/why-does-priorityqueue-require-a-capacity-of-at-least-one
+
 NOT YET
 =====
 
