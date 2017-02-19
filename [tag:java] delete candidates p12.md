@@ -13,23 +13,9 @@ http://stackoverflow.com/questions/42262002/how-does-autowired-really-work
 
 http://stackoverflow.com/questions/42262827/package-issues-in-linux-java
 
-http://stackoverflow.com/questions/42276555/arraylist-storing-subclasses-cant-find-symbol-with-getint
-
-http://stackoverflow.com/questions/42276657/calling-private-variables-in-a-static-method
-
-http://stackoverflow.com/questions/42317537/syntax-error-on-tokens-misplaced-constructs-java
-
-http://stackoverflow.com/questions/42282859/why-illegalargumentexception-doesnt-need-to-be-handled
-
 http://stackoverflow.com/questions/42268280/why-does-this-non-daemon-thread-not-prevent-the-jvm-from-exiting
 
-http://stackoverflow.com/questions/42283416/java-exception-in-thread-main-java-util-inputmismatchexception
-
 http://stackoverflow.com/questions/42280955/how-to-sort-list-of-objects-by-inner-object-field
-
-http://stackoverflow.com/questions/42284192/update-array-data-being-returned-as-null
-
-http://stackoverflow.com/questions/42303227/baseclass-derived-class-in-java
 
 NOT YET
 =====
