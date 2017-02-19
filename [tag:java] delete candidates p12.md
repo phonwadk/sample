@@ -4,8 +4,7 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-
-string compare http://stackoverflow.com/questions/42300783/why-i-cant-compare-strings-in-java
+http://stackoverflow.com/questions/42300783/why-i-cant-compare-strings-in-java
 
 http://stackoverflow.com/questions/42308990/error-method-must-return-boolean
 
@@ -17,10 +16,10 @@ http://stackoverflow.com/questions/42268280/why-does-this-non-daemon-thread-not-
 
 http://stackoverflow.com/questions/42280955/how-to-sort-list-of-objects-by-inner-object-field
 
+http://stackoverflow.com/questions/42254269/what-is-wrong-in-my-logic-with-this-simple-if
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42254269/what-is-wrong-in-my-logic-with-this-simple-if
 
 http://stackoverflow.com/questions/42300740/hand-over-parameter-variable-does-not-change-its-value
 
