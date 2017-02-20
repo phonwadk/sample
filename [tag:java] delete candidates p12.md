@@ -22,3 +22,5 @@ http://stackoverflow.com/questions/42320862/why-do-i-get-an-unused-variable-warn
 http://stackoverflow.com/questions/42323452/what-is-the-difference-between-these-two-declarations-in-java
 
 http://stackoverflow.com/questions/42333460/java-arraylist-performance
+
+http://stackoverflow.com/questions/42335962/why-does-the-array-reference-change
