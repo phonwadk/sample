@@ -3,13 +3,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 ===
 
 ===
-http://stackoverflow.com/questions/42330632/why-if-int-x-1-the-expression-x-x-is-false
-
-http://stackoverflow.com/questions/42332199/how-do-i-fix-this-if-statement-in-java
-
-http://stackoverflow.com/questions/42335523/stream-to-replace-double-for-loop
-
-http://stackoverflow.com/questions/42317514/how-do-you-put-a-constructor-array-into-main-method
 
 http://stackoverflow.com/questions/41561366/publish-android-app-in-china
 
