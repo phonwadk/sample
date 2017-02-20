@@ -19,3 +19,5 @@ http://stackoverflow.com/questions/42323452/what-is-the-difference-between-these
 http://stackoverflow.com/questions/42333460/java-arraylist-performance
 
 http://stackoverflow.com/questions/42335962/why-does-the-array-reference-change
+
+http://stackoverflow.com/questions/42351014/print-element-of-list-which-suits-certain-critaria
