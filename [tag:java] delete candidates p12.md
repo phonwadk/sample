@@ -45,3 +45,5 @@ http://stackoverflow.com/questions/42323452/what-is-the-difference-between-these
 http://stackoverflow.com/questions/42330632/why-if-int-x-1-the-expression-x-x-is-false
 
 http://stackoverflow.com/questions/42332199/how-do-i-fix-this-if-statement-in-java
+
+http://stackoverflow.com/questions/42335523/stream-to-replace-double-for-loop
