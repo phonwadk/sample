@@ -4,11 +4,13 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
+http://stackoverflow.com/questions/42320862/why-do-i-get-an-unused-variable-warning-in-java-eclipse-even-though-i-use-the-v
+
+
 NOT YET
 =====
 
 
-http://stackoverflow.com/questions/42320862/why-do-i-get-an-unused-variable-warning-in-java-eclipse-even-though-i-use-the-v
 
 http://stackoverflow.com/questions/42323452/what-is-the-difference-between-these-two-declarations-in-java
 
