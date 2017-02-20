@@ -24,3 +24,5 @@ http://stackoverflow.com/questions/42330632/why-if-int-x-1-the-expression-x-x-is
 http://stackoverflow.com/questions/42332199/how-do-i-fix-this-if-statement-in-java
 
 http://stackoverflow.com/questions/42335523/stream-to-replace-double-for-loop
+
+http://stackoverflow.com/questions/42333460/java-arraylist-performance
