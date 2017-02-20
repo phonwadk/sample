@@ -21,3 +21,5 @@ http://stackoverflow.com/questions/42335962/why-does-the-array-reference-change
 http://stackoverflow.com/questions/42351014/print-element-of-list-which-suits-certain-critaria
 
 http://stackoverflow.com/questions/42351106/printwriter-only-printing-last-enty
+
+http://stackoverflow.com/questions/42352063/java-code-isnt-operating-as-expected
