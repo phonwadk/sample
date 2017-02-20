@@ -4,29 +4,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42268280/why-does-this-non-daemon-thread-not-prevent-the-jvm-from-exiting
-
-http://stackoverflow.com/questions/42280955/how-to-sort-list-of-objects-by-inner-object-field
-
-http://stackoverflow.com/questions/42254269/what-is-wrong-in-my-logic-with-this-simple-if
-
-http://stackoverflow.com/questions/42300740/hand-over-parameter-variable-does-not-change-its-value
-
-http://stackoverflow.com/questions/42291822/access-field-of-subclass-which-does-not-appear-in-superclass-within-collection-o
-
-http://stackoverflow.com/questions/42293699/calling-an-array-method-while-passing-no-arguments-but-an-arrays-length
-
-http://stackoverflow.com/questions/42320768/why-static-block-does-not-have-name
-
-http://stackoverflow.com/questions/42253986/configure-a-web-application-without-the-use-of-a-web-xml-in-spring-mvc
-
-http://stackoverflow.com/questions/42283081/the-exact-meaning-of-sequential-streams
-
-http://stackoverflow.com/questions/42283911/why-does-priorityqueue-require-a-capacity-of-at-least-one
-
-http://stackoverflow.com/questions/42299860/can-anyone-help-me-with-these-code
-
-http://stackoverflow.com/questions/42308390/should-i-put-my-return-inside-of-an-else-or-at-the-end-of-the-method
 
 
 NOT YET
