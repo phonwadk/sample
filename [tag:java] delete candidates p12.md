@@ -4,8 +4,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/41561366/publish-android-app-in-china
-
 NOT YET
 =====
 
