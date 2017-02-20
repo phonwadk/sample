@@ -4,8 +4,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42300783/why-i-cant-compare-strings-in-java
-
 http://stackoverflow.com/questions/42268280/why-does-this-non-daemon-thread-not-prevent-the-jvm-from-exiting
 
 http://stackoverflow.com/questions/42280955/how-to-sort-list-of-objects-by-inner-object-field
