@@ -6,8 +6,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 http://stackoverflow.com/questions/41561366/publish-android-app-in-china
 
-http://stackoverflow.com/questions/42350487/basic-java-program-missing-return-statement
-
 NOT YET
 =====
 
