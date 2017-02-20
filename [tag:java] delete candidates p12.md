@@ -23,3 +23,5 @@ http://stackoverflow.com/questions/42351106/printwriter-only-printing-last-enty
 http://stackoverflow.com/questions/42352063/java-code-isnt-operating-as-expected
 
 http://stackoverflow.com/questions/42354131/equals-doesnt-work
+
+http://stackoverflow.com/questions/42354492/why-do-i-always-get-the-same-random-double-after-setting-a-random-seed
