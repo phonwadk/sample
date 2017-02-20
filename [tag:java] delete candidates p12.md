@@ -2,6 +2,8 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
+string equal http://stackoverflow.com/questions/42335219/java-if-statement-not-working-how-i-need-it-to
+
 ===
 
 http://stackoverflow.com/questions/42268280/why-does-this-non-daemon-thread-not-prevent-the-jvm-from-exiting
