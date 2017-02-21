@@ -34,3 +34,5 @@ http://stackoverflow.com/questions/42356696/java-static-modifier-effect-on-varia
 http://stackoverflow.com/questions/42357537/linkedhashmap-implementation-issue-with-map-entry-function-and-exception-in-thre
 
 http://stackoverflow.com/questions/42358008/gson-serializer-json-with-array-of-objects
+
+http://stackoverflow.com/questions/42357725/error-occurred-when-trying-to-use-student-getclass-and-classstudent-type
