@@ -6,10 +6,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 http://stackoverflow.com/questions/42351429/why-does-this-logback-configuration-not-work
 
-http://stackoverflow.com/questions/42352063/java-code-isnt-operating-as-expected
-
-http://stackoverflow.com/questions/42335962/why-does-the-array-reference-change
-
 http://stackoverflow.com/questions/42369310/when-parsing-an-integer-what-exactly-is-being-returned
 
 NOT YET
