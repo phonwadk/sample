@@ -32,3 +32,5 @@ http://stackoverflow.com/questions/42358008/gson-serializer-json-with-array-of-o
 http://stackoverflow.com/questions/42357725/error-occurred-when-trying-to-use-student-getclass-and-classstudent-type
 
 http://stackoverflow.com/questions/42369484/what-does-dead-code-warning-mean-in-java
+
+http://stackoverflow.com/questions/42372186/not-sure-where-my-error-is-illegal-start-of-expression
