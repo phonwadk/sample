@@ -36,3 +36,5 @@ http://stackoverflow.com/questions/42372186/not-sure-where-my-error-is-illegal-s
 http://stackoverflow.com/questions/42372618/cant-cast-superclass-in-subclass
 
 http://stackoverflow.com/questions/42374010/issue-with-a-method-invalid-modifier
+
+http://stackoverflow.com/questions/42369320/for-loop-instantiates-arrays-elements-to-an-object-but-i-have-to-manually-insta
