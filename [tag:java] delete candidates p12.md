@@ -6,13 +6,13 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 http://stackoverflow.com/questions/42320862/why-do-i-get-an-unused-variable-warning-in-java-eclipse-even-though-i-use-the-v
 
-http://stackoverflow.com/questions/42328331/what-datatype-should-i-use-if-my-number-is-32-digits-long-and-is-a-natural-numbe/42328356#42328356
+http://stackoverflow.com/questions/42328331/what-datatype-should-i-use-if-my-number-is-32-digits-long-and-is-a-natural-numbe
+
+http://stackoverflow.com/questions/42323452/what-is-the-difference-between-these-two-declarations-in-java
 
 
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42323452/what-is-the-difference-between-these-two-declarations-in-java
 
 http://stackoverflow.com/questions/42333460/java-arraylist-performance
 
