@@ -31,3 +31,5 @@ http://stackoverflow.com/questions/42354492/why-do-i-always-get-the-same-random-
 http://stackoverflow.com/questions/42351429/why-does-this-logback-configuration-not-work
 
 http://stackoverflow.com/questions/42356696/java-static-modifier-effect-on-variable
+
+http://stackoverflow.com/questions/42357537/linkedhashmap-implementation-issue-with-map-entry-function-and-exception-in-thre
