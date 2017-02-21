@@ -34,3 +34,5 @@ http://stackoverflow.com/questions/42357725/error-occurred-when-trying-to-use-st
 http://stackoverflow.com/questions/42369484/what-does-dead-code-warning-mean-in-java
 
 http://stackoverflow.com/questions/42372186/not-sure-where-my-error-is-illegal-start-of-expression
+
+http://stackoverflow.com/questions/42372618/cant-cast-superclass-in-subclass
