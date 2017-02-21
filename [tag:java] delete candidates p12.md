@@ -10,6 +10,7 @@ http://stackoverflow.com/questions/42328331/what-datatype-should-i-use-if-my-num
 
 http://stackoverflow.com/questions/42323452/what-is-the-difference-between-these-two-declarations-in-java
 
+http://stackoverflow.com/questions/42356485/confused-about-what-this-java-code-means
 
 NOT YET
 =====
@@ -25,8 +26,6 @@ http://stackoverflow.com/questions/42351106/printwriter-only-printing-last-enty
 http://stackoverflow.com/questions/42352063/java-code-isnt-operating-as-expected
 
 http://stackoverflow.com/questions/42354131/equals-doesnt-work
-
-http://stackoverflow.com/questions/42354492/why-do-i-always-get-the-same-random-double-after-setting-a-random-seed
 
 http://stackoverflow.com/questions/42351429/why-does-this-logback-configuration-not-work
 
