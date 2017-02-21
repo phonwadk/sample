@@ -6,6 +6,8 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 http://stackoverflow.com/questions/42320862/why-do-i-get-an-unused-variable-warning-in-java-eclipse-even-though-i-use-the-v
 
+http://stackoverflow.com/questions/42328331/what-datatype-should-i-use-if-my-number-is-32-digits-long-and-is-a-natural-numbe/42328356#42328356
+
 
 NOT YET
 =====
