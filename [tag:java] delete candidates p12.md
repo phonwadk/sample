@@ -8,6 +8,8 @@ http://stackoverflow.com/questions/42351429/why-does-this-logback-configuration-
 
 http://stackoverflow.com/questions/42369310/when-parsing-an-integer-what-exactly-is-being-returned
 
+http://stackoverflow.com/questions/42300604/how-is-get-called-in-spring-requestmapping
+
 NOT YET
 =====
 
