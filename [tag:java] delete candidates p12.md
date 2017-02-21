@@ -10,8 +10,6 @@ http://stackoverflow.com/questions/42320862/why-do-i-get-an-unused-variable-warn
 NOT YET
 =====
 
-
-
 http://stackoverflow.com/questions/42323452/what-is-the-difference-between-these-two-declarations-in-java
 
 http://stackoverflow.com/questions/42333460/java-arraylist-performance
@@ -27,3 +25,5 @@ http://stackoverflow.com/questions/42352063/java-code-isnt-operating-as-expected
 http://stackoverflow.com/questions/42354131/equals-doesnt-work
 
 http://stackoverflow.com/questions/42354492/why-do-i-always-get-the-same-random-double-after-setting-a-random-seed
+
+http://stackoverflow.com/questions/42351429/why-does-this-logback-configuration-not-work
