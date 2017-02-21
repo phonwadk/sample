@@ -33,3 +33,5 @@ http://stackoverflow.com/questions/42351429/why-does-this-logback-configuration-
 http://stackoverflow.com/questions/42356696/java-static-modifier-effect-on-variable
 
 http://stackoverflow.com/questions/42357537/linkedhashmap-implementation-issue-with-map-entry-function-and-exception-in-thre
+
+http://stackoverflow.com/questions/42358008/gson-serializer-json-with-array-of-objects
