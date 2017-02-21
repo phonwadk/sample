@@ -36,3 +36,5 @@ http://stackoverflow.com/questions/42369484/what-does-dead-code-warning-mean-in-
 http://stackoverflow.com/questions/42372186/not-sure-where-my-error-is-illegal-start-of-expression
 
 http://stackoverflow.com/questions/42372618/cant-cast-superclass-in-subclass
+
+http://stackoverflow.com/questions/42374010/issue-with-a-method-invalid-modifier
