@@ -29,3 +29,5 @@ http://stackoverflow.com/questions/42354131/equals-doesnt-work
 http://stackoverflow.com/questions/42354492/why-do-i-always-get-the-same-random-double-after-setting-a-random-seed
 
 http://stackoverflow.com/questions/42351429/why-does-this-logback-configuration-not-work
+
+http://stackoverflow.com/questions/42356696/java-static-modifier-effect-on-variable
