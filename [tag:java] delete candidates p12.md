@@ -33,4 +33,6 @@ http://stackoverflow.com/questions/42369320/for-loop-instantiates-arrays-element
 
 http://stackoverflow.com/questions/42381145/can-two-interfaces-mutually-extend-each-other
 
+http://stackoverflow.com/questions/42383070/crazy-inexplicable-behavior-of-simpledateformat
+
 http://stackoverflow.com/questions/42394872/both-java-8-and-guava-provide-optional-which-one-is-better
