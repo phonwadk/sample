@@ -14,6 +14,9 @@ http://stackoverflow.com/questions/42351106/printwriter-only-printing-last-enty
 
 http://stackoverflow.com/questions/42354131/equals-doesnt-work
 
+http://stackoverflow.com/questions/42403131/error93-5-error-illegal-start-of-typeandroid-studio
+
+http://stackoverflow.com/questions/42401607/executing-process-with-java-reading-stdout-and-stderr-writing-to-stdin
 
 NOT YET
 =====
@@ -49,3 +52,5 @@ http://stackoverflow.com/questions/42399196/java-if-else-statement-calls-false-w
 http://stackoverflow.com/questions/42403364/java-oop-class-b-extends-a-method-class-for-an-object-of-b-calls-bs-method
 
 http://stackoverflow.com/questions/42400090/java-generics-using-class-objects-as-type-literals
+
+http://stackoverflow.com/questions/42399430/autowire-spring-bean-in-httpservlet-via-pure-xml
