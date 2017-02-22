@@ -43,3 +43,5 @@ http://stackoverflow.com/questions/42394872/both-java-8-and-guava-provide-option
 http://stackoverflow.com/questions/42381889/json-prints-null-with-list-of-maps
 
 http://stackoverflow.com/questions/42380767/arrayindexoutofboundsexception-when-using-an-array-in-java
+
+http://stackoverflow.com/questions/42399196/java-if-else-statement-calls-false-when-answer-is-capitalized
