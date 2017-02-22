@@ -45,3 +45,5 @@ http://stackoverflow.com/questions/42381889/json-prints-null-with-list-of-maps
 http://stackoverflow.com/questions/42380767/arrayindexoutofboundsexception-when-using-an-array-in-java
 
 http://stackoverflow.com/questions/42399196/java-if-else-statement-calls-false-when-answer-is-capitalized
+
+http://stackoverflow.com/questions/42403364/java-oop-class-b-extends-a-method-class-for-an-object-of-b-calls-bs-method
