@@ -8,6 +8,8 @@ http://stackoverflow.com/questions/42356519/selection-sort-that-prints-the-step-
 
 http://stackoverflow.com/questions/42351014/print-element-of-list-which-suits-certain-critaria
 
+http://stackoverflow.com/questions/36171792/why-am-i-getting-false
+
 NOT YET
 =====
 
