@@ -4,12 +4,10 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42381518/java-compareto-method-doesnt-work
+http://stackoverflow.com/questions/42333460/java-arraylist-performance
 
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42333460/java-arraylist-performance
 
 http://stackoverflow.com/questions/42351014/print-element-of-list-which-suits-certain-critaria
 
