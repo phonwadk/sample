@@ -51,6 +51,8 @@ http://stackoverflow.com/questions/42399196/java-if-else-statement-calls-false-w
 
 http://stackoverflow.com/questions/42403364/java-oop-class-b-extends-a-method-class-for-an-object-of-b-calls-bs-method
 
+http://stackoverflow.com/questions/42358654/java-lock-inside-try-block
+
 http://stackoverflow.com/questions/42400090/java-generics-using-class-objects-as-type-literals
 
 http://stackoverflow.com/questions/42399430/autowire-spring-bean-in-httpservlet-via-pure-xml
