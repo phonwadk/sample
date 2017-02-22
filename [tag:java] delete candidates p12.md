@@ -6,6 +6,8 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 http://stackoverflow.com/questions/42333460/java-arraylist-performance
 
+http://stackoverflow.com/questions/42356519/selection-sort-that-prints-the-step-by-step-process-of-sorting
+
 NOT YET
 =====
 
