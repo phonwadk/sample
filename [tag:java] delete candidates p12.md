@@ -10,11 +10,11 @@ http://stackoverflow.com/questions/42351014/print-element-of-list-which-suits-ce
 
 http://stackoverflow.com/questions/36171792/why-am-i-getting-false
 
+http://stackoverflow.com/questions/42351106/printwriter-only-printing-last-enty
+
+
 NOT YET
 =====
-
-
-http://stackoverflow.com/questions/42351106/printwriter-only-printing-last-enty
 
 http://stackoverflow.com/questions/42354131/equals-doesnt-work
 
