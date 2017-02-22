@@ -32,3 +32,5 @@ http://stackoverflow.com/questions/42374010/issue-with-a-method-invalid-modifier
 http://stackoverflow.com/questions/42369320/for-loop-instantiates-arrays-elements-to-an-object-but-i-have-to-manually-insta
 
 http://stackoverflow.com/questions/42381145/can-two-interfaces-mutually-extend-each-other
+
+http://stackoverflow.com/questions/42394872/both-java-8-and-guava-provide-optional-which-one-is-better
