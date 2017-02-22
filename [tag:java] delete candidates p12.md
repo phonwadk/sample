@@ -36,3 +36,5 @@ http://stackoverflow.com/questions/42381145/can-two-interfaces-mutually-extend-e
 http://stackoverflow.com/questions/42383070/crazy-inexplicable-behavior-of-simpledateformat
 
 http://stackoverflow.com/questions/42394872/both-java-8-and-guava-provide-optional-which-one-is-better
+
+http://stackoverflow.com/questions/42381889/json-prints-null-with-list-of-maps
