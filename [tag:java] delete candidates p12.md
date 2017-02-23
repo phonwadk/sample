@@ -70,3 +70,5 @@ http://stackoverflow.com/questions/42419237/get-jsonobjects-indice-jsonobject
 http://stackoverflow.com/questions/42419215/case-sensitivity-in-scanner
 
 http://stackoverflow.com/questions/42420225/null-pointer-exception-trying-to-instantiate-a-list-with-a-method-call
+
+http://stackoverflow.com/questions/42419661/java-multi-threading-atomic-and-volatile-variable
