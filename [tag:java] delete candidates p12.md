@@ -24,8 +24,6 @@ http://stackoverflow.com/questions/42420375/iterating-through-hashmap-failed
 
 http://stackoverflow.com/questions/42421951/the-operator-is-undefined-for-the-argument-types-void-void
 
-http://stackoverflow.com/questions/42369320/for-loop-instantiates-arrays-elements-to-an-object-but-i-have-to-manually-insta
-
 http://stackoverflow.com/questions/42358654/java-lock-inside-try-block
 
 http://stackoverflow.com/questions/42374010/issue-with-a-method-invalid-modifier
