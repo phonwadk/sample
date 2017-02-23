@@ -8,6 +8,15 @@ http://stackoverflow.com/questions/42357537/linkedhashmap-implementation-issue-w
 
 http://stackoverflow.com/questions/42358008/gson-serializer-json-with-array-of-objects
 
+http://stackoverflow.com/questions/42405102/while-loop-that-does-nothing-but-read-user-input-until-the-user-enters-quit
+
+http://stackoverflow.com/questions/42416526/why-does-the-return-statement-gives-error
+
+http://stackoverflow.com/questions/42418633/how-to-pass-an-array-as-key-in-hashmap
+
+http://stackoverflow.com/questions/42418941/java-what-does-this-mean-string
+
+
 NOT YET
 =====
 
@@ -40,3 +49,19 @@ http://stackoverflow.com/questions/42358654/java-lock-inside-try-block
 http://stackoverflow.com/questions/42400090/java-generics-using-class-objects-as-type-literals
 
 http://stackoverflow.com/questions/42399430/autowire-spring-bean-in-httpservlet-via-pure-xml
+
+http://stackoverflow.com/questions/42407558/what-is-the-use-of-static-block-in-real-world-java-project
+
+http://stackoverflow.com/questions/42408400/annotation-with-interface-as-member-in-it
+
+http://stackoverflow.com/questions/42416098/java-priorityqueue-returns-null-or-throws-nullpointexception
+
+http://stackoverflow.com/questions/42416930/compiler-error-in-java-wierd
+
+http://stackoverflow.com/questions/42417479/how-does-java-reflection-api-work-under-the-hood
+
+http://stackoverflow.com/questions/42418265/spring-why-does-an-unbounded-taskexecutor-not-launch-a-new-worker-thread-when
+
+http://stackoverflow.com/questions/42419514/why-mock-at-all
+
+http://stackoverflow.com/questions/42417331/method-println-is-undefined-for-the-type-printstream
