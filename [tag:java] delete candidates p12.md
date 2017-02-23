@@ -4,15 +4,11 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42358008/gson-serializer-json-with-array-of-objects
-
 http://stackoverflow.com/questions/42405102/while-loop-that-does-nothing-but-read-user-input-until-the-user-enters-quit
 
 http://stackoverflow.com/questions/42416526/why-does-the-return-statement-gives-error
 
 http://stackoverflow.com/questions/42418633/how-to-pass-an-array-as-key-in-hashmap
-
-http://stackoverflow.com/questions/42418941/java-what-does-this-mean-string
 
 http://stackoverflow.com/questions/42369484/what-does-dead-code-warning-mean-in-java
 
