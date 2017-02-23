@@ -24,6 +24,8 @@ http://stackoverflow.com/questions/42372618/cant-cast-superclass-in-subclass
 
 http://stackoverflow.com/questions/42420375/iterating-through-hashmap-failed
 
+http://stackoverflow.com/questions/42421951/the-operator-is-undefined-for-the-argument-types-void-void
+
 NOT YET
 =====
 
