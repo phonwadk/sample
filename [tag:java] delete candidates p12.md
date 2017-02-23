@@ -4,26 +4,12 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42351014/print-element-of-list-which-suits-certain-critaria
-
-http://stackoverflow.com/questions/36171792/why-am-i-getting-false
-
-http://stackoverflow.com/questions/42351106/printwriter-only-printing-last-enty
-
-http://stackoverflow.com/questions/42354131/equals-doesnt-work
-
-http://stackoverflow.com/questions/42403131/error93-5-error-illegal-start-of-typeandroid-studio
-
-http://stackoverflow.com/questions/42401607/executing-process-with-java-reading-stdout-and-stderr-writing-to-stdin
-
-NOT YET
-=====
-
 http://stackoverflow.com/questions/42357537/linkedhashmap-implementation-issue-with-map-entry-function-and-exception-in-thre
 
 http://stackoverflow.com/questions/42358008/gson-serializer-json-with-array-of-objects
 
-http://stackoverflow.com/questions/42357725/error-occurred-when-trying-to-use-student-getclass-and-classstudent-type
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42369484/what-does-dead-code-warning-mean-in-java
 
