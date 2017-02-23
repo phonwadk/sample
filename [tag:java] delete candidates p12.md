@@ -18,6 +18,7 @@ http://stackoverflow.com/questions/42418941/java-what-does-this-mean-string
 
 http://stackoverflow.com/questions/42369484/what-does-dead-code-warning-mean-in-java
 
+http://stackoverflow.com/questions/42419010/autowired-setter-injection-difference
 
 NOT YET
 =====
@@ -67,3 +68,5 @@ http://stackoverflow.com/questions/42419514/why-mock-at-all
 http://stackoverflow.com/questions/42417331/method-println-is-undefined-for-the-type-printstream
 
 http://stackoverflow.com/questions/42419237/get-jsonobjects-indice-jsonobject
+
+http://stackoverflow.com/questions/42419215/case-sensitivity-in-scanner
