@@ -22,6 +22,8 @@ http://stackoverflow.com/questions/42372186/not-sure-where-my-error-is-illegal-s
 
 http://stackoverflow.com/questions/42372618/cant-cast-superclass-in-subclass
 
+http://stackoverflow.com/questions/42420375/iterating-through-hashmap-failed
+
 NOT YET
 =====
 
