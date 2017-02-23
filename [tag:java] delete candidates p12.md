@@ -26,12 +26,14 @@ http://stackoverflow.com/questions/42420375/iterating-through-hashmap-failed
 
 http://stackoverflow.com/questions/42421951/the-operator-is-undefined-for-the-argument-types-void-void
 
+http://stackoverflow.com/questions/42369320/for-loop-instantiates-arrays-elements-to-an-object-but-i-have-to-manually-insta
+
+http://stackoverflow.com/questions/42358654/java-lock-inside-try-block
+
 NOT YET
 =====
 
 http://stackoverflow.com/questions/42374010/issue-with-a-method-invalid-modifier
-
-http://stackoverflow.com/questions/42369320/for-loop-instantiates-arrays-elements-to-an-object-but-i-have-to-manually-insta
 
 http://stackoverflow.com/questions/42381145/can-two-interfaces-mutually-extend-each-other
 
@@ -46,8 +48,6 @@ http://stackoverflow.com/questions/42380767/arrayindexoutofboundsexception-when-
 http://stackoverflow.com/questions/42399196/java-if-else-statement-calls-false-when-answer-is-capitalized
 
 http://stackoverflow.com/questions/42403364/java-oop-class-b-extends-a-method-class-for-an-object-of-b-calls-bs-method
-
-http://stackoverflow.com/questions/42358654/java-lock-inside-try-block
 
 http://stackoverflow.com/questions/42400090/java-generics-using-class-objects-as-type-literals
 
