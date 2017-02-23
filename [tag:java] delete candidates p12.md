@@ -4,8 +4,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42357537/linkedhashmap-implementation-issue-with-map-entry-function-and-exception-in-thre
-
 http://stackoverflow.com/questions/42358008/gson-serializer-json-with-array-of-objects
 
 http://stackoverflow.com/questions/42405102/while-loop-that-does-nothing-but-read-user-input-until-the-user-enters-quit
@@ -20,12 +18,12 @@ http://stackoverflow.com/questions/42369484/what-does-dead-code-warning-mean-in-
 
 http://stackoverflow.com/questions/42419010/autowired-setter-injection-difference
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/42372186/not-sure-where-my-error-is-illegal-start-of-expression
 
 http://stackoverflow.com/questions/42372618/cant-cast-superclass-in-subclass
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42374010/issue-with-a-method-invalid-modifier
 
