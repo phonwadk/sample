@@ -63,8 +63,6 @@ http://stackoverflow.com/questions/42417479/how-does-java-reflection-api-work-un
 
 http://stackoverflow.com/questions/42418265/spring-why-does-an-unbounded-taskexecutor-not-launch-a-new-worker-thread-when
 
-http://stackoverflow.com/questions/42419514/why-mock-at-all
-
 http://stackoverflow.com/questions/42417331/method-println-is-undefined-for-the-type-printstream
 
 http://stackoverflow.com/questions/42419237/get-jsonobjects-indice-jsonobject
