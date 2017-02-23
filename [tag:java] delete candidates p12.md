@@ -32,6 +32,7 @@ http://stackoverflow.com/questions/42358654/java-lock-inside-try-block
 
 http://stackoverflow.com/questions/42374010/issue-with-a-method-invalid-modifier
 
+http://stackoverflow.com/questions/42423819/error-else-without-if
 
 NOT YET
 =====
