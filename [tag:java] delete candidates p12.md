@@ -68,3 +68,5 @@ http://stackoverflow.com/questions/42417331/method-println-is-undefined-for-the-
 http://stackoverflow.com/questions/42419237/get-jsonobjects-indice-jsonobject
 
 http://stackoverflow.com/questions/42419215/case-sensitivity-in-scanner
+
+http://stackoverflow.com/questions/42420225/null-pointer-exception-trying-to-instantiate-a-list-with-a-method-call
