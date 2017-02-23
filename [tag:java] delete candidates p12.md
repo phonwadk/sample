@@ -4,8 +4,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42356519/selection-sort-that-prints-the-step-by-step-process-of-sorting
-
 http://stackoverflow.com/questions/42351014/print-element-of-list-which-suits-certain-critaria
 
 http://stackoverflow.com/questions/36171792/why-am-i-getting-false
