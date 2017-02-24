@@ -9,10 +9,10 @@ http://stackoverflow.com/questions/42418275/mockito-when-thenreturn-and-doreturn
 
 http://stackoverflow.com/questions/42373509/fileoutputstream-writing-255-char-as-%c3%83
 
+http://stackoverflow.com/questions/42394872/both-java-8-and-guava-provide-optional-which-one-is-better
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42394872/both-java-8-and-guava-provide-optional-which-one-is-better
 
 http://stackoverflow.com/questions/42399196/java-if-else-statement-calls-false-when-answer-is-capitalized
 
