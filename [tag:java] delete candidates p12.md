@@ -48,3 +48,5 @@ http://stackoverflow.com/questions/42420225/null-pointer-exception-trying-to-ins
 http://stackoverflow.com/questions/42419661/java-multi-threading-atomic-and-volatile-variable
 
 http://stackoverflow.com/questions/42423078/how-to-create-a-java-program-to-check-if-a-sentence-is-palindrome-sentence
+
+http://stackoverflow.com/questions/42428746/an-exception-appearing-in-tostring-method-uninitialized-int
