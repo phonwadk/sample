@@ -4,20 +4,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42426054/so-i-have-run-this-code-multiple-times-but-it-keeps-telling-me-that-void-is-ille
-
-http://stackoverflow.com/questions/42369484/what-does-dead-code-warning-mean-in-java
-
-http://stackoverflow.com/questions/42419010/autowired-setter-injection-difference
-
-http://stackoverflow.com/questions/42372186/not-sure-where-my-error-is-illegal-start-of-expression
-
-http://stackoverflow.com/questions/42372618/cant-cast-superclass-in-subclass
-
-http://stackoverflow.com/questions/42420375/iterating-through-hashmap-failed
-
-http://stackoverflow.com/questions/42423819/error-else-without-if
-
 NOT YET
 =====
 
