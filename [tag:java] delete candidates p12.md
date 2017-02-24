@@ -52,3 +52,5 @@ http://stackoverflow.com/questions/42431869/if-java-is-strictly-pass-by-value-th
 
 http://stackoverflow.com/questions/42429000/how-can-java-stream-convert-a-liststring-to-a-mapstring-liststring
 
+http://stackoverflow.com/questions/42431869/if-java-is-strictly-pass-by-value-then-why-this-code-prints-same-hashcode-for
+
