@@ -6,12 +6,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 http://stackoverflow.com/questions/42426054/so-i-have-run-this-code-multiple-times-but-it-keeps-telling-me-that-void-is-ille
 
-http://stackoverflow.com/questions/42405102/while-loop-that-does-nothing-but-read-user-input-until-the-user-enters-quit
-
-http://stackoverflow.com/questions/42416526/why-does-the-return-statement-gives-error
-
-http://stackoverflow.com/questions/42418633/how-to-pass-an-array-as-key-in-hashmap
-
 http://stackoverflow.com/questions/42369484/what-does-dead-code-warning-mean-in-java
 
 http://stackoverflow.com/questions/42419010/autowired-setter-injection-difference
@@ -21,12 +15,6 @@ http://stackoverflow.com/questions/42372186/not-sure-where-my-error-is-illegal-s
 http://stackoverflow.com/questions/42372618/cant-cast-superclass-in-subclass
 
 http://stackoverflow.com/questions/42420375/iterating-through-hashmap-failed
-
-http://stackoverflow.com/questions/42421951/the-operator-is-undefined-for-the-argument-types-void-void
-
-http://stackoverflow.com/questions/42358654/java-lock-inside-try-block
-
-http://stackoverflow.com/questions/42374010/issue-with-a-method-invalid-modifier
 
 http://stackoverflow.com/questions/42423819/error-else-without-if
 
