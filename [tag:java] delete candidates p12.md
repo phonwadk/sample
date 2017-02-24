@@ -1,26 +1,24 @@
 Tushar graciously wrote a user script to make going through the list easier. You can get it [here](https://github.com/tusharjadhav219/Userscript-for-delete-candidates).
 
 ===
-typo, let's get this closed http://stackoverflow.com/questions/42442245/using-a-method-to-calculate-distance-traveled
 
 ===
-
-http://stackoverflow.com/questions/42418275/mockito-when-thenreturn-and-doreturn-when-returns-always-null
 
 http://stackoverflow.com/questions/42373509/fileoutputstream-writing-255-char-as-%c3%83
 
 http://stackoverflow.com/questions/42394872/both-java-8-and-guava-provide-optional-which-one-is-better
 
+http://stackoverflow.com/questions/42399430/autowire-spring-bean-in-httpservlet-via-pure-xml
+
+http://stackoverflow.com/questions/42399196/java-if-else-statement-calls-false-when-answer-is-capitalized
+
 NOT YET
 =====
 
-http://stackoverflow.com/questions/42399196/java-if-else-statement-calls-false-when-answer-is-capitalized
 
 http://stackoverflow.com/questions/42403364/java-oop-class-b-extends-a-method-class-for-an-object-of-b-calls-bs-method
 
 http://stackoverflow.com/questions/42400090/java-generics-using-class-objects-as-type-literals
-
-http://stackoverflow.com/questions/42399430/autowire-spring-bean-in-httpservlet-via-pure-xml
 
 http://stackoverflow.com/questions/42407558/what-is-the-use-of-static-block-in-real-world-java-project
 
