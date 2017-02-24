@@ -4,19 +4,16 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42380767/arrayindexoutofboundsexception-when-using-an-array-in-java
-
-
-NOT YET
-=====
-
 http://stackoverflow.com/questions/42381145/can-two-interfaces-mutually-extend-each-other
 
 http://stackoverflow.com/questions/42383070/crazy-inexplicable-behavior-of-simpledateformat
 
-http://stackoverflow.com/questions/42394872/both-java-8-and-guava-provide-optional-which-one-is-better
-
 http://stackoverflow.com/questions/42381889/json-prints-null-with-list-of-maps
+
+NOT YET
+=====
+
+http://stackoverflow.com/questions/42394872/both-java-8-and-guava-provide-optional-which-one-is-better
 
 http://stackoverflow.com/questions/42399196/java-if-else-statement-calls-false-when-answer-is-capitalized
 
