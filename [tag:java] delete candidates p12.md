@@ -7,6 +7,8 @@ typo, let's get this closed http://stackoverflow.com/questions/42442245/using-a-
 
 http://stackoverflow.com/questions/42418275/mockito-when-thenreturn-and-doreturn-when-returns-always-null
 
+http://stackoverflow.com/questions/42373509/fileoutputstream-writing-255-char-as-%c3%83
+
 NOT YET
 =====
 
