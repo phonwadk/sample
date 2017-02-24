@@ -59,3 +59,5 @@ http://stackoverflow.com/questions/42431869/if-java-is-strictly-pass-by-value-th
 http://stackoverflow.com/questions/42429628/what-is-the-hierarchy-of-the-collections-class-in-java
 
 http://stackoverflow.com/questions/42442245/using-a-method-to-calculate-distance-traveled
+
+http://stackoverflow.com/questions/42443004/java-string-of-ascii-to-string-of-hex
