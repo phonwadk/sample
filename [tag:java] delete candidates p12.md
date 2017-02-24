@@ -1,6 +1,7 @@
 Tushar graciously wrote a user script to make going through the list easier. You can get it [here](https://github.com/tusharjadhav219/Userscript-for-delete-candidates).
 
 ===
+typo, let's get this closed http://stackoverflow.com/questions/42442245/using-a-method-to-calculate-distance-traveled
 
 ===
 
