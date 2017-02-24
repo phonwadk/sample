@@ -4,12 +4,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42381145/can-two-interfaces-mutually-extend-each-other
-
-http://stackoverflow.com/questions/42383070/crazy-inexplicable-behavior-of-simpledateformat
-
-http://stackoverflow.com/questions/42381889/json-prints-null-with-list-of-maps
-
 http://stackoverflow.com/questions/42418275/mockito-when-thenreturn-and-doreturn-when-returns-always-null
 
 NOT YET
