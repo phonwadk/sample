@@ -51,3 +51,5 @@ http://stackoverflow.com/questions/42419661/java-multi-threading-atomic-and-vola
 http://stackoverflow.com/questions/42423078/how-to-create-a-java-program-to-check-if-a-sentence-is-palindrome-sentence
 
 http://stackoverflow.com/questions/42428746/an-exception-appearing-in-tostring-method-uninitialized-int
+
+http://stackoverflow.com/questions/42429609/what-is-the-difference-between-9-5-and-9-0-5-why-do-i-get-different
