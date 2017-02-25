@@ -84,3 +84,5 @@ http://stackoverflow.com/questions/42451571/filenameextensionfilter-cannot-be-co
 http://stackoverflow.com/questions/42457963/using-array-contents-as-variables-to-store-data-objects-in-java
 
 http://stackoverflow.com/questions/42456486/the-return-type-for-ternary-operator
+
+http://stackoverflow.com/questions/42458655/howto-declare-an-array-of-class
