@@ -20,6 +20,14 @@ http://stackoverflow.com/questions/42400090/java-generics-using-class-objects-as
 
 http://stackoverflow.com/questions/42442985/if-a-java-class-implements-an-interface-and-that-interface-extends-a-class-doe
 
+http://stackoverflow.com/questions/42451659/getting-error-when-trying-to-call-class-from-another-class-in-java
+
+http://stackoverflow.com/questions/42450957/how-to-iterate-through-the-string
+
+http://stackoverflow.com/questions/42451319/homework-help-unfamiliar-error
+
+http://stackoverflow.com/questions/42451401/how-to-display-and-with-system-out-println
+
 NOT YET
 =====
 
