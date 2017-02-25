@@ -52,6 +52,8 @@ http://stackoverflow.com/questions/42420225/null-pointer-exception-trying-to-ins
 
 http://stackoverflow.com/questions/42419661/java-multi-threading-atomic-and-volatile-variable
 
+http://stackoverflow.com/questions/42458323/execute-code-when-clicking-on-a-folder-on-home-screen
+
 NOT YET
 =====
 
