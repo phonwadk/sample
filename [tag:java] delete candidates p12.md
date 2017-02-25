@@ -88,3 +88,5 @@ http://stackoverflow.com/questions/42457963/using-array-contents-as-variables-to
 http://stackoverflow.com/questions/42456486/the-return-type-for-ternary-operator
 
 http://stackoverflow.com/questions/42458655/howto-declare-an-array-of-class
+
+http://stackoverflow.com/questions/42458404/functional-interface-in-java-with-multiple-abstract-method
