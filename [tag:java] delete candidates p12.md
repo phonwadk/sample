@@ -18,6 +18,8 @@ http://stackoverflow.com/questions/42403364/java-oop-class-b-extends-a-method-cl
 
 http://stackoverflow.com/questions/42400090/java-generics-using-class-objects-as-type-literals
 
+http://stackoverflow.com/questions/42442985/if-a-java-class-implements-an-interface-and-that-interface-extends-a-class-doe
+
 NOT YET
 =====
 
