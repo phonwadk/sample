@@ -46,6 +46,8 @@ http://stackoverflow.com/questions/42419237/get-jsonobjects-indice-jsonobject
 
 http://stackoverflow.com/questions/42419215/case-sensitivity-in-scanner
 
+http://stackoverflow.com/questions/42458480/cannot-find-method-substingint-int
+
 NOT YET
 =====
 
