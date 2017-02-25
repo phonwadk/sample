@@ -2,6 +2,8 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
+typo, unrelated problem http://stackoverflow.com/questions/42446870/jsr-330-qualifier-not-working-with-java-based-spring-configuration
+
 ===
 
 http://stackoverflow.com/questions/42373509/fileoutputstream-writing-255-char-as-%c3%83
@@ -12,9 +14,12 @@ http://stackoverflow.com/questions/42399430/autowire-spring-bean-in-httpservlet-
 
 http://stackoverflow.com/questions/42399196/java-if-else-statement-calls-false-when-answer-is-capitalized
 
+http://stackoverflow.com/questions/42449540/understanding-the-decrement-operator-in-java
+
+http://stackoverflow.com/questions/42449842/having-a-ridiculous-amount-of-errors
+
 NOT YET
 =====
-
 
 http://stackoverflow.com/questions/42403364/java-oop-class-b-extends-a-method-class-for-an-object-of-b-calls-bs-method
 
@@ -59,3 +64,9 @@ http://stackoverflow.com/questions/42429628/what-is-the-hierarchy-of-the-collect
 http://stackoverflow.com/questions/42442245/using-a-method-to-calculate-distance-traveled
 
 http://stackoverflow.com/questions/42443004/java-string-of-ascii-to-string-of-hex
+
+http://stackoverflow.com/questions/42449586/how-do-object-arrays-store-the-objects
+
+http://stackoverflow.com/questions/42449400/guava-dinosaurs
+
+http://stackoverflow.com/questions/42447768/best-way-to-create-a-string-array-with-values-from-super-class-while-adding-loca
