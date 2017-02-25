@@ -81,3 +81,5 @@ http://stackoverflow.com/questions/42443323/how-does-collection-arrays-sort-orde
 http://stackoverflow.com/questions/42451571/filenameextensionfilter-cannot-be-converted-to-filefilter
 
 http://stackoverflow.com/questions/42457963/using-array-contents-as-variables-to-store-data-objects-in-java
+
+http://stackoverflow.com/questions/42456486/the-return-type-for-ternary-operator
