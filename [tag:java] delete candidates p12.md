@@ -10,20 +10,16 @@ http://stackoverflow.com/questions/42373509/fileoutputstream-writing-255-char-as
 
 http://stackoverflow.com/questions/42394872/both-java-8-and-guava-provide-optional-which-one-is-better
 
-http://stackoverflow.com/questions/42399430/autowire-spring-bean-in-httpservlet-via-pure-xml
-
 http://stackoverflow.com/questions/42399196/java-if-else-statement-calls-false-when-answer-is-capitalized
 
 http://stackoverflow.com/questions/42449540/understanding-the-decrement-operator-in-java
 
-http://stackoverflow.com/questions/42449842/having-a-ridiculous-amount-of-errors
-
-NOT YET
-=====
-
 http://stackoverflow.com/questions/42403364/java-oop-class-b-extends-a-method-class-for-an-object-of-b-calls-bs-method
 
 http://stackoverflow.com/questions/42400090/java-generics-using-class-objects-as-type-literals
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42407558/what-is-the-use-of-static-block-in-real-world-java-project
 
