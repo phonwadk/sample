@@ -28,9 +28,6 @@ http://stackoverflow.com/questions/42451319/homework-help-unfamiliar-error
 
 http://stackoverflow.com/questions/42451401/how-to-display-and-with-system-out-println
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/42407558/what-is-the-use-of-static-block-in-real-world-java-project
 
 http://stackoverflow.com/questions/42408400/annotation-with-interface-as-member-in-it
@@ -46,6 +43,10 @@ http://stackoverflow.com/questions/42418265/spring-why-does-an-unbounded-taskexe
 http://stackoverflow.com/questions/42417331/method-println-is-undefined-for-the-type-printstream
 
 http://stackoverflow.com/questions/42419237/get-jsonobjects-indice-jsonobject
+
+NOT YET
+=====
+
 
 http://stackoverflow.com/questions/42419215/case-sensitivity-in-scanner
 
@@ -78,3 +79,5 @@ http://stackoverflow.com/questions/42447768/best-way-to-create-a-string-array-wi
 http://stackoverflow.com/questions/42443323/how-does-collection-arrays-sort-ordering-work
 
 http://stackoverflow.com/questions/42451571/filenameextensionfilter-cannot-be-converted-to-filefilter
+
+http://stackoverflow.com/questions/42457963/using-array-contents-as-variables-to-store-data-objects-in-java
