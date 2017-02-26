@@ -34,19 +34,13 @@ http://stackoverflow.com/questions/42408400/annotation-with-interface-as-member-
 
 http://stackoverflow.com/questions/42416098/java-priorityqueue-returns-null-or-throws-nullpointexception
 
-http://stackoverflow.com/questions/42416930/compiler-error-in-java-wierd
-
 http://stackoverflow.com/questions/42417479/how-does-java-reflection-api-work-under-the-hood
-
-http://stackoverflow.com/questions/42418265/spring-why-does-an-unbounded-taskexecutor-not-launch-a-new-worker-thread-when
 
 http://stackoverflow.com/questions/42417331/method-println-is-undefined-for-the-type-printstream
 
 http://stackoverflow.com/questions/42419237/get-jsonobjects-indice-jsonobject
 
 http://stackoverflow.com/questions/42419215/case-sensitivity-in-scanner
-
-http://stackoverflow.com/questions/42458480/cannot-find-method-substingint-int
 
 http://stackoverflow.com/questions/42420225/null-pointer-exception-trying-to-instantiate-a-list-with-a-method-call
 
@@ -56,10 +50,11 @@ http://stackoverflow.com/questions/42458323/execute-code-when-clicking-on-a-fold
 
 stackoverflow.com/questions/42461550/make-constructor-of-enumeration-public-in-java
 
+http://stackoverflow.com/questions/42423078/how-to-create-a-java-program-to-check-if-a-sentence-is-palindrome-sentence
+
 NOT YET
 =====
 
-http://stackoverflow.com/questions/42423078/how-to-create-a-java-program-to-check-if-a-sentence-is-palindrome-sentence
 
 http://stackoverflow.com/questions/42428746/an-exception-appearing-in-tostring-method-uninitialized-int
 
