@@ -54,6 +54,8 @@ http://stackoverflow.com/questions/42419661/java-multi-threading-atomic-and-vola
 
 http://stackoverflow.com/questions/42458323/execute-code-when-clicking-on-a-folder-on-home-screen
 
+stackoverflow.com/questions/42461550/make-constructor-of-enumeration-public-in-java
+
 NOT YET
 =====
 
@@ -90,3 +92,7 @@ http://stackoverflow.com/questions/42456486/the-return-type-for-ternary-operator
 http://stackoverflow.com/questions/42458655/howto-declare-an-array-of-class
 
 http://stackoverflow.com/questions/42458404/functional-interface-in-java-with-multiple-abstract-method
+
+http://stackoverflow.com/questions/42460903/solved-why-does-my-arraylist-contain-only-copies-of-the-last-item-added-to-the-l
+
+http://stackoverflow.com/questions/42461681/an-array-seems-to-alter-it-self
