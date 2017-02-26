@@ -78,8 +78,6 @@ http://stackoverflow.com/questions/42443323/how-does-collection-arrays-sort-orde
 
 http://stackoverflow.com/questions/42451571/filenameextensionfilter-cannot-be-converted-to-filefilter
 
-http://stackoverflow.com/questions/42457963/using-array-contents-as-variables-to-store-data-objects-in-java
-
 http://stackoverflow.com/questions/42456486/the-return-type-for-ternary-operator
 
 http://stackoverflow.com/questions/42458655/howto-declare-an-array-of-class
@@ -89,8 +87,6 @@ http://stackoverflow.com/questions/42458404/functional-interface-in-java-with-mu
 http://stackoverflow.com/questions/42460903/solved-why-does-my-arraylist-contain-only-copies-of-the-last-item-added-to-the-l
 
 http://stackoverflow.com/questions/42461681/an-array-seems-to-alter-it-self
-
-http://stackoverflow.com/questions/42464455/java-array-what-does-it-mean
 
 http://stackoverflow.com/questions/42470199/why-is-my-string-to-int-conversion-failing
 
