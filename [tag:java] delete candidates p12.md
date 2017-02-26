@@ -4,6 +4,8 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 typo, unrelated problem http://stackoverflow.com/questions/42446870/jsr-330-qualifier-not-working-with-java-based-spring-configuration
 
+not repro http://stackoverflow.com/questions/42441426/stack-overflow-error-when-trying-to-populate-hashmap-from-stream
+
 ===
 
 http://stackoverflow.com/questions/42373509/fileoutputstream-writing-255-char-as-%c3%83
@@ -91,3 +93,5 @@ http://stackoverflow.com/questions/42461681/an-array-seems-to-alter-it-self
 http://stackoverflow.com/questions/42464455/java-array-what-does-it-mean
 
 http://stackoverflow.com/questions/42470199/why-is-my-string-to-int-conversion-failing
+
+http://stackoverflow.com/questions/42464161/does-array-length-getting-calculated-every-time-its-being-called
