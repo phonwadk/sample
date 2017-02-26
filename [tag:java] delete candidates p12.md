@@ -92,3 +92,5 @@ http://stackoverflow.com/questions/42460903/solved-why-does-my-arraylist-contain
 http://stackoverflow.com/questions/42461681/an-array-seems-to-alter-it-self
 
 http://stackoverflow.com/questions/42464455/java-array-what-does-it-mean
+
+http://stackoverflow.com/questions/42470199/why-is-my-string-to-int-conversion-failing
