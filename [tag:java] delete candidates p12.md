@@ -60,11 +60,11 @@ http://stackoverflow.com/questions/42429000/how-can-java-stream-convert-a-listst
 
 http://stackoverflow.com/questions/42431869/if-java-is-strictly-pass-by-value-then-why-this-code-prints-same-hashcode-for
 
+http://stackoverflow.com/questions/42429628/what-is-the-hierarchy-of-the-collections-class-in-java
+
 
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42429628/what-is-the-hierarchy-of-the-collections-class-in-java
 
 http://stackoverflow.com/questions/42443004/java-string-of-ascii-to-string-of-hex
 
