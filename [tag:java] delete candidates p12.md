@@ -42,13 +42,11 @@ http://stackoverflow.com/questions/42419237/get-jsonobjects-indice-jsonobject
 
 http://stackoverflow.com/questions/42419215/case-sensitivity-in-scanner
 
-http://stackoverflow.com/questions/42420225/null-pointer-exception-trying-to-instantiate-a-list-with-a-method-call
-
 http://stackoverflow.com/questions/42419661/java-multi-threading-atomic-and-volatile-variable
 
 http://stackoverflow.com/questions/42458323/execute-code-when-clicking-on-a-folder-on-home-screen
 
-stackoverflow.com/questions/42461550/make-constructor-of-enumeration-public-in-java
+http://stackoverflow.com/questions/42461550/make-constructor-of-enumeration-public-in-java
 
 http://stackoverflow.com/questions/42423078/how-to-create-a-java-program-to-check-if-a-sentence-is-palindrome-sentence
 
@@ -58,12 +56,11 @@ http://stackoverflow.com/questions/42429609/what-is-the-difference-between-9-5-a
 
 http://stackoverflow.com/questions/42429000/how-can-java-stream-convert-a-liststring-to-a-mapstring-liststring
 
+http://stackoverflow.com/questions/42431869/if-java-is-strictly-pass-by-value-then-why-this-code-prints-same-hashcode-for
+
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42431869/if-java-is-strictly-pass-by-value-then-why-this-code-prints-same-hashcode-for
-
-http://stackoverflow.com/questions/42431869/if-java-is-strictly-pass-by-value-then-why-this-code-prints-same-hashcode-for
 
 http://stackoverflow.com/questions/42429628/what-is-the-hierarchy-of-the-collections-class-in-java
 
