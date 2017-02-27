@@ -2,10 +2,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-typo, unrelated problem http://stackoverflow.com/questions/42446870/jsr-330-qualifier-not-working-with-java-based-spring-configuration
-
-not repro http://stackoverflow.com/questions/42441426/stack-overflow-error-when-trying-to-populate-hashmap-from-stream
-
 ===
 
 http://stackoverflow.com/questions/42443004/java-convert-string-of-ascii-to-string-of-hex
@@ -41,3 +37,7 @@ http://stackoverflow.com/questions/42477258/cannot-make-a-static-reference-to-th
 http://stackoverflow.com/questions/42477040/confusion-over-an-enum-switch-case-label-must-be-the-unqualified-name-of-an-enu
 
 http://stackoverflow.com/questions/42476895/how-to-switch-the-case-of-each-character-in-a-java-string
+
+http://stackoverflow.com/questions/42446870/jsr-330-qualifier-not-working-with-java-based-spring-configuration
+
+http://stackoverflow.com/questions/42441426/stack-overflow-error-when-trying-to-populate-hashmap-from-stream
