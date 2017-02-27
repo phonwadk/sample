@@ -21,8 +21,6 @@ http://stackoverflow.com/questions/42451571/filenameextensionfilter-cannot-be-co
 
 http://stackoverflow.com/questions/42456486/the-return-type-for-ternary-operator
 
-http://stackoverflow.com/questions/42492230/incompatible-operand-types-with-scanner-and-int-in-java
-
 http://stackoverflow.com/questions/42458655/howto-declare-an-array-of-class
 
 http://stackoverflow.com/questions/42458404/functional-interface-in-java-with-multiple-abstract-method
