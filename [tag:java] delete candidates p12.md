@@ -1,6 +1,10 @@
 Tushar graciously wrote a user script to make going through the list easier. You can get it [here](https://github.com/tusharjadhav219/Userscript-for-delete-candidates).
 
 ===
+typo, bad syntax, completely useless http://stackoverflow.com/questions/42488934/java-arraylist-expression-expected-error
+
+===
+
 http://stackoverflow.com/questions/42396424/how-can-i-replace-all-but-not-java
 
 http://stackoverflow.com/questions/42420843/decode-raw-runtime-lambda-method-name
@@ -8,9 +12,6 @@ http://stackoverflow.com/questions/42420843/decode-raw-runtime-lambda-method-nam
 http://stackoverflow.com/questions/42399117/when-does-threadpoolexecutor-clean-up-tasks
 
 http://stackoverflow.com/questions/42420292/convert-number-into-persian-word
-
-===
-
 
 NOT YET
 =====
