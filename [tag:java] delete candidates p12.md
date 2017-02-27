@@ -93,3 +93,5 @@ http://stackoverflow.com/questions/42461681/an-array-seems-to-alter-it-self
 http://stackoverflow.com/questions/42470199/why-is-my-string-to-int-conversion-failing
 
 http://stackoverflow.com/questions/42464161/does-array-length-getting-calculated-every-time-its-being-called
+
+http://stackoverflow.com/questions/42471462/does-the-constructor-always-have-the-same-name-as-the-type
