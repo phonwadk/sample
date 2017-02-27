@@ -39,3 +39,5 @@ http://stackoverflow.com/questions/42471462/does-the-constructor-always-have-the
 http://stackoverflow.com/questions/42477258/cannot-make-a-static-reference-to-the-non-static-method-nextint-from-the-type
 
 http://stackoverflow.com/questions/42477040/confusion-over-an-enum-switch-case-label-must-be-the-unqualified-name-of-an-enu
+
+http://stackoverflow.com/questions/42476895/how-to-switch-the-case-of-each-character-in-a-java-string
