@@ -1,6 +1,11 @@
 Tushar graciously wrote a user script to make going through the list easier. You can get it [here](https://github.com/tusharjadhav219/Userscript-for-delete-candidates).
 
 ===
+http://stackoverflow.com/questions/42396424/how-can-i-replace-all-but-not-java
+
+http://stackoverflow.com/questions/42420843/decode-raw-runtime-lambda-method-name
+
+http://stackoverflow.com/questions/42399117/when-does-threadpoolexecutor-clean-up-tasks
 
 ===
 
