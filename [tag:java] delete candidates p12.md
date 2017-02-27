@@ -47,3 +47,5 @@ http://stackoverflow.com/questions/42441426/stack-overflow-error-when-trying-to-
 http://stackoverflow.com/questions/42476541/add-characters-from-string-to-character-array
 
 http://stackoverflow.com/questions/42488174/removing-numbers-from-arraylist
+
+http://stackoverflow.com/questions/42487849/how-to-convert-a-string-date-to-local-date-in-java
