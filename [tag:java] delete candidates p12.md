@@ -44,3 +44,5 @@ http://stackoverflow.com/questions/42446870/jsr-330-qualifier-not-working-with-j
 http://stackoverflow.com/questions/42441426/stack-overflow-error-when-trying-to-populate-hashmap-from-stream
 
 http://stackoverflow.com/questions/42476541/add-characters-from-string-to-character-array
+
+http://stackoverflow.com/questions/42488174/removing-numbers-from-arraylist
