@@ -4,12 +4,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42443004/java-convert-string-of-ascii-to-string-of-hex
-
-http://stackoverflow.com/questions/42447768/best-way-to-create-a-string-array-with-values-from-super-class-while-adding-loca
-
-http://stackoverflow.com/questions/42443323/how-does-collection-arrays-sort-ordering-work
-
 
 NOT YET
 =====
