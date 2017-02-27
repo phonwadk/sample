@@ -23,12 +23,13 @@ http://stackoverflow.com/questions/42456486/the-return-type-for-ternary-operator
 
 http://stackoverflow.com/questions/42492230/incompatible-operand-types-with-scanner-and-int-in-java
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/42458655/howto-declare-an-array-of-class
 
 http://stackoverflow.com/questions/42458404/functional-interface-in-java-with-multiple-abstract-method
+
+NOT YET
+=====
+
 
 http://stackoverflow.com/questions/42460903/solved-why-does-my-arraylist-contain-only-copies-of-the-last-item-added-to-the-l
 
