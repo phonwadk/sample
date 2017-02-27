@@ -53,3 +53,5 @@ http://stackoverflow.com/questions/42476541/add-characters-from-string-to-charac
 http://stackoverflow.com/questions/42488174/removing-numbers-from-arraylist
 
 http://stackoverflow.com/questions/42487849/how-to-convert-a-string-date-to-local-date-in-java
+
+http://stackoverflow.com/questions/42490552/java-nullpointerexception-when-getting-elements-from-sprites-array
