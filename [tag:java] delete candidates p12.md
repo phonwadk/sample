@@ -37,3 +37,5 @@ http://stackoverflow.com/questions/42464161/does-array-length-getting-calculated
 http://stackoverflow.com/questions/42471462/does-the-constructor-always-have-the-same-name-as-the-type
 
 http://stackoverflow.com/questions/42477258/cannot-make-a-static-reference-to-the-non-static-method-nextint-from-the-type
+
+http://stackoverflow.com/questions/42477040/confusion-over-an-enum-switch-case-label-must-be-the-unqualified-name-of-an-enu
