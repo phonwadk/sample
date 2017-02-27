@@ -3,6 +3,10 @@ Tushar graciously wrote a user script to make going through the list easier. You
 ===
 typo, bad syntax, completely useless http://stackoverflow.com/questions/42488934/java-arraylist-expression-expected-error
 
+not repro http://stackoverflow.com/questions/42475085/interrupting-thread-with-threadpoolexecutor-and-arrayblockingqueue-not-working
+
+not repro http://stackoverflow.com/questions/42478222/using-objectmapper-in-java-for-json
+
 ===
 
 http://stackoverflow.com/questions/42396424/how-can-i-replace-all-but-not-java
