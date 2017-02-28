@@ -8,12 +8,6 @@ not repro http://stackoverflow.com/questions/42475085/interrupting-thread-with-t
 
 ===
 
-http://stackoverflow.com/questions/42399117/when-does-threadpoolexecutor-clean-up-tasks
-
-http://stackoverflow.com/questions/42460903/solved-why-does-my-arraylist-contain-only-copies-of-the-last-item-added-to-the-l
-
-http://stackoverflow.com/questions/42461681/an-array-seems-to-alter-it-self
-
 http://stackoverflow.com/questions/42488934/java-arraylist-expression-expected-error
 
 http://stackoverflow.com/questions/42496963/character-array-not-printing
@@ -22,10 +16,10 @@ http://stackoverflow.com/questions/42496492/is-there-any-lib-to-write-txt-files-
 
 http://stackoverflow.com/questions/42493425/operator-cannot-be-applied-to-java-lang-string-long
 
+http://stackoverflow.com/questions/42470199/why-is-my-string-to-int-conversion-failing
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42470199/why-is-my-string-to-int-conversion-failing
 
 http://stackoverflow.com/questions/42464161/does-array-length-getting-calculated-every-time-its-being-called
 
