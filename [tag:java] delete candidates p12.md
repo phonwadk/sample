@@ -24,6 +24,8 @@ http://stackoverflow.com/questions/42464161/does-array-length-getting-calculated
 
 http://stackoverflow.com/questions/42408101/gson-json-tree-not-working
 
+http://stackoverflow.com/questions/42514973/java-mortgage-calculator-equation-error
+
 NOT YET
 =====
 
