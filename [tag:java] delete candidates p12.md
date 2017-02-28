@@ -25,13 +25,12 @@ http://stackoverflow.com/questions/42458655/howto-declare-an-array-of-class
 
 http://stackoverflow.com/questions/42458404/functional-interface-in-java-with-multiple-abstract-method
 
-NOT YET
-=====
-
-
 http://stackoverflow.com/questions/42460903/solved-why-does-my-arraylist-contain-only-copies-of-the-last-item-added-to-the-l
 
 http://stackoverflow.com/questions/42461681/an-array-seems-to-alter-it-self
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42470199/why-is-my-string-to-int-conversion-failing
 
