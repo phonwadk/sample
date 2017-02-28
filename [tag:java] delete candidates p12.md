@@ -54,3 +54,5 @@ http://stackoverflow.com/questions/42501237/using-char-array-in-constructor
 http://stackoverflow.com/questions/42513532/i-keep-getting-the-exception-java-util-nosuchelementexception-no-line-found
 
 http://stackoverflow.com/questions/42514538/get-two-successive-entries-from-a-set-in-java8
+
+http://stackoverflow.com/questions/42514705/simple-if-issue
