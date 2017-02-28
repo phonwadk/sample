@@ -1,33 +1,20 @@
 Tushar graciously wrote a user script to make going through the list easier. You can get it [here](https://github.com/tusharjadhav219/Userscript-for-delete-candidates).
 
 ===
-typo, bad syntax, completely useless http://stackoverflow.com/questions/42488934/java-arraylist-expression-expected-error
 
 not repro http://stackoverflow.com/questions/42475085/interrupting-thread-with-threadpoolexecutor-and-arrayblockingqueue-not-working
 
-not repro http://stackoverflow.com/questions/42478222/using-objectmapper-in-java-for-json
+
 
 ===
 
-http://stackoverflow.com/questions/42396424/how-can-i-replace-all-but-not-java
-
-http://stackoverflow.com/questions/42420843/decode-raw-runtime-lambda-method-name
-
 http://stackoverflow.com/questions/42399117/when-does-threadpoolexecutor-clean-up-tasks
-
-http://stackoverflow.com/questions/42420292/convert-number-into-persian-word
-
-http://stackoverflow.com/questions/42451571/filenameextensionfilter-cannot-be-converted-to-filefilter
-
-http://stackoverflow.com/questions/42456486/the-return-type-for-ternary-operator
-
-http://stackoverflow.com/questions/42458655/howto-declare-an-array-of-class
-
-http://stackoverflow.com/questions/42458404/functional-interface-in-java-with-multiple-abstract-method
 
 http://stackoverflow.com/questions/42460903/solved-why-does-my-arraylist-contain-only-copies-of-the-last-item-added-to-the-l
 
 http://stackoverflow.com/questions/42461681/an-array-seems-to-alter-it-self
+
+http://stackoverflow.com/questions/42488934/java-arraylist-expression-expected-error
 
 NOT YET
 =====
@@ -55,3 +42,5 @@ http://stackoverflow.com/questions/42488174/removing-numbers-from-arraylist
 http://stackoverflow.com/questions/42487849/how-to-convert-a-string-date-to-local-date-in-java
 
 http://stackoverflow.com/questions/42498784/summing-just-primitive-types
+
+http://stackoverflow.com/questions/42478222/using-objectmapper-in-java-for-json
