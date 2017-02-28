@@ -10,19 +10,13 @@ not repro http://stackoverflow.com/questions/42475085/interrupting-thread-with-t
 
 http://stackoverflow.com/questions/42470199/why-is-my-string-to-int-conversion-failing
 
-http://stackoverflow.com/questions/42500118/how-to-use-arrays-as-class-object-name-in-java
-
-http://stackoverflow.com/questions/42464161/does-array-length-getting-calculated-every-time-its-being-called
-
 http://stackoverflow.com/questions/42408101/gson-json-tree-not-working
-
-http://stackoverflow.com/questions/42514973/java-mortgage-calculator-equation-error
 
 http://stackoverflow.com/questions/42518157/changing-string-to-int
 
 http://stackoverflow.com/questions/42477258/cannot-make-a-static-reference-to-the-non-static-method-nextint-from-the-type
 
-http://stackoverflow.com/questions/42476895/how-to-switch-the-case-of-each-character-in-a-java-string
+http://stackoverflow.com/questions/42517903/string-value-as-object-name
 
 NOT YET
 =====
@@ -56,5 +50,3 @@ http://stackoverflow.com/questions/42514538/get-two-successive-entries-from-a-se
 http://stackoverflow.com/questions/42514705/simple-if-issue
 
 http://stackoverflow.com/questions/42517834/how-can-i-get-the-string-of-a-nullable-object-if-present-or-else-empty-string
-
-http://stackoverflow.com/questions/42517903/string-value-as-object-name
