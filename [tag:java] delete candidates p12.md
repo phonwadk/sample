@@ -52,3 +52,5 @@ http://stackoverflow.com/questions/42498784/summing-just-primitive-types
 http://stackoverflow.com/questions/42478222/using-objectmapper-in-java-for-json
 
 http://stackoverflow.com/questions/42494359/analogue-of-operand-pass-in-java
+
+http://stackoverflow.com/questions/42500118/how-to-use-arrays-as-class-object-name-in-java
