@@ -16,6 +16,12 @@ http://stackoverflow.com/questions/42461681/an-array-seems-to-alter-it-self
 
 http://stackoverflow.com/questions/42488934/java-arraylist-expression-expected-error
 
+http://stackoverflow.com/questions/42496963/character-array-not-printing
+
+http://stackoverflow.com/questions/42496492/is-there-any-lib-to-write-txt-files-with-spring-mvc
+
+http://stackoverflow.com/questions/42493425/operator-cannot-be-applied-to-java-lang-string-long
+
 NOT YET
 =====
 
@@ -44,3 +50,5 @@ http://stackoverflow.com/questions/42487849/how-to-convert-a-string-date-to-loca
 http://stackoverflow.com/questions/42498784/summing-just-primitive-types
 
 http://stackoverflow.com/questions/42478222/using-objectmapper-in-java-for-json
+
+http://stackoverflow.com/questions/42494359/analogue-of-operand-pass-in-java
