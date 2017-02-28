@@ -56,3 +56,5 @@ http://stackoverflow.com/questions/42513532/i-keep-getting-the-exception-java-ut
 http://stackoverflow.com/questions/42514538/get-two-successive-entries-from-a-set-in-java8
 
 http://stackoverflow.com/questions/42514705/simple-if-issue
+
+http://stackoverflow.com/questions/42514768/how-to-count-the-instance-of-an-object-with-a-certain-field-value
