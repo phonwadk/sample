@@ -52,3 +52,5 @@ http://stackoverflow.com/questions/42494359/analogue-of-operand-pass-in-java
 http://stackoverflow.com/questions/42501237/using-char-array-in-constructor
 
 http://stackoverflow.com/questions/42513532/i-keep-getting-the-exception-java-util-nosuchelementexception-no-line-found
+
+http://stackoverflow.com/questions/42514538/get-two-successive-entries-from-a-set-in-java8
