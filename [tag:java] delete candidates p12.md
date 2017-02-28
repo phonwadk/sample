@@ -62,3 +62,5 @@ http://stackoverflow.com/questions/42514538/get-two-successive-entries-from-a-se
 http://stackoverflow.com/questions/42514705/simple-if-issue
 
 http://stackoverflow.com/questions/42517834/how-can-i-get-the-string-of-a-nullable-object-if-present-or-else-empty-string
+
+http://stackoverflow.com/questions/42517903/string-value-as-object-name
