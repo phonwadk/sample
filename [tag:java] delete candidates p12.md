@@ -26,6 +26,7 @@ http://stackoverflow.com/questions/42487849/how-to-convert-a-string-date-to-loca
 
 http://stackoverflow.com/questions/42535882/what-is-the-use-private-variable-if-we-have-setters-and-getters-function
 
+http://stackoverflow.com/questions/42478928/changing-an-object-in-an-arraylist-affects-other-objects-of-the-same-name
 
 NOT YET
 =====
