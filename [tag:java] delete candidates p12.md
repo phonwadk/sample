@@ -22,6 +22,7 @@ http://stackoverflow.com/questions/42523744/java-scanner-not-functioning-as-expe
 
 http://stackoverflow.com/questions/42477040/confusion-over-an-enum-switch-case-label-must-be-the-unqualified-name-of-an-enu
 
+http://stackoverflow.com/questions/42521978/what-is-the-output
 
 NOT YET
 =====
@@ -51,3 +52,5 @@ http://stackoverflow.com/questions/42517834/how-can-i-get-the-string-of-a-nullab
 http://stackoverflow.com/questions/42522571/invalid-type-error-inside-an-if-statement
 
 http://stackoverflow.com/questions/42523226/converting-string-to-integer-without-using-any-inbuilt-function
+
+http://stackoverflow.com/questions/42522280/countdownlatch-not-synchronizing
