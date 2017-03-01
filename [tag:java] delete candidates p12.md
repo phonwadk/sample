@@ -12,8 +12,6 @@ http://stackoverflow.com/questions/42488174/removing-numbers-from-arraylist
 
 http://stackoverflow.com/questions/42487849/how-to-convert-a-string-date-to-local-date-in-java
 
-http://stackoverflow.com/questions/42535882/what-is-the-use-private-variable-if-we-have-setters-and-getters-function
-
 http://stackoverflow.com/questions/42478928/changing-an-object-in-an-arraylist-affects-other-objects-of-the-same-name
 
 http://stackoverflow.com/questions/42472901/unexpected-behavior-for-multiplication-sign-while-passing-it-as-argument-thr
