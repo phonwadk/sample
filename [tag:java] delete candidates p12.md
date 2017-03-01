@@ -12,11 +12,7 @@ http://stackoverflow.com/questions/42470199/why-is-my-string-to-int-conversion-f
 
 http://stackoverflow.com/questions/42408101/gson-json-tree-not-working
 
-http://stackoverflow.com/questions/42518157/changing-string-to-int
-
 http://stackoverflow.com/questions/42477258/cannot-make-a-static-reference-to-the-non-static-method-nextint-from-the-type
-
-http://stackoverflow.com/questions/42517903/string-value-as-object-name
 
 NOT YET
 =====
