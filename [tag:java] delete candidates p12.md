@@ -20,6 +20,8 @@ http://stackoverflow.com/questions/42446870/jsr-330-qualifier-not-working-with-j
 
 http://stackoverflow.com/questions/42522928/avoiding-off-by-one-error-when-generating-random-numbers
 
+http://stackoverflow.com/questions/42523744/java-scanner-not-functioning-as-expected
+
 NOT YET
 =====
 
