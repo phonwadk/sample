@@ -54,3 +54,5 @@ http://stackoverflow.com/questions/42522571/invalid-type-error-inside-an-if-stat
 http://stackoverflow.com/questions/42523226/converting-string-to-integer-without-using-any-inbuilt-function
 
 http://stackoverflow.com/questions/42522280/countdownlatch-not-synchronizing
+
+http://stackoverflow.com/questions/42524440/how-to-create-json-format-dynamically
