@@ -53,3 +53,5 @@ http://stackoverflow.com/questions/42535957/why-do-i-get-an-illegal-start-of-exp
 http://stackoverflow.com/questions/42536681/difference-between-notify-and-notifyall-java-and-deadlocks
 
 http://stackoverflow.com/questions/42513958/spring-propertyplaceholderconfigurer-set-multiple-locations-using-ref
+
+http://stackoverflow.com/questions/42540432/java-text-parseexception-unparseable-date-2017-02-17t0017340530
