@@ -4,8 +4,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 not repro http://stackoverflow.com/questions/42475085/interrupting-thread-with-threadpoolexecutor-and-arrayblockingqueue-not-working
 
-
-
 ===
 
 http://stackoverflow.com/questions/42408101/gson-json-tree-not-working
@@ -25,6 +23,9 @@ http://stackoverflow.com/questions/42476541/add-characters-from-string-to-charac
 http://stackoverflow.com/questions/42488174/removing-numbers-from-arraylist
 
 http://stackoverflow.com/questions/42487849/how-to-convert-a-string-date-to-local-date-in-java
+
+http://stackoverflow.com/questions/42535882/what-is-the-use-private-variable-if-we-have-setters-and-getters-function
+
 
 NOT YET
 =====
