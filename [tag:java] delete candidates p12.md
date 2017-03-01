@@ -18,6 +18,8 @@ http://stackoverflow.com/questions/42441426/stack-overflow-error-when-trying-to-
 
 http://stackoverflow.com/questions/42446870/jsr-330-qualifier-not-working-with-java-based-spring-configuration
 
+http://stackoverflow.com/questions/42522928/avoiding-off-by-one-error-when-generating-random-numbers
+
 NOT YET
 =====
 
