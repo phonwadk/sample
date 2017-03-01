@@ -65,3 +65,5 @@ http://stackoverflow.com/questions/42535399/which-will-execute-first-object-or-m
 http://stackoverflow.com/questions/42535957/why-do-i-get-an-illegal-start-of-expression-error
 
 http://stackoverflow.com/questions/42536681/difference-between-notify-and-notifyall-java-and-deadlocks
+
+http://stackoverflow.com/questions/42513958/spring-propertyplaceholderconfigurer-set-multiple-locations-using-ref
