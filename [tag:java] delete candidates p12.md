@@ -8,12 +8,6 @@ not repro http://stackoverflow.com/questions/42475085/interrupting-thread-with-t
 
 http://stackoverflow.com/questions/42408101/gson-json-tree-not-working
 
-http://stackoverflow.com/questions/42471462/does-the-constructor-always-have-the-same-name-as-the-type
-
-http://stackoverflow.com/questions/42477040/confusion-over-an-enum-switch-case-label-must-be-the-unqualified-name-of-an-enu
-
-http://stackoverflow.com/questions/42476541/add-characters-from-string-to-character-array
-
 http://stackoverflow.com/questions/42488174/removing-numbers-from-arraylist
 
 http://stackoverflow.com/questions/42487849/how-to-convert-a-string-date-to-local-date-in-java
