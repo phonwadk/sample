@@ -48,3 +48,5 @@ http://stackoverflow.com/questions/42514705/simple-if-issue
 http://stackoverflow.com/questions/42517834/how-can-i-get-the-string-of-a-nullable-object-if-present-or-else-empty-string
 
 http://stackoverflow.com/questions/42522571/invalid-type-error-inside-an-if-statement
+
+http://stackoverflow.com/questions/42523226/converting-string-to-integer-without-using-any-inbuilt-function
