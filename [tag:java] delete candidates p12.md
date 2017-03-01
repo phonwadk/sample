@@ -12,19 +12,16 @@ http://stackoverflow.com/questions/42470199/why-is-my-string-to-int-conversion-f
 
 http://stackoverflow.com/questions/42408101/gson-json-tree-not-working
 
-http://stackoverflow.com/questions/42477258/cannot-make-a-static-reference-to-the-non-static-method-nextint-from-the-type
-
 http://stackoverflow.com/questions/42471462/does-the-constructor-always-have-the-same-name-as-the-type
 
 http://stackoverflow.com/questions/42441426/stack-overflow-error-when-trying-to-populate-hashmap-from-stream
 
+http://stackoverflow.com/questions/42446870/jsr-330-qualifier-not-working-with-java-based-spring-configuration
+
 NOT YET
 =====
 
-
 http://stackoverflow.com/questions/42477040/confusion-over-an-enum-switch-case-label-must-be-the-unqualified-name-of-an-enu
-
-http://stackoverflow.com/questions/42446870/jsr-330-qualifier-not-working-with-java-based-spring-configuration
 
 http://stackoverflow.com/questions/42476541/add-characters-from-string-to-character-array
 
