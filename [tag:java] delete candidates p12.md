@@ -18,14 +18,13 @@ http://stackoverflow.com/questions/42441426/stack-overflow-error-when-trying-to-
 
 http://stackoverflow.com/questions/42446870/jsr-330-qualifier-not-working-with-java-based-spring-configuration
 
-http://stackoverflow.com/questions/42522928/avoiding-off-by-one-error-when-generating-random-numbers
-
 http://stackoverflow.com/questions/42523744/java-scanner-not-functioning-as-expected
+
+http://stackoverflow.com/questions/42477040/confusion-over-an-enum-switch-case-label-must-be-the-unqualified-name-of-an-enu
+
 
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42477040/confusion-over-an-enum-switch-case-label-must-be-the-unqualified-name-of-an-enu
 
 http://stackoverflow.com/questions/42476541/add-characters-from-string-to-character-array
 
