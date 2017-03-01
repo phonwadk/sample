@@ -55,3 +55,5 @@ http://stackoverflow.com/questions/42522280/countdownlatch-not-synchronizing
 http://stackoverflow.com/questions/42524440/how-to-create-json-format-dynamically
 
 http://stackoverflow.com/questions/42535410/why-my-example-of-static-keyword-compiles
+
+http://stackoverflow.com/questions/42535399/which-will-execute-first-object-or-main-method-when-a-class-contains-code-as-bel
