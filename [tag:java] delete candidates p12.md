@@ -44,3 +44,5 @@ http://stackoverflow.com/questions/42513958/spring-propertyplaceholderconfigurer
 http://stackoverflow.com/questions/42540432/java-text-parseexception-unparseable-date-2017-02-17t0017340530
 
 http://stackoverflow.com/questions/42543877/why-does-the-scanner-object-ignore-input
+
+http://stackoverflow.com/questions/42544574/even-if-override-hashcode-and-equals-java-hashmap-containskey-still-returns-fal
