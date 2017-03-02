@@ -4,16 +4,10 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42494359/analogue-of-operand-pass-in-java
+http://stackoverflow.com/questions/42501237/using-char-array-in-constructor
 
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42498784/summing-just-primitive-types
-
-http://stackoverflow.com/questions/42478222/using-objectmapper-in-java-for-json
-
-http://stackoverflow.com/questions/42501237/using-char-array-in-constructor
 
 http://stackoverflow.com/questions/42513532/i-keep-getting-the-exception-java-util-nosuchelementexception-no-line-found
 
