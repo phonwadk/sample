@@ -2,8 +2,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-not repro http://stackoverflow.com/questions/42475085/interrupting-thread-with-threadpoolexecutor-and-arrayblockingqueue-not-working
-
 ===
 
 http://stackoverflow.com/questions/42494359/analogue-of-operand-pass-in-java
@@ -46,3 +44,5 @@ http://stackoverflow.com/questions/42540432/java-text-parseexception-unparseable
 http://stackoverflow.com/questions/42543877/why-does-the-scanner-object-ignore-input
 
 http://stackoverflow.com/questions/42544574/even-if-override-hashcode-and-equals-java-hashmap-containskey-still-returns-fal
+
+http://stackoverflow.com/questions/42475085/interrupting-thread-with-threadpoolexecutor-and-arrayblockingqueue-not-working
