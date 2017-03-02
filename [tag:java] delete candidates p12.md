@@ -42,3 +42,5 @@ http://stackoverflow.com/questions/42536681/difference-between-notify-and-notify
 http://stackoverflow.com/questions/42513958/spring-propertyplaceholderconfigurer-set-multiple-locations-using-ref
 
 http://stackoverflow.com/questions/42540432/java-text-parseexception-unparseable-date-2017-02-17t0017340530
+
+http://stackoverflow.com/questions/42543877/why-does-the-scanner-object-ignore-input
