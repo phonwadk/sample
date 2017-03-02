@@ -8,18 +8,16 @@ http://stackoverflow.com/questions/42501237/using-char-array-in-constructor
 
 http://stackoverflow.com/questions/42513532/i-keep-getting-the-exception-java-util-nosuchelementexception-no-line-found
 
-http://stackoverflow.com/questions/42514538/get-two-successive-entries-from-a-set-in-java8
-
 http://stackoverflow.com/questions/42514705/simple-if-issue
 
 http://stackoverflow.com/questions/42513958/spring-propertyplaceholderconfigurer-set-multiple-locations-using-ref
 
 http://stackoverflow.com/questions/42517834/how-can-i-get-the-string-of-a-nullable-object-if-present-or-else-empty-string
 
+http://stackoverflow.com/questions/42522571/invalid-type-error-inside-an-if-statement
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42522571/invalid-type-error-inside-an-if-statement
 
 http://stackoverflow.com/questions/42523226/converting-string-to-integer-without-using-any-inbuilt-function
 
