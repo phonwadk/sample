@@ -16,6 +16,8 @@ http://stackoverflow.com/questions/42517834/how-can-i-get-the-string-of-a-nullab
 
 http://stackoverflow.com/questions/42522571/invalid-type-error-inside-an-if-statement
 
+http://stackoverflow.com/questions/42512909/java-set-null-using-reflection
+
 NOT YET
 =====
 
