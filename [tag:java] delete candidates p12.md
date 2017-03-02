@@ -14,10 +14,10 @@ http://stackoverflow.com/questions/42514705/simple-if-issue
 
 http://stackoverflow.com/questions/42513958/spring-propertyplaceholderconfigurer-set-multiple-locations-using-ref
 
+http://stackoverflow.com/questions/42517834/how-can-i-get-the-string-of-a-nullable-object-if-present-or-else-empty-string
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42517834/how-can-i-get-the-string-of-a-nullable-object-if-present-or-else-empty-string
 
 http://stackoverflow.com/questions/42522571/invalid-type-error-inside-an-if-statement
 
