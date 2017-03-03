@@ -4,6 +4,10 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 typo http://stackoverflow.com/questions/42572038/object-params-not-worked-for-some-method
 
+too broad http://stackoverflow.com/questions/42582985/why-does-this-complex-generics-example-not-compile-with-java-1-7-does-with-java
+
+not repro no mcve http://stackoverflow.com/questions/42582081/why-does-assigning-a-value-in-the-static-initialization-block-doesnt-work
+
 ===
 
 http://stackoverflow.com/questions/42512909/java-set-null-using-reflection
