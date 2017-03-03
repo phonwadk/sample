@@ -33,3 +33,5 @@ http://stackoverflow.com/questions/42475085/interrupting-thread-with-threadpoole
 http://stackoverflow.com/questions/42541608/theory-swap-chars-in-a-string-immutable-reference-types-example-java
 
 http://stackoverflow.com/questions/42581074/java-error-cannot-find-symbol-int-nums-in-nextint
+
+http://stackoverflow.com/questions/42571691/listmodel-to-setstring-with-stream
