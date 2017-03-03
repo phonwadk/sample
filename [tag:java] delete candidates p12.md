@@ -35,3 +35,5 @@ http://stackoverflow.com/questions/42541608/theory-swap-chars-in-a-string-immuta
 http://stackoverflow.com/questions/42581074/java-error-cannot-find-symbol-int-nums-in-nextint
 
 http://stackoverflow.com/questions/42571691/listmodel-to-setstring-with-stream
+
+http://stackoverflow.com/questions/42584321/why-do-we-need-comparator-when-we-already-have-comparable
