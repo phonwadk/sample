@@ -2,7 +2,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-typo http://stackoverflow.com/questions/42572038/object-params-not-worked-for-some-method
 
 too broad http://stackoverflow.com/questions/42582985/why-does-this-complex-generics-example-not-compile-with-java-1-7-does-with-java
 
@@ -39,3 +38,5 @@ http://stackoverflow.com/questions/42571691/listmodel-to-setstring-with-stream
 http://stackoverflow.com/questions/42584321/why-do-we-need-comparator-when-we-already-have-comparable
 
 http://stackoverflow.com/questions/42586901/error-when-calling-on-foo
+
+http://stackoverflow.com/questions/42572038/object-params-not-worked-for-some-method
