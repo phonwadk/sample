@@ -19,10 +19,10 @@ http://stackoverflow.com/questions/42536681/difference-between-notify-and-notify
 
 http://stackoverflow.com/questions/42582081/why-does-assigning-a-value-in-the-static-initialization-block-doesnt-work
 
+http://stackoverflow.com/questions/42540432/java-text-parseexception-unparseable-date-2017-02-17t0017340530
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42540432/java-text-parseexception-unparseable-date-2017-02-17t0017340530
 
 http://stackoverflow.com/questions/42543877/why-does-the-scanner-object-ignore-input
 
