@@ -10,13 +10,12 @@ http://stackoverflow.com/questions/42523226/converting-string-to-integer-without
 
 http://stackoverflow.com/questions/42522280/countdownlatch-not-synchronizing
 
-NOT YET
-=====
-
-
 http://stackoverflow.com/questions/42524440/how-to-create-json-format-dynamically
 
 http://stackoverflow.com/questions/42535410/why-my-example-of-static-keyword-compiles
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42535957/why-do-i-get-an-illegal-start-of-expression-error
 
