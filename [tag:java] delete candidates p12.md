@@ -6,12 +6,13 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 http://stackoverflow.com/questions/42512909/java-set-null-using-reflection
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/42523226/converting-string-to-integer-without-using-any-inbuilt-function
 
 http://stackoverflow.com/questions/42522280/countdownlatch-not-synchronizing
+
+NOT YET
+=====
+
 
 http://stackoverflow.com/questions/42524440/how-to-create-json-format-dynamically
 
@@ -30,3 +31,5 @@ http://stackoverflow.com/questions/42544574/even-if-override-hashcode-and-equals
 http://stackoverflow.com/questions/42475085/interrupting-thread-with-threadpoolexecutor-and-arrayblockingqueue-not-working
 
 http://stackoverflow.com/questions/42541608/theory-swap-chars-in-a-string-immutable-reference-types-example-java
+
+http://stackoverflow.com/questions/42581074/java-error-cannot-find-symbol-int-nums-in-nextint
