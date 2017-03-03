@@ -6,8 +6,6 @@ typo http://stackoverflow.com/questions/42572038/object-params-not-worked-for-so
 
 too broad http://stackoverflow.com/questions/42582985/why-does-this-complex-generics-example-not-compile-with-java-1-7-does-with-java
 
-not repro no mcve http://stackoverflow.com/questions/42582081/why-does-assigning-a-value-in-the-static-initialization-block-doesnt-work
-
 ===
 
 
@@ -18,6 +16,8 @@ http://stackoverflow.com/questions/42535410/why-my-example-of-static-keyword-com
 http://stackoverflow.com/questions/42535957/why-do-i-get-an-illegal-start-of-expression-error
 
 http://stackoverflow.com/questions/42536681/difference-between-notify-and-notifyall-java-and-deadlocks
+
+http://stackoverflow.com/questions/42582081/why-does-assigning-a-value-in-the-static-initialization-block-doesnt-work
 
 NOT YET
 =====
@@ -37,3 +37,5 @@ http://stackoverflow.com/questions/42581074/java-error-cannot-find-symbol-int-nu
 http://stackoverflow.com/questions/42571691/listmodel-to-setstring-with-stream
 
 http://stackoverflow.com/questions/42584321/why-do-we-need-comparator-when-we-already-have-comparable
+
+http://stackoverflow.com/questions/42586901/error-when-calling-on-foo
