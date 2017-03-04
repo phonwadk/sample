@@ -56,3 +56,5 @@ http://stackoverflow.com/questions/42600434/how-can-i-copy-this-list-to-another-
 http://stackoverflow.com/questions/42600589/java-null-pointer-exception-on-sentiment-analysis-using-stanford-corenlp
 
 http://stackoverflow.com/questions/42600645/using-volatile-instead-of-synchronized
+
+http://stackoverflow.com/questions/42600723/what-is-the-value-of-an-uninitialized-java-array-variable
