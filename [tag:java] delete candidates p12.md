@@ -27,6 +27,8 @@ http://stackoverflow.com/questions/42542020/junit-test-with-exceptions
 
 http://stackoverflow.com/questions/42543253/for-each-not-applicable-to-expression-type-java
 
+http://stackoverflow.com/questions/42590287/error-loading-chome-extension
+
 NOT YET
 =====
 
