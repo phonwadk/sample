@@ -5,22 +5,7 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 too broad http://stackoverflow.com/questions/42582985/why-does-this-complex-generics-example-not-compile-with-java-1-7-does-with-java
 
-garbage typo http://stackoverflow.com/questions/42591060/why-do-i-get-the-error-non-static-method-cannot-be-referenced-from-a-static-con
-
 ===
-
-
-http://stackoverflow.com/questions/42524440/how-to-create-json-format-dynamically
-
-http://stackoverflow.com/questions/42535410/why-my-example-of-static-keyword-compiles
-
-http://stackoverflow.com/questions/42535957/why-do-i-get-an-illegal-start-of-expression-error
-
-http://stackoverflow.com/questions/42536681/difference-between-notify-and-notifyall-java-and-deadlocks
-
-http://stackoverflow.com/questions/42582081/why-does-assigning-a-value-in-the-static-initialization-block-doesnt-work
-
-http://stackoverflow.com/questions/42540432/java-text-parseexception-unparseable-date-2017-02-17t0017340530
 
 http://stackoverflow.com/questions/42475085/interrupting-thread-with-threadpoolexecutor-and-arrayblockingqueue-not-working
 
@@ -59,3 +44,5 @@ http://stackoverflow.com/questions/42586901/error-when-calling-on-foo
 http://stackoverflow.com/questions/42572038/object-params-not-worked-for-some-method
 
 http://stackoverflow.com/questions/42397066/spring-beancurrentlyincreationexception
+
+http://stackoverflow.com/questions/42591060/why-do-i-get-the-error-non-static-method-cannot-be-referenced-from-a-static-con
