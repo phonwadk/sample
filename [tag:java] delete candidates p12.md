@@ -50,3 +50,5 @@ http://stackoverflow.com/questions/42397066/spring-beancurrentlyincreationexcept
 http://stackoverflow.com/questions/42591060/why-do-i-get-the-error-non-static-method-cannot-be-referenced-from-a-static-con
 
 http://stackoverflow.com/questions/42597640/why-does-the-if-statment-execute
+
+http://stackoverflow.com/questions/42597736/java-diff-between-w-or-w-o-static-method-and-constructor
