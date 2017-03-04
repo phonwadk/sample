@@ -5,6 +5,8 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 too broad http://stackoverflow.com/questions/42582985/why-does-this-complex-generics-example-not-compile-with-java-1-7-does-with-java
 
+garbage typo http://stackoverflow.com/questions/42591060/why-do-i-get-the-error-non-static-method-cannot-be-referenced-from-a-static-con
+
 ===
 
 
