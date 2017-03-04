@@ -29,11 +29,11 @@ http://stackoverflow.com/questions/42543253/for-each-not-applicable-to-expressio
 
 http://stackoverflow.com/questions/42590287/error-loading-chome-extension
 
+http://stackoverflow.com/questions/42541608/theory-swap-chars-in-a-string-immutable-reference-types-example-java
+
+
 NOT YET
 =====
-
-
-http://stackoverflow.com/questions/42541608/theory-swap-chars-in-a-string-immutable-reference-types-example-java
 
 http://stackoverflow.com/questions/42581074/java-error-cannot-find-symbol-int-nums-in-nextint
 
@@ -48,7 +48,5 @@ http://stackoverflow.com/questions/42572038/object-params-not-worked-for-some-me
 http://stackoverflow.com/questions/42397066/spring-beancurrentlyincreationexception
 
 http://stackoverflow.com/questions/42591060/why-do-i-get-the-error-non-static-method-cannot-be-referenced-from-a-static-con
-
-http://stackoverflow.com/questions/42597640/why-does-the-if-statment-execute
 
 http://stackoverflow.com/questions/42597736/java-diff-between-w-or-w-o-static-method-and-constructor
