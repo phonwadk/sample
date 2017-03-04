@@ -58,3 +58,5 @@ http://stackoverflow.com/questions/42600589/java-null-pointer-exception-on-senti
 http://stackoverflow.com/questions/42600645/using-volatile-instead-of-synchronized
 
 http://stackoverflow.com/questions/42600723/what-is-the-value-of-an-uninitialized-java-array-variable
+
+http://stackoverflow.com/questions/42601412/replacing-strings-in-a-loop-doesnt-update-string-properly
