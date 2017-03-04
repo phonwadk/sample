@@ -52,3 +52,5 @@ http://stackoverflow.com/questions/42591060/why-do-i-get-the-error-non-static-me
 http://stackoverflow.com/questions/42597736/java-diff-between-w-or-w-o-static-method-and-constructor
 
 http://stackoverflow.com/questions/42600434/how-can-i-copy-this-list-to-another-list
+
+http://stackoverflow.com/questions/42600589/java-null-pointer-exception-on-sentiment-analysis-using-stanford-corenlp
