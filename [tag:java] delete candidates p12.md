@@ -28,6 +28,20 @@ http://stackoverflow.com/questions/42543877/why-does-the-scanner-object-ignore-i
 
 http://stackoverflow.com/questions/42544574/even-if-override-hashcode-and-equals-java-hashmap-containskey-still-returns-fal
 
+http://stackoverflow.com/questions/42470917/code-compiles-but-the-math-is-wrong
+
+http://stackoverflow.com/questions/42472961/null-returnin-when-a-look-for-a-key-in-an-hashmap
+
+http://stackoverflow.com/questions/42515758/how-to-get-value-which-consist-in-query-string
+
+http://stackoverflow.com/questions/42516387/about-string-methods
+
+http://stackoverflow.com/questions/42537134/char-to-ascii-java
+
+http://stackoverflow.com/questions/42542020/junit-test-with-exceptions
+
+http://stackoverflow.com/questions/42543253/for-each-not-applicable-to-expression-type-java
+
 NOT YET
 =====
 
