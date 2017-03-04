@@ -54,3 +54,5 @@ http://stackoverflow.com/questions/42597736/java-diff-between-w-or-w-o-static-me
 http://stackoverflow.com/questions/42600434/how-can-i-copy-this-list-to-another-list
 
 http://stackoverflow.com/questions/42600589/java-null-pointer-exception-on-sentiment-analysis-using-stanford-corenlp
+
+http://stackoverflow.com/questions/42600645/using-volatile-instead-of-synchronized
