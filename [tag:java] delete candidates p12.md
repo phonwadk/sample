@@ -48,3 +48,5 @@ http://stackoverflow.com/questions/42572038/object-params-not-worked-for-some-me
 http://stackoverflow.com/questions/42397066/spring-beancurrentlyincreationexception
 
 http://stackoverflow.com/questions/42591060/why-do-i-get-the-error-non-static-method-cannot-be-referenced-from-a-static-con
+
+http://stackoverflow.com/questions/42597640/why-does-the-if-statment-execute
