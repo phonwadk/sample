@@ -54,3 +54,5 @@ http://stackoverflow.com/questions/42600645/using-volatile-instead-of-synchroniz
 http://stackoverflow.com/questions/42600723/what-is-the-value-of-an-uninitialized-java-array-variable
 
 http://stackoverflow.com/questions/42601412/replacing-strings-in-a-loop-doesnt-update-string-properly
+
+http://stackoverflow.com/questions/42603866/java-hashset-keeps-the-order-constant
