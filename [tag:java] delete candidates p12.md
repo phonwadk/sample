@@ -12,8 +12,6 @@ http://stackoverflow.com/questions/42543253/for-each-not-applicable-to-expressio
 
 http://stackoverflow.com/questions/42590287/error-loading-chome-extension
 
-http://stackoverflow.com/questions/42541608/theory-swap-chars-in-a-string-immutable-reference-types-example-java
-
 http://stackoverflow.com/questions/42571691/listmodel-to-setstring-with-stream
 
 http://stackoverflow.com/questions/42600723/what-is-the-value-of-an-uninitialized-java-array-variable
