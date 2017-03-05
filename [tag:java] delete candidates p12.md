@@ -60,3 +60,5 @@ http://stackoverflow.com/questions/42613759/java-methods-and-returns
 http://stackoverflow.com/questions/42613537/class-extending-runtimeexception-how-to-throw-it
 
 http://stackoverflow.com/questions/42613723/deserializing-a-json-file-java
+
+http://stackoverflow.com/questions/42614170/having-issues-allowing-string-variable-to-be-declared-by-scanner
