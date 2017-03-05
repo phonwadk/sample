@@ -2,8 +2,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-string equals dupe http://stackoverflow.com/questions/42614002/acceptabletype-returns-false
-
 ===
 
 http://stackoverflow.com/questions/42475085/interrupting-thread-with-threadpoolexecutor-and-arrayblockingqueue-not-working
@@ -65,3 +63,5 @@ http://stackoverflow.com/questions/42613723/deserializing-a-json-file-java
 http://stackoverflow.com/questions/42614170/having-issues-allowing-string-variable-to-be-declared-by-scanner
 
 http://stackoverflow.com/questions/42614470/java-using-the-contains-method-in-arraylist-with-a-point
+
+http://stackoverflow.com/questions/42614002/acceptabletype-returns-false
