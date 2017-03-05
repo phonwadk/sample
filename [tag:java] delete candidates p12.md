@@ -18,10 +18,10 @@ http://stackoverflow.com/questions/42571691/listmodel-to-setstring-with-stream
 
 http://stackoverflow.com/questions/42600723/what-is-the-value-of-an-uninitialized-java-array-variable
 
+http://stackoverflow.com/questions/42581074/java-error-cannot-find-symbol-int-nums-in-nextint
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42581074/java-error-cannot-find-symbol-int-nums-in-nextint
 
 http://stackoverflow.com/questions/42584321/why-do-we-need-comparator-when-we-already-have-comparable
 
