@@ -56,3 +56,5 @@ http://stackoverflow.com/questions/42609650/how-to-remove-duplicate-in-a-list-wh
 http://stackoverflow.com/questions/42613759/java-methods-and-returns
 
 http://stackoverflow.com/questions/42613537/class-extending-runtimeexception-how-to-throw-it
+
+http://stackoverflow.com/questions/42613723/deserializing-a-json-file-java
