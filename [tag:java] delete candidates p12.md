@@ -54,3 +54,5 @@ http://stackoverflow.com/questions/42609960/library-to-generate-java-files-from-
 http://stackoverflow.com/questions/42609650/how-to-remove-duplicate-in-a-list-while-the-element-is-an-array
 
 http://stackoverflow.com/questions/42613759/java-methods-and-returns
+
+http://stackoverflow.com/questions/42613537/class-extending-runtimeexception-how-to-throw-it
