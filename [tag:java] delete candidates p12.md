@@ -20,6 +20,8 @@ http://stackoverflow.com/questions/42600723/what-is-the-value-of-an-uninitialize
 
 http://stackoverflow.com/questions/42581074/java-error-cannot-find-symbol-int-nums-in-nextint
 
+http://stackoverflow.com/questions/42609429/what-does-final-int-do
+
 NOT YET
 =====
 
@@ -46,3 +48,9 @@ http://stackoverflow.com/questions/42601412/replacing-strings-in-a-loop-doesnt-u
 http://stackoverflow.com/questions/42603866/java-hashset-keeps-the-order-constant
 
 http://stackoverflow.com/questions/42582985/why-does-this-complex-generics-example-not-compile-with-java-1-7-does-with-java
+
+http://stackoverflow.com/questions/42604837/whatre-the-recommendation-books-to-read-to-learn-go-lang-for-a-beginner
+
+http://stackoverflow.com/questions/42609960/library-to-generate-java-files-from-java-reflection
+
+http://stackoverflow.com/questions/42609650/how-to-remove-duplicate-in-a-list-while-the-element-is-an-array
