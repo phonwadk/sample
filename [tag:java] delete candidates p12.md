@@ -63,3 +63,5 @@ http://stackoverflow.com/questions/42613537/class-extending-runtimeexception-how
 http://stackoverflow.com/questions/42613723/deserializing-a-json-file-java
 
 http://stackoverflow.com/questions/42614170/having-issues-allowing-string-variable-to-be-declared-by-scanner
+
+http://stackoverflow.com/questions/42614470/java-using-the-contains-method-in-arraylist-with-a-point
