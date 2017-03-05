@@ -10,15 +10,11 @@ http://stackoverflow.com/questions/42542020/junit-test-with-exceptions
 
 http://stackoverflow.com/questions/42543253/for-each-not-applicable-to-expression-type-java
 
-http://stackoverflow.com/questions/42590287/error-loading-chome-extension
-
 http://stackoverflow.com/questions/42571691/listmodel-to-setstring-with-stream
 
 http://stackoverflow.com/questions/42600723/what-is-the-value-of-an-uninitialized-java-array-variable
 
 http://stackoverflow.com/questions/42581074/java-error-cannot-find-symbol-int-nums-in-nextint
-
-http://stackoverflow.com/questions/42609429/what-does-final-int-do
 
 http://stackoverflow.com/questions/42584321/why-do-we-need-comparator-when-we-already-have-comparable
 
