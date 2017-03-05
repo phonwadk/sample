@@ -20,12 +20,12 @@ http://stackoverflow.com/questions/42581074/java-error-cannot-find-symbol-int-nu
 
 http://stackoverflow.com/questions/42609429/what-does-final-int-do
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/42584321/why-do-we-need-comparator-when-we-already-have-comparable
 
 http://stackoverflow.com/questions/42586901/error-when-calling-on-foo
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42572038/object-params-not-worked-for-some-method
 
