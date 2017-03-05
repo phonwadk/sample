@@ -52,3 +52,5 @@ http://stackoverflow.com/questions/42604837/whatre-the-recommendation-books-to-r
 http://stackoverflow.com/questions/42609960/library-to-generate-java-files-from-java-reflection
 
 http://stackoverflow.com/questions/42609650/how-to-remove-duplicate-in-a-list-while-the-element-is-an-array
+
+http://stackoverflow.com/questions/42613759/java-methods-and-returns
