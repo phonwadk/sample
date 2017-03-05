@@ -2,6 +2,8 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
+string equals dupe http://stackoverflow.com/questions/42614002/acceptabletype-returns-false
+
 ===
 
 http://stackoverflow.com/questions/42475085/interrupting-thread-with-threadpoolexecutor-and-arrayblockingqueue-not-working
