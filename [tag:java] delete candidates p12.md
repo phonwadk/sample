@@ -58,3 +58,5 @@ http://stackoverflow.com/questions/42634242/difference-between-a-2-and-a-a2-in-i
 http://stackoverflow.com/questions/42634900/java-startswith-confuse-why-system-out-printlns-startswith-prints-true
 
 http://stackoverflow.com/questions/42635988/java-accessing-inner-class-variable-from-outer-class
+
+http://stackoverflow.com/questions/42626205/spring-security-authorization-bearer-token-is-ignored
