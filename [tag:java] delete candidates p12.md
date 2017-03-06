@@ -22,6 +22,9 @@ http://stackoverflow.com/questions/42586901/error-when-calling-on-foo
 
 http://stackoverflow.com/questions/42572038/object-params-not-worked-for-some-method
 
+http://stackoverflow.com/questions/42613537/class-extending-runtimeexception-how-to-throw-it
+
+http://stackoverflow.com/questions/42614470/java-using-the-contains-method-in-arraylist-with-a-point
 
 NOT YET
 =====
@@ -52,12 +55,8 @@ http://stackoverflow.com/questions/42609650/how-to-remove-duplicate-in-a-list-wh
 
 http://stackoverflow.com/questions/42613759/java-methods-and-returns
 
-http://stackoverflow.com/questions/42613537/class-extending-runtimeexception-how-to-throw-it
-
 http://stackoverflow.com/questions/42613723/deserializing-a-json-file-java
 
 http://stackoverflow.com/questions/42614170/having-issues-allowing-string-variable-to-be-declared-by-scanner
-
-http://stackoverflow.com/questions/42614470/java-using-the-contains-method-in-arraylist-with-a-point
 
 http://stackoverflow.com/questions/42614002/acceptabletype-returns-false
