@@ -56,5 +56,3 @@ http://stackoverflow.com/questions/42632992/java-inheritance-cannot-find-symbol
 http://stackoverflow.com/questions/42634242/difference-between-a-2-and-a-a2-in-int-to-char-conversion
 
 http://stackoverflow.com/questions/42634900/java-startswith-confuse-why-system-out-printlns-startswith-prints-true
-
-http://stackoverflow.com/questions/42634912/error-cannot-find-symbol-method-length
