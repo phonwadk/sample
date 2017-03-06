@@ -6,32 +6,16 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 http://stackoverflow.com/questions/42475085/interrupting-thread-with-threadpoolexecutor-and-arrayblockingqueue-not-working
 
-http://stackoverflow.com/questions/42542020/junit-test-with-exceptions
-
-http://stackoverflow.com/questions/42543253/for-each-not-applicable-to-expression-type-java
-
-http://stackoverflow.com/questions/42571691/listmodel-to-setstring-with-stream
-
-http://stackoverflow.com/questions/42600723/what-is-the-value-of-an-uninitialized-java-array-variable
-
-http://stackoverflow.com/questions/42581074/java-error-cannot-find-symbol-int-nums-in-nextint
-
-http://stackoverflow.com/questions/42584321/why-do-we-need-comparator-when-we-already-have-comparable
-
-http://stackoverflow.com/questions/42586901/error-when-calling-on-foo
-
-http://stackoverflow.com/questions/42572038/object-params-not-worked-for-some-method
-
 http://stackoverflow.com/questions/42613537/class-extending-runtimeexception-how-to-throw-it
 
 http://stackoverflow.com/questions/42614470/java-using-the-contains-method-in-arraylist-with-a-point
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/42397066/spring-beancurrentlyincreationexception
 
 http://stackoverflow.com/questions/42591060/why-do-i-get-the-error-non-static-method-cannot-be-referenced-from-a-static-con
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42597736/java-diff-between-w-or-w-o-static-method-and-constructor
 
