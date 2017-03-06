@@ -50,3 +50,5 @@ http://stackoverflow.com/questions/42628562/trying-to-understand-java-logic
 http://stackoverflow.com/questions/42617965/clearing-some-concepts-about-java-algorithms
 
 http://stackoverflow.com/questions/42632992/java-inheritance-cannot-find-symbol
+
+http://stackoverflow.com/questions/42634242/difference-between-a-2-and-a-a2-in-int-to-char-conversion
