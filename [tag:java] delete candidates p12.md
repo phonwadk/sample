@@ -8,6 +8,8 @@ http://stackoverflow.com/questions/42628567/how-to-search-a-paragraph-in-a-given
 
 http://stackoverflow.com/questions/42597736/java-diff-between-w-or-w-o-static-method-and-constructor
 
+http://stackoverflow.com/questions/42631138/peek-option-and-for-each
+
 NOT YET
 =====
 
