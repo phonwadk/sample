@@ -18,6 +18,7 @@ http://stackoverflow.com/questions/42600645/using-volatile-instead-of-synchroniz
 
 http://stackoverflow.com/questions/42601412/replacing-strings-in-a-loop-doesnt-update-string-properly
 
+http://stackoverflow.com/questions/42636197/int-cannot-be-applied-to-int
 
 NOT YET
 =====
