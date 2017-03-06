@@ -48,3 +48,5 @@ http://stackoverflow.com/questions/42629022/array-as-parameters-in-java-find-the
 http://stackoverflow.com/questions/42628562/trying-to-understand-java-logic
 
 http://stackoverflow.com/questions/42617965/clearing-some-concepts-about-java-algorithms
+
+http://stackoverflow.com/questions/42632992/java-inheritance-cannot-find-symbol
