@@ -14,10 +14,10 @@ http://stackoverflow.com/questions/42397066/spring-beancurrentlyincreationexcept
 
 http://stackoverflow.com/questions/42628567/how-to-search-a-paragraph-in-a-given-file-using-java
 
+http://stackoverflow.com/questions/42597736/java-diff-between-w-or-w-o-static-method-and-constructor
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42597736/java-diff-between-w-or-w-o-static-method-and-constructor
 
 http://stackoverflow.com/questions/42600434/how-can-i-copy-this-list-to-another-list
 
