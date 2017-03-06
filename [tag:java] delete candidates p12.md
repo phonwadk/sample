@@ -4,14 +4,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42475085/interrupting-thread-with-threadpoolexecutor-and-arrayblockingqueue-not-working
-
-http://stackoverflow.com/questions/42613537/class-extending-runtimeexception-how-to-throw-it
-
-http://stackoverflow.com/questions/42614470/java-using-the-contains-method-in-arraylist-with-a-point
-
-http://stackoverflow.com/questions/42397066/spring-beancurrentlyincreationexception
-
 http://stackoverflow.com/questions/42628567/how-to-search-a-paragraph-in-a-given-file-using-java
 
 http://stackoverflow.com/questions/42597736/java-diff-between-w-or-w-o-static-method-and-constructor
