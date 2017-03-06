@@ -16,6 +16,8 @@ http://stackoverflow.com/questions/42600589/java-null-pointer-exception-on-senti
 
 http://stackoverflow.com/questions/42600645/using-volatile-instead-of-synchronized
 
+http://stackoverflow.com/questions/42634912/error-cannot-find-symbol-method-length
+
 NOT YET
 =====
 
