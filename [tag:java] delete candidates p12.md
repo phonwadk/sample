@@ -12,7 +12,7 @@ http://stackoverflow.com/questions/42614470/java-using-the-contains-method-in-ar
 
 http://stackoverflow.com/questions/42397066/spring-beancurrentlyincreationexception
 
-http://stackoverflow.com/questions/42591060/why-do-i-get-the-error-non-static-method-cannot-be-referenced-from-a-static-con
+http://stackoverflow.com/questions/42628567/how-to-search-a-paragraph-in-a-given-file-using-java
 
 NOT YET
 =====
@@ -44,3 +44,13 @@ http://stackoverflow.com/questions/42613723/deserializing-a-json-file-java
 http://stackoverflow.com/questions/42614170/having-issues-allowing-string-variable-to-be-declared-by-scanner
 
 http://stackoverflow.com/questions/42614002/acceptabletype-returns-false
+
+http://stackoverflow.com/questions/42614325/java-memory-management-with-method-return
+
+http://stackoverflow.com/questions/42622950/why-compile-time-error-on-instanceof-operator-but-works-fine-on-casting
+
+http://stackoverflow.com/questions/42629022/array-as-parameters-in-java-find-the-position-of-all-the-even-numbers-in-the-el
+
+http://stackoverflow.com/questions/42628562/trying-to-understand-java-logic
+
+http://stackoverflow.com/questions/42617965/clearing-some-concepts-about-java-algorithms
