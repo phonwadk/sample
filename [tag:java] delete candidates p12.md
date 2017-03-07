@@ -49,3 +49,5 @@ http://stackoverflow.com/questions/42635988/java-accessing-inner-class-variable-
 http://stackoverflow.com/questions/42626205/spring-security-authorization-bearer-token-is-ignored
 
 http://stackoverflow.com/questions/42607482/each-time-i-run-the-code-i-get-different-sequence-of-output
+
+http://stackoverflow.com/questions/42651355/why-do-java-support-string-string
