@@ -51,3 +51,5 @@ http://stackoverflow.com/questions/42626205/spring-security-authorization-bearer
 http://stackoverflow.com/questions/42607482/each-time-i-run-the-code-i-get-different-sequence-of-output
 
 http://stackoverflow.com/questions/42651355/why-do-java-support-string-string
+
+http://stackoverflow.com/questions/42651910/why-can-i-access-the-private-attribute-on-the-following-example
