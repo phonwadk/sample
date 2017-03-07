@@ -55,3 +55,4 @@ http://stackoverflow.com/questions/42654468/basic-java-error-with-while-statemen
 
 http://stackoverflow.com/questions/42655575/iteration-for-linkedhashmap-in-java-doesnt-give-proper-value-when-i-use-getvalu
 
+http://stackoverflow.com/questions/42657388/array-remains-unaffected-by-helper-functions
