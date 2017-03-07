@@ -62,3 +62,5 @@ http://stackoverflow.com/questions/42626205/spring-security-authorization-bearer
 http://stackoverflow.com/questions/42607482/each-time-i-run-the-code-i-get-different-sequence-of-output
 
 http://stackoverflow.com/questions/42269363/why-is-this-not-an-ambiguous-call-varargs-parameters
+
+http://stackoverflow.com/questions/42639153/indexof-for-objects-in-arraylist-not-strings-in-java
