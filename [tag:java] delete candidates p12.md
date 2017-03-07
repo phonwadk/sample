@@ -4,12 +4,8 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42269363/why-is-this-not-an-ambiguous-call-varargs-parameters
 
 http://stackoverflow.com/questions/42639153/indexof-for-objects-in-arraylist-not-strings-in-java
-
-NOT YET
-=====
 
 http://stackoverflow.com/questions/42603866/java-hashset-keeps-the-order-constant
 
@@ -20,6 +16,9 @@ http://stackoverflow.com/questions/42604837/whatre-the-recommendation-books-to-r
 http://stackoverflow.com/questions/42609960/library-to-generate-java-files-from-java-reflection
 
 http://stackoverflow.com/questions/42609650/how-to-remove-duplicate-in-a-list-while-the-element-is-an-array
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42613759/java-methods-and-returns
 
@@ -50,5 +49,3 @@ http://stackoverflow.com/questions/42635988/java-accessing-inner-class-variable-
 http://stackoverflow.com/questions/42626205/spring-security-authorization-bearer-token-is-ignored
 
 http://stackoverflow.com/questions/42607482/each-time-i-run-the-code-i-get-different-sequence-of-output
-
-http://stackoverflow.com/questions/42639153/indexof-for-objects-in-arraylist-not-strings-in-java
