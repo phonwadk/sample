@@ -6,14 +6,9 @@ not reproducible http://stackoverflow.com/questions/42654799/parse-jsonobject-da
 
 ===
 
-
-http://stackoverflow.com/questions/42639153/indexof-for-objects-in-arraylist-not-strings-in-java
-
 http://stackoverflow.com/questions/42603866/java-hashset-keeps-the-order-constant
 
 http://stackoverflow.com/questions/42582985/why-does-this-complex-generics-example-not-compile-with-java-1-7-does-with-java
-
-http://stackoverflow.com/questions/42604837/whatre-the-recommendation-books-to-read-to-learn-go-lang-for-a-beginner
 
 http://stackoverflow.com/questions/42609960/library-to-generate-java-files-from-java-reflection
 
