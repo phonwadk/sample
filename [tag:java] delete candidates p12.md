@@ -58,3 +58,5 @@ http://stackoverflow.com/questions/42634900/java-startswith-confuse-why-system-o
 http://stackoverflow.com/questions/42635988/java-accessing-inner-class-variable-from-outer-class
 
 http://stackoverflow.com/questions/42626205/spring-security-authorization-bearer-token-is-ignored
+
+http://stackoverflow.com/questions/42607482/each-time-i-run-the-code-i-get-different-sequence-of-output
