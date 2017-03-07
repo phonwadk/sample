@@ -63,3 +63,5 @@ http://stackoverflow.com/questions/42655575/iteration-for-linkedhashmap-in-java-
 http://stackoverflow.com/questions/42657388/array-remains-unaffected-by-helper-functions
 
 http://stackoverflow.com/questions/42658843/java-int-cannot-be-dereferenced-error
+
+http://stackoverflow.com/questions/42659373/casting-int-to-byte-not-making-sense
