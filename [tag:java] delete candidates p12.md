@@ -4,6 +4,9 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
+http://stackoverflow.com/questions/42269363/why-is-this-not-an-ambiguous-call-varargs-parameters
+
+
 NOT YET
 =====
 
@@ -46,7 +49,5 @@ http://stackoverflow.com/questions/42635988/java-accessing-inner-class-variable-
 http://stackoverflow.com/questions/42626205/spring-security-authorization-bearer-token-is-ignored
 
 http://stackoverflow.com/questions/42607482/each-time-i-run-the-code-i-get-different-sequence-of-output
-
-http://stackoverflow.com/questions/42269363/why-is-this-not-an-ambiguous-call-varargs-parameters
 
 http://stackoverflow.com/questions/42639153/indexof-for-objects-in-arraylist-not-strings-in-java
