@@ -24,6 +24,11 @@ http://stackoverflow.com/questions/42614002/acceptabletype-returns-false
 
 http://stackoverflow.com/questions/42614325/java-memory-management-with-method-return
 
+http://stackoverflow.com/questions/42658166/difference-between-java-exception-and-error
+
+http://stackoverflow.com/questions/42657798/iterate-backwards-through-linked-list
+
+
 NOT YET
 =====
 
