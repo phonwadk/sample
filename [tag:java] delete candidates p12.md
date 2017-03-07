@@ -6,6 +6,7 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 http://stackoverflow.com/questions/42269363/why-is-this-not-an-ambiguous-call-varargs-parameters
 
+http://stackoverflow.com/questions/42639153/indexof-for-objects-in-arraylist-not-strings-in-java
 
 NOT YET
 =====
