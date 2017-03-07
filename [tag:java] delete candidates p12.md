@@ -55,3 +55,5 @@ http://stackoverflow.com/questions/42651355/why-do-java-support-string-string
 http://stackoverflow.com/questions/42651910/why-can-i-access-the-private-attribute-on-the-following-example
 
 http://stackoverflow.com/questions/42654468/basic-java-error-with-while-statement
+
+http://stackoverflow.com/questions/42655575/iteration-for-linkedhashmap-in-java-doesnt-give-proper-value-when-i-use-getvalu
