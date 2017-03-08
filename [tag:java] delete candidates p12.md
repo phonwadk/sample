@@ -14,21 +14,11 @@ http://stackoverflow.com/questions/42609960/library-to-generate-java-files-from-
 
 http://stackoverflow.com/questions/42613759/java-methods-and-returns
 
-http://stackoverflow.com/questions/42613723/deserializing-a-json-file-java
-
-http://stackoverflow.com/questions/42614170/having-issues-allowing-string-variable-to-be-declared-by-scanner
-
 http://stackoverflow.com/questions/42614002/acceptabletype-returns-false
-
-http://stackoverflow.com/questions/42614325/java-memory-management-with-method-return
 
 http://stackoverflow.com/questions/42658166/difference-between-java-exception-and-error
 
-http://stackoverflow.com/questions/42660656/where-can-i-find-the-java-files-in-eclipse
-
 http://stackoverflow.com/questions/42661232/does-the-java-string-pool-work
-
-http://stackoverflow.com/questions/42654799/parse-jsonobject-date-to-string
 
 http://stackoverflow.com/questions/42650381/what-is-difference-between-templateengine-vs-springtemplateengine-in-thymeleaf
 
@@ -36,10 +26,10 @@ http://stackoverflow.com/questions/42663256/hashmap-rehashing-trigger-when-bucke
 
 http://stackoverflow.com/questions/42664125/problems-with-gradle-with-android-studio-2-3
 
+http://stackoverflow.com/questions/42622950/why-compile-time-error-on-instanceof-operator-but-works-fine-on-casting
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42622950/why-compile-time-error-on-instanceof-operator-but-works-fine-on-casting
 
 http://stackoverflow.com/questions/42629022/array-as-parameters-in-java-find-the-position-of-all-the-even-numbers-in-the-el
 
