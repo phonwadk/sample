@@ -67,3 +67,5 @@ http://stackoverflow.com/questions/42658843/java-int-cannot-be-dereferenced-erro
 http://stackoverflow.com/questions/42659373/casting-int-to-byte-not-making-sense
 
 http://stackoverflow.com/questions/42657566/java-garbage-collection-does-replacing-a-variables-assignment-with-a-different
+
+http://stackoverflow.com/questions/42660724/how-do-convert-json-to-java-list
