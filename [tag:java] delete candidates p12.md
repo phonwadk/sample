@@ -4,6 +4,8 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 just garbage typo, not repro, no mcve http://stackoverflow.com/questions/42662864/identifier-expected-with-static-inner-class-call
 
+typo, misunderstanding http://stackoverflow.com/questions/42664206/why-is-this-not-a-legal-method-signature-is-it-the-return-type
+
 ===
 
 http://stackoverflow.com/questions/42603866/java-hashset-keeps-the-order-constant
