@@ -4,7 +4,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 just garbage typo, not repro, no mcve http://stackoverflow.com/questions/42662864/identifier-expected-with-static-inner-class-call
 
-too broad, resource req http://stackoverflow.com/questions/5667920/iphone-apps-that-supports-url-schema
 
 ===
 
