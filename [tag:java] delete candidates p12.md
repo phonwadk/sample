@@ -9,8 +9,6 @@ just garbage typo, not repro, no mcve http://stackoverflow.com/questions/4266286
 
 http://stackoverflow.com/questions/42622950/why-compile-time-error-on-instanceof-operator-but-works-fine-on-casting
 
-http://stackoverflow.com/questions/42664206/why-is-this-not-a-legal-method-signature-is-it-the-return-type
-
 http://stackoverflow.com/questions/42631321/how-to-convert-11-20-2021-1200-pm-to-11-20-2021
 
 NOT YET
