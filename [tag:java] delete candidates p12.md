@@ -38,6 +38,8 @@ http://stackoverflow.com/questions/42628562/trying-to-understand-java-logic
 
 http://stackoverflow.com/questions/42617965/clearing-some-concepts-about-java-algorithms
 
+http://stackoverflow.com/questions/42635424/reduce-in-stream-api-for-complex-listmap-objects
+
 NOT YET
 =====
 
