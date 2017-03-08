@@ -4,31 +4,13 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 just garbage typo, not repro, no mcve http://stackoverflow.com/questions/42662864/identifier-expected-with-static-inner-class-call
 
-typo, misunderstanding http://stackoverflow.com/questions/42664206/why-is-this-not-a-legal-method-signature-is-it-the-return-type
-
 too broad, resource req http://stackoverflow.com/questions/5667920/iphone-apps-that-supports-url-schema
 
 ===
 
-http://stackoverflow.com/questions/42650381/what-is-difference-between-templateengine-vs-springtemplateengine-in-thymeleaf
-
-http://stackoverflow.com/questions/42663256/hashmap-rehashing-trigger-when-bucket-size-exceeds-or-hashmap-size-exceeds
-
-http://stackoverflow.com/questions/42664125/problems-with-gradle-with-android-studio-2-3
-
 http://stackoverflow.com/questions/42622950/why-compile-time-error-on-instanceof-operator-but-works-fine-on-casting
 
-http://stackoverflow.com/questions/42672906/java-hashmap-how-to-iterate
-
-http://stackoverflow.com/questions/42629022/array-as-parameters-in-java-find-the-position-of-all-the-even-numbers-in-the-el
-
-http://stackoverflow.com/questions/42628562/trying-to-understand-java-logic
-
-http://stackoverflow.com/questions/42617965/clearing-some-concepts-about-java-algorithms
-
-http://stackoverflow.com/questions/42635424/reduce-in-stream-api-for-complex-listmap-objects
-
-http://stackoverflow.com/questions/42599304/what-is-the-runtime-of-this-piece-of-code-in-terms-of-big-o
+http://stackoverflow.com/questions/42664206/why-is-this-not-a-legal-method-signature-is-it-the-return-type
 
 NOT YET
 =====
