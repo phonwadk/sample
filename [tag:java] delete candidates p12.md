@@ -34,6 +34,8 @@ http://stackoverflow.com/questions/42650381/what-is-difference-between-templatee
 
 http://stackoverflow.com/questions/42663256/hashmap-rehashing-trigger-when-bucket-size-exceeds-or-hashmap-size-exceeds
 
+http://stackoverflow.com/questions/42664125/problems-with-gradle-with-android-studio-2-3
+
 NOT YET
 =====
 
