@@ -10,20 +10,6 @@ too broad, resource req http://stackoverflow.com/questions/5667920/iphone-apps-t
 
 ===
 
-http://stackoverflow.com/questions/42603866/java-hashset-keeps-the-order-constant
-
-http://stackoverflow.com/questions/42582985/why-does-this-complex-generics-example-not-compile-with-java-1-7-does-with-java
-
-http://stackoverflow.com/questions/42609960/library-to-generate-java-files-from-java-reflection
-
-http://stackoverflow.com/questions/42613759/java-methods-and-returns
-
-http://stackoverflow.com/questions/42614002/acceptabletype-returns-false
-
-http://stackoverflow.com/questions/42658166/difference-between-java-exception-and-error
-
-http://stackoverflow.com/questions/42661232/does-the-java-string-pool-work
-
 http://stackoverflow.com/questions/42650381/what-is-difference-between-templateengine-vs-springtemplateengine-in-thymeleaf
 
 http://stackoverflow.com/questions/42663256/hashmap-rehashing-trigger-when-bucket-size-exceeds-or-hashmap-size-exceeds
