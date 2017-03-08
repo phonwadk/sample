@@ -33,6 +33,8 @@ http://stackoverflow.com/questions/42657798/iterate-backwards-through-linked-lis
 
 http://stackoverflow.com/questions/42660656/where-can-i-find-the-java-files-in-eclipse
 
+http://stackoverflow.com/questions/42661232/does-the-java-string-pool-work
+
 NOT YET
 =====
 
