@@ -28,12 +28,14 @@ http://stackoverflow.com/questions/42664125/problems-with-gradle-with-android-st
 
 http://stackoverflow.com/questions/42622950/why-compile-time-error-on-instanceof-operator-but-works-fine-on-casting
 
-NOT YET
-=====
+http://stackoverflow.com/questions/42672906/java-hashmap-how-to-iterate
 
 http://stackoverflow.com/questions/42629022/array-as-parameters-in-java-find-the-position-of-all-the-even-numbers-in-the-el
 
 http://stackoverflow.com/questions/42628562/trying-to-understand-java-logic
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42617965/clearing-some-concepts-about-java-algorithms
 
