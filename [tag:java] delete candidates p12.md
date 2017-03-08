@@ -76,3 +76,5 @@ http://stackoverflow.com/questions/42657566/java-garbage-collection-does-replaci
 http://stackoverflow.com/questions/42660724/how-do-convert-json-to-java-list
 
 http://stackoverflow.com/questions/42663340/how-read-arrays-in-object-json
+
+http://stackoverflow.com/questions/42662935/convert-a-string-to-double-with-two-decimal-places-including-zeros
