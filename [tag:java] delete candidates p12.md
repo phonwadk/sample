@@ -42,6 +42,8 @@ http://stackoverflow.com/questions/42617965/clearing-some-concepts-about-java-al
 
 http://stackoverflow.com/questions/42635424/reduce-in-stream-api-for-complex-listmap-objects
 
+http://stackoverflow.com/questions/42599304/what-is-the-runtime-of-this-piece-of-code-in-terms-of-big-o
+
 NOT YET
 =====
 
