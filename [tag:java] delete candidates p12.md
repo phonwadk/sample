@@ -2,11 +2,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-not reproducible http://stackoverflow.com/questions/42654799/parse-jsonobject-date-to-string
-
-no mcve http://stackoverflow.com/questions/42650381/what-is-difference-between-templateengine-vs-springtemplateengine-in-thymeleaf
-
-
 ===
 
 http://stackoverflow.com/questions/42603866/java-hashset-keeps-the-order-constant
@@ -14,8 +9,6 @@ http://stackoverflow.com/questions/42603866/java-hashset-keeps-the-order-constan
 http://stackoverflow.com/questions/42582985/why-does-this-complex-generics-example-not-compile-with-java-1-7-does-with-java
 
 http://stackoverflow.com/questions/42609960/library-to-generate-java-files-from-java-reflection
-
-http://stackoverflow.com/questions/42609650/how-to-remove-duplicate-in-a-list-while-the-element-is-an-array
 
 http://stackoverflow.com/questions/42613759/java-methods-and-returns
 
@@ -29,11 +22,14 @@ http://stackoverflow.com/questions/42614325/java-memory-management-with-method-r
 
 http://stackoverflow.com/questions/42658166/difference-between-java-exception-and-error
 
-http://stackoverflow.com/questions/42657798/iterate-backwards-through-linked-list
-
 http://stackoverflow.com/questions/42660656/where-can-i-find-the-java-files-in-eclipse
 
 http://stackoverflow.com/questions/42661232/does-the-java-string-pool-work
+
+http://stackoverflow.com/questions/42654799/parse-jsonobject-date-to-string
+
+http://stackoverflow.com/questions/42650381/what-is-difference-between-templateengine-vs-springtemplateengine-in-thymeleaf
+
 
 NOT YET
 =====
