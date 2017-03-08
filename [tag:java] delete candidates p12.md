@@ -6,6 +6,7 @@ not reproducible http://stackoverflow.com/questions/42654799/parse-jsonobject-da
 
 no mcve http://stackoverflow.com/questions/42650381/what-is-difference-between-templateengine-vs-springtemplateengine-in-thymeleaf
 
+
 ===
 
 http://stackoverflow.com/questions/42603866/java-hashset-keeps-the-order-constant
@@ -30,6 +31,7 @@ http://stackoverflow.com/questions/42658166/difference-between-java-exception-an
 
 http://stackoverflow.com/questions/42657798/iterate-backwards-through-linked-list
 
+http://stackoverflow.com/questions/42660656/where-can-i-find-the-java-files-in-eclipse
 
 NOT YET
 =====
