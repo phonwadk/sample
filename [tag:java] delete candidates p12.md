@@ -74,3 +74,5 @@ http://stackoverflow.com/questions/42659373/casting-int-to-byte-not-making-sense
 http://stackoverflow.com/questions/42657566/java-garbage-collection-does-replacing-a-variables-assignment-with-a-different
 
 http://stackoverflow.com/questions/42660724/how-do-convert-json-to-java-list
+
+http://stackoverflow.com/questions/42663340/how-read-arrays-in-object-json
