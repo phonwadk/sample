@@ -36,10 +36,10 @@ http://stackoverflow.com/questions/42629022/array-as-parameters-in-java-find-the
 
 http://stackoverflow.com/questions/42628562/trying-to-understand-java-logic
 
+http://stackoverflow.com/questions/42617965/clearing-some-concepts-about-java-algorithms
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42617965/clearing-some-concepts-about-java-algorithms
 
 http://stackoverflow.com/questions/42632992/java-inheritance-cannot-find-symbol
 
@@ -76,3 +76,5 @@ http://stackoverflow.com/questions/42663340/how-read-arrays-in-object-json
 http://stackoverflow.com/questions/42662935/convert-a-string-to-double-with-two-decimal-places-including-zeros
 
 http://stackoverflow.com/questions/42665151/how-to-fix-unchecked-call-of-a-setter
+
+http://stackoverflow.com/questions/42674110/java-gson-parse-strings-inside
