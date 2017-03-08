@@ -4,6 +4,8 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 not reproducible http://stackoverflow.com/questions/42654799/parse-jsonobject-date-to-string
 
+no mcve http://stackoverflow.com/questions/42650381/what-is-difference-between-templateengine-vs-springtemplateengine-in-thymeleaf
+
 ===
 
 http://stackoverflow.com/questions/42603866/java-hashset-keeps-the-order-constant
