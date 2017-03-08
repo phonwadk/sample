@@ -74,3 +74,5 @@ http://stackoverflow.com/questions/42660724/how-do-convert-json-to-java-list
 http://stackoverflow.com/questions/42663340/how-read-arrays-in-object-json
 
 http://stackoverflow.com/questions/42662935/convert-a-string-to-double-with-two-decimal-places-including-zeros
+
+http://stackoverflow.com/questions/42665151/how-to-fix-unchecked-call-of-a-setter
