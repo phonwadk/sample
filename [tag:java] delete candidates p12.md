@@ -6,8 +6,6 @@ tool recommendation
 
 unclear http://stackoverflow.com/questions/42670584/how-to-set-empty-value-to-long-variable-instead-of-null-to-it
 
-unclear http://stackoverflow.com/questions/42700611/is-there-a-way-to-compare-arrays-that-hold-reference-variables-in-java
-
 typo http://stackoverflow.com/questions/42701771/printing-a-string-in-html-text-box-using-servlet
 
 ===
@@ -30,9 +28,10 @@ http://stackoverflow.com/questions/42703645/how-can-i-stop-my-hashmap-from-throw
 
 http://stackoverflow.com/questions/42703634/when-and-why-do-we-declare-a-variable-in-the-argument-of-a-method
 
+http://stackoverflow.com/questions/42700611/why-does-comparing-arrays-with-the-operator-in-java-not-work
+
 NOT YET
 =====
-
 
 http://stackoverflow.com/questions/42657388/array-remains-unaffected-by-helper-functions
 
