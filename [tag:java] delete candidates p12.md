@@ -16,6 +16,10 @@ http://stackoverflow.com/questions/42607482/each-time-i-run-the-code-i-get-diffe
 
 http://stackoverflow.com/questions/42679422/intellij-returning-cannot-resolve-method-when-attempting-to-call-method-in-mai
 
+http://stackoverflow.com/questions/42684933/how-to-use-the-this-keyword-as-an-argument-in-java
+
+http://stackoverflow.com/questions/42685735/why-am-i-getting-this-variable-error-in-java
+
 NOT YET
 =====
 
