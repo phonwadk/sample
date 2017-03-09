@@ -14,9 +14,11 @@ http://stackoverflow.com/questions/42651910/why-can-i-access-the-private-attribu
 
 http://stackoverflow.com/questions/42651355/why-do-java-support-string-string
 
-http://stackoverflow.com/questions/42603505/if-a-method-is-being-accessed-from-many-threads-will-it-be-faster-to-make-it-sy#
+http://stackoverflow.com/questions/42603505/if-a-method-is-being-accessed-from-many-threads-will-it-be-faster-to-make-it-sy
 
-http://stackoverflow.com/questions/42307040/how-to-convert-byte-to-string/42307092#42307092
+http://stackoverflow.com/questions/42307040/how-to-convert-byte-to-string
+
+http://stackoverflow.com/questions/42700717/online-java-compiler-that-supports-jframe
 
 NOT YET
 =====
