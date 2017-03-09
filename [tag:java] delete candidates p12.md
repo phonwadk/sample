@@ -2,6 +2,8 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
+tool recommendation http://stackoverflow.com/questions/42700717/online-java-compiler-that-supports-jframe
+
 ===
 
 http://stackoverflow.com/questions/42662864/identifier-expected-with-static-inner-class-call
@@ -18,7 +20,8 @@ http://stackoverflow.com/questions/42603505/if-a-method-is-being-accessed-from-m
 
 http://stackoverflow.com/questions/42307040/how-to-convert-byte-to-string
 
-http://stackoverflow.com/questions/42700717/online-java-compiler-that-supports-jframe
+http://stackoverflow.com/questions/42700611/is-there-a-way-to-compare-arrays-that-hold-reference-variables-in-java
+
 
 NOT YET
 =====
