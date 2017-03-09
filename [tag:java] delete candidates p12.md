@@ -14,6 +14,8 @@ http://stackoverflow.com/questions/42626205/spring-security-authorization-bearer
 
 http://stackoverflow.com/questions/42607482/each-time-i-run-the-code-i-get-different-sequence-of-output
 
+http://stackoverflow.com/questions/42679422/intellij-returning-cannot-resolve-method-when-attempting-to-call-method-in-mai
+
 NOT YET
 =====
 
