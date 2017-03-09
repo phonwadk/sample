@@ -2,7 +2,7 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-tool recommendation http://stackoverflow.com/questions/42700717/online-java-compiler-that-supports-jframe
+tool recommendation 
 
 unclear http://stackoverflow.com/questions/42670584/how-to-set-empty-value-to-long-variable-instead-of-null-to-it
 
@@ -27,8 +27,6 @@ http://stackoverflow.com/questions/42627876/what-does-this-code-do-mean-fillform
 http://stackoverflow.com/questions/42654468/basic-java-error-with-while-statement
 
 http://stackoverflow.com/questions/42655575/iteration-for-linkedhashmap-in-java-doesnt-give-proper-value-when-i-use-getvalu
-
-http://stackoverflow.com/questions/42702781/how-to-access-static-hashmap-from-a-different-class
 
 NOT YET
 =====
@@ -55,5 +53,9 @@ http://stackoverflow.com/questions/42674110/java-gson-parse-strings-inside
 http://stackoverflow.com/questions/42663103/print-executed-line-numbers
 
 http://stackoverflow.com/questions/42702756/java-hashmap-error-when-inserting
+
+http://stackoverflow.com/questions/42702781/how-to-access-static-hashmap-from-a-different-class
+
+http://stackoverflow.com/questions/42700717/online-java-compiler-that-supports-jframe
 
 http://stackoverflow.com/questions/42702781/how-to-access-static-hashmap-from-a-different-class
