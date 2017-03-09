@@ -14,8 +14,6 @@ typo http://stackoverflow.com/questions/42701771/printing-a-string-in-html-text-
 
 http://stackoverflow.com/questions/42662864/identifier-expected-with-static-inner-class-call
 
-http://stackoverflow.com/questions/42679422/intellij-returning-cannot-resolve-method-when-attempting-to-call-method-in-mai
-
 http://stackoverflow.com/questions/42651910/why-can-i-access-the-private-attribute-on-the-following-example
 
 http://stackoverflow.com/questions/42651355/why-do-java-support-string-string
@@ -28,10 +26,13 @@ http://stackoverflow.com/questions/42627876/what-does-this-code-do-mean-fillform
 
 http://stackoverflow.com/questions/42654468/basic-java-error-with-while-statement
 
+http://stackoverflow.com/questions/42655575/iteration-for-linkedhashmap-in-java-doesnt-give-proper-value-when-i-use-getvalu
+
+http://stackoverflow.com/questions/42702781/how-to-access-static-hashmap-from-a-different-class
+
 NOT YET
 =====
 
-http://stackoverflow.com/questions/42655575/iteration-for-linkedhashmap-in-java-doesnt-give-proper-value-when-i-use-getvalu
 
 http://stackoverflow.com/questions/42657388/array-remains-unaffected-by-helper-functions
 
