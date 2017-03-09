@@ -16,6 +16,7 @@ http://stackoverflow.com/questions/42651355/why-do-java-support-string-string
 
 http://stackoverflow.com/questions/42603505/if-a-method-is-being-accessed-from-many-threads-will-it-be-faster-to-make-it-sy#
 
+http://stackoverflow.com/questions/42307040/how-to-convert-byte-to-string/42307092#42307092
 
 NOT YET
 =====
