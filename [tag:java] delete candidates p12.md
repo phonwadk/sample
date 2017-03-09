@@ -22,6 +22,8 @@ http://stackoverflow.com/questions/42685735/why-am-i-getting-this-variable-error
 
 http://stackoverflow.com/questions/42685164/why-am-i-getting-an-error-on-my-for-loop
 
+http://stackoverflow.com/questions/42684498/benchmarking-anonymous-new-thread-vs-lambda
+
 NOT YET
 =====
 
