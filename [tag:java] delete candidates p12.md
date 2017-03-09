@@ -4,16 +4,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42622950/why-compile-time-error-on-instanceof-operator-but-works-fine-on-casting
-
-http://stackoverflow.com/questions/42631321/how-to-convert-11-20-2021-1200-pm-to-11-20-2021
-
-http://stackoverflow.com/questions/42632992/java-inheritance-cannot-find-symbol
-
-http://stackoverflow.com/questions/42634242/difference-between-a-2-and-a-a2-in-int-to-char-conversion
-
-http://stackoverflow.com/questions/42634900/java-startswith-confuse-why-system-out-printlns-startswith-prints-true
-
 http://stackoverflow.com/questions/42635988/java-accessing-inner-class-variable-from-outer-class
 
 http://stackoverflow.com/questions/42662864/identifier-expected-with-static-inner-class-call
