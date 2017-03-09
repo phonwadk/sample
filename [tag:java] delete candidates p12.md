@@ -54,3 +54,5 @@ http://stackoverflow.com/questions/42674110/java-gson-parse-strings-inside
 http://stackoverflow.com/questions/42663103/print-executed-line-numbers
 
 http://stackoverflow.com/questions/42702756/java-hashmap-error-when-inserting
+
+http://stackoverflow.com/questions/42702781/how-to-access-static-hashmap-from-a-different-class
