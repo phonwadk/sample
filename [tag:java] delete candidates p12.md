@@ -2,15 +2,11 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-too broad http://stackoverflow.com/questions/42663103/print-executed-line-numbers
-
 ===
 
 http://stackoverflow.com/questions/42662864/identifier-expected-with-static-inner-class-call
 
 http://stackoverflow.com/questions/42679422/intellij-returning-cannot-resolve-method-when-attempting-to-call-method-in-mai
-
-http://stackoverflow.com/questions/42685164/why-am-i-getting-an-error-on-my-for-loop
 
 http://stackoverflow.com/questions/42684498/benchmarking-anonymous-new-thread-vs-lambda
 
@@ -43,3 +39,5 @@ http://stackoverflow.com/questions/42662935/convert-a-string-to-double-with-two-
 http://stackoverflow.com/questions/42665151/how-to-fix-unchecked-call-of-a-setter
 
 http://stackoverflow.com/questions/42674110/java-gson-parse-strings-inside
+
+http://stackoverflow.com/questions/42663103/print-executed-line-numbers
