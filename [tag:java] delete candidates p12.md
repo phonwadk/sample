@@ -8,6 +8,8 @@ unclear http://stackoverflow.com/questions/42670584/how-to-set-empty-value-to-lo
 
 unclear http://stackoverflow.com/questions/42700611/is-there-a-way-to-compare-arrays-that-hold-reference-variables-in-java
 
+typo http://stackoverflow.com/questions/42701771/printing-a-string-in-html-text-box-using-servlet
+
 ===
 
 http://stackoverflow.com/questions/42662864/identifier-expected-with-static-inner-class-call
@@ -52,3 +54,5 @@ http://stackoverflow.com/questions/42665151/how-to-fix-unchecked-call-of-a-sette
 http://stackoverflow.com/questions/42674110/java-gson-parse-strings-inside
 
 http://stackoverflow.com/questions/42663103/print-executed-line-numbers
+
+http://stackoverflow.com/questions/42702756/java-hashmap-error-when-inserting
