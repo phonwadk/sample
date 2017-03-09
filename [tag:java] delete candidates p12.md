@@ -12,8 +12,6 @@ typo http://stackoverflow.com/questions/42701771/printing-a-string-in-html-text-
 
 ===
 
-http://stackoverflow.com/questions/42662864/identifier-expected-with-static-inner-class-call
-
 http://stackoverflow.com/questions/42651910/why-can-i-access-the-private-attribute-on-the-following-example
 
 http://stackoverflow.com/questions/42651355/why-do-java-support-string-string
