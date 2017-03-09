@@ -10,20 +10,17 @@ http://stackoverflow.com/questions/42662864/identifier-expected-with-static-inne
 
 http://stackoverflow.com/questions/42679422/intellij-returning-cannot-resolve-method-when-attempting-to-call-method-in-mai
 
-http://stackoverflow.com/questions/42684933/how-to-use-the-this-keyword-as-an-argument-in-java
-
-http://stackoverflow.com/questions/42685735/why-am-i-getting-this-variable-error-in-java
-
 http://stackoverflow.com/questions/42685164/why-am-i-getting-an-error-on-my-for-loop
 
 http://stackoverflow.com/questions/42684498/benchmarking-anonymous-new-thread-vs-lambda
 
 http://stackoverflow.com/questions/42651910/why-can-i-access-the-private-attribute-on-the-following-example
 
+http://stackoverflow.com/questions/42651355/why-do-java-support-string-string
+
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42651355/why-do-java-support-string-string
 
 http://stackoverflow.com/questions/42654468/basic-java-error-with-while-statement
 
