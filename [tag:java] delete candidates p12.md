@@ -16,8 +16,6 @@ http://stackoverflow.com/questions/42662864/identifier-expected-with-static-inne
 
 http://stackoverflow.com/questions/42679422/intellij-returning-cannot-resolve-method-when-attempting-to-call-method-in-mai
 
-http://stackoverflow.com/questions/42684498/benchmarking-anonymous-new-thread-vs-lambda
-
 http://stackoverflow.com/questions/42651910/why-can-i-access-the-private-attribute-on-the-following-example
 
 http://stackoverflow.com/questions/42651355/why-do-java-support-string-string
@@ -28,10 +26,10 @@ http://stackoverflow.com/questions/42307040/how-to-convert-byte-to-string
 
 http://stackoverflow.com/questions/42627876/what-does-this-code-do-mean-fillformstring-values
 
+http://stackoverflow.com/questions/42654468/basic-java-error-with-while-statement
+
 NOT YET
 =====
-
-http://stackoverflow.com/questions/42654468/basic-java-error-with-while-statement
 
 http://stackoverflow.com/questions/42655575/iteration-for-linkedhashmap-in-java-doesnt-give-proper-value-when-i-use-getvalu
 
