@@ -6,13 +6,7 @@ too broad http://stackoverflow.com/questions/42663103/print-executed-line-number
 
 ===
 
-http://stackoverflow.com/questions/42635988/java-accessing-inner-class-variable-from-outer-class
-
 http://stackoverflow.com/questions/42662864/identifier-expected-with-static-inner-class-call
-
-http://stackoverflow.com/questions/42626205/spring-security-authorization-bearer-token-is-ignored
-
-http://stackoverflow.com/questions/42607482/each-time-i-run-the-code-i-get-different-sequence-of-output
 
 http://stackoverflow.com/questions/42679422/intellij-returning-cannot-resolve-method-when-attempting-to-call-method-in-mai
 
@@ -24,12 +18,12 @@ http://stackoverflow.com/questions/42685164/why-am-i-getting-an-error-on-my-for-
 
 http://stackoverflow.com/questions/42684498/benchmarking-anonymous-new-thread-vs-lambda
 
+http://stackoverflow.com/questions/42651910/why-can-i-access-the-private-attribute-on-the-following-example
+
 NOT YET
 =====
 
 http://stackoverflow.com/questions/42651355/why-do-java-support-string-string
-
-http://stackoverflow.com/questions/42651910/why-can-i-access-the-private-attribute-on-the-following-example
 
 http://stackoverflow.com/questions/42654468/basic-java-error-with-while-statement
 
