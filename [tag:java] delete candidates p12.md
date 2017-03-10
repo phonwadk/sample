@@ -22,12 +22,13 @@ http://stackoverflow.com/questions/42653484/what-is-the-difference-between-java-
 
 http://stackoverflow.com/questions/42664813/java-use-boolean-while-loops
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/42665151/how-to-fix-unchecked-call-of-a-setter
 
 http://stackoverflow.com/questions/42674110/java-gson-parse-strings-inside
+
+NOT YET
+=====
+
 
 http://stackoverflow.com/questions/42663103/print-executed-line-numbers
 
