@@ -17,6 +17,8 @@ http://stackoverflow.com/questions/42663340/how-read-arrays-in-object-json
 
 http://stackoverflow.com/questions/42662935/convert-a-string-to-double-with-two-decimal-places-including-zeros
 
+http://stackoverflow.com/questions/42653484/what-is-the-difference-between-java-synchronized-at-class-object-vs-getclass
+
 NOT YET
 =====
 
