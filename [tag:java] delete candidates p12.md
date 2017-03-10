@@ -7,19 +7,7 @@ unclear http://stackoverflow.com/questions/42670584/how-to-set-empty-value-to-lo
 
 ===
 
-http://stackoverflow.com/questions/42651910/why-can-i-access-the-private-attribute-on-the-following-example
-
-http://stackoverflow.com/questions/42651355/why-do-java-support-string-string
-
-http://stackoverflow.com/questions/42603505/if-a-method-is-being-accessed-from-many-threads-will-it-be-faster-to-make-it-sy
-
 http://stackoverflow.com/questions/42307040/how-to-convert-byte-to-string
-
-http://stackoverflow.com/questions/42627876/what-does-this-code-do-mean-fillformstring-values
-
-http://stackoverflow.com/questions/42654468/basic-java-error-with-while-statement
-
-http://stackoverflow.com/questions/42655575/iteration-for-linkedhashmap-in-java-doesnt-give-proper-value-when-i-use-getvalu
 
 http://stackoverflow.com/questions/42703645/how-can-i-stop-my-hashmap-from-throwing-a-null-exception
 
