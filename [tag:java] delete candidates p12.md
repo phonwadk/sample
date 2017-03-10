@@ -59,3 +59,5 @@ http://stackoverflow.com/questions/42702781/how-to-access-static-hashmap-from-a-
 http://stackoverflow.com/questions/42700717/online-java-compiler-that-supports-jframe
 
 http://stackoverflow.com/questions/42702781/how-to-access-static-hashmap-from-a-different-class
+
+http://stackoverflow.com/questions/42710370/when-is-a-java-constructor-used-without-the-new-keyword-and-no-reference-assig
