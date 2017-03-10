@@ -19,6 +19,8 @@ http://stackoverflow.com/questions/42662935/convert-a-string-to-double-with-two-
 
 http://stackoverflow.com/questions/42653484/what-is-the-difference-between-java-synchronized-at-class-object-vs-getclass
 
+http://stackoverflow.com/questions/42664813/java-use-boolean-while-loops
+
 NOT YET
 =====
 
