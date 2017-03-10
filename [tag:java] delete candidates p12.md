@@ -47,3 +47,5 @@ http://stackoverflow.com/questions/42710370/when-is-a-java-constructor-used-with
 http://stackoverflow.com/questions/42699924/getting-http-status-200-from-spring-mvc-multipartfile-upload
 
 http://stackoverflow.com/questions/42722265/switch-not-working-with-split
+
+http://stackoverflow.com/questions/42723998/nullpointerexception-when-creating-a-new-object-with-valid-constructors
