@@ -13,23 +13,16 @@ http://stackoverflow.com/questions/42703645/how-can-i-stop-my-hashmap-from-throw
 
 http://stackoverflow.com/questions/42703634/when-and-why-do-we-declare-a-variable-in-the-argument-of-a-method
 
-http://stackoverflow.com/questions/42657388/array-remains-unaffected-by-helper-functions
-
 http://stackoverflow.com/questions/42658843/java-int-cannot-be-dereferenced-error
 
-http://stackoverflow.com/questions/42659373/casting-int-to-byte-not-making-sense
-
-http://stackoverflow.com/questions/42657566/java-garbage-collection-does-replacing-a-variables-assignment-with-a-different
-
 http://stackoverflow.com/questions/42660724/how-do-convert-json-to-java-list
-
-NOT YET
-=====
-
 
 http://stackoverflow.com/questions/42663340/how-read-arrays-in-object-json
 
 http://stackoverflow.com/questions/42662935/convert-a-string-to-double-with-two-decimal-places-including-zeros
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42665151/how-to-fix-unchecked-call-of-a-setter
 
