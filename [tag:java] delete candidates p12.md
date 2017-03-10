@@ -2,8 +2,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-tool recommendation 
-
 unclear http://stackoverflow.com/questions/42670584/how-to-set-empty-value-to-long-variable-instead-of-null-to-it
 
 typo http://stackoverflow.com/questions/42701771/printing-a-string-in-html-text-box-using-servlet
