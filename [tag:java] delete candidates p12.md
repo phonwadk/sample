@@ -51,3 +51,5 @@ http://stackoverflow.com/questions/42722265/switch-not-working-with-split
 http://stackoverflow.com/questions/42723998/nullpointerexception-when-creating-a-new-object-with-valid-constructors
 
 http://stackoverflow.com/questions/42724302/unchecked-or-unsafe-operations
+
+http://stackoverflow.com/questions/42724731/how-to-map-json-array-object-with-model-class-in-java
