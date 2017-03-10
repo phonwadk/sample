@@ -28,9 +28,6 @@ http://stackoverflow.com/questions/42703634/when-and-why-do-we-declare-a-variabl
 
 http://stackoverflow.com/questions/42700611/why-does-comparing-arrays-with-the-operator-in-java-not-work
 
-NOT YET
-=====
-
 http://stackoverflow.com/questions/42657388/array-remains-unaffected-by-helper-functions
 
 http://stackoverflow.com/questions/42658843/java-int-cannot-be-dereferenced-error
@@ -40,6 +37,10 @@ http://stackoverflow.com/questions/42659373/casting-int-to-byte-not-making-sense
 http://stackoverflow.com/questions/42657566/java-garbage-collection-does-replacing-a-variables-assignment-with-a-different
 
 http://stackoverflow.com/questions/42660724/how-do-convert-json-to-java-list
+
+NOT YET
+=====
+
 
 http://stackoverflow.com/questions/42663340/how-read-arrays-in-object-json
 
