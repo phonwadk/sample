@@ -9,8 +9,6 @@ unclear http://stackoverflow.com/questions/42670584/how-to-set-empty-value-to-lo
 
 http://stackoverflow.com/questions/42307040/how-to-convert-byte-to-string
 
-http://stackoverflow.com/questions/42703645/how-can-i-stop-my-hashmap-from-throwing-a-null-exception
-
 http://stackoverflow.com/questions/42703634/when-and-why-do-we-declare-a-variable-in-the-argument-of-a-method
 
 http://stackoverflow.com/questions/42658843/java-int-cannot-be-dereferenced-error
