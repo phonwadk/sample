@@ -15,8 +15,6 @@ http://stackoverflow.com/questions/42703634/when-and-why-do-we-declare-a-variabl
 
 http://stackoverflow.com/questions/42658843/java-int-cannot-be-dereferenced-error
 
-http://stackoverflow.com/questions/42660724/how-do-convert-json-to-java-list
-
 http://stackoverflow.com/questions/42663340/how-read-arrays-in-object-json
 
 http://stackoverflow.com/questions/42662935/convert-a-string-to-double-with-two-decimal-places-including-zeros
