@@ -49,3 +49,5 @@ http://stackoverflow.com/questions/42699924/getting-http-status-200-from-spring-
 http://stackoverflow.com/questions/42722265/switch-not-working-with-split
 
 http://stackoverflow.com/questions/42723998/nullpointerexception-when-creating-a-new-object-with-valid-constructors
+
+http://stackoverflow.com/questions/42724302/unchecked-or-unsafe-operations
