@@ -39,3 +39,5 @@ http://stackoverflow.com/questions/42702781/how-to-access-static-hashmap-from-a-
 http://stackoverflow.com/questions/42701771/printing-a-string-in-html-text-box-using-servlet
 
 http://stackoverflow.com/questions/42710370/when-is-a-java-constructor-used-without-the-new-keyword-and-no-reference-assig
+
+http://stackoverflow.com/questions/42699924/getting-http-status-200-from-spring-mvc-multipartfile-upload
