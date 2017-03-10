@@ -4,6 +4,7 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 unclear http://stackoverflow.com/questions/42670584/how-to-set-empty-value-to-long-variable-instead-of-null-to-it
 
+unclear, typo, misunderstanding http://stackoverflow.com/questions/42721223/executor-unable-to-create-thread-pools
 
 ===
 
