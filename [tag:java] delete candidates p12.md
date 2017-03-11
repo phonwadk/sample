@@ -8,13 +8,7 @@ unclear, typo, misunderstanding http://stackoverflow.com/questions/42721223/exec
 
 http://stackoverflow.com/questions/42653484/what-is-the-difference-between-java-synchronized-at-class-object-vs-getclass
 
-http://stackoverflow.com/questions/42664813/java-use-boolean-while-loops
-
-http://stackoverflow.com/questions/42665151/how-to-fix-unchecked-call-of-a-setter
-
 http://stackoverflow.com/questions/42724731/how-to-map-json-array-object-with-model-class-in-java
-
-http://stackoverflow.com/questions/42702781/how-to-access-static-hashmap-from-a-different-class
 
 http://stackoverflow.com/questions/42663103/print-executed-line-numbers
 
