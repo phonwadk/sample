@@ -2,8 +2,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-unclear, typo, misunderstanding http://stackoverflow.com/questions/42721223/executor-unable-to-create-thread-pools
-
 ===
 
 http://stackoverflow.com/questions/42653484/what-is-the-difference-between-java-synchronized-at-class-object-vs-getclass
@@ -14,14 +12,14 @@ http://stackoverflow.com/questions/42663103/print-executed-line-numbers
 
 http://stackoverflow.com/questions/42640262/the-matching-wildcard-is-strict-but-no-declaration-can-be-found-for-element-co
 
-NOT YET
-=====
-
-
-
 http://stackoverflow.com/questions/42702756/java-hashmap-error-when-inserting
 
 http://stackoverflow.com/questions/42700717/online-java-compiler-that-supports-jframe
+
+http://stackoverflow.com/questions/42721223/executor-unable-to-create-thread-pools
+
+NOT YET
+=====
 
 http://stackoverflow.com/questions/42701771/printing-a-string-in-html-text-box-using-servlet
 
