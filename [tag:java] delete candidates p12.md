@@ -18,6 +18,7 @@ http://stackoverflow.com/questions/42702781/how-to-access-static-hashmap-from-a-
 
 http://stackoverflow.com/questions/42663103/print-executed-line-numbers
 
+http://stackoverflow.com/questions/42640262/the-matching-wildcard-is-strict-but-no-declaration-can-be-found-for-element-co
 
 NOT YET
 =====
