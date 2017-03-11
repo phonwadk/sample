@@ -14,6 +14,11 @@ http://stackoverflow.com/questions/42664813/java-use-boolean-while-loops
 
 http://stackoverflow.com/questions/42665151/how-to-fix-unchecked-call-of-a-setter
 
+http://stackoverflow.com/questions/42724731/how-to-map-json-array-object-with-model-class-in-java
+
+http://stackoverflow.com/questions/42702781/how-to-access-static-hashmap-from-a-different-class
+
+
 NOT YET
 =====
 
@@ -22,11 +27,7 @@ http://stackoverflow.com/questions/42663103/print-executed-line-numbers
 
 http://stackoverflow.com/questions/42702756/java-hashmap-error-when-inserting
 
-http://stackoverflow.com/questions/42702781/how-to-access-static-hashmap-from-a-different-class
-
 http://stackoverflow.com/questions/42700717/online-java-compiler-that-supports-jframe
-
-http://stackoverflow.com/questions/42702781/how-to-access-static-hashmap-from-a-different-class
 
 http://stackoverflow.com/questions/42701771/printing-a-string-in-html-text-box-using-servlet
 
@@ -40,4 +41,3 @@ http://stackoverflow.com/questions/42723998/nullpointerexception-when-creating-a
 
 http://stackoverflow.com/questions/42724302/unchecked-or-unsafe-operations
 
-http://stackoverflow.com/questions/42724731/how-to-map-json-array-object-with-model-class-in-java
