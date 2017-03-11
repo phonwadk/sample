@@ -8,23 +8,11 @@ unclear, typo, misunderstanding http://stackoverflow.com/questions/42721223/exec
 
 ===
 
-http://stackoverflow.com/questions/42307040/how-to-convert-byte-to-string
-
-http://stackoverflow.com/questions/42703634/when-and-why-do-we-declare-a-variable-in-the-argument-of-a-method
-
-http://stackoverflow.com/questions/42658843/java-int-cannot-be-dereferenced-error
-
-http://stackoverflow.com/questions/42663340/how-read-arrays-in-object-json
-
-http://stackoverflow.com/questions/42662935/convert-a-string-to-double-with-two-decimal-places-including-zeros
-
 http://stackoverflow.com/questions/42653484/what-is-the-difference-between-java-synchronized-at-class-object-vs-getclass
 
 http://stackoverflow.com/questions/42664813/java-use-boolean-while-loops
 
 http://stackoverflow.com/questions/42665151/how-to-fix-unchecked-call-of-a-setter
-
-http://stackoverflow.com/questions/42674110/java-gson-parse-strings-inside
 
 NOT YET
 =====
