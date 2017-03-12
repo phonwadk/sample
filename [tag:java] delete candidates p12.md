@@ -14,13 +14,6 @@ http://stackoverflow.com/questions/42721223/executor-unable-to-create-thread-poo
 
 http://stackoverflow.com/questions/42701771/printing-a-string-in-html-text-box-using-servlet
 
-http://stackoverflow.com/questions/42710370/when-is-a-java-constructor-used-without-the-new-keyword-and-no-reference-assig
-
-http://stackoverflow.com/questions/42699924/getting-http-status-200-from-spring-mvc-multipartfile-upload
-
-NOT YET
-=====
-
 http://stackoverflow.com/questions/42722265/switch-not-working-with-split
 
 http://stackoverflow.com/questions/42723998/nullpointerexception-when-creating-a-new-object-with-valid-constructors
@@ -28,6 +21,10 @@ http://stackoverflow.com/questions/42723998/nullpointerexception-when-creating-a
 http://stackoverflow.com/questions/42724302/unchecked-or-unsafe-operations
 
 http://stackoverflow.com/questions/42670584/how-to-set-empty-value-to-long-variable-instead-of-null-to-it
+
+NOT YET
+=====
+
 
 http://stackoverflow.com/questions/42743664/why-does-if-statement-not-execute-properly
 
