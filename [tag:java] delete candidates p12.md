@@ -32,3 +32,5 @@ http://stackoverflow.com/questions/42670584/how-to-set-empty-value-to-long-varia
 http://stackoverflow.com/questions/42743664/why-does-if-statement-not-execute-properly
 
 http://stackoverflow.com/questions/42748578/problems-with-threads-java
+
+http://stackoverflow.com/questions/42749219/parsing-json-array-with-no-names-java
