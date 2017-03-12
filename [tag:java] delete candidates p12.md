@@ -6,13 +6,9 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 http://stackoverflow.com/questions/42653484/what-is-the-difference-between-java-synchronized-at-class-object-vs-getclass
 
-http://stackoverflow.com/questions/42724731/how-to-map-json-array-object-with-model-class-in-java
-
 http://stackoverflow.com/questions/42663103/print-executed-line-numbers
 
 http://stackoverflow.com/questions/42640262/the-matching-wildcard-is-strict-but-no-declaration-can-be-found-for-element-co
-
-http://stackoverflow.com/questions/42702756/java-hashmap-error-when-inserting
 
 http://stackoverflow.com/questions/42700717/online-java-compiler-that-supports-jframe
 
