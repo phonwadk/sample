@@ -30,3 +30,5 @@ http://stackoverflow.com/questions/42724302/unchecked-or-unsafe-operations
 http://stackoverflow.com/questions/42670584/how-to-set-empty-value-to-long-variable-instead-of-null-to-it
 
 http://stackoverflow.com/questions/42743664/why-does-if-statement-not-execute-properly
+
+http://stackoverflow.com/questions/42748578/problems-with-threads-java
