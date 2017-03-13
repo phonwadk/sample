@@ -24,6 +24,8 @@ http://stackoverflow.com/questions/42670584/how-to-set-empty-value-to-long-varia
 
 http://stackoverflow.com/questions/42757003/java-sop-string-is-missing-for-one-line-if-statement
 
+http://stackoverflow.com/questions/42757145/object-array-initialization-shorthand
+
 NOT YET
 =====
 
