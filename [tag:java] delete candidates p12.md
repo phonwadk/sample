@@ -22,6 +22,8 @@ http://stackoverflow.com/questions/42724302/unchecked-or-unsafe-operations
 
 http://stackoverflow.com/questions/42670584/how-to-set-empty-value-to-long-variable-instead-of-null-to-it
 
+http://stackoverflow.com/questions/42757003/java-sop-string-is-missing-for-one-line-if-statement
+
 NOT YET
 =====
 
