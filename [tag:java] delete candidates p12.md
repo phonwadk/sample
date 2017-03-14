@@ -6,6 +6,7 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 http://stackoverflow.com/questions/42701204/order-of-initialization-in-java-how-does-the-jvm-know-to-skip-certain-lines-of
 
+http://stackoverflow.com/questions/42767906/how-java-compiler-provides-checking-the-signature-duplication-in-multiple-inheri
 
 NOT YET
 =====
