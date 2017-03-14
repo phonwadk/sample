@@ -4,12 +4,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42701204/order-of-initialization-in-java-how-does-the-jvm-know-to-skip-certain-lines-of
-
-http://stackoverflow.com/questions/42767906/how-java-compiler-provides-checking-the-signature-duplication-in-multiple-inheri
-
-NOT YET
-=====
 
 http://stackoverflow.com/questions/42743664/why-does-if-statement-not-execute-properly
 
@@ -18,6 +12,10 @@ http://stackoverflow.com/questions/42743490/how-grand-parent-class-can-hold-chil
 http://stackoverflow.com/questions/42748578/problems-with-threads-java
 
 http://stackoverflow.com/questions/42749219/parsing-json-array-with-no-names-java
+
+NOT YET
+=====
+
 
 http://stackoverflow.com/questions/42757003/java-sop-string-is-missing-for-one-line-if-statement
 
