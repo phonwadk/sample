@@ -11,6 +11,7 @@ http://stackoverflow.com/questions/42749219/parsing-json-array-with-no-names-jav
 
 http://stackoverflow.com/questions/42757003/java-sop-string-is-missing-for-one-line-if-statement
 
+http://stackoverflow.com/questions/42813254/java-spring-autowired-is-null
 
 NOT YET
 =====
