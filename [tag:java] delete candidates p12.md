@@ -2,26 +2,22 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-cv and delete typo http://stackoverflow.com/questions/42813384/java-syntac-error-on-token-else
+cv and delete typo 
 
 ===
 
+http://stackoverflow.com/questions/42771676/why-cant-we-perform-arithmetic-directly-on-types-byte-and-short-in-java
 
-http://stackoverflow.com/questions/42748578/problems-with-threads-java
-
-http://stackoverflow.com/questions/42749219/parsing-json-array-with-no-names-java
-
-http://stackoverflow.com/questions/42757003/java-sop-string-is-missing-for-one-line-if-statement
-
-http://stackoverflow.com/questions/42813254/java-spring-autowired-is-null
 
 NOT YET
 =====
 
-http://stackoverflow.com/questions/42771676/why-cant-we-perform-arithmetic-directly-on-types-byte-and-short-in-java
+http://stackoverflow.com/questions/42813254/java-spring-autowired-is-null
 
 http://stackoverflow.com/questions/42775719/how-does-java-util-hashset-contains-compare-objects
 
 http://stackoverflow.com/questions/42794586/intmath-random10-returns-zero
 
 http://stackoverflow.com/questions/42794874/instantiate-new-object
+
+http://stackoverflow.com/questions/42813384/java-syntac-error-on-token-else
