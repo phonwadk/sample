@@ -8,6 +8,8 @@ http://stackoverflow.com/questions/42771676/why-cant-we-perform-arithmetic-direc
 
 http://stackoverflow.com/questions/42775719/how-does-java-util-hashset-contains-compare-objects
 
+http://stackoverflow.com/questions/42774900/randomizer-password-maybe-java
+
 NOT YET
 =====
 
