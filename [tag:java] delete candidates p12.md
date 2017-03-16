@@ -2,8 +2,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-cv and delete typo 
-
 ===
 
 http://stackoverflow.com/questions/42771676/why-cant-we-perform-arithmetic-directly-on-types-byte-and-short-in-java
