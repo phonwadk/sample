@@ -6,8 +6,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 http://stackoverflow.com/questions/42771676/why-cant-we-perform-arithmetic-directly-on-types-byte-and-short-in-java
 
-http://stackoverflow.com/questions/42775719/how-does-java-util-hashset-contains-compare-objects
-
 http://stackoverflow.com/questions/42774900/randomizer-password-maybe-java
 
 NOT YET
