@@ -8,8 +8,6 @@ http://stackoverflow.com/questions/42794586/intmath-random10-returns-zero
 
 http://stackoverflow.com/questions/42794874/instantiate-new-object
 
-http://stackoverflow.com/questions/42774900/randomizer-password-maybe-java
-
 NOT YET
 =====
 
