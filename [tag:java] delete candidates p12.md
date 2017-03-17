@@ -22,4 +22,4 @@ http://stackoverflow.com/questions/42839315/what-am-i-doing-wrong-and-am-i-using
 
 http://stackoverflow.com/questions/42822549/why-is-my-arraylist-outputting-null
 
-
+http://stackoverflow.com/questions/42860979/array-list-not-printing-correctly
