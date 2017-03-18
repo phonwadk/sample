@@ -14,6 +14,7 @@ http://stackoverflow.com/questions/42812816/does-waiting-thread-in-java-always-r
 
 http://stackoverflow.com/questions/42822549/why-is-my-arraylist-outputting-null
 
+http://stackoverflow.com/questions/42798662/use-variable-type-from-assignment-operation
 
 NOT YET
 =====
