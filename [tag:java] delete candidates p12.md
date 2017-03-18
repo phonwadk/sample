@@ -16,10 +16,9 @@ http://stackoverflow.com/questions/42822549/why-is-my-arraylist-outputting-null
 
 http://stackoverflow.com/questions/42798662/use-variable-type-from-assignment-operation
 
+http://stackoverflow.com/questions/42839315/what-am-i-doing-wrong-and-am-i-using-constructors-right
+
 NOT YET
 =====
-
-
-http://stackoverflow.com/questions/42839315/what-am-i-doing-wrong-and-am-i-using-constructors-right
 
 http://stackoverflow.com/questions/42860979/array-list-not-printing-correctly
