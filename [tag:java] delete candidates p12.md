@@ -18,6 +18,8 @@ http://stackoverflow.com/questions/42839315/what-am-i-doing-wrong-and-am-i-using
 
 http://stackoverflow.com/questions/42860979/array-list-not-printing-correctly
 
+typo, cv and del http://stackoverflow.com/questions/42888452/for-loop-if-statement-not-being-reached
+
 NOT YET
 =====
 
