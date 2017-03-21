@@ -8,4 +8,6 @@ http://stackoverflow.com/questions/42919842/decoding-output-of-following-java-pr
 
 http://stackoverflow.com/questions/42908550/currenttimemillis-results-are-strange
 
+http://stackoverflow.com/questions/42929962/are-there-constants-for-the-strings-true-and-false-in-java
+
 typo, cv and delete-pls http://stackoverflow.com/questions/42930222/error-message-missing-method-body-or-declare-abstract
