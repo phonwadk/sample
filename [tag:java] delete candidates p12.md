@@ -4,6 +4,8 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 http://stackoverflow.com/questions/42930819/how-type-casting-is-possible-without-relation
 
+http://stackoverflow.com/questions/42919842/decoding-output-of-following-java-program
+
 http://stackoverflow.com/questions/42908550/currenttimemillis-results-are-strange
 
 typo, cv and delete-pls http://stackoverflow.com/questions/42930222/error-message-missing-method-body-or-declare-abstract
