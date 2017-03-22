@@ -8,4 +8,4 @@ http://stackoverflow.com/questions/42908550/currenttimemillis-results-are-strang
 
 http://stackoverflow.com/questions/42929962/are-there-constants-for-the-strings-true-and-false-in-java
 
-the garbage I hate, please cv as unclear http://stackoverflow.com/questions/42941592/what-type-of-expression-is-variable-variable-variable
+http://stackoverflow.com/questions/42941592/what-type-of-expression-is-variable-variable-variable
