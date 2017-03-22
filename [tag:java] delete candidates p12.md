@@ -7,3 +7,5 @@ http://stackoverflow.com/questions/42919842/decoding-output-of-following-java-pr
 http://stackoverflow.com/questions/42908550/currenttimemillis-results-are-strange
 
 http://stackoverflow.com/questions/42929962/are-there-constants-for-the-strings-true-and-false-in-java
+
+the garbage I hate, please cv as unclear http://stackoverflow.com/questions/42941592/what-type-of-expression-is-variable-variable-variable
