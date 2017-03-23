@@ -16,3 +16,5 @@ http://stackoverflow.com/questions/42929962/are-there-constants-for-the-strings-
 http://stackoverflow.com/questions/42941592/what-type-of-expression-is-variable-variable-variable
 
 http://stackoverflow.com/questions/42956116/system-out-println-is-not-working-in-map-method-of-stream-java-8
+
+http://stackoverflow.com/questions/42978416/instantiating-interfaces-having-default-methods
