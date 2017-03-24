@@ -4,8 +4,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 http://stackoverflow.com/questions/42966026/beginner-passing-parameters-to-class-java
 
-http://stackoverflow.com/questions/42929962/are-there-constants-for-the-strings-true-and-false-in-java
-
 http://stackoverflow.com/questions/42965113/error-when-checking-if-data-type-is-a-certain-string
 
 NOT YET
