@@ -4,13 +4,10 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 http://stackoverflow.com/questions/42966026/beginner-passing-parameters-to-class-java
 
-http://stackoverflow.com/questions/42965113/error-when-checking-if-data-type-is-a-certain-string
 
 http://stackoverflow.com/questions/42943375/type-java-lang-string-cannot-be-converted-to-jsonarray-error
 
 http://stackoverflow.com/questions/42941592/what-type-of-expression-is-variable-variable-variable
-
-http://stackoverflow.com/questions/42943321/how-to-have-just-2-digits-after-the-decimal
 
 http://stackoverflow.com/questions/42942246/java-error-variable-might-not-have-been-initialized
 
@@ -19,6 +16,9 @@ http://stackoverflow.com/questions/42935950/cannot-instantiate-the-type-bankacco
 NOT YET
 ====
 
+http://stackoverflow.com/questions/42943321/how-to-have-just-2-digits-after-the-decimal
+
+http://stackoverflow.com/questions/42965113/error-when-checking-if-data-type-is-a-certain-string
 
 http://stackoverflow.com/questions/42956116/system-out-println-is-not-working-in-map-method-of-stream-java-8
 
