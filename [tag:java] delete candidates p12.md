@@ -6,10 +6,6 @@ http://stackoverflow.com/questions/42966026/beginner-passing-parameters-to-class
 
 http://stackoverflow.com/questions/43004231/add-data-method-doesnt-work
 
-http://stackoverflow.com/questions/42943375/type-java-lang-string-cannot-be-converted-to-jsonarray-error
-
-http://stackoverflow.com/questions/42942246/java-error-variable-might-not-have-been-initialized
-
 http://stackoverflow.com/questions/43005583/why-this-code-isnt-working
 
 http://stackoverflow.com/questions/42943321/how-to-have-just-2-digits-after-the-decimal
