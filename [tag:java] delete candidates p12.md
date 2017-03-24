@@ -18,3 +18,5 @@ http://stackoverflow.com/questions/42956116/system-out-println-is-not-working-in
 http://stackoverflow.com/questions/42978416/instantiating-interfaces-having-default-methods
 
 http://stackoverflow.com/questions/42964769/ipython-analog-in-java8-ecosystem
+
+http://stackoverflow.com/questions/42992390/why-cant-one-pass-an-array-literal-in-java
