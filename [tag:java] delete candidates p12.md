@@ -16,10 +16,11 @@ http://stackoverflow.com/questions/42940633/generic-approach-to-create-gson-inst
 
 http://stackoverflow.com/questions/42953280/why-is-a-variable-is-not-being-recognised-when-inputed-using-a-constructer
 
+http://stackoverflow.com/questions/42965113/error-when-checking-if-data-type-is-a-certain-string
+
+
 NOT YET
 ====
-
-http://stackoverflow.com/questions/42965113/error-when-checking-if-data-type-is-a-certain-string
 
 http://stackoverflow.com/questions/42978416/instantiating-interfaces-having-default-methods
 
