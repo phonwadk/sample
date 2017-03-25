@@ -2,8 +2,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/42966026/beginner-passing-parameters-to-class-java
-
 http://stackoverflow.com/questions/43004231/add-data-method-doesnt-work
 
 http://stackoverflow.com/questions/43005583/why-this-code-isnt-working
