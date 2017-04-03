@@ -2,30 +2,23 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/43004231/add-data-method-doesnt-work
+http://stackoverflow.com/questions/43008765/this-code-is-not-giving-the-output-of-yo-whenever-it-should
 
-http://stackoverflow.com/questions/43005583/why-this-code-isnt-working
+http://stackoverflow.com/questions/43139507/variables-and-data-types-in-java
 
-http://stackoverflow.com/questions/42943321/how-to-have-just-2-digits-after-the-decimal
+http://stackoverflow.com/questions/43147095/why-are-common-java-classes-final
 
-http://stackoverflow.com/questions/42956116/system-out-println-is-not-working-in-map-method-of-stream-java-8
+http://stackoverflow.com/questions/43156478/java-string-only-contains-a-z-and-0-9-regex
 
-http://stackoverflow.com/questions/42940633/generic-approach-to-create-gson-instance-and-reuse-it
+http://stackoverflow.com/questions/43160772/error-error-expected-what-is-the-issue-in-my-code
 
-http://stackoverflow.com/questions/42953280/why-is-a-variable-is-not-being-recognised-when-inputed-using-a-constructer
-
-http://stackoverflow.com/questions/42965113/error-when-checking-if-data-type-is-a-certain-string
 
 
 NOT YET
 ====
 
-http://stackoverflow.com/questions/42978416/instantiating-interfaces-having-default-methods
+http://stackoverflow.com/questions/43161032/any-ways-to-multi-break-out-from-embedded-cycles-in-java
 
-http://stackoverflow.com/questions/42964769/ipython-analog-in-java8-ecosystem
+http://stackoverflow.com/questions/43160251/easiest-way-to-print-a-character-n-times-in-java
 
-http://stackoverflow.com/questions/42992390/why-cant-one-pass-an-array-literal-in-java
-
-http://stackoverflow.com/questions/42988675/how-can-enums-be-expressed-in-normal-java-class-code-pre-java5
-
-http://stackoverflow.com/questions/42988436/using-a-for-loop-and-nested-while-loop-how-do-i-assign-values-to-an-array-of-o
+http://stackoverflow.com/questions/43163723/what-does-it-mean-to-have-more-than-one-field-in-a-class
