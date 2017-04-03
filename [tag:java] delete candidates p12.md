@@ -11,3 +11,5 @@ NOT YET
 ====
 
 http://stackoverflow.com/questions/43147725/implicit-conversion-in-wrapper-class
+
+http://stackoverflow.com/questions/43195075/how-to-count-string-bytes-properly
