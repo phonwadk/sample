@@ -12,7 +12,7 @@ http://stackoverflow.com/questions/43156478/java-string-only-contains-a-z-and-0-
 
 http://stackoverflow.com/questions/43160772/error-error-expected-what-is-the-issue-in-my-code
 
-
+http://stackoverflow.com/questions/43068858/an-error-referencing-this-in-a-constructor
 
 NOT YET
 ====
