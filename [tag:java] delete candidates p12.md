@@ -2,12 +2,6 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/43008765/this-code-is-not-giving-the-output-of-yo-whenever-it-should
-
-http://stackoverflow.com/questions/43139507/variables-and-data-types-in-java
-
-http://stackoverflow.com/questions/43147095/why-are-common-java-classes-final
-
 http://stackoverflow.com/questions/43156478/java-string-only-contains-a-z-and-0-9-regex
 
 http://stackoverflow.com/questions/43160772/error-error-expected-what-is-the-issue-in-my-code
