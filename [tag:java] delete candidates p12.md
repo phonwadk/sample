@@ -22,3 +22,5 @@ http://stackoverflow.com/questions/43161032/any-ways-to-multi-break-out-from-emb
 http://stackoverflow.com/questions/43160251/easiest-way-to-print-a-character-n-times-in-java
 
 http://stackoverflow.com/questions/43163723/what-does-it-mean-to-have-more-than-one-field-in-a-class
+
+http://stackoverflow.com/questions/43147725/implicit-conversion-in-wrapper-class
