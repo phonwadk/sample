@@ -12,3 +12,5 @@ http://stackoverflow.com/questions/43147725/implicit-conversion-in-wrapper-class
 http://stackoverflow.com/questions/43195075/how-to-count-string-bytes-properly
 
 http://stackoverflow.com/questions/43198911/why-does-main-executes-two-times
+
+http://stackoverflow.com/questions/43212274/confusion-for-break-and-return-in-java
