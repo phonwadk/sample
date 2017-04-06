@@ -7,3 +7,5 @@ http://stackoverflow.com/questions/43209937/how-acces-arraylistclass-from-other-
 http://stackoverflow.com/questions/43198911/why-does-main-executes-two-times
 
 http://stackoverflow.com/questions/43212274/confusion-for-break-and-return-in-java
+
+http://stackoverflow.com/questions/42829977/predicate-vs-if-statement
