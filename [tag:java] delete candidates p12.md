@@ -9,3 +9,5 @@ http://stackoverflow.com/questions/43198911/why-does-main-executes-two-times
 http://stackoverflow.com/questions/43212274/confusion-for-break-and-return-in-java
 
 http://stackoverflow.com/questions/42829977/predicate-vs-if-statement
+
+http://stackoverflow.com/questions/43269505/when-do-you-need-to-specify-the-data-type-in-the-second-when-declaring-an-a
