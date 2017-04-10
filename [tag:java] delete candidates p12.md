@@ -2,4 +2,4 @@ Tushar graciously wrote a user script to make going through the list easier. You
 
 ===
 
-http://stackoverflow.com/questions/43269505/when-do-you-need-to-specify-the-data-type-in-the-second-when-declaring-an-a
+That's it, folks. Thanks for helping me maintain the `java` tag!
