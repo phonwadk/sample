@@ -2,9 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "patch11",
-    "x-lastModified": "May 11, 2017 03:15AM PST",
-    "description": "aaa"
+    "title": "Ptest",
+    "x-lastModified": "Jun 28, 2017 00:05AM PST"
   },
   "paths": {
     "/pet": {
@@ -18,69 +17,6 @@
           }
         },
         "parameters": []
-      },
-      "post": {
-        "produces": [
-          "application/json"
-        ],
-        "responses": {
-          "200": {
-            "description": "Success response"
-          }
-        },
-        "parameters": []
-      },
-      "put": {
-        "produces": [
-          "application/json"
-        ],
-        "responses": {
-          "200": {
-            "description": "Success response"
-          }
-        },
-        "parameters": []
-      },
-      "patch": {
-        "produces": [
-          "application/json"
-        ],
-        "responses": {
-          "200": {
-            "description": "Success response",
-            "schema": {
-              "$ref": "#/definitions/GiveNewSchemaNameHere"
-            },
-            "examples": {
-              "application/json": {
-                "message": "Hello World!"
-              }
-            }
-          }
-        },
-        "parameters": []
-      },
-      "delete": {
-        "produces": [
-          "application/json"
-        ],
-        "responses": {
-          "200": {
-            "description": "Success response"
-          }
-        },
-        "parameters": []
-      }
-    }
-  },
-  "definitions": {
-    "GiveNewSchemaNameHere": {
-      "type": "object",
-      "properties": {
-        "message": {
-          "type": "string",
-          "default": "Hello World!"
-        }
       }
     }
   }
