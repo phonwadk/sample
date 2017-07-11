@@ -1,0 +1,33 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "version": "1.0.0",
+    "title": "pppppppp pppppppppp ppppppppp pppppppppp ppppppp",
+    "x-lastModified": "Jul 10, 2017 00:19AM PST"
+  },
+  "paths": {
+    "/pet": {
+      "get": {
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success response"
+          }
+        },
+        "parameters": [
+          {
+            "name": "a",
+            "in": "query",
+            "description": "",
+            "required": false,
+            "type": "string",
+            "format": "binary",
+            "default": "1fdsafdsafds"
+          }
+        ]
+      }
+    }
+  }
+}
