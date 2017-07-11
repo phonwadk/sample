@@ -1,0 +1,52 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "version": "1.0",
+    "title": "pet",
+    "x-lastModified": "Jul 05, 2017 06:27AM PST"
+  },
+  "paths": {
+    "/pet/{id}": {
+      "get": {
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success response"
+          }
+        },
+        "parameters": [
+          {
+            "in": "path",
+            "description": "",
+            "required": true,
+            "type": "string",
+            "format": "",
+            "name": "id"
+          }
+        ]
+      },
+      "post": {
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success response"
+          }
+        },
+        "parameters": [
+          {
+            "in": "path",
+            "description": "",
+            "required": true,
+            "type": "string",
+            "format": "",
+            "name": "id"
+          }
+        ]
+      }
+    }
+  }
+}
