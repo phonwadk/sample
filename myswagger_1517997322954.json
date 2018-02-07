@@ -1,0 +1,42 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "version": "1.1",
+    "title": "myswagger",
+    "x-lastModified": "Feb 02, 2018 01:46AM PST"
+  },
+  "paths": {
+    "/test": {
+      "post": {
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success response"
+          },
+          "201": {
+            "description": "test",
+            "schema": {
+              "name": "watve"
+            }
+          }
+        },
+        "parameters": [
+          {
+            "name": "body",
+            "in": "body",
+            "description": "",
+            "schema": {
+              "name": "pranoti"
+            }
+          }
+        ],
+        "operationId": "postTest",
+        "consumes": [
+          "application/json"
+        ]
+      }
+    }
+  }
+}
